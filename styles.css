@@ -155,6 +155,37 @@ h1 {
   margin: 16px 0;
 }
 
+.quiz-navigation {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 24px;
+}
+
+#prev-button:disabled, #next-button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+#correct-answer-area {
+  margin-top: 20px;
+  padding: 16px;
+  background: rgba(255, 159, 28, 0.1);
+  border-left: 4px solid var(--accent);
+  border-radius: 8px;
+}
+
+#correct-answer-area h3 {
+  margin-top: 0;
+  margin-bottom: 8px;
+  font-size: 1.1rem;
+  color: var(--accent);
+}
+
+#correct-answer-text {
+  margin: 0;
+  font-size: 1rem;
+}
+
 .result-actions {
   display: flex;
   flex-wrap: wrap;

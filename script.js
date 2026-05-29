@@ -3,6 +3,7 @@ let selectedExamId = null;
 let totalQuestions = 0;
 let currentIndex = 0;
 let score = 0;
+let userAnswers = [];
 let acceptingAnswers = true;
 let startTime = null;
 let timerInterval = null;
@@ -11,6 +12,10 @@ const choiceLabels = ["A", "B", "C", "D", "E"];
 
 const questionText = document.getElementById("question-text");
 const choicesContainer = document.getElementById("choices");
+const correctAnswerArea = document.getElementById("correct-answer-area");
+const correctAnswerText = document.getElementById("correct-answer-text");
+const prevButton = document.getElementById("prev-button");
+const nextButton = document.getElementById("next-button");
 const progressText = document.getElementById("progress");
 const scoreText = document.getElementById("score");
 const timerText = document.getElementById("timer");
@@ -46,6 +51,7 @@ function selectExam(examId) {
   selectedExamId = examId;
   questions = examSets[examId] || [];
   totalQuestions = questions.length;
+  userAnswers = new Array(totalQuestions).fill(null);
   currentIndex = 0;
   score = 0;
 
@@ -68,6 +74,7 @@ function saveState() {
     selectedExamId,
     currentIndex,
     score,
+    userAnswers,
     stage: resultScreen.classList.contains("hidden") ? "quiz" : "result",
     startTimestamp: startTime ? startTime.toISOString() : null,
     elapsedSeconds: startTime ? Math.floor((Date.now() - startTime) / 1000) : 0,
@@ -94,6 +101,7 @@ function updateHistory(replace = false) {
     selectedExamId,
     currentIndex,
     score,
+    userAnswers,
     stage,
   };
   const hash = selectedExamId ? `#exam-${selectedExamId}-${currentIndex}` : "#selection";
@@ -120,6 +128,7 @@ function restoreState(state) {
   selectedExamId = state.selectedExamId;
   questions = examSets[selectedExamId] || [];
   totalQuestions = questions.length;
+  userAnswers = state.userAnswers || new Array(totalQuestions).fill(null);
   currentIndex = Math.min(Math.max(state.currentIndex || 0, 0), totalQuestions);
   score = state.score || 0;
 
@@ -146,6 +155,7 @@ function showSelection() {
   selectedExamId = null;
   questions = [];
   totalQuestions = 0;
+  userAnswers = [];
   currentIndex = 0;
   score = 0;
   acceptingAnswers = true;
@@ -186,7 +196,37 @@ function showQuestion() {
     choicesContainer.appendChild(button);
   });
 
-  acceptingAnswers = true;
+  correctAnswerArea.classList.add("hidden");
+  prevButton.disabled = currentIndex === 0;
+  nextButton.disabled = true;
+
+  if (userAnswers[currentIndex] !== null) {
+    acceptingAnswers = false;
+    nextButton.disabled = false;
+    
+    // Highlight the selected answer
+    const selectedChoice = userAnswers[currentIndex];
+    const correctChoice = currentQuestion.answer;
+    const isPractice = correctChoice === null;
+    
+    const buttons = choicesContainer.querySelectorAll("button");
+    if (isPractice) {
+      if (buttons[selectedChoice]) buttons[selectedChoice].classList.add("selected");
+    } else {
+      if (selectedChoice === correctChoice) {
+        if (buttons[selectedChoice]) buttons[selectedChoice].classList.add("correct");
+      } else {
+        if (buttons[selectedChoice]) buttons[selectedChoice].classList.add("wrong");
+        if (buttons[correctChoice]) buttons[correctChoice].classList.add("correct");
+        
+        correctAnswerText.innerHTML = currentQuestion.choices[correctChoice];
+        correctAnswerArea.classList.remove("hidden");
+      }
+    }
+  } else {
+    acceptingAnswers = true;
+  }
+
   updateScore();
   saveState();
   updateHistory(true);
@@ -226,6 +266,14 @@ function stopTimer() {
 }
 
 function updateScore() {
+  // Recalculate score based on userAnswers
+  score = 0;
+  for (let i = 0; i < totalQuestions; i++) {
+    if (questions[i] && userAnswers[i] === questions[i].answer && questions[i].answer !== null) {
+      score++;
+    }
+  }
+
   if (isQuestionOnlyMode()) {
     scoreText.textContent = "Practice mode: no answer key";
   } else {
@@ -240,38 +288,34 @@ function updateScore() {
 function selectAnswer(event) {
   if (!acceptingAnswers) return;
   acceptingAnswers = false;
+  nextButton.disabled = false;
 
   const selectedButton = event.currentTarget;
   const selectedChoice = Number(selectedButton.dataset.choiceIndex);
   const correctChoice = questions[currentIndex].answer;
   const isPractice = correctChoice === null;
 
+  userAnswers[currentIndex] = selectedChoice;
+
   if (isPractice) {
     selectedButton.classList.add("selected");
   } else {
     if (selectedChoice === correctChoice) {
       selectedButton.classList.add("correct");
-      score += 1;
     } else {
       selectedButton.classList.add("wrong");
       const correctButton = document.querySelector(
         `button[data-choice-index="${correctChoice}"]`
       );
       if (correctButton) correctButton.classList.add("correct");
+      
+      correctAnswerText.innerHTML = questions[currentIndex].choices[correctChoice];
+      correctAnswerArea.classList.remove("hidden");
     }
   }
 
   updateScore();
   saveState();
-
-  setTimeout(() => {
-    currentIndex += 1;
-    if (currentIndex >= totalQuestions) {
-      showResult();
-      return;
-    }
-    showQuestion();
-  }, 700);
 }
 
 function showResult() {
@@ -316,6 +360,22 @@ restartButton.addEventListener("click", () => {
     selectExam(selectedExamId);
   } else {
     showSelection();
+  }
+});
+
+prevButton.addEventListener("click", () => {
+  if (currentIndex > 0) {
+    currentIndex -= 1;
+    showQuestion();
+  }
+});
+
+nextButton.addEventListener("click", () => {
+  currentIndex += 1;
+  if (currentIndex >= totalQuestions) {
+    showResult();
+  } else {
+    showQuestion();
   }
 });
 
