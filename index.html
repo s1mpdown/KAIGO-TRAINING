@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Kaigofukushishi Quiz Game</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="app-shell">
+    <header>
+      <div>
+        <p class="subtitle">介護福祉士学習ゲーム</p>
+        <h1 id="quiz-title">125問クイズ</h1>
+      </div>
+      <div class="score-panel">
+        <p id="progress">Question 1 / 125</p>
+        <p id="score">Score: 0</p>
+      </div>
+    </header>
+
+    <main>
+      <section class="card" id="exam-selection">
+        <h2>試験を選択してください</h2>
+        <div class="choices" id="exam-buttons"></div>
+      </section>
+
+      <section class="card hidden" id="quiz-card">
+        <p class="question-text" id="question-text">Loading question...</p>
+        <div class="choices" id="choices"></div>
+      </section>
+
+      <div class="menu-nav hidden" id="menu-nav">
+        <button id="back-button" class="primary-button secondary-button">メニューに戻る</button>
+      </div>
+
+      <section class="result hidden" id="result-screen">
+        <h2 id="result-status">結果</h2>
+        <p id="final-score"></p>
+        <div class="result-actions">
+          <button id="restart-button" class="primary-button">Restart Quiz</button>
+          <button id="back-button-result" class="primary-button secondary-button">メニューに戻る</button>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <script src="questions.js"></script>
+  <script src="questions38pm.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
