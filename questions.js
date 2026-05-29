@@ -2,821 +2,821 @@
 const examSets = {
   "38": [
   {
-    "question": "問題1 社会福祉の理念を発展させた人物に関する次の記述のうち、適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>1 <ruby>社会福祉<rt>しゃかいふくし</rt></ruby>の<ruby>理念<rt>りねん</rt></ruby>を<ruby>発展<rt>はってん</rt></ruby>させた<ruby>人物<rt>じんぶつ</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち、<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  バンク-ミケルセン（Bank-Mikkelsen, N.）は、「ソーシャルロール・バロリゼーション（Social Role Valorization）」を提唱した。",
-      "2  ニィリエ（Nirje, B.）は、「ノーマライゼーション（normalization）の8つの原理」を提唱した。",
-      "3  ヴォルフェンスベルガー（Wolfensberger, W.）は、「エーデル改革」を提唱した。",
-      "4  リッチモンド（Richmond, M.）は、「ケースワークの7原則」を提唱した。",
-      "5  エリクソン（Erikson, E.）は、「自立生活運動の理念」を提唱した。"
+      "1 バンク-ミケルセン（Bank-Mikkelsen, N.）は、「ソーシャルロール・バロリゼーション（Social Role Valorization）」を<ruby>提唱<rt>ていしょう</rt></ruby>した。",
+      "2 ニィリエ（Nirje, B.）は、「ノーマライゼーション（normalization）の8つの<ruby>原理<rt>げんり</rt></ruby>」を<ruby>提唱<rt>ていしょう</rt></ruby>した。",
+      "3 ヴォルフェンスベルガー（Wolfensberger, W.）は、「エーデル<ruby>改革<rt>かいかく</rt></ruby>」を<ruby>提唱<rt>ていしょう</rt></ruby>した。",
+      "4 リッチモンド（Richmond, M.）は、「ケースワークの7<ruby>原則<rt>げんそく</rt></ruby>」を<ruby>提唱<rt>ていしょう</rt></ruby>した。",
+      "5 エリクソン（Erikson, E.）は、「<ruby>自立<rt>じりつ</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby><ruby>運動<rt>うんどう</rt></ruby>の<ruby>理念<rt>りねん</rt></ruby>」を<ruby>提唱<rt>ていしょう</rt></ruby>した。"
     ],
     "answer": 1
   },
   {
-    "question": "問題2 Ａさん（62歳、男性、要介護2）は、2年前に筋萎縮性側索硬化症（amyotrophic lateral sclerosis：ＡＬＳ）と診断された。妻と自宅で過ごしたいと希望し、訪問介護（ホームヘルプサービス）と訪問看護を利用している。最近、症状が進行し、サービス担当者会議で、Ａさんは、「人工呼吸器はつけないで、最期まで自宅で生活したい」と言った。 会議のあと、妻は訪問介護員（ホームヘルパー）に、「夫にはなかなか言えないのですが、一日でも長く一緒にいたいので、私は人工呼吸器をつけてほしいと思っています」と気持ちを伝えた。 次のうち、Ａさんの妻に対する訪問介護員（ホームヘルパー）の提案として、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>2 Ａさん（62<ruby>歳<rt>とし</rt></ruby>、<ruby>男性<rt>だんせい</rt></ruby>、<ruby>要介<rt>ようすけ</rt></ruby><ruby>護<rt>ご</rt></ruby>2）は、2<ruby>年前<rt>ねんまえ</rt></ruby>に<ruby>筋<rt>すじ</rt></ruby><ruby>萎縮<rt>いしゅく</rt></ruby><ruby>性<rt>せい</rt></ruby><ruby>側索<rt>そくさく</rt></ruby><ruby>硬化<rt>こうか</rt></ruby><ruby>症<rt>しょう</rt></ruby>（amyotrophic lateral sclerosis：ＡＬＳ）と<ruby>診断<rt>しんだん</rt></ruby>された。<ruby>妻<rt>つま</rt></ruby>と<ruby>自宅<rt>じたく</rt></ruby>で<ruby>過<rt>す</rt></ruby>ごしたいと<ruby>希望<rt>きぼう</rt></ruby>し、<ruby>訪問<rt>ほうもん</rt></ruby><ruby>介護<rt>かいご</rt></ruby>（ホームヘルプサービス）と<ruby>訪問<rt>ほうもん</rt></ruby><ruby>看護<rt>かんご</rt></ruby>を<ruby>利用<rt>りよう</rt></ruby>している。<ruby>最近<rt>さいきん</rt></ruby>、<ruby>症状<rt>しょうじょう</rt></ruby>が<ruby>進行<rt>しんこう</rt></ruby>し、サービス<ruby>担当者<rt>たんとうしゃ</rt></ruby><ruby>会議<rt>かいぎ</rt></ruby>で、Ａさんは、「<ruby>人工呼吸器<rt>じんこうこきゅうき</rt></ruby>はつけないで、<ruby>最期<rt>さいご</rt></ruby>まで<ruby>自宅<rt>じたく</rt></ruby>で<ruby>生活<rt>せいかつ</rt></ruby>したい」と<ruby>言<rt>い</rt></ruby>った。 <ruby>会議<rt>かいぎ</rt></ruby>のあと、<ruby>妻<rt>つま</rt></ruby>は<ruby>訪問<rt>ほうもん</rt></ruby><ruby>介護<rt>かいご</rt></ruby><ruby>員<rt>いん</rt></ruby>（ホームヘルパー）に、「<ruby>夫<rt>おっと</rt></ruby>にはなかなか<ruby>言<rt>い</rt></ruby>えないのですが、<ruby>一日<rt>ついたち</rt></ruby>でも<ruby>長<rt>なが</rt></ruby>く<ruby>一緒<rt>いっしょ</rt></ruby>にいたいので、<ruby>私<rt>わたし</rt></ruby>は<ruby>人工呼吸器<rt>じんこうこきゅうき</rt></ruby>をつけてほしいと<ruby>思<rt>おも</rt></ruby>っています」と<ruby>気持<rt>きも</rt></ruby>ちを<ruby>伝<rt>つた</rt></ruby>えた。 <ruby>次<rt>つぎ</rt></ruby>のうち、Ａさんの<ruby>妻<rt>つま</rt></ruby>に<ruby>対<rt>たい</rt></ruby>する<ruby>訪問<rt>ほうもん</rt></ruby><ruby>介護<rt>かいご</rt></ruby><ruby>員<rt>いん</rt></ruby>（ホームヘルパー）の<ruby>提案<rt>ていあん</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  「会議で話されていたＡさんの意思が大切なので、尊重しませんか」",
-      "2  「私にはわからないので、医師に決めてもらってはどうですか」",
-      "3  「Ａさんに人工呼吸器をつけてもらったほうがいいですよね」",
-      "4  「Ａさんとお互いの気持ちを話し合う時間をつくりませんか」",
-      "5  「病院や施設の情報がほしいと介護支援専門員に伝えてはどうですか」"
+      "1 「<ruby>会議<rt>かいぎ</rt></ruby>で<ruby>話<rt>はな</rt></ruby>されていたＡさんの<ruby>意思<rt>いし</rt></ruby>が<ruby>大切<rt>たいせつ</rt></ruby>なので、<ruby>尊重<rt>そんちょう</rt></ruby>しませんか」",
+      "2 「<ruby>私<rt>わたし</rt></ruby>にはわからないので、<ruby>医師<rt>いし</rt></ruby>に<ruby>決<rt>き</rt></ruby>めてもらってはどうですか」",
+      "3 「Ａさんに<ruby>人工呼吸器<rt>じんこうこきゅうき</rt></ruby>をつけてもらったほうがいいですよね」",
+      "4 「Ａさんとお<ruby>互<rt>たが</rt></ruby>いの<ruby>気持<rt>きも</rt></ruby>ちを<ruby>話し合<rt>はなしあ</rt></ruby>う<ruby>時間<rt>じかん</rt></ruby>をつくりませんか」",
+      "5 「<ruby>病院<rt>びょういん</rt></ruby>や<ruby>施設<rt>しせつ</rt></ruby>の<ruby>情報<rt>じょうほう</rt></ruby>がほしいと<ruby>介護<rt>かいご</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>専門<rt>せんもん</rt></ruby><ruby>員<rt>いん</rt></ruby>に<ruby>伝<rt>つた</rt></ruby>えてはどうですか」"
     ],
     "answer": 3
   },
   {
-    "question": "問題3 介護施設における介護ロボットに関する次の記述のうち、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>3 <ruby>介護<rt>かいご</rt></ruby><ruby>施設<rt>しせつ</rt></ruby>における<ruby>介護<rt>かいご</rt></ruby>ロボットに<ruby>関<rt>かん</rt></ruby>する<ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  導入した施設は、人員配置基準が撤廃される。",
-      "2  使用方法は、職員個人の判断で行う。",
-      "3  導入することによって、利用者の自立支援や生活の質の向上が期待される。",
-      "4  導入の目的は、職員と利用者とのかかわりを最小限に抑えることである。",
-      "5  導入によって、職員の巡回は不要になる。"
+      "1 <ruby>導入<rt>どうにゅう</rt></ruby>した<ruby>施設<rt>しせつ</rt></ruby>は、<ruby>人員<rt>じんいん</rt></ruby><ruby>配置<rt>はいち</rt></ruby><ruby>基準<rt>きじゅん</rt></ruby>が<ruby>撤廃<rt>てっぱい</rt></ruby>される。",
+      "2 <ruby>使用方法<rt>しようほうほう</rt></ruby>は、<ruby>職員<rt>しょくいん</rt></ruby><ruby>個人<rt>こじん</rt></ruby>の<ruby>判断<rt>はんだん</rt></ruby>で<ruby>行<rt>おこな</rt></ruby>う。",
+      "3 <ruby>導入<rt>どうにゅう</rt></ruby>することによって、<ruby>利用者<rt>りようしゃ</rt></ruby>の<ruby>自立<rt>じりつ</rt></ruby><ruby>支援<rt>しえん</rt></ruby>や<ruby>生活<rt>せいかつ</rt></ruby>の<ruby>質<rt>しつ</rt></ruby>の<ruby>向上<rt>こうじょう</rt></ruby>が<ruby>期待<rt>きたい</rt></ruby>される。",
+      "4 <ruby>導入<rt>どうにゅう</rt></ruby>の<ruby>目的<rt>もくてき</rt></ruby>は、<ruby>職員<rt>しょくいん</rt></ruby>と<ruby>利用者<rt>りようしゃ</rt></ruby>とのかかわりを<ruby>最小限<rt>さいしょうげん</rt></ruby>に<ruby>抑<rt>おさ</rt></ruby>えることである。",
+      "5 <ruby>導入<rt>どうにゅう</rt></ruby>によって、<ruby>職員<rt>しょくいん</rt></ruby>の<ruby>巡回<rt>じゅんかい</rt></ruby>は<ruby>不要<rt>ふよう</rt></ruby>になる。"
     ],
     "answer": 2
   },
   {
-    "question": "問題4 次の記述のうち、指定避難所での要配慮者に対する生活支援として、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>4 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち、<ruby>指定<rt>してい</rt></ruby><ruby>避難所<rt>ひなんじょ</rt></ruby>での<ruby>要<rt>よう</rt></ruby><ruby>配慮<rt>はいりょ</rt></ruby><ruby>者<rt>もの</rt></ruby>に<ruby>対<rt>たい</rt></ruby>する<ruby>生活<rt>せいかつ</rt></ruby><ruby>支援<rt>しえん</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  避難所内の情報提供には、音声やピクトグラム（pictogram）も取り入れる。",
-      "2  避難所内では、二次避難に備えて土足で過ごしてもらう。",
-      "3  食事は、被災者の平等性、公平性の観点から同じものを提供する。",
-      "4  トイレは、感染予防のために和式便器が望ましい。",
-      "5  生活範囲は、区画されたスペースに限定する。"
+      "1 <ruby>避難所<rt>ひなんじょ</rt></ruby><ruby>内<rt>ない</rt></ruby>の<ruby>情報提供<rt>じょうほうていきょう</rt></ruby>には、<ruby>音声<rt>おんせい</rt></ruby>やピクトグラム（pictogram）も<ruby>取り入<rt>とりい</rt></ruby>れる。",
+      "2 <ruby>避難所<rt>ひなんじょ</rt></ruby><ruby>内<rt>ない</rt></ruby>では、<ruby>二次<rt>にじ</rt></ruby><ruby>避難<rt>ひなん</rt></ruby>に<ruby>備<rt>そな</rt></ruby>えて<ruby>土足<rt>どそく</rt></ruby>で<ruby>過<rt>す</rt></ruby>ごしてもらう。",
+      "3 <ruby>食事<rt>しょくじ</rt></ruby>は、<ruby>被災者<rt>ひさいしゃ</rt></ruby>の<ruby>平等<rt>びょうどう</rt></ruby><ruby>性<rt>せい</rt></ruby>、<ruby>公平性<rt>こうへいせい</rt></ruby>の<ruby>観点<rt>かんてん</rt></ruby>から<ruby>同<rt>おな</rt></ruby>じものを<ruby>提供<rt>ていきょう</rt></ruby>する。",
+      "4 トイレは、<ruby>感染<rt>かんせん</rt></ruby><ruby>予防<rt>よぼう</rt></ruby>のために<ruby>和式<rt>わしき</rt></ruby><ruby>便器<rt>べんき</rt></ruby>が<ruby>望<rt>のぞ</rt></ruby>ましい。",
+      "5 <ruby>生活<rt>せいかつ</rt></ruby><ruby>範囲<rt>はんい</rt></ruby>は、<ruby>区画<rt>くかく</rt></ruby>されたスペースに<ruby>限定<rt>げんてい</rt></ruby>する。"
     ],
     "answer": 0
   },
   {
-    "question": "問題5 ユニバーサルデザイン（universal design）の7原則に関する次の記述のうち、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>5 ユニバーサルデザイン（universal design）の7<ruby>原則<rt>げんそく</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  安全で使いやすいデザインにする。",
-      "2  要介護高齢者を対象とする。",
-      "3  個別対応より標準化を優先する。",
-      "4  介護福祉職にとって操作しやすいことを優先する。",
-      "5  デザインの美しさを優先する。"
+      "1 <ruby>安全<rt>あんぜん</rt></ruby>で<ruby>使<rt>つか</rt></ruby>いやすいデザインにする。",
+      "2 <ruby>要介<rt>ようすけ</rt></ruby><ruby>護<rt>ご</rt></ruby><ruby>高齢者<rt>こうれいしゃ</rt></ruby>を<ruby>対象<rt>たいしょう</rt></ruby>とする。",
+      "3 <ruby>個別対応<rt>こべつたいおう</rt></ruby>より<ruby>標準化<rt>ひょうじゅんか</rt></ruby>を<ruby>優先<rt>ゆうせん</rt></ruby>する。",
+      "4 <ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>にとって<ruby>操作<rt>そうさ</rt></ruby>しやすいことを<ruby>優先<rt>ゆうせん</rt></ruby>する。",
+      "5 デザインの<ruby>美<rt>うつく</rt></ruby>しさを<ruby>優先<rt>ゆうせん</rt></ruby>する。"
     ],
     "answer": 0
   },
   {
-    "question": "問題6 Ａさん（51歳、男性、障害支援区分5）は、知的障害がある。共同生活援助（グループホーム）で生活をしている。日中は、生活介護を利用して軽作業を行っている。Ａさんは、タオルに強いこだわりを持っていて、なじみの店で自分が選んだタオルしか使用しない。これまでタオルは、両親と買いに行っていたが、両親が高齢になり行けなくなった。Ａさんの両親から、サービス管理責任者に、「強いこだわりがあるので、いつも行く店で本人にタオルを選ばせてほしい。何か良いサービスはありませんか」と相談があった。 次の記述のうち、サービス管理責任者の助言として、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>6 Ａさん（51<ruby>歳<rt>とし</rt></ruby>、<ruby>男性<rt>だんせい</rt></ruby>、<ruby>障害<rt>しょうがい</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>区分<rt>くぶん</rt></ruby>5）は、<ruby>知的障害<rt>ちてきしょうがい</rt></ruby>がある。<ruby>共同生活<rt>きょうどうせいかつ</rt></ruby><ruby>援助<rt>えんじょ</rt></ruby>（グループホーム）で<ruby>生活<rt>せいかつ</rt></ruby>をしている。<ruby>日中<rt>にっちゅう</rt></ruby>は、<ruby>生活<rt>せいかつ</rt></ruby><ruby>介護<rt>かいご</rt></ruby>を<ruby>利用<rt>りよう</rt></ruby>して<ruby>軽作業<rt>けいさぎょう</rt></ruby>を<ruby>行<rt>い</rt></ruby>っている。Ａさんは、タオルに<ruby>強<rt>つよ</rt></ruby>いこだわりを<ruby>持<rt>も</rt></ruby>っていて、なじみの<ruby>店<rt>みせ</rt></ruby>で<ruby>自分<rt>じぶん</rt></ruby>が<ruby>選<rt>えら</rt></ruby>んだタオルしか<ruby>使用<rt>しよう</rt></ruby>しない。これまでタオルは、<ruby>両親<rt>りょうしん</rt></ruby>と<ruby>買<rt>か</rt></ruby>いに<ruby>行<rt>い</rt></ruby>っていたが、<ruby>両親<rt>りょうしん</rt></ruby>が<ruby>高齢<rt>こうれい</rt></ruby>になり<ruby>行<rt>い</rt></ruby>けなくなった。Ａさんの<ruby>両親<rt>りょうしん</rt></ruby>から、サービス<ruby>管理責任者<rt>かんりせきにんしゃ</rt></ruby>に、「<ruby>強<rt>つよ</rt></ruby>いこだわりがあるので、いつも<ruby>行<rt>い</rt></ruby>く<ruby>店<rt>みせ</rt></ruby>で<ruby>本人<rt>ほんにん</rt></ruby>にタオルを<ruby>選<rt>えら</rt></ruby>ばせてほしい。<ruby>何<rt>なに</rt></ruby>か<ruby>良<rt>よ</rt></ruby>いサービスはありませんか」と<ruby>相談<rt>そうだん</rt></ruby>があった。 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち、サービス<ruby>管理責任者<rt>かんりせきにんしゃ</rt></ruby>の<ruby>助言<rt>じょげん</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  店までの移動に不安があるため、同行援護を勧める。",
-      "2  身体機能の維持・向上のために、自立訓練（機能訓練）を勧める。",
-      "3  一人で外出できるように、自発的活動支援を勧める。",
-      "4  自立した日常生活が送れるように、自立生活援助を勧める。",
-      "5  本人が買物に行けるように、行動援護を勧める。"
+      "1 <ruby>店<rt>みせ</rt></ruby>までの<ruby>移動<rt>いどう</rt></ruby>に<ruby>不安<rt>ふあん</rt></ruby>があるため、<ruby>同行<rt>どうこう</rt></ruby><ruby>援護<rt>えんご</rt></ruby>を<ruby>勧<rt>すす</rt></ruby>める。",
+      "2 <ruby>身体<rt>しんたい</rt></ruby><ruby>機能<rt>きのう</rt></ruby>の<ruby>維持<rt>いじ</rt></ruby>・<ruby>向上<rt>こうじょう</rt></ruby>のために、<ruby>自立<rt>じりつ</rt></ruby><ruby>訓練<rt>くんれん</rt></ruby>（<ruby>機能<rt>きのう</rt></ruby><ruby>訓練<rt>くんれん</rt></ruby>）を<ruby>勧<rt>すす</rt></ruby>める。",
+      "3 <ruby>一人<rt>ひとり</rt></ruby>で<ruby>外出<rt>がいしゅつ</rt></ruby>できるように、<ruby>自発的<rt>じはつてき</rt></ruby><ruby>活動<rt>かつどう</rt></ruby><ruby>支援<rt>しえん</rt></ruby>を<ruby>勧<rt>すす</rt></ruby>める。",
+      "4 <ruby>自立<rt>じりつ</rt></ruby>した<ruby>日常生活<rt>にちじょうせいかつ</rt></ruby>が<ruby>送<rt>おく</rt></ruby>れるように、<ruby>自立<rt>じりつ</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby><ruby>援助<rt>えんじょ</rt></ruby>を<ruby>勧<rt>すす</rt></ruby>める。",
+      "5 <ruby>本人<rt>ほんにん</rt></ruby>が<ruby>買物<rt>かいもの</rt></ruby>に<ruby>行<rt>い</rt></ruby>けるように、<ruby>行動<rt>こうどう</rt></ruby><ruby>援護<rt>えんご</rt></ruby>を<ruby>勧<rt>すす</rt></ruby>める。"
     ],
     "answer": 4
   },
   {
-    "question": "問題7 次の記述のうち、介護保険制度における一人暮らしの要支援者を支えるサービスの内容として、適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>7 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち、<ruby>介護<rt>かいご</rt></ruby><ruby>保険制度<rt>ほけんせいど</rt></ruby>における<ruby>一人暮<rt>ひとりぐ</rt></ruby>らしの<ruby>要<rt>よう</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>者<rt>もの</rt></ruby>を<ruby>支<rt>ささ</rt></ruby>えるサービスの<ruby>内容<rt>ないよう</rt></ruby>として、<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  夜間を安心して過ごすために、夜間対応型訪問介護を利用する。",
-      "2  自宅で安全に移動するために、介護予防住宅改修を利用する。",
-      "3  趣味のカラオケに行くために、小規模多機能型居宅介護を利用する。",
-      "4  身元保証や死後の財産処分のために、高齢者等終身サポート事業を利用する。",
-      "5  金銭管理のために、日常生活自立支援事業を利用する。"
+      "1 <ruby>夜間<rt>やかん</rt></ruby>を<ruby>安心<rt>あんしん</rt></ruby>して<ruby>過<rt>す</rt></ruby>ごすために、<ruby>夜間<rt>やかん</rt></ruby><ruby>対応型<rt>たいおうがた</rt></ruby><ruby>訪問<rt>ほうもん</rt></ruby><ruby>介護<rt>かいご</rt></ruby>を<ruby>利用<rt>りよう</rt></ruby>する。",
+      "2 <ruby>自宅<rt>じたく</rt></ruby>で<ruby>安全<rt>あんぜん</rt></ruby>に<ruby>移動<rt>いどう</rt></ruby>するために、<ruby>介護<rt>かいご</rt></ruby><ruby>予防<rt>よぼう</rt></ruby><ruby>住宅<rt>じゅうたく</rt></ruby><ruby>改修<rt>かいしゅう</rt></ruby>を<ruby>利用<rt>りよう</rt></ruby>する。",
+      "3 <ruby>趣味<rt>しゅみ</rt></ruby>のカラオケに<ruby>行<rt>い</rt></ruby>くために、<ruby>小規模<rt>しょうきぼ</rt></ruby><ruby>多機能<rt>たきのう</rt></ruby><ruby>型<rt>かた</rt></ruby><ruby>居宅<rt>きょたく</rt></ruby><ruby>介護<rt>かいご</rt></ruby>を<ruby>利用<rt>りよう</rt></ruby>する。",
+      "4 <ruby>身元<rt>みもと</rt></ruby><ruby>保証<rt>ほしょう</rt></ruby>や<ruby>死後<rt>しご</rt></ruby>の<ruby>財産<rt>ざいさん</rt></ruby><ruby>処分<rt>しょぶん</rt></ruby>のために、<ruby>高齢者<rt>こうれいしゃ</rt></ruby><ruby>等<rt>など</rt></ruby><ruby>終身<rt>しゅうしん</rt></ruby>サポート<ruby>事業<rt>じぎょう</rt></ruby>を<ruby>利用<rt>りよう</rt></ruby>する。",
+      "5 <ruby>金銭<rt>きんせん</rt></ruby><ruby>管理<rt>かんり</rt></ruby>のために、<ruby>日常生活<rt>にちじょうせいかつ</rt></ruby><ruby>自立<rt>じりつ</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>事業<rt>じぎょう</rt></ruby>を<ruby>利用<rt>りよう</rt></ruby>する。"
     ],
     "answer": 1
   },
   {
-    "question": "問題8 Ａさん（91歳、女性、要支援2）は、長年診療所の医師として地域医療に貢献してきた。婚姻歴はなく、診療所敷地内の自宅で3匹の猫と暮らしている。85歳で医師を引退した後も、近隣にはＡさんを慕う地域住民が多く、定期的に、「先生、元気にしてますか」とＡさんの自宅を訪ねている。 Ａさんは昨年から歩行の不安を訴え、現在は地域住民の見守りのほか、訪問型サービスを週2回利用している。人の世話になることに慣れていない様子もあるが、最期まで自宅で暮らすことを望んでいる。 次の記述のうち、Ａさんの生活史を尊重した訪問介護員（ホームヘルパー）の声かけとして、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>8 Ａさん（91<ruby>歳<rt>とし</rt></ruby>、<ruby>女性<rt>じょせい</rt></ruby>、<ruby>要<rt>よう</rt></ruby><ruby>支援<rt>しえん</rt></ruby>2）は、<ruby>長年<rt>ながねん</rt></ruby><ruby>診療所<rt>しんりょうじょ</rt></ruby>の<ruby>医師<rt>いし</rt></ruby>として<ruby>地域<rt>ちいき</rt></ruby><ruby>医療<rt>いりょう</rt></ruby>に<ruby>貢献<rt>こうけん</rt></ruby>してきた。<ruby>婚姻<rt>こんいん</rt></ruby><ruby>歴<rt>れき</rt></ruby>はなく、<ruby>診療所<rt>しんりょうじょ</rt></ruby><ruby>敷地内<rt>しきちない</rt></ruby>の<ruby>自宅<rt>じたく</rt></ruby>で3<ruby>匹<rt>ひき</rt></ruby>の<ruby>猫<rt>ねこ</rt></ruby>と<ruby>暮<rt>く</rt></ruby>らしている。85<ruby>歳<rt>とし</rt></ruby>で<ruby>医師<rt>いし</rt></ruby>を<ruby>引退<rt>いんたい</rt></ruby>した<ruby>後<rt>のち</rt></ruby>も、<ruby>近隣<rt>きんりん</rt></ruby>にはＡさんを<ruby>慕<rt>した</rt></ruby>う<ruby>地域住民<rt>ちいきじゅうみん</rt></ruby>が<ruby>多<rt>おお</rt></ruby>く、<ruby>定期的<rt>ていきてき</rt></ruby>に、「<ruby>先生<rt>せんせい</rt></ruby>、<ruby>元気<rt>げんき</rt></ruby>にしてますか」とＡさんの<ruby>自宅<rt>じたく</rt></ruby>を<ruby>訪<rt>たず</rt></ruby>ねている。 Ａさんは<ruby>昨年<rt>さくねん</rt></ruby>から<ruby>歩行<rt>ほこう</rt></ruby>の<ruby>不安<rt>ふあん</rt></ruby>を<ruby>訴<rt>うった</rt></ruby>え、<ruby>現在<rt>げんざい</rt></ruby>は<ruby>地域住民<rt>ちいきじゅうみん</rt></ruby>の<ruby>見守<rt>みまも</rt></ruby>りのほか、<ruby>訪問<rt>ほうもん</rt></ruby><ruby>型<rt>かた</rt></ruby>サービスを<ruby>週<rt>しゅう</rt></ruby>2<ruby>回<rt>かい</rt></ruby><ruby>利用<rt>りよう</rt></ruby>している。<ruby>人<rt>にん</rt></ruby>の<ruby>世話<rt>せわ</rt></ruby>になることに<ruby>慣<rt>な</rt></ruby>れていない<ruby>様子<rt>ようす</rt></ruby>もあるが、<ruby>最期<rt>さいご</rt></ruby>まで<ruby>自宅<rt>じたく</rt></ruby>で<ruby>暮<rt>く</rt></ruby>らすことを<ruby>望<rt>のぞ</rt></ruby>んでいる。 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち、Ａさんの<ruby>生活<rt>せいかつ</rt></ruby><ruby>史<rt>し</rt></ruby>を<ruby>尊重<rt>そんちょう</rt></ruby>した<ruby>訪問<rt>ほうもん</rt></ruby><ruby>介護<rt>かいご</rt></ruby><ruby>員<rt>いん</rt></ruby>（ホームヘルパー）の<ruby>声<rt>こえ</rt></ruby>かけとして、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  「3匹の猫は、今後は地域の皆さんに預けましょう」",
-      "2  「近所の方の力も借りて、この地域で暮らしていけるように考えていきましょう」",
-      "3  「介護を受けることにも、今後は慣れてください」",
-      "4  「医師であったことは忘れて、私たちを頼ってください」",
-      "5  「一人暮らしで自宅で最期を迎えるのは、不安がありますよね」"
+      "1 「3<ruby>匹<rt>ひき</rt></ruby>の<ruby>猫<rt>ねこ</rt></ruby>は、<ruby>今後<rt>こんご</rt></ruby>は<ruby>地域<rt>ちいき</rt></ruby>の<ruby>皆<rt>みな</rt></ruby>さんに<ruby>預<rt>あず</rt></ruby>けましょう」",
+      "2 「<ruby>近所<rt>きんじょ</rt></ruby>の<ruby>方<rt>ほう</rt></ruby>の<ruby>力<rt>りき</rt></ruby>も<ruby>借<rt>か</rt></ruby>りて、この<ruby>地域<rt>ちいき</rt></ruby>で<ruby>暮<rt>く</rt></ruby>らしていけるように<ruby>考<rt>かんが</rt></ruby>えていきましょう」",
+      "3 「<ruby>介護<rt>かいご</rt></ruby>を<ruby>受<rt>う</rt></ruby>けることにも、<ruby>今後<rt>こんご</rt></ruby>は<ruby>慣<rt>な</rt></ruby>れてください」",
+      "4 「<ruby>医師<rt>いし</rt></ruby>であったことは<ruby>忘<rt>わす</rt></ruby>れて、<ruby>私<rt>わたし</rt></ruby>たちを<ruby>頼<rt>たよ</rt></ruby>ってください」",
+      "5 「<ruby>一人暮<rt>ひとりぐ</rt></ruby>らしで<ruby>自宅<rt>じたく</rt></ruby>で<ruby>最期<rt>さいご</rt></ruby>を<ruby>迎<rt>むか</rt></ruby>えるのは、<ruby>不安<rt>ふあん</rt></ruby>がありますよね」"
     ],
     "answer": 1
   },
   {
-    "question": "問題9 次の記述のうち、介護老人保健施設における在宅復帰に向けたカンファレンスで、介護福祉士が連携する職種の役割として、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>9 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち、<ruby>介護<rt>かいご</rt></ruby><ruby>老人<rt>ろうじん</rt></ruby><ruby>保健<rt>ほけん</rt></ruby><ruby>施設<rt>しせつ</rt></ruby>における<ruby>在宅<rt>ざいたく</rt></ruby><ruby>復帰<rt>ふっき</rt></ruby>に<ruby>向<rt>む</rt></ruby>けたカンファレンスで、<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>士<rt>さむらい</rt></ruby>が<ruby>連携<rt>れんけい</rt></ruby>する<ruby>職種<rt>しょくしゅ</rt></ruby>の<ruby>役割<rt>やくわり</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  歯科衛生士が、義歯を作成する。",
-      "2  看護師が、車いすを貸与する。",
-      "3  介護支援専門員（ケアマネジャー）が、訪問介護計画を作成する。",
-      "4  福祉用具専門相談員が、下肢の機能訓練をする。",
-      "5  作業療法士が、自宅の玄関の段差を確認する。"
+      "1 <ruby>歯科<rt>しか</rt></ruby><ruby>衛生士<rt>えいせいし</rt></ruby>が、<ruby>義歯<rt>ぎし</rt></ruby>を<ruby>作成<rt>さくせい</rt></ruby>する。",
+      "2 <ruby>看護<rt>かんご</rt></ruby><ruby>師<rt>し</rt></ruby>が、<ruby>車<rt>くるま</rt></ruby>いすを<ruby>貸与<rt>たいよ</rt></ruby>する。",
+      "3 <ruby>介護<rt>かいご</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>専門<rt>せんもん</rt></ruby><ruby>員<rt>いん</rt></ruby>（ケアマネジャー）が、<ruby>訪問<rt>ほうもん</rt></ruby><ruby>介護<rt>かいご</rt></ruby><ruby>計画<rt>けいかく</rt></ruby>を<ruby>作成<rt>さくせい</rt></ruby>する。",
+      "4 <ruby>福祉<rt>ふくし</rt></ruby><ruby>用具<rt>ようぐ</rt></ruby><ruby>専門<rt>せんもん</rt></ruby><ruby>相談員<rt>そうだんいん</rt></ruby>が、<ruby>下肢<rt>かし</rt></ruby>の<ruby>機能<rt>きのう</rt></ruby><ruby>訓練<rt>くんれん</rt></ruby>をする。",
+      "5 <ruby>作業<rt>さぎょう</rt></ruby><ruby>療法<rt>りょうほう</rt></ruby><ruby>士<rt>さむらい</rt></ruby>が、<ruby>自宅<rt>じたく</rt></ruby>の<ruby>玄関<rt>げんかん</rt></ruby>の<ruby>段差<rt>だんさ</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>する。"
     ],
     "answer": 4
   },
   {
-    "question": "問題10 次の記述のうち、介護老人福祉施設におけるリスクマネジメントとして、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>10 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち、<ruby>介護<rt>かいご</rt></ruby><ruby>老人<rt>ろうじん</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>施設<rt>しせつ</rt></ruby>におけるリスクマネジメントとして、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  安全対策担当者を置き、事故発生予防のための委員会を定期的に開催する。",
-      "2  家族からの苦情は、介護福祉職が、その場で解決する。",
-      "3  利用者の私物を壊したときは、介護福祉職の自己判断で弁償する。",
-      "4  入浴介助時のインシデントの報告は、職員間の口頭による伝達に統一する。",
-      "5  事故防止のため、地域のお祭りへの参加は控える。"
+      "1 <ruby>安全対策<rt>あんぜんたいさく</rt></ruby><ruby>担当者<rt>たんとうしゃ</rt></ruby>を<ruby>置<rt>お</rt></ruby>き、<ruby>事故発生<rt>じこはっせい</rt></ruby><ruby>予防<rt>よぼう</rt></ruby>のための<ruby>委員会<rt>いいんかい</rt></ruby>を<ruby>定期的<rt>ていきてき</rt></ruby>に<ruby>開催<rt>かいさい</rt></ruby>する。",
+      "2 <ruby>家族<rt>かぞく</rt></ruby>からの<ruby>苦情<rt>くじょう</rt></ruby>は、<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>が、その<ruby>場<rt>ば</rt></ruby>で<ruby>解決<rt>かいけつ</rt></ruby>する。",
+      "3 <ruby>利用者<rt>りようしゃ</rt></ruby>の<ruby>私物<rt>しぶつ</rt></ruby>を<ruby>壊<rt>こわ</rt></ruby>したときは、<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>の<ruby>自己<rt>じこ</rt></ruby><ruby>判断<rt>はんだん</rt></ruby>で<ruby>弁償<rt>べんしょう</rt></ruby>する。",
+      "4 <ruby>入浴<rt>にゅうよく</rt></ruby><ruby>介助<rt>かいじょ</rt></ruby><ruby>時<rt>とき</rt></ruby>のインシデントの<ruby>報告<rt>ほうこく</rt></ruby>は、<ruby>職員<rt>しょくいん</rt></ruby><ruby>間<rt>ま</rt></ruby>の<ruby>口頭<rt>こうとう</rt></ruby>による<ruby>伝達<rt>でんたつ</rt></ruby>に<ruby>統一<rt>とういつ</rt></ruby>する。",
+      "5 <ruby>事故防止<rt>じこぼうし</rt></ruby>のため、<ruby>地域<rt>ちいき</rt></ruby>のお<ruby>祭<rt>まつ</rt></ruby>りへの<ruby>参加<rt>さんか</rt></ruby>は<ruby>控<rt>ひか</rt></ruby>える。"
     ],
     "answer": 0
   },
   {
-    "question": "問題11 次の記述のうち、介護現場におけるレジオネラ菌の感染対策として、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>11 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち、<ruby>介護<rt>かいご</rt></ruby><ruby>現場<rt>げんば</rt></ruby>におけるレジオネラ<ruby>菌<rt>きん</rt></ruby>の<ruby>感染<rt>かんせん</rt></ruby><ruby>対策<rt>たいさく</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  感染者の衣類は、熱湯で煮沸消毒する。",
-      "2  提供する食品は、加熱調理を徹底する。",
-      "3  循環式浴槽は、塩素系薬剤を使用して消毒する。",
-      "4  ドアノブは、次亜塩素酸ナトリウム液で消毒する。",
-      "5  家庭用加湿器のタンクの水は、常に貯めておく。"
+      "1 <ruby>感染者<rt>かんせんしゃ</rt></ruby>の<ruby>衣類<rt>いるい</rt></ruby>は、<ruby>熱湯<rt>ねっとう</rt></ruby>で<ruby>煮沸<rt>しゃふつ</rt></ruby><ruby>消毒<rt>しょうどく</rt></ruby>する。",
+      "2 <ruby>提供<rt>ていきょう</rt></ruby>する<ruby>食品<rt>しょくひん</rt></ruby>は、<ruby>加熱<rt>かねつ</rt></ruby><ruby>調理<rt>ちょうり</rt></ruby>を<ruby>徹底<rt>てってい</rt></ruby>する。",
+      "3 <ruby>循環<rt>じゅんかん</rt></ruby><ruby>式<rt>しき</rt></ruby><ruby>浴槽<rt>よくそう</rt></ruby>は、<ruby>塩素系<rt>えんそけい</rt></ruby><ruby>薬剤<rt>やくざい</rt></ruby>を<ruby>使用<rt>しよう</rt></ruby>して<ruby>消毒<rt>しょうどく</rt></ruby>する。",
+      "4 ドアノブは、<ruby>次亜塩素酸<rt>じあえんそさん</rt></ruby>ナトリウム<ruby>液<rt>えき</rt></ruby>で<ruby>消毒<rt>しょうどく</rt></ruby>する。",
+      "5 <ruby>家庭用<rt>かていよう</rt></ruby><ruby>加湿器<rt>かしつき</rt></ruby>のタンクの<ruby>水<rt>みず</rt></ruby>は、<ruby>常<rt>つね</rt></ruby>に<ruby>貯<rt>た</rt></ruby>めておく。"
     ],
     "answer": 2
   },
   {
-    "question": "問題12 介護福祉職が受けるストレスチェック制度に関する次の記述のうち、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>12 <ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>が<ruby>受<rt>う</rt></ruby>けるストレスチェック<ruby>制度<rt>せいど</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  3年に1回の実施が義務づけられている。",
-      "2  労働者数が常時100名の事業場は受検が免除される。",
-      "3  結果は労務管理を行う介護主任へ提供され、面接指導に活用する。",
-      "4  心理的な負担の程度を把握するためのものである。",
-      "5  高ストレスと判定された場合は、産業医による治療が必須である。"
+      "1 3<ruby>年<rt>ねん</rt></ruby>に1<ruby>回<rt>かい</rt></ruby>の<ruby>実施<rt>じっし</rt></ruby>が<ruby>義務<rt>ぎむ</rt></ruby>づけられている。",
+      "2 <ruby>労働者<rt>ろうどうしゃ</rt></ruby><ruby>数<rt>かず</rt></ruby>が<ruby>常時<rt>じょうじ</rt></ruby>100<ruby>名<rt>めい</rt></ruby>の<ruby>事業<rt>じぎょう</rt></ruby><ruby>場<rt>ば</rt></ruby>は<ruby>受検<rt>じゅけん</rt></ruby>が<ruby>免除<rt>めんじょ</rt></ruby>される。",
+      "3 <ruby>結果<rt>けっか</rt></ruby>は<ruby>労務<rt>ろうむ</rt></ruby><ruby>管理<rt>かんり</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う<ruby>介護<rt>かいご</rt></ruby><ruby>主任<rt>しゅにん</rt></ruby>へ<ruby>提供<rt>ていきょう</rt></ruby>され、<ruby>面接<rt>めんせつ</rt></ruby><ruby>指導<rt>しどう</rt></ruby>に<ruby>活用<rt>かつよう</rt></ruby>する。",
+      "4 <ruby>心理的<rt>しんりてき</rt></ruby>な<ruby>負担<rt>ふたん</rt></ruby>の<ruby>程度<rt>ていど</rt></ruby>を<ruby>把握<rt>はあく</rt></ruby>するためのものである。",
+      "5 <ruby>高<rt>たか</rt></ruby>ストレスと<ruby>判定<rt>はんてい</rt></ruby>された<ruby>場合<rt>ばあい</rt></ruby>は、<ruby>産業<rt>さんぎょう</rt></ruby><ruby>医<rt>い</rt></ruby>による<ruby>治療<rt>ちりょう</rt></ruby>が<ruby>必須<rt>ひっす</rt></ruby>である。"
     ],
     "answer": 3
   },
   {
-    "question": "問題13 民法の親族に関する次の記述のうち、正しいものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>13 <ruby>民法<rt>みんぽう</rt></ruby>の<ruby>親族<rt>しんぞく</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち、<ruby>正<rt>ただ</rt></ruby>しいものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  三親等内の血族を家族と規定している。",
-      "2  六親等内の姻族を親族と規定している。",
-      "3  いとこは互いに扶養する義務があると規定している。",
-      "4  同居する親族は互いに扶｛たす｝け合わなければならないと規定している。",
-      "5  養子と養親の間には、親族関係は生じない。"
+      "1 <ruby>三親等内<rt>さんしんとうない</rt></ruby>の<ruby>血族<rt>けつぞく</rt></ruby>を<ruby>家族<rt>かぞく</rt></ruby>と<ruby>規定<rt>きてい</rt></ruby>している。",
+      "2 <ruby>六<rt>ろく</rt></ruby><ruby>親等<rt>しんとう</rt></ruby><ruby>内<rt>ない</rt></ruby>の<ruby>姻族<rt>いんぞく</rt></ruby>を<ruby>親族<rt>しんぞく</rt></ruby>と<ruby>規定<rt>きてい</rt></ruby>している。",
+      "3 いとこは<ruby>互<rt>たが</rt></ruby>いに<ruby>扶養<rt>ふよう</rt></ruby>する<ruby>義務<rt>ぎむ</rt></ruby>があると<ruby>規定<rt>きてい</rt></ruby>している。",
+      "4 <ruby>同居<rt>どうきょ</rt></ruby>する<ruby>親族<rt>しんぞく</rt></ruby>は<ruby>互<rt>たが</rt></ruby>いに<ruby>扶<rt>ふ</rt></ruby>｛たす｝け<ruby>合<rt>あ</rt></ruby>わなければならないと<ruby>規定<rt>きてい</rt></ruby>している。",
+      "5 <ruby>養子<rt>ようし</rt></ruby>と<ruby>養親<rt>ようしん</rt></ruby>の<ruby>間<rt>ま</rt></ruby>には、<ruby>親族関係<rt>しんぞくかんけい</rt></ruby>は<ruby>生<rt>しょう</rt></ruby>じない。"
     ],
     "answer": 3
   },
   {
-    "question": "問題14 次の記述のうち、「令和4（2022）年 国民生活基礎調査」（厚生労働省）における、高齢者に関する調査結果として、適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>14 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち、「<ruby>令和<rt>れいわ</rt></ruby>4（2022）<ruby>年<rt>ねん</rt></ruby> <ruby>国民生活<rt>こくみんせいかつ</rt></ruby><ruby>基礎<rt>きそ</rt></ruby><ruby>調査<rt>ちょうさ</rt></ruby>」（<ruby>厚生<rt>こうせい</rt></ruby><ruby>労働省<rt>ろうどうしょう</rt></ruby>）における、<ruby>高齢者<rt>こうれいしゃ</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>調査結果<rt>ちょうさけっか</rt></ruby>として、<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  65歳以上の者のいる世帯の世帯構造で最も多いのは、親と未婚の子のみの世帯である。",
-      "2  高齢者世帯は5割以上を占めている。",
-      "3  要介護者等と同居の主な介護者の年齢の組合せでは、65歳以上同士が約6割を占めている。",
-      "4  介護が必要となった理由の第1位は、骨折・転倒である。",
-      "5  1世帯当たりの平均所得金額では、高齢者世帯では600万円を超えている。"
+      "1 65<ruby>歳<rt>とし</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>者<rt>もの</rt></ruby>のいる<ruby>世帯<rt>せたい</rt></ruby>の<ruby>世帯<rt>せたい</rt></ruby><ruby>構造<rt>こうぞう</rt></ruby>で<ruby>最<rt>もっと</rt></ruby>も<ruby>多<rt>おお</rt></ruby>いのは、<ruby>親<rt>おや</rt></ruby>と<ruby>未婚<rt>みこん</rt></ruby>の<ruby>子<rt>こ</rt></ruby>のみの<ruby>世帯<rt>せたい</rt></ruby>である。",
+      "2 <ruby>高齢者<rt>こうれいしゃ</rt></ruby><ruby>世帯<rt>せたい</rt></ruby>は5<ruby>割<rt>わり</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>を<ruby>占<rt>し</rt></ruby>めている。",
+      "3 <ruby>要介<rt>ようすけ</rt></ruby><ruby>護<rt>ご</rt></ruby><ruby>者<rt>もの</rt></ruby><ruby>等<rt>など</rt></ruby>と<ruby>同居<rt>どうきょ</rt></ruby>の<ruby>主<rt>おも</rt></ruby>な<ruby>介護<rt>かいご</rt></ruby><ruby>者<rt>もの</rt></ruby>の<ruby>年齢<rt>ねんれい</rt></ruby>の<ruby>組合<rt>くみあわ</rt></ruby>せでは、65<ruby>歳<rt>とし</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>同士<rt>どうし</rt></ruby>が<ruby>約<rt>やく</rt></ruby>6<ruby>割<rt>わり</rt></ruby>を<ruby>占<rt>し</rt></ruby>めている。",
+      "4 <ruby>介護<rt>かいご</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>となった<ruby>理由<rt>りゆう</rt></ruby>の<ruby>第<rt>だい</rt></ruby>1<ruby>位<rt>くらい</rt></ruby>は、<ruby>骨折<rt>こっせつ</rt></ruby>・<ruby>転倒<rt>てんとう</rt></ruby>である。",
+      "5 1<ruby>世帯<rt>せたい</rt></ruby><ruby>当<rt>あ</rt></ruby>たりの<ruby>平均<rt>へいきん</rt></ruby><ruby>所得金額<rt>しょとくきんがく</rt></ruby>では、<ruby>高齢者<rt>こうれいしゃ</rt></ruby><ruby>世帯<rt>せたい</rt></ruby>では600<ruby>万円<rt>まんえん</rt></ruby>を<ruby>超<rt>こ</rt></ruby>えている。"
     ],
     "answer": 2
   },
   {
-    "question": "問題15 Ａさん（78歳、女性）は、一人暮らしである。家事や買物は、時間はかかるが、できるだけ自分で取り組んでいる。近くに頼れる親族がいないため、緊急時にすぐに通報できる公共サービスを利用している。Ａさんは、定期的に市の窓口や地域包括支援センターに今後の生活支援について相談している。近所には、毎日散歩を一緒にしている友人グループがいて、散歩に来ない仲間がいると訪問して声をかけあっている。 次のうち、Ａさんの生活を支える自助に該当するものとして、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>15 Ａさん（78<ruby>歳<rt>とし</rt></ruby>、<ruby>女性<rt>じょせい</rt></ruby>）は、<ruby>一人暮<rt>ひとりぐ</rt></ruby>らしである。<ruby>家事<rt>かじ</rt></ruby>や<ruby>買物<rt>かいもの</rt></ruby>は、<ruby>時間<rt>じかん</rt></ruby>はかかるが、できるだけ<ruby>自分<rt>じぶん</rt></ruby>で<ruby>取り組<rt>とりく</rt></ruby>んでいる。<ruby>近<rt>ちか</rt></ruby>くに<ruby>頼<rt>たよ</rt></ruby>れる<ruby>親族<rt>しんぞく</rt></ruby>がいないため、<ruby>緊急時<rt>きんきゅうじ</rt></ruby>にすぐに<ruby>通報<rt>つうほう</rt></ruby>できる<ruby>公共<rt>こうきょう</rt></ruby>サービスを<ruby>利用<rt>りよう</rt></ruby>している。Ａさんは、<ruby>定期的<rt>ていきてき</rt></ruby>に<ruby>市<rt>し</rt></ruby>の<ruby>窓口<rt>まどぐち</rt></ruby>や<ruby>地域<rt>ちいき</rt></ruby><ruby>包括<rt>ほうかつ</rt></ruby><ruby>支援<rt>しえん</rt></ruby>センターに<ruby>今後<rt>こんご</rt></ruby>の<ruby>生活<rt>せいかつ</rt></ruby><ruby>支援<rt>しえん</rt></ruby>について<ruby>相談<rt>そうだん</rt></ruby>している。<ruby>近所<rt>きんじょ</rt></ruby>には、<ruby>毎日<rt>まいにち</rt></ruby><ruby>散歩<rt>さんぽ</rt></ruby>を<ruby>一緒<rt>いっしょ</rt></ruby>にしている<ruby>友人<rt>ゆうじん</rt></ruby>グループがいて、<ruby>散歩<rt>さんぽ</rt></ruby>に<ruby>来<rt>こ</rt></ruby>ない<ruby>仲間<rt>なかま</rt></ruby>がいると<ruby>訪問<rt>ほうもん</rt></ruby>して<ruby>声<rt>こえ</rt></ruby>をかけあっている。 <ruby>次<rt>つぎ</rt></ruby>のうち、Ａさんの<ruby>生活<rt>せいかつ</rt></ruby>を<ruby>支<rt>ささ</rt></ruby>える<ruby>自助<rt>じじょ</rt></ruby>に<ruby>該当<rt>がいとう</rt></ruby>するものとして、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  Ａさんが身辺のことを、時間をかけてもやること",
-      "2  緊急時にすぐに通報できる公共サービスを利用していること",
-      "3  市の窓口の職員が相談に応じること",
-      "4  地域包括支援センターの職員が相談に応じること",
-      "5  散歩仲間が声をかけあっていること"
+      "1 Ａさんが<ruby>身辺<rt>しんぺん</rt></ruby>のことを、<ruby>時間<rt>じかん</rt></ruby>をかけてもやること",
+      "2 <ruby>緊急時<rt>きんきゅうじ</rt></ruby>にすぐに<ruby>通報<rt>つうほう</rt></ruby>できる<ruby>公共<rt>こうきょう</rt></ruby>サービスを<ruby>利用<rt>りよう</rt></ruby>していること",
+      "3 <ruby>市<rt>し</rt></ruby>の<ruby>窓口<rt>まどぐち</rt></ruby>の<ruby>職員<rt>しょくいん</rt></ruby>が<ruby>相談<rt>そうだん</rt></ruby>に<ruby>応<rt>おう</rt></ruby>じること",
+      "4 <ruby>地域<rt>ちいき</rt></ruby><ruby>包括<rt>ほうかつ</rt></ruby><ruby>支援<rt>しえん</rt></ruby>センターの<ruby>職員<rt>しょくいん</rt></ruby>が<ruby>相談<rt>そうだん</rt></ruby>に<ruby>応<rt>おう</rt></ruby>じること",
+      "5 <ruby>散歩<rt>さんぽ</rt></ruby><ruby>仲間<rt>なかま</rt></ruby>が<ruby>声<rt>こえ</rt></ruby>をかけあっていること"
     ],
     "answer": 0
   },
   {
-    "question": "問題16 介護保険制度における介護サービス利用に関する次の記述のうち、適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>16 <ruby>介護<rt>かいご</rt></ruby><ruby>保険制度<rt>ほけんせいど</rt></ruby>における<ruby>介護<rt>かいご</rt></ruby>サービス<ruby>利用<rt>りよう</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち、<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  65歳未満の者は、保険給付の対象外である。",
-      "2  保険給付には、支給限度額がある。",
-      "3  要介護認定の有効期限は、原則として3か月である。",
-      "4  保険給付による福祉用具の貸与は、要介護3以上の者が対象である。",
-      "5  地域包括支援センターに相談する前に、要介護認定を受ける必要がある。"
+      "1 65<ruby>歳<rt>とし</rt></ruby><ruby>未満<rt>みまん</rt></ruby>の<ruby>者<rt>もの</rt></ruby>は、<ruby>保険<rt>ほけん</rt></ruby><ruby>給付<rt>きゅうふ</rt></ruby>の<ruby>対象外<rt>たいしょうがい</rt></ruby>である。",
+      "2 <ruby>保険<rt>ほけん</rt></ruby><ruby>給付<rt>きゅうふ</rt></ruby>には、<ruby>支給<rt>しきゅう</rt></ruby><ruby>限度額<rt>げんどがく</rt></ruby>がある。",
+      "3 <ruby>要介<rt>ようすけ</rt></ruby><ruby>護<rt>ご</rt></ruby><ruby>認定<rt>にんてい</rt></ruby>の<ruby>有効期限<rt>ゆうこうきげん</rt></ruby>は、<ruby>原則<rt>げんそく</rt></ruby>として3か<ruby>月<rt>がつ</rt></ruby>である。",
+      "4 <ruby>保険<rt>ほけん</rt></ruby><ruby>給付<rt>きゅうふ</rt></ruby>による<ruby>福祉<rt>ふくし</rt></ruby><ruby>用具<rt>ようぐ</rt></ruby>の<ruby>貸与<rt>たいよ</rt></ruby>は、<ruby>要介<rt>ようすけ</rt></ruby><ruby>護<rt>ご</rt></ruby>3<ruby>以上<rt>いじょう</rt></ruby>の<ruby>者<rt>もの</rt></ruby>が<ruby>対象<rt>たいしょう</rt></ruby>である。",
+      "5 <ruby>地域<rt>ちいき</rt></ruby><ruby>包括<rt>ほうかつ</rt></ruby><ruby>支援<rt>しえん</rt></ruby>センターに<ruby>相談<rt>そうだん</rt></ruby>する<ruby>前<rt>まえ</rt></ruby>に、<ruby>要介<rt>ようすけ</rt></ruby><ruby>護<rt>ご</rt></ruby><ruby>認定<rt>にんてい</rt></ruby>を<ruby>受<rt>う</rt></ruby>ける<ruby>必要<rt>ひつよう</rt></ruby>がある。"
     ],
     "answer": 1
   },
   {
-    "question": "問題17 次の記述のうち、障害者福祉の歴史的展開として、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>17 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち、<ruby>障害者<rt>しょうがいしゃ</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby>の<ruby>歴史的<rt>れきしてき</rt></ruby><ruby>展開<rt>てんかい</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  国際連合の障害者の権利に関する条約の影響を受け、障害者基本法に「社会的障壁の除去」が規定された。",
-      "2  第二次世界大戦後5年以内に、優生保護法が廃止された。",
-      "3  「精神薄弱者福祉法」の制定によって、知的障害者の入所施設からの地域移行が推進された。",
-      "4  社会福祉基礎構造改革によって、高齢者より先に障害者の福祉制度が利用契約制度となった。",
-      "5  身体障害、知的障害、精神障害のうち、福祉に関する法律の制定が最も早かったのは知的障害である。"
+      "1 <ruby>国際連合<rt>こくさいれんごう</rt></ruby>の<ruby>障害者<rt>しょうがいしゃ</rt></ruby>の<ruby>権利<rt>けんり</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>条約<rt>じょうやく</rt></ruby>の<ruby>影響<rt>えいきょう</rt></ruby>を<ruby>受<rt>う</rt></ruby>け、<ruby>障害者<rt>しょうがいしゃ</rt></ruby><ruby>基本法<rt>きほんほう</rt></ruby>に「<ruby>社会的<rt>しゃかいてき</rt></ruby><ruby>障壁<rt>しょうへき</rt></ruby>の<ruby>除去<rt>じょきょ</rt></ruby>」が<ruby>規定<rt>きてい</rt></ruby>された。",
+      "2 <ruby>第二次世界大戦<rt>だいにじせかいたいせん</rt></ruby><ruby>後<rt>のち</rt></ruby>5<ruby>年<rt>ねん</rt></ruby><ruby>以内<rt>いない</rt></ruby>に、<ruby>優生<rt>ゆうせい</rt></ruby><ruby>保護<rt>ほご</rt></ruby><ruby>法<rt>ほう</rt></ruby>が<ruby>廃止<rt>はいし</rt></ruby>された。",
+      "3 「<ruby>精神<rt>せいしん</rt></ruby><ruby>薄弱<rt>はくじゃく</rt></ruby><ruby>者<rt>もの</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>法<rt>ほう</rt></ruby>」の<ruby>制定<rt>せいてい</rt></ruby>によって、<ruby>知的障害<rt>ちてきしょうがい</rt></ruby><ruby>者<rt>もの</rt></ruby>の<ruby>入所<rt>にゅうしょ</rt></ruby><ruby>施設<rt>しせつ</rt></ruby>からの<ruby>地域<rt>ちいき</rt></ruby><ruby>移行<rt>いこう</rt></ruby>が<ruby>推進<rt>すいしん</rt></ruby>された。",
+      "4 <ruby>社会福祉<rt>しゃかいふくし</rt></ruby><ruby>基礎<rt>きそ</rt></ruby><ruby>構造<rt>こうぞう</rt></ruby><ruby>改革<rt>かいかく</rt></ruby>によって、<ruby>高齢者<rt>こうれいしゃ</rt></ruby>より<ruby>先<rt>さき</rt></ruby>に<ruby>障害者<rt>しょうがいしゃ</rt></ruby>の<ruby>福祉<rt>ふくし</rt></ruby><ruby>制度<rt>せいど</rt></ruby>が<ruby>利用<rt>りよう</rt></ruby><ruby>契約制<rt>けいやくせい</rt></ruby><ruby>度<rt>ど</rt></ruby>となった。",
+      "5 <ruby>身体<rt>しんたい</rt></ruby><ruby>障害<rt>しょうがい</rt></ruby>、<ruby>知的障害<rt>ちてきしょうがい</rt></ruby>、<ruby>精神<rt>せいしん</rt></ruby><ruby>障害<rt>しょうがい</rt></ruby>のうち、<ruby>福祉<rt>ふくし</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>法律<rt>ほうりつ</rt></ruby>の<ruby>制定<rt>せいてい</rt></ruby>が<ruby>最<rt>もっと</rt></ruby>も<ruby>早<rt>はや</rt></ruby>かったのは<ruby>知的障害<rt>ちてきしょうがい</rt></ruby>である。"
     ],
     "answer": 0
   },
   {
-    "question": "問題18 次の記述のうち、障害者福祉に関係する機関やシステムとして、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>18 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち、<ruby>障害者<rt>しょうがいしゃ</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby>に<ruby>関係<rt>かんけい</rt></ruby>する<ruby>機関<rt>きかん</rt></ruby>やシステムとして、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  地域活動支援センターは、補装具の判定を行う。",
-      "2  基幹相談支援センターには、介護福祉士の配置が義務となっている。",
-      "3  都道府県は、身体障害者更生相談所を設置しなければならない。",
-      "4  都道府県は、障害支援区分の認定を行う。",
-      "5  利用者負担の額は、市町村障害福祉計画によって決められる。"
+      "1 <ruby>地域<rt>ちいき</rt></ruby><ruby>活動<rt>かつどう</rt></ruby><ruby>支援<rt>しえん</rt></ruby>センターは、<ruby>補装<rt>ほそう</rt></ruby><ruby>具<rt>ぐ</rt></ruby>の<ruby>判定<rt>はんてい</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う。",
+      "2 <ruby>基幹<rt>きかん</rt></ruby><ruby>相談<rt>そうだん</rt></ruby><ruby>支援<rt>しえん</rt></ruby>センターには、<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>士<rt>さむらい</rt></ruby>の<ruby>配置<rt>はいち</rt></ruby>が<ruby>義務<rt>ぎむ</rt></ruby>となっている。",
+      "3 <ruby>都道府県<rt>とどうふけん</rt></ruby>は、<ruby>身体障害者<rt>しんたいしょうがいしゃ</rt></ruby><ruby>更生<rt>こうせい</rt></ruby><ruby>相談所<rt>そうだんしょ</rt></ruby>を<ruby>設置<rt>せっち</rt></ruby>しなければならない。",
+      "4 <ruby>都道府県<rt>とどうふけん</rt></ruby>は、<ruby>障害<rt>しょうがい</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>区分<rt>くぶん</rt></ruby>の<ruby>認定<rt>にんてい</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う。",
+      "5 <ruby>利用者<rt>りようしゃ</rt></ruby><ruby>負担<rt>ふたん</rt></ruby>の<ruby>額<rt>ひたい</rt></ruby>は、<ruby>市町村<rt>しちょうそん</rt></ruby><ruby>障害<rt>しょうがい</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>計画<rt>けいかく</rt></ruby>によって<ruby>決<rt>き</rt></ruby>められる。"
     ],
     "answer": 2
   },
   {
-    "question": "問題19 障害者虐待防止に関する次の記述のうち、適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>19 <ruby>障害者<rt>しょうがいしゃ</rt></ruby><ruby>虐待<rt>ぎゃくたい</rt></ruby><ruby>防止<rt>ぼうし</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち、<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  養護者による虐待が疑われる障害者を発見した場合、都道府県へ通報する義務がある。",
-      "2  著しく拒絶的な対応は身体的虐待に当てはまる。",
-      "3  使用者による障害者虐待は含まれない。",
-      "4  行政職員が障害者福祉施設等に、立ち入り調査を行うことは許されていない。",
-      "5  虐待を発見した障害者福祉施設従事者が通報した場合、業務上の守秘義務違反にはならない。"
+      "1 <ruby>養護<rt>ようご</rt></ruby><ruby>者<rt>もの</rt></ruby>による<ruby>虐待<rt>ぎゃくたい</rt></ruby>が<ruby>疑<rt>うたが</rt></ruby>われる<ruby>障害者<rt>しょうがいしゃ</rt></ruby>を<ruby>発見<rt>はっけん</rt></ruby>した<ruby>場合<rt>ばあい</rt></ruby>、<ruby>都道府県<rt>とどうふけん</rt></ruby>へ<ruby>通報<rt>つうほう</rt></ruby>する<ruby>義務<rt>ぎむ</rt></ruby>がある。",
+      "2 <ruby>著<rt>いちじる</rt></ruby>しく<ruby>拒絶<rt>きょぜつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>対応<rt>たいおう</rt></ruby>は<ruby>身体的<rt>しんたいてき</rt></ruby><ruby>虐待<rt>ぎゃくたい</rt></ruby>に<ruby>当<rt>あ</rt></ruby>てはまる。",
+      "3 <ruby>使用者<rt>しようしゃ</rt></ruby>による<ruby>障害者<rt>しょうがいしゃ</rt></ruby><ruby>虐待<rt>ぎゃくたい</rt></ruby>は<ruby>含<rt>ふく</rt></ruby>まれない。",
+      "4 <ruby>行政<rt>ぎょうせい</rt></ruby><ruby>職員<rt>しょくいん</rt></ruby>が<ruby>障害者<rt>しょうがいしゃ</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>施設等<rt>しせつとう</rt></ruby>に、<ruby>立ち入<rt>たちい</rt></ruby>り<ruby>調査<rt>ちょうさ</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>うことは<ruby>許<rt>ゆる</rt></ruby>されていない。",
+      "5 <ruby>虐待<rt>ぎゃくたい</rt></ruby>を<ruby>発見<rt>はっけん</rt></ruby>した<ruby>障害者<rt>しょうがいしゃ</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>施設<rt>しせつ</rt></ruby><ruby>従事者<rt>じゅうじしゃ</rt></ruby>が<ruby>通報<rt>つうほう</rt></ruby>した<ruby>場合<rt>ばあい</rt></ruby>、<ruby>業務上<rt>ぎょうむじょう</rt></ruby>の<ruby>守秘義務違反<rt>しゅひぎむいはん</rt></ruby>にはならない。"
     ],
     "answer": 4
   },
   {
-    "question": "問題20 Ａさん（82歳、女性、要介護1）は、自宅で一人暮らしをしている。外出機会が少ないＡさんを心配して、民生委員が定期的に見守りを行っている。ある日、民生委員から地域包括支援センターに、「Ａさんのように、家に閉じこもりがちな要介護者が増えている。民生委員だけでは十分な見守りができない」と相談があった。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>20 Ａさん（82<ruby>歳<rt>とし</rt></ruby>、<ruby>女性<rt>じょせい</rt></ruby>、<ruby>要介<rt>ようすけ</rt></ruby><ruby>護<rt>ご</rt></ruby>1）は、<ruby>自宅<rt>じたく</rt></ruby>で<ruby>一人暮<rt>ひとりぐ</rt></ruby>らしをしている。<ruby>外出<rt>がいしゅつ</rt></ruby><ruby>機会<rt>きかい</rt></ruby>が<ruby>少<rt>すく</rt></ruby>ないＡさんを<ruby>心配<rt>しんぱい</rt></ruby>して、<ruby>民生<rt>みんせい</rt></ruby><ruby>委員<rt>いいん</rt></ruby>が<ruby>定期的<rt>ていきてき</rt></ruby>に<ruby>見守<rt>みまも</rt></ruby>りを<ruby>行<rt>い</rt></ruby>っている。ある<ruby>日<rt>にち</rt></ruby>、<ruby>民生<rt>みんせい</rt></ruby><ruby>委員<rt>いいん</rt></ruby>から<ruby>地域<rt>ちいき</rt></ruby><ruby>包括<rt>ほうかつ</rt></ruby><ruby>支援<rt>しえん</rt></ruby>センターに、「Ａさんのように、<ruby>家<rt>いえ</rt></ruby>に<ruby>閉<rt>と</rt></ruby>じこもりがちな<ruby>要介<rt>ようすけ</rt></ruby><ruby>護<rt>ご</rt></ruby><ruby>者<rt>もの</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>えている。<ruby>民生<rt>みんせい</rt></ruby><ruby>委員<rt>いいん</rt></ruby>だけでは<ruby>十分<rt>じゅうぶん</rt></ruby>な<ruby>見守<rt>みまも</rt></ruby>りができない」と<ruby>相談<rt>そうだん</rt></ruby>があった。",
     "choices": [
-      "1  高齢者本人による相談が原則のため、Ａさん自身が相談に来るように促す。",
-      "2  介護サービスを利用するため、Ａさんのケアプランを作成する。",
-      "3  フォーマルな社会資源の活用を優先し、民生委員のかかわりを制限する。",
-      "4  地域ケア会議において、関係者と地域課題について話し合う。",
-      "5  要介護者の実態を把握するために、介護保険審査会を設置する。"
+      "1 <ruby>高齢者<rt>こうれいしゃ</rt></ruby><ruby>本人<rt>ほんにん</rt></ruby>による<ruby>相談<rt>そうだん</rt></ruby>が<ruby>原則<rt>げんそく</rt></ruby>のため、Ａさん<ruby>自身<rt>じしん</rt></ruby>が<ruby>相談<rt>そうだん</rt></ruby>に<ruby>来<rt>く</rt></ruby>るように<ruby>促<rt>うなが</rt></ruby>す。",
+      "2 <ruby>介護<rt>かいご</rt></ruby>サービスを<ruby>利用<rt>りよう</rt></ruby>するため、Ａさんのケアプランを<ruby>作成<rt>さくせい</rt></ruby>する。",
+      "3 フォーマルな<ruby>社会<rt>しゃかい</rt></ruby><ruby>資源<rt>しげん</rt></ruby>の<ruby>活用<rt>かつよう</rt></ruby>を<ruby>優先<rt>ゆうせん</rt></ruby>し、<ruby>民生<rt>みんせい</rt></ruby><ruby>委員<rt>いいん</rt></ruby>のかかわりを<ruby>制限<rt>せいげん</rt></ruby>する。",
+      "4 <ruby>地域<rt>ちいき</rt></ruby>ケア<ruby>会議<rt>かいぎ</rt></ruby>において、<ruby>関係者<rt>かんけいしゃ</rt></ruby>と<ruby>地域<rt>ちいき</rt></ruby><ruby>課題<rt>かだい</rt></ruby>について<ruby>話し合<rt>はなしあ</rt></ruby>う。",
+      "5 <ruby>要介<rt>ようすけ</rt></ruby><ruby>護<rt>ご</rt></ruby><ruby>者<rt>もの</rt></ruby>の<ruby>実態<rt>じったい</rt></ruby>を<ruby>把握<rt>はあく</rt></ruby>するために、<ruby>介護<rt>かいご</rt></ruby><ruby>保険<rt>ほけん</rt></ruby><ruby>審査会<rt>しんさかい</rt></ruby>を<ruby>設置<rt>せっち</rt></ruby>する。"
     ],
     "answer": 3
   },
   {
-    "question": "問題21 法定後見制度に関する次の記述のうち、正しいものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>21 <ruby>法定<rt>ほうてい</rt></ruby><ruby>後見<rt>こうけん</rt></ruby><ruby>制度<rt>せいど</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち、<ruby>正<rt>ただ</rt></ruby>しいものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  65歳未満の者は利用することができない。",
-      "2  判断能力が十分ある者には、後見人をつけることができない。",
-      "3  市町村長は、後見開始の審判を請求することができない。",
-      "4  法人を後見人に選任することはできない。",
-      "5  後見人は財産管理を行うことはできない。"
+      "1 65<ruby>歳<rt>とし</rt></ruby><ruby>未満<rt>みまん</rt></ruby>の<ruby>者<rt>もの</rt></ruby>は<ruby>利用<rt>りよう</rt></ruby>することができない。",
+      "2 <ruby>判断能力<rt>はんだんのうりょく</rt></ruby>が<ruby>十分<rt>じゅうぶん</rt></ruby>ある<ruby>者<rt>もの</rt></ruby>には、<ruby>後見人<rt>こうけんにん</rt></ruby>をつけることができない。",
+      "3 <ruby>市町村長<rt>しちょうそんちょう</rt></ruby>は、<ruby>後見<rt>こうけん</rt></ruby><ruby>開始<rt>かいし</rt></ruby>の<ruby>審判<rt>しんぱん</rt></ruby>を<ruby>請求<rt>せいきゅう</rt></ruby>することができない。",
+      "4 <ruby>法人<rt>ほうじん</rt></ruby>を<ruby>後見人<rt>こうけんにん</rt></ruby>に<ruby>選任<rt>せんにん</rt></ruby>することはできない。",
+      "5 <ruby>後見人<rt>こうけんにん</rt></ruby>は<ruby>財産<rt>ざいさん</rt></ruby><ruby>管理<rt>かんり</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>うことはできない。"
     ],
     "answer": 1
   },
   {
-    "question": "問題22 有料老人ホームに関する次の記述のうち、適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>22 <ruby>有料<rt>ゆうりょう</rt></ruby><ruby>老人<rt>ろうじん</rt></ruby>ホームに<ruby>関<rt>かん</rt></ruby>する<ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち、<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  入居する高齢者に、介護、食事の提供、家事、健康管理のうち1つ以上のサービスを提供する。",
-      "2  状況把握サービスと生活相談サービスの提供が義務づけられている。",
-      "3  自立した高齢者は、入居の対象外である。",
-      "4  共生型サービスとして、指定を受けることができる。",
-      "5  介護保険制度の指定対象外である。"
+      "1 <ruby>入居<rt>にゅうきょ</rt></ruby>する<ruby>高齢者<rt>こうれいしゃ</rt></ruby>に、<ruby>介護<rt>かいご</rt></ruby>、<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>提供<rt>ていきょう</rt></ruby>、<ruby>家事<rt>かじ</rt></ruby>、<ruby>健康管理<rt>けんこうかんり</rt></ruby>のうち1つ<ruby>以上<rt>いじょう</rt></ruby>のサービスを<ruby>提供<rt>ていきょう</rt></ruby>する。",
+      "2 <ruby>状況<rt>じょうきょう</rt></ruby><ruby>把握<rt>はあく</rt></ruby>サービスと<ruby>生活<rt>せいかつ</rt></ruby><ruby>相談<rt>そうだん</rt></ruby>サービスの<ruby>提供<rt>ていきょう</rt></ruby>が<ruby>義務<rt>ぎむ</rt></ruby>づけられている。",
+      "3 <ruby>自立<rt>じりつ</rt></ruby>した<ruby>高齢者<rt>こうれいしゃ</rt></ruby>は、<ruby>入居<rt>にゅうきょ</rt></ruby>の<ruby>対象外<rt>たいしょうがい</rt></ruby>である。",
+      "4 <ruby>共生<rt>きょうせい</rt></ruby><ruby>型<rt>かた</rt></ruby>サービスとして、<ruby>指定<rt>してい</rt></ruby>を<ruby>受<rt>う</rt></ruby>けることができる。",
+      "5 <ruby>介護<rt>かいご</rt></ruby><ruby>保険制度<rt>ほけんせいど</rt></ruby>の<ruby>指定<rt>してい</rt></ruby><ruby>対象外<rt>たいしょうがい</rt></ruby>である。"
     ],
     "answer": 0
   },
   {
-    "question": "問題23 生活困窮者自立支援法に関する記述のうち、適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>23 <ruby>生活<rt>せいかつ</rt></ruby><ruby>困窮<rt>こんきゅう</rt></ruby><ruby>者<rt>もの</rt></ruby><ruby>自立<rt>じりつ</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>法<rt>ほう</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>記述<rt>きじゅつ</rt></ruby>のうち、<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  障害者は対象から除外されている。",
-      "2  生活困窮者自立相談支援事業は、社会福祉法人へ委託できない。",
-      "3  生活困窮者自立相談支援事業は、市にとって任意事業である。",
-      "4  生活困窮者住居確保給付金の支給は、市にとって必須事業である。",
-      "5  都道府県の責務は規定されていない。"
+      "1 <ruby>障害者<rt>しょうがいしゃ</rt></ruby>は<ruby>対象<rt>たいしょう</rt></ruby>から<ruby>除外<rt>じょがい</rt></ruby>されている。",
+      "2 <ruby>生活<rt>せいかつ</rt></ruby><ruby>困窮<rt>こんきゅう</rt></ruby><ruby>者<rt>もの</rt></ruby><ruby>自立<rt>じりつ</rt></ruby><ruby>相談<rt>そうだん</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>事業<rt>じぎょう</rt></ruby>は、<ruby>社会福祉<rt>しゃかいふくし</rt></ruby><ruby>法人<rt>ほうじん</rt></ruby>へ<ruby>委託<rt>いたく</rt></ruby>できない。",
+      "3 <ruby>生活<rt>せいかつ</rt></ruby><ruby>困窮<rt>こんきゅう</rt></ruby><ruby>者<rt>もの</rt></ruby><ruby>自立<rt>じりつ</rt></ruby><ruby>相談<rt>そうだん</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>事業<rt>じぎょう</rt></ruby>は、<ruby>市<rt>し</rt></ruby>にとって<ruby>任意<rt>にんい</rt></ruby><ruby>事業<rt>じぎょう</rt></ruby>である。",
+      "4 <ruby>生活<rt>せいかつ</rt></ruby><ruby>困窮<rt>こんきゅう</rt></ruby><ruby>者<rt>もの</rt></ruby><ruby>住居<rt>じゅうきょ</rt></ruby><ruby>確保<rt>かくほ</rt></ruby><ruby>給付金<rt>きゅうふきん</rt></ruby>の<ruby>支給<rt>しきゅう</rt></ruby>は、<ruby>市<rt>し</rt></ruby>にとって<ruby>必須<rt>ひっす</rt></ruby><ruby>事業<rt>じぎょう</rt></ruby>である。",
+      "5 <ruby>都道府県<rt>とどうふけん</rt></ruby>の<ruby>責務<rt>せきむ</rt></ruby>は<ruby>規定<rt>きてい</rt></ruby>されていない。"
     ],
     "answer": 3
   },
   {
-    "question": "問題24 次の記述のうち、生活保護制度における補足性の原理として、適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>24 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち、<ruby>生活<rt>せいかつ</rt></ruby><ruby>保護<rt>ほご</rt></ruby><ruby>制度<rt>せいど</rt></ruby>における<ruby>補足<rt>ほそく</rt></ruby><ruby>性<rt>せい</rt></ruby>の<ruby>原理<rt>げんり</rt></ruby>として、<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  申請に基づいて保護を行う。",
-      "2  国の定める基準によって測定された需要をもとに保護を行う。",
-      "3  個人の必要に応じてできるだけ早く保護を行う。",
-      "4  資産・能力を活用した上で保護を行う。",
-      "5  世帯を単位として保護を行う。"
+      "1 <ruby>申請<rt>しんせい</rt></ruby>に<ruby>基<rt>もと</rt></ruby>づいて<ruby>保護<rt>ほご</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う。",
+      "2 <ruby>国<rt>くに</rt></ruby>の<ruby>定<rt>さだ</rt></ruby>める<ruby>基準<rt>きじゅん</rt></ruby>によって<ruby>測定<rt>そくてい</rt></ruby>された<ruby>需要<rt>じゅよう</rt></ruby>をもとに<ruby>保護<rt>ほご</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う。",
+      "3 <ruby>個人<rt>こじん</rt></ruby>の<ruby>必要<rt>ひつよう</rt></ruby>に<ruby>応<rt>おう</rt></ruby>じてできるだけ<ruby>早<rt>はや</rt></ruby>く<ruby>保護<rt>ほご</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う。",
+      "4 <ruby>資産<rt>しさん</rt></ruby>・<ruby>能力<rt>のうりょく</rt></ruby>を<ruby>活用<rt>かつよう</rt></ruby>した<ruby>上<rt>うえ</rt></ruby>で<ruby>保護<rt>ほご</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う。",
+      "5 <ruby>世帯<rt>せたい</rt></ruby>を<ruby>単位<rt>たんい</rt></ruby>として<ruby>保護<rt>ほご</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う。"
     ],
     "answer": 3
   },
   {
-    "question": "問題25 新人職員のＡさん（20歳）は、子どもの頃からの夢だった介護福祉職になり、がんばって働いていた。ただ、介護の技術をもっと学ぶ必要があるといつも感じていた。ある日、利用者Ｂさんに、「Ａさんじゃダメだ、別の人を呼んで」と言われて、ショックを受けた。悩むうちに利用者とかかわりたくないと感じるようになり、眠れなくなってしまった。 次の記述のうち、このような状況にあるＡさんが、ストレスを取り除くためにまず行うべき対処方法として、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>25 <ruby>新人<rt>しんじん</rt></ruby><ruby>職員<rt>しょくいん</rt></ruby>のＡさん（20<ruby>歳<rt>とし</rt></ruby>）は、<ruby>子<rt>こ</rt></ruby>どもの<ruby>頃<rt>ごろ</rt></ruby>からの<ruby>夢<rt>ゆめ</rt></ruby>だった<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>になり、がんばって<ruby>働<rt>はたら</rt></ruby>いていた。ただ、<ruby>介護<rt>かいご</rt></ruby>の<ruby>技術<rt>ぎじゅつ</rt></ruby>をもっと<ruby>学<rt>まな</rt></ruby>ぶ<ruby>必要<rt>ひつよう</rt></ruby>があるといつも<ruby>感<rt>かん</rt></ruby>じていた。ある<ruby>日<rt>にち</rt></ruby>、<ruby>利用者<rt>りようしゃ</rt></ruby>Ｂさんに、「Ａさんじゃダメだ、<ruby>別<rt>べつ</rt></ruby>の<ruby>人<rt>にん</rt></ruby>を<ruby>呼<rt>よ</rt></ruby>んで」と<ruby>言<rt>い</rt></ruby>われて、ショックを<ruby>受<rt>う</rt></ruby>けた。<ruby>悩<rt>なや</rt></ruby>むうちに<ruby>利用者<rt>りようしゃ</rt></ruby>とかかわりたくないと<ruby>感<rt>かん</rt></ruby>じるようになり、<ruby>眠<rt>ねむ</rt></ruby>れなくなってしまった。 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち、このような<ruby>状況<rt>じょうきょう</rt></ruby>にあるＡさんが、ストレスを<ruby>取り除<rt>とりのぞ</rt></ruby>くためにまず<ruby>行<rt>おこな</rt></ruby>うべき<ruby>対処方法<rt>たいしょほうほう</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  つらさから逃げず、学びが足りないことを自覚する。",
-      "2  介護の技術がうまくなるために、全力で取り組む。",
-      "3  眠れるように、毎晩飲酒する。",
-      "4  上司や同僚などに悩みを話して、助言を受ける。",
-      "5  介護福祉職には向かないと判断して、転職する。"
+      "1 つらさから<ruby>逃<rt>に</rt></ruby>げず、<ruby>学<rt>まな</rt></ruby>びが<ruby>足<rt>た</rt></ruby>りないことを<ruby>自覚<rt>じかく</rt></ruby>する。",
+      "2 <ruby>介護<rt>かいご</rt></ruby>の<ruby>技術<rt>ぎじゅつ</rt></ruby>がうまくなるために、<ruby>全力<rt>ぜんりょく</rt></ruby>で<ruby>取り組<rt>とりく</rt></ruby>む。",
+      "3 <ruby>眠<rt>ねむ</rt></ruby>れるように、<ruby>毎晩<rt>まいばん</rt></ruby><ruby>飲酒<rt>いんしゅ</rt></ruby>する。",
+      "4 <ruby>上司<rt>じょうし</rt></ruby>や<ruby>同僚<rt>どうりょう</rt></ruby>などに<ruby>悩<rt>なや</rt></ruby>みを<ruby>話<rt>はな</rt></ruby>して、<ruby>助言<rt>じょげん</rt></ruby>を<ruby>受<rt>う</rt></ruby>ける。",
+      "5 <ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>には<ruby>向<rt>む</rt></ruby>かないと<ruby>判断<rt>はんだん</rt></ruby>して、<ruby>転職<rt>てんしょく</rt></ruby>する。"
     ],
     "answer": 3
   },
   {
-    "question": "問題26 Ａさんは有料老人ホームに入所したばかりである。ある日、廊下を行ったり来たりしているＡさんに、Ｂ介護福祉職が声をかけた。Ａさんは、「私の部屋はどこですか」と困った様子で答えた。Ｂ介護福祉職が、「ここから2つ隣の部屋です」と伝えると、Ａさんは、「どこですか」と不安そうな表情で聞いた。Ｂ介護福祉職は非言語的コミュニケーションを用いて伝えることにした。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>26 Ａさんは<ruby>有料<rt>ゆうりょう</rt></ruby><ruby>老人<rt>ろうじん</rt></ruby>ホームに<ruby>入所<rt>にゅうしょ</rt></ruby>したばかりである。ある<ruby>日<rt>にち</rt></ruby>、<ruby>廊下<rt>ろうか</rt></ruby>を<ruby>行<rt>い</rt></ruby>ったり<ruby>来<rt>き</rt></ruby>たりしているＡさんに、Ｂ<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>が<ruby>声<rt>こえ</rt></ruby>をかけた。Ａさんは、「<ruby>私<rt>わたし</rt></ruby>の<ruby>部屋<rt>へや</rt></ruby>はどこですか」と<ruby>困<rt>こま</rt></ruby>った<ruby>様子<rt>ようす</rt></ruby>で<ruby>答<rt>こた</rt></ruby>えた。Ｂ<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>が、「ここから2つ<ruby>隣<rt>となり</rt></ruby>の<ruby>部屋<rt>へや</rt></ruby>です」と<ruby>伝<rt>つた</rt></ruby>えると、Ａさんは、「どこですか」と<ruby>不安<rt>ふあん</rt></ruby>そうな<ruby>表情<rt>ひょうじょう</rt></ruby>で<ruby>聞<rt>き</rt></ruby>いた。Ｂ<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>は<ruby>非言語的<rt>ひげんごてき</rt></ruby>コミュニケーションを<ruby>用<rt>もち</rt></ruby>いて<ruby>伝<rt>つた</rt></ruby>えることにした。",
     "choices": [
-      "1  ゆっくり話した。",
-      "2  大きな声で伝えた。",
-      "3  Ａさんの部屋の番号を紙に書いて渡した。",
-      "4  Ａさんに近づいた。",
-      "5  Ａさんの部屋のドアを指差した。"
+      "1 ゆっくり<ruby>話<rt>はな</rt></ruby>した。",
+      "2 <ruby>大<rt>おお</rt></ruby>きな<ruby>声<rt>こえ</rt></ruby>で<ruby>伝<rt>つた</rt></ruby>えた。",
+      "3 Ａさんの<ruby>部屋<rt>へや</rt></ruby>の<ruby>番号<rt>ばんごう</rt></ruby>を<ruby>紙<rt>かみ</rt></ruby>に<ruby>書<rt>か</rt></ruby>いて<ruby>渡<rt>わた</rt></ruby>した。",
+      "4 Ａさんに<ruby>近<rt>ちか</rt></ruby>づいた。",
+      "5 Ａさんの<ruby>部屋<rt>へや</rt></ruby>のドアを<ruby>指差<rt>ゆびさし</rt></ruby>した。"
     ],
     "answer": 4
   },
   {
-    "question": "問題27 次のうち、介護福祉施設におけるコンプライアンスの意味として、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>27 <ruby>次<rt>つぎ</rt></ruby>のうち、<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>施設<rt>しせつ</rt></ruby>におけるコンプライアンスの<ruby>意味<rt>いみ</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  法令を遵守すること",
-      "2  給与を引き上げること",
-      "3  連携を促進すること",
-      "4  介護技術の向上に努めること",
-      "5  管理体制を強化すること"
+      "1 <ruby>法令<rt>ほうれい</rt></ruby>を<ruby>遵守<rt>じゅんしゅ</rt></ruby>すること",
+      "2 <ruby>給与<rt>きゅうよ</rt></ruby>を<ruby>引き上<rt>ひきあ</rt></ruby>げること",
+      "3 <ruby>連携<rt>れんけい</rt></ruby>を<ruby>促進<rt>そくしん</rt></ruby>すること",
+      "4 <ruby>介護<rt>かいご</rt></ruby><ruby>技術<rt>ぎじゅつ</rt></ruby>の<ruby>向上<rt>こうじょう</rt></ruby>に<ruby>努<rt>つと</rt></ruby>めること",
+      "5 <ruby>管理体制<rt>かんりたいせい</rt></ruby>を<ruby>強化<rt>きょうか</rt></ruby>すること"
     ],
     "answer": 0
   },
   {
-    "question": "問題28 入社して3か月のＡ介護福祉職は、初めて夜勤を経験したとき、排泄｛はいせつ｝チェック表の記入でミスをしてしまった。起床介助で忙しい時間に記入したために、記載箇所を間違えてしまった。Ａ介護福祉職は自身のミスを受け入れられず、落ち込んでいる。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>28 <ruby>入社<rt>にゅうしゃ</rt></ruby>して3か<ruby>月<rt>がつ</rt></ruby>のＡ<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>は、<ruby>初<rt>はじ</rt></ruby>めて<ruby>夜勤<rt>やきん</rt></ruby>を<ruby>経験<rt>けいけん</rt></ruby>したとき、<ruby>排泄<rt>はいせつ</rt></ruby>｛はいせつ｝チェック<ruby>表<rt>おもて</rt></ruby>の<ruby>記入<rt>きにゅう</rt></ruby>でミスをしてしまった。<ruby>起床<rt>きしょう</rt></ruby><ruby>介助<rt>かいじょ</rt></ruby>で<ruby>忙<rt>いそが</rt></ruby>しい<ruby>時間<rt>じかん</rt></ruby>に<ruby>記入<rt>きにゅう</rt></ruby>したために、<ruby>記載<rt>きさい</rt></ruby><ruby>箇所<rt>かしょ</rt></ruby>を<ruby>間違<rt>まちが</rt></ruby>えてしまった。Ａ<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>は<ruby>自身<rt>じしん</rt></ruby>のミスを<ruby>受け入<rt>うけい</rt></ruby>れられず、<ruby>落ち込<rt>おちこ</rt></ruby>んでいる。",
     "choices": [
-      "1  同僚と一緒に排泄｛はいせつ｝チェック表を確認する。",
-      "2  施設長から再発防止に向けた対応を指示する。",
-      "3  上司がＡ介護福祉職の気持ちの理解に努めつつ、状況を確認する。",
-      "4  看護師が利用者のその後の状況を確認する。",
-      "5  業務マニュアルを見直して、上司が必要な修正を行う。"
+      "1 <ruby>同僚<rt>どうりょう</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>排泄<rt>はいせつ</rt></ruby>｛はいせつ｝チェック<ruby>表<rt>あら</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>する。",
+      "2 <ruby>施設長<rt>しせつちょう</rt></ruby>から<ruby>再発<rt>さいはつ</rt></ruby><ruby>防止<rt>ぼうし</rt></ruby>に<ruby>向<rt>む</rt></ruby>けた<ruby>対応<rt>たいおう</rt></ruby>を<ruby>指示<rt>しじ</rt></ruby>する。",
+      "3 <ruby>上司<rt>じょうし</rt></ruby>がＡ<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>の<ruby>気持<rt>きも</rt></ruby>ちの<ruby>理解<rt>りかい</rt></ruby>に<ruby>努<rt>つと</rt></ruby>めつつ、<ruby>状況<rt>じょうきょう</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>する。",
+      "4 <ruby>看護<rt>かんご</rt></ruby><ruby>師<rt>し</rt></ruby>が<ruby>利用者<rt>りようしゃ</rt></ruby>のその<ruby>後<rt>のち</rt></ruby>の<ruby>状況<rt>じょうきょう</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>する。",
+      "5 <ruby>業務<rt>ぎょうむ</rt></ruby>マニュアルを<ruby>見直<rt>みなお</rt></ruby>して、<ruby>上司<rt>じょうし</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>な<ruby>修正<rt>しゅうせい</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う。"
     ],
     "answer": 2
   },
   {
-    "question": "問題29 次のうち、利用者とのコミュニケーション場面で、介護福祉職が行う自己開示の目的として、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>29 <ruby>次<rt>つぎ</rt></ruby>のうち、<ruby>利用者<rt>りようしゃ</rt></ruby>とのコミュニケーション<ruby>場面<rt>ばめん</rt></ruby>で、<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>が<ruby>行<rt>おこな</rt></ruby>う<ruby>自己<rt>じこ</rt></ruby><ruby>開示<rt>かいじ</rt></ruby>の<ruby>目的<rt>もくてき</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  自己の潜在意識を活用するため",
-      "2  利用者との信頼関係を評価するため",
-      "3  利用者に自分自身の情報を知らせるため",
-      "4  利用者との信頼関係を形成するため",
-      "5  自己を深く分析し、客観的に理解するため"
+      "1 <ruby>自己<rt>じこ</rt></ruby>の<ruby>潜在意識<rt>せんざいいしき</rt></ruby>を<ruby>活用<rt>かつよう</rt></ruby>するため",
+      "2 <ruby>利用者<rt>りようしゃ</rt></ruby>との<ruby>信頼関係<rt>しんらいかんけい</rt></ruby>を<ruby>評価<rt>ひょうか</rt></ruby>するため",
+      "3 <ruby>利用者<rt>りようしゃ</rt></ruby>に<ruby>自分自身<rt>じぶんじしん</rt></ruby>の<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>知<rt>し</rt></ruby>らせるため",
+      "4 <ruby>利用者<rt>りようしゃ</rt></ruby>との<ruby>信頼関係<rt>しんらいかんけい</rt></ruby>を<ruby>形成<rt>けいせい</rt></ruby>するため",
+      "5 <ruby>自己<rt>じこ</rt></ruby>を<ruby>深<rt>ふか</rt></ruby>く<ruby>分析<rt>ぶんせき</rt></ruby>し、<ruby>客観的<rt>きゃっかんてき</rt></ruby>に<ruby>理解<rt>りかい</rt></ruby>するため"
     ],
     "answer": 3
   },
   {
-    "question": "問題30 Ａ介護福祉職は、認知症（dementia）のあるＢさん（80歳、女性）と会話をしている。Ｂさんは、「私は小さい頃毎年お祭りに行くことが楽しみでね」「なんだか最近ひざが痛いような気がしてね」「今から何をしようかしらね」と、次々に話している。Ａ介護福祉職は、Ｂさんが混乱しないように、「Ｂさん、子どもの頃の思い出や体調のことをお話しくださっているのですね」と返答した。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>30 Ａ<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>は、<ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby>（dementia）のあるＢさん（80<ruby>歳<rt>とし</rt></ruby>、<ruby>女性<rt>じょせい</rt></ruby>）と<ruby>会話<rt>かいわ</rt></ruby>をしている。Ｂさんは、「<ruby>私<rt>わたし</rt></ruby>は<ruby>小<rt>ちー</rt></ruby>さい<ruby>頃<rt>ごろ</rt></ruby><ruby>毎年<rt>まいとし</rt></ruby>お<ruby>祭<rt>まつ</rt></ruby>りに<ruby>行<rt>い</rt></ruby>くことが<ruby>楽<rt>たの</rt></ruby>しみでね」「なんだか<ruby>最近<rt>さいきん</rt></ruby>ひざが<ruby>痛<rt>いた</rt></ruby>いような<ruby>気<rt>き</rt></ruby>がしてね」「<ruby>今<rt>いま</rt></ruby>から<ruby>何<rt>なに</rt></ruby>をしようかしらね」と、<ruby>次々<rt>つぎつぎ</rt></ruby>に<ruby>話<rt>はな</rt></ruby>している。Ａ<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>は、Ｂさんが<ruby>混乱<rt>こんらん</rt></ruby>しないように、「Ｂさん、<ruby>子<rt>こ</rt></ruby>どもの<ruby>頃<rt>ごろ</rt></ruby>の<ruby>思い出<rt>おもいで</rt></ruby>や<ruby>体調<rt>たいちょう</rt></ruby>のことをお<ruby>話<rt>はな</rt></ruby>しくださっているのですね」と<ruby>返答<rt>へんとう</rt></ruby>した。",
     "choices": [
-      "1  要約",
-      "2  承認",
-      "3  賞賛",
-      "4  共感",
-      "5  同意"
+      "1 <ruby>要約<rt>ようやく</rt></ruby>",
+      "2 <ruby>承認<rt>しょうにん</rt></ruby>",
+      "3 <ruby>賞賛<rt>しょうさん</rt></ruby>",
+      "4 <ruby>共感<rt>きょうかん</rt></ruby>",
+      "5 <ruby>同意<rt>どうい</rt></ruby>"
     ],
     "answer": 0
   },
   {
-    "question": "問題31 次の記述のうち、利用者の家族との関係づくりにおける介護福祉職の基本姿勢として、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>31 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち、<ruby>利用者<rt>りようしゃ</rt></ruby>の<ruby>家族<rt>かぞく</rt></ruby>との<ruby>関係<rt>かんけい</rt></ruby>づくりにおける<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>の<ruby>基本姿勢<rt>きほんしせい</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  お互いの緊張が解けるまでじっと待つ。",
-      "2  介護福祉職のペースで話を進める。",
-      "3  利用者の意向よりも家族の意向を優先する。",
-      "4  家族への連絡は最小限にする。",
-      "5  利用者支援で協働するパートナーとして接する。"
+      "1 お<ruby>互<rt>たが</rt></ruby>いの<ruby>緊張<rt>きんちょう</rt></ruby>が<ruby>解<rt>と</rt></ruby>けるまでじっと<ruby>待<rt>ま</rt></ruby>つ。",
+      "2 <ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>のペースで<ruby>話<rt>はなし</rt></ruby>を<ruby>進<rt>すす</rt></ruby>める。",
+      "3 <ruby>利用者<rt>りようしゃ</rt></ruby>の<ruby>意向<rt>いこう</rt></ruby>よりも<ruby>家族<rt>かぞく</rt></ruby>の<ruby>意向<rt>いこう</rt></ruby>を<ruby>優先<rt>ゆうせん</rt></ruby>する。",
+      "4 <ruby>家族<rt>かぞく</rt></ruby>への<ruby>連絡<rt>れんらく</rt></ruby>は<ruby>最小限<rt>さいしょうげん</rt></ruby>にする。",
+      "5 <ruby>利用者<rt>りようしゃ</rt></ruby><ruby>支援<rt>しえん</rt></ruby>で<ruby>協働<rt>きょうどう</rt></ruby>するパートナーとして<ruby>接<rt>せっ</rt></ruby>する。"
     ],
     "answer": 4
   },
   {
-    "question": "問題32 Ａさん（80歳、女性、要介護3）は中途障害の全盲である。介護老人福祉施設に入所している。最近、食堂の席の入れ替えがあった。Ａさんは同じテーブルの利用者同士の会話を、自分に向けて話しかけられていると思って、応答した。しかし、誰からも反応はなく、Ａさんは下を向いてしまった。その様子を見たＢ介護福祉職は、Ａさんの状況に対応するために、同じテーブルの利用者にＡさんの事情を話し、協力を求めた。 次の記述のうち、Ｂ介護福祉職が同じテーブルの利用者に協力を依頼した内容として、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>32 Ａさん（80<ruby>歳<rt>とし</rt></ruby>、<ruby>女性<rt>じょせい</rt></ruby>、<ruby>要介<rt>ようすけ</rt></ruby><ruby>護<rt>ご</rt></ruby>3）は<ruby>中途<rt>ちゅうと</rt></ruby><ruby>障害<rt>しょうがい</rt></ruby>の<ruby>全盲<rt>ぜんもう</rt></ruby>である。<ruby>介護<rt>かいご</rt></ruby><ruby>老人<rt>ろうじん</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>施設<rt>しせつ</rt></ruby>に<ruby>入所<rt>にゅうしょ</rt></ruby>している。<ruby>最近<rt>さいきん</rt></ruby>、<ruby>食堂<rt>しょくどう</rt></ruby>の<ruby>席<rt>せき</rt></ruby>の<ruby>入れ替<rt>いれか</rt></ruby>えがあった。Ａさんは<ruby>同<rt>おな</rt></ruby>じテーブルの<ruby>利用者<rt>りようしゃ</rt></ruby><ruby>同士<rt>どうし</rt></ruby>の<ruby>会話<rt>かいわ</rt></ruby>を、<ruby>自分<rt>じぶん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて<ruby>話<rt>はな</rt></ruby>しかけられていると<ruby>思<rt>おも</rt></ruby>って、<ruby>応答<rt>おうとう</rt></ruby>した。しかし、<ruby>誰<rt>だれ</rt></ruby>からも<ruby>反応<rt>はんのう</rt></ruby>はなく、Ａさんは<ruby>下<rt>した</rt></ruby>を<ruby>向<rt>む</rt></ruby>いてしまった。その<ruby>様子<rt>ようす</rt></ruby>を<ruby>見<rt>み</rt></ruby>たＢ<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>は、Ａさんの<ruby>状況<rt>じょうきょう</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>するために、<ruby>同<rt>おな</rt></ruby>じテーブルの<ruby>利用者<rt>りようしゃ</rt></ruby>にＡさんの<ruby>事情<rt>じじょう</rt></ruby>を<ruby>話<rt>はな</rt></ruby>し、<ruby>協力<rt>きょうりょく</rt></ruby>を<ruby>求<rt>もと</rt></ruby>めた。 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち、Ｂ<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>が<ruby>同<rt>おな</rt></ruby>じテーブルの<ruby>利用者<rt>りようしゃ</rt></ruby>に<ruby>協力<rt>きょうりょく</rt></ruby>を<ruby>依頼<rt>いらい</rt></ruby>した<ruby>内容<rt>ないよう</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  Ａさんは疲れているので、部屋で休むように伝えてほしい。",
-      "2  Ａさんは不安なので、そっと手を握ってほしい。",
-      "3  Ａさんにもわかるように、話す相手の名前を呼んでから話しかけてほしい。",
-      "4  Ａさんが混乱するので、食堂での会話は控えてほしい。",
-      "5  Ａさんは施設の予定がわからないので、これから食事だと教えてほしい。"
+      "1 Ａさんは<ruby>疲<rt>つか</rt></ruby>れているので、<ruby>部屋<rt>へや</rt></ruby>で<ruby>休<rt>やす</rt></ruby>むように<ruby>伝<rt>つた</rt></ruby>えてほしい。",
+      "2 Ａさんは<ruby>不安<rt>ふあん</rt></ruby>なので、そっと<ruby>手<rt>て</rt></ruby>を<ruby>握<rt>にぎ</rt></ruby>ってほしい。",
+      "3 Ａさんにもわかるように、<ruby>話<rt>はな</rt></ruby>す<ruby>相手<rt>あいて</rt></ruby>の<ruby>名前<rt>なまえ</rt></ruby>を<ruby>呼<rt>よ</rt></ruby>んでから<ruby>話<rt>はな</rt></ruby>しかけてほしい。",
+      "4 Ａさんが<ruby>混乱<rt>こんらん</rt></ruby>するので、<ruby>食堂<rt>しょくどう</rt></ruby>での<ruby>会話<rt>かいわ</rt></ruby>は<ruby>控<rt>ひか</rt></ruby>えてほしい。",
+      "5 Ａさんは<ruby>施設<rt>しせつ</rt></ruby>の<ruby>予定<rt>よてい</rt></ruby>がわからないので、これから<ruby>食事<rt>しょくじ</rt></ruby>だと<ruby>教<rt>おし</rt></ruby>えてほしい。"
     ],
     "answer": 2
   },
   {
-    "question": "問題33 Ａさん（72歳、男性）は記憶障害があり、介護施設に入居している。ある日、介護福祉職にＡさんが、「あの、ちょっとお願いがあるんです。ええとね、実は、お昼ご飯をほとんど残しちゃいました…。それでね…、あ、あれかな、調理師さんはがっかりしたかな、私はずっと食堂をやっていたんですよ。店はけっこう繁盛していたけど閉めることになってね。あ、ええと何の話だったかな…」と話しかけてきた。 次のうち、このときのＡさんの発言を促すための介護福祉職の応答として、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>33 Ａさん（72<ruby>歳<rt>とし</rt></ruby>、<ruby>男性<rt>だんせい</rt></ruby>）は<ruby>記憶<rt>きおく</rt></ruby><ruby>障害<rt>しょうがい</rt></ruby>があり、<ruby>介護<rt>かいご</rt></ruby><ruby>施設<rt>しせつ</rt></ruby>に<ruby>入居<rt>にゅうきょ</rt></ruby>している。ある<ruby>日<rt>にち</rt></ruby>、<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>にＡさんが、「あの、ちょっとお<ruby>願<rt>ねが</rt></ruby>いがあるんです。ええとね、<ruby>実<rt>じつ</rt></ruby>は、お<ruby>昼<rt>ひる</rt></ruby>ご<ruby>飯<rt>めし</rt></ruby>をほとんど<ruby>残<rt>のこ</rt></ruby>しちゃいました…。それでね…、あ、あれかな、<ruby>調理師<rt>ちょうりし</rt></ruby>さんはがっかりしたかな、<ruby>私<rt>わたし</rt></ruby>はずっと<ruby>食堂<rt>しょくどう</rt></ruby>をやっていたんですよ。<ruby>店<rt>みせ</rt></ruby>はけっこう<ruby>繁盛<rt>はんじょう</rt></ruby>していたけど<ruby>閉<rt>し</rt></ruby>めることになってね。あ、ええと<ruby>何<rt>なん</rt></ruby>の<ruby>話<rt>はなし</rt></ruby>だったかな…」と<ruby>話<rt>はな</rt></ruby>しかけてきた。 <ruby>次<rt>つぎ</rt></ruby>のうち、このときのＡさんの<ruby>発言<rt>はつげん</rt></ruby>を<ruby>促<rt>うなが</rt></ruby>すための<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>の<ruby>応答<rt>おうとう</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  「Ａさんは、お店を閉めたくなかったのですね」",
-      "2  「Ａさんは、どんな料理が得意だったのですか」",
-      "3  「調理師さんのことは気にしなくていいですよ」",
-      "4  「どこかからだの具合が悪いのではないですか」",
-      "5  「何かお願いがあるのではありませんか」"
+      "1 「Ａさんは、お<ruby>店<rt>みせ</rt></ruby>を<ruby>閉<rt>し</rt></ruby>めたくなかったのですね」",
+      "2 「Ａさんは、どんな<ruby>料理<rt>りょうり</rt></ruby>が<ruby>得意<rt>とくい</rt></ruby>だったのですか」",
+      "3 「<ruby>調理師<rt>ちょうりし</rt></ruby>さんのことは<ruby>気<rt>き</rt></ruby>にしなくていいですよ」",
+      "4 「どこかからだの<ruby>具合<rt>ぐあい</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>いのではないですか」",
+      "5 「<ruby>何<rt>なに</rt></ruby>かお<ruby>願<rt>ねが</rt></ruby>いがあるのではありませんか」"
     ],
     "answer": 4
   },
   {
-    "question": "問題34 次の記述のうち、客観的事実に該当するものとして、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>34 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち、<ruby>客観的事実<rt>きゃっかんてきじじつ</rt></ruby>に<ruby>該当<rt>がいとう</rt></ruby>するものとして、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  利用者Ａは、楽しかったはずだ。",
-      "2  利用者Ａは、朝食のパンを残した。",
-      "3  利用者Ａは、何か言いたそうだった。",
-      "4  利用者Ａは、不安だったと思う。",
-      "5  利用者Ａは、退屈そうにしていた。"
+      "1 <ruby>利用者<rt>りようしゃ</rt></ruby>Ａは、<ruby>楽<rt>たの</rt></ruby>しかったはずだ。",
+      "2 <ruby>利用者<rt>りようしゃ</rt></ruby>Ａは、<ruby>朝食<rt>ちょうしょく</rt></ruby>のパンを<ruby>残<rt>のこ</rt></ruby>した。",
+      "3 <ruby>利用者<rt>りようしゃ</rt></ruby>Ａは、<ruby>何<rt>なに</rt></ruby>か<ruby>言<rt>い</rt></ruby>いたそうだった。",
+      "4 <ruby>利用者<rt>りようしゃ</rt></ruby>Ａは、<ruby>不安<rt>ふあん</rt></ruby>だったと<ruby>思<rt>おも</rt></ruby>う。",
+      "5 <ruby>利用者<rt>りようしゃ</rt></ruby>Ａは、<ruby>退屈<rt>たいくつ</rt></ruby>そうにしていた。"
     ],
     "answer": 1
   },
   {
-    "question": "問題35 次の記述のうち、介護福祉職が行う利用者の生活支援として、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>35 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち、<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>が<ruby>行<rt>おこな</rt></ruby>う<ruby>利用者<rt>りようしゃ</rt></ruby>の<ruby>生活<rt>せいかつ</rt></ruby><ruby>支援<rt>しえん</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  利用者ができないことを代わりに行うことに重点を置く。",
-      "2  利用者の全体像をとらえて支援する。",
-      "3  利用者がすべてを自分一人でできるようにする。",
-      "4  利用者の生活の効率化を図ることを目標にする。",
-      "5  利用者に同情する気持ちで寄り添う。"
+      "1 <ruby>利用者<rt>りようしゃ</rt></ruby>ができないことを<ruby>代<rt>か</rt></ruby>わりに<ruby>行<rt>おこな</rt></ruby>うことに<ruby>重点<rt>じゅうてん</rt></ruby>を<ruby>置<rt>お</rt></ruby>く。",
+      "2 <ruby>利用者<rt>りようしゃ</rt></ruby>の<ruby>全体像<rt>ぜんたいぞう</rt></ruby>をとらえて<ruby>支援<rt>しえん</rt></ruby>する。",
+      "3 <ruby>利用者<rt>りようしゃ</rt></ruby>がすべてを<ruby>自分一人<rt>じぶんひとり</rt></ruby>でできるようにする。",
+      "4 <ruby>利用者<rt>りようしゃ</rt></ruby>の<ruby>生活<rt>せいかつ</rt></ruby>の<ruby>効率化<rt>こうりつか</rt></ruby>を<ruby>図<rt>はか</rt></ruby>ることを<ruby>目標<rt>もくひょう</rt></ruby>にする。",
+      "5 <ruby>利用者<rt>りようしゃ</rt></ruby>に<ruby>同情<rt>どうじょう</rt></ruby>する<ruby>気持<rt>きも</rt></ruby>ちで<ruby>寄<rt>よ</rt></ruby>り<ruby>添<rt>そ</rt></ruby>う。"
     ],
     "answer": 1
   },
   {
-    "question": "問題36 介護老人福祉施設における、快適な室内環境に関する次の記述のうち、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>36 <ruby>介護<rt>かいご</rt></ruby><ruby>老人<rt>ろうじん</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>施設<rt>しせつ</rt></ruby>における、<ruby>快適<rt>かいてき</rt></ruby>な<ruby>室内環境<rt>しつないかんきょう</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  風の通り道をつくって、換気を行う。",
-      "2  手すりは、壁紙と同じ色を使う。",
-      "3  ベッドライトの光源は、利用者の目に直接あたるように調整する。",
-      "4  カビの発生を予防するために、湿度は高く保つ。",
-      "5  靴音を小さくするために、硬い床材にする。"
+      "1 <ruby>風<rt>かぜ</rt></ruby>の<ruby>通り道<rt>とおりみち</rt></ruby>をつくって、<ruby>換気<rt>かんき</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う。",
+      "2 <ruby>手<rt>て</rt></ruby>すりは、<ruby>壁紙<rt>かべがみ</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じ<ruby>色<rt>いろ</rt></ruby>を<ruby>使<rt>つか</rt></ruby>う。",
+      "3 ベッドライトの<ruby>光源<rt>こうげん</rt></ruby>は、<ruby>利用者<rt>りようしゃ</rt></ruby>の<ruby>目<rt>め</rt></ruby>に<ruby>直接<rt>ちょくせつ</rt></ruby>あたるように<ruby>調整<rt>ちょうせい</rt></ruby>する。",
+      "4 カビの<ruby>発生<rt>はっせい</rt></ruby>を<ruby>予防<rt>よぼう</rt></ruby>するために、<ruby>湿度<rt>しつど</rt></ruby>は<ruby>高<rt>たか</rt></ruby>く<ruby>保<rt>たも</rt></ruby>つ。",
+      "5 <ruby>靴音<rt>くつおと</rt></ruby>を<ruby>小<rt>ちー</rt></ruby>さくするために、<ruby>硬<rt>かた</rt></ruby>い<ruby>床材<rt>ゆかざい</rt></ruby>にする。"
     ],
     "answer": 0
   },
   {
-    "question": "問題37 パーキンソン病（Parkinson disease）の人の住まいに関する次の記述のうち、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>37 パーキンソン<ruby>病<rt>びょう</rt></ruby>（Parkinson disease）の<ruby>人<rt>にん</rt></ruby>の<ruby>住<rt>す</rt></ruby>まいに<ruby>関<rt>かん</rt></ruby>する<ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  玄関の段差には、スロープを設置する。",
-      "2  廊下の床には、歩幅に合わせて目印をつける。",
-      "3  リビングの床には、大きさの違うカーペットを重ねて敷く。",
-      "4  移動空間が狭くなるように、家具を配置する。",
-      "5  リビングは1階、浴室は2階にして、階段で行き来する。"
+      "1 <ruby>玄関<rt>げんかん</rt></ruby>の<ruby>段差<rt>だんさ</rt></ruby>には、スロープを<ruby>設置<rt>せっち</rt></ruby>する。",
+      "2 <ruby>廊下<rt>ろうか</rt></ruby>の<ruby>床<rt>とこ</rt></ruby>には、<ruby>歩幅<rt>ほはば</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わせて<ruby>目印<rt>めじるし</rt></ruby>をつける。",
+      "3 リビングの<ruby>床<rt>とこ</rt></ruby>には、<ruby>大<rt>おお</rt></ruby>きさの<ruby>違<rt>ちが</rt></ruby>うカーペットを<ruby>重<rt>おも</rt></ruby>ねて<ruby>敷<rt>し</rt></ruby>く。",
+      "4 <ruby>移動<rt>いどう</rt></ruby><ruby>空間<rt>くうかん</rt></ruby>が<ruby>狭<rt>せま</rt></ruby>くなるように、<ruby>家具<rt>かぐ</rt></ruby>を<ruby>配置<rt>はいち</rt></ruby>する。",
+      "5 リビングは1<ruby>階<rt>かい</rt></ruby>、<ruby>浴室<rt>よくしつ</rt></ruby>は2<ruby>階<rt>かい</rt></ruby>にして、<ruby>階段<rt>かいだん</rt></ruby>で<ruby>行き来<rt>いきき</rt></ruby>する。"
     ],
     "answer": 1
   },
   {
-    "question": "問題38 次の記述のうち、歩行が不安定になり、移動の意欲が低下している利用者に対する介護として、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>38 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち、<ruby>歩行<rt>ほこう</rt></ruby>が<ruby>不安定<rt>ふあんてい</rt></ruby>になり、<ruby>移動<rt>いどう</rt></ruby>の<ruby>意欲<rt>いよく</rt></ruby>が<ruby>低下<rt>ていか</rt></ruby>している<ruby>利用者<rt>りようしゃ</rt></ruby>に<ruby>対<rt>たい</rt></ruby>する<ruby>介護<rt>かいご</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  福祉用具の使用は避けて、自力での歩行を目指すように促す。",
-      "2  移動の目的を伝えるよりも、歩行機能の改善を優先する。",
-      "3  成功体験を積み重ねることができるように、達成可能な歩行の目標距離を設定する。",
-      "4  歩行の不安定さに合わせて、移動範囲を縮小する。",
-      "5  本人が希望しなくても、介護福祉職の判断で毎日歩くことを目標にする。"
+      "1 <ruby>福祉<rt>ふくし</rt></ruby><ruby>用具<rt>ようぐ</rt></ruby>の<ruby>使用<rt>しよう</rt></ruby>は<ruby>避<rt>さ</rt></ruby>けて、<ruby>自力<rt>じりき</rt></ruby>での<ruby>歩行<rt>ほこう</rt></ruby>を<ruby>目指<rt>めざ</rt></ruby>すように<ruby>促<rt>うなが</rt></ruby>す。",
+      "2 <ruby>移動<rt>いどう</rt></ruby>の<ruby>目的<rt>もくてき</rt></ruby>を<ruby>伝<rt>つた</rt></ruby>えるよりも、<ruby>歩行<rt>ほこう</rt></ruby><ruby>機能<rt>きのう</rt></ruby>の<ruby>改善<rt>かいぜん</rt></ruby>を<ruby>優先<rt>ゆうせん</rt></ruby>する。",
+      "3 <ruby>成功<rt>せいこう</rt></ruby><ruby>体験<rt>たいけん</rt></ruby>を<ruby>積み重<rt>つみかさ</rt></ruby>ねることができるように、<ruby>達成<rt>たっせい</rt></ruby><ruby>可能<rt>かのう</rt></ruby>な<ruby>歩行<rt>ほこう</rt></ruby>の<ruby>目標<rt>もくひょう</rt></ruby><ruby>距離<rt>きょり</rt></ruby>を<ruby>設定<rt>せってい</rt></ruby>する。",
+      "4 <ruby>歩行<rt>ほこう</rt></ruby>の<ruby>不安定<rt>ふあんてい</rt></ruby>さに<ruby>合<rt>あ</rt></ruby>わせて、<ruby>移動範囲<rt>いどうはんい</rt></ruby>を<ruby>縮小<rt>しゅくしょう</rt></ruby>する。",
+      "5 <ruby>本人<rt>ほんにん</rt></ruby>が<ruby>希望<rt>きぼう</rt></ruby>しなくても、<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>の<ruby>判断<rt>はんだん</rt></ruby>で<ruby>毎日<rt>まいにち</rt></ruby><ruby>歩<rt>ある</rt></ruby>くことを<ruby>目標<rt>もくひょう</rt></ruby>にする。"
     ],
     "answer": 2
   },
   {
-    "question": "問題39 次の記述のうち、右片麻痺｛みぎかたまひ｝のある利用者に対する、仰臥位｛ぎょうがい｝（背臥位｛はいがい｝）から車いすへの移乗の介護として、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>39 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち、<ruby>右片<rt>うへん</rt></ruby><ruby>麻痺<rt>まひ</rt></ruby>｛みぎかたまひ｝のある<ruby>利用者<rt>りようしゃ</rt></ruby>に<ruby>対<rt>たい</rt></ruby>する、<ruby>仰臥<rt>ぎょうが</rt></ruby><ruby>位<rt>くらい</rt></ruby>｛ぎょうがい｝（<ruby>背<rt>せ</rt></ruby><ruby>臥位<rt>がい</rt></ruby>｛はいがい｝）から<ruby>車<rt>くるま</rt></ruby>いすへの<ruby>移乗<rt>いじょう</rt></ruby>の<ruby>介護<rt>かいご</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  利用者に右側臥位｛みぎそくがい｝になって起き上がるように促す。",
-      "2  端座位になった利用者の左側に立つ。",
-      "3  端座位になった利用者の右側に、車いすを置く。",
-      "4  車いすのフットサポートは下げておく。",
-      "5  移乗するときは、利用者に前傾姿勢をとるように促す。"
+      "1 <ruby>利用者<rt>りようしゃ</rt></ruby>に<ruby>右側<rt>みぎがわ</rt></ruby><ruby>臥位<rt>がい</rt></ruby>｛みぎそくがい｝になって<ruby>起き上<rt>おきあ</rt></ruby>がるように<ruby>促<rt>うなが</rt></ruby>す。",
+      "2 <ruby>端座<rt>たんざ</rt></ruby><ruby>位<rt>くらい</rt></ruby>になった<ruby>利用者<rt>りようしゃ</rt></ruby>の<ruby>左側<rt>ひだりがわ</rt></ruby>に<ruby>立<rt>た</rt></ruby>つ。",
+      "3 <ruby>端座<rt>たんざ</rt></ruby><ruby>位<rt>くらい</rt></ruby>になった<ruby>利用者<rt>りようしゃ</rt></ruby>の<ruby>右側<rt>みぎがわ</rt></ruby>に、<ruby>車<rt>くるま</rt></ruby>いすを<ruby>置<rt>お</rt></ruby>く。",
+      "4 <ruby>車<rt>くるま</rt></ruby>いすのフットサポートは<ruby>下<rt>さ</rt></ruby>げておく。",
+      "5 <ruby>移乗<rt>いじょう</rt></ruby>するときは、<ruby>利用者<rt>りようしゃ</rt></ruby>に<ruby>前傾姿勢<rt>ぜんけいしせい</rt></ruby>をとるように<ruby>促<rt>うなが</rt></ruby>す。"
     ],
     "answer": 4
   },
   {
-    "question": "問題40 視覚障害者の歩行時の誘導に関する次の記述のうち、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>40 <ruby>視覚障害者<rt>しかくしょうがいしゃ</rt></ruby>の<ruby>歩行<rt>ほこう</rt></ruby><ruby>時<rt>とき</rt></ruby>の<ruby>誘導<rt>ゆうどう</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  介護福祉職は、利用者の半歩後ろで背中を支えながら歩く。",
-      "2  介護福祉職は、白杖｛はくじょう｝に触れながら歩く。",
-      "3  狭い通路では、介護福祉職は利用者の後ろを歩く。",
-      "4  階段利用時は、介護福祉職は階段の前で声かけして止まる。",
-      "5  介護福祉職は、利用者が握っている上肢を振って歩く。"
+      "1 <ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>は、<ruby>利用者<rt>りようしゃ</rt></ruby>の<ruby>半歩<rt>はんぽ</rt></ruby><ruby>後<rt>うし</rt></ruby>ろで<ruby>背中<rt>せなか</rt></ruby>を<ruby>支<rt>ささ</rt></ruby>えながら<ruby>歩<rt>ある</rt></ruby>く。",
+      "2 <ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>は、<ruby>白<rt>しろ</rt></ruby><ruby>杖<rt>つえ</rt></ruby>｛はくじょう｝に<ruby>触<rt>ふ</rt></ruby>れながら<ruby>歩<rt>ある</rt></ruby>く。",
+      "3 <ruby>狭<rt>せま</rt></ruby>い<ruby>通路<rt>つうろ</rt></ruby>では、<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>は<ruby>利用者<rt>りようしゃ</rt></ruby>の<ruby>後<rt>うし</rt></ruby>ろを<ruby>歩<rt>ある</rt></ruby>く。",
+      "4 <ruby>階段<rt>かいだん</rt></ruby><ruby>利用時<rt>りようじ</rt></ruby>は、<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>は<ruby>階段<rt>かいだん</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>で<ruby>声<rt>こえ</rt></ruby>かけして<ruby>止<rt>と</rt></ruby>まる。",
+      "5 <ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>は、<ruby>利用者<rt>りようしゃ</rt></ruby>が<ruby>握<rt>にぎ</rt></ruby>っている<ruby>上肢<rt>じょうし</rt></ruby>を<ruby>振<rt>ふ</rt></ruby>って<ruby>歩<rt>ある</rt></ruby>く。"
     ],
     "answer": 3
   },
   {
-    "question": "問題41 身じたくの目的に関する次の記述のうち、国際生活機能分類（ＩＣＦ）における「心身機能・身体構造」の観点が考えられるものとして、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>41 <ruby>身<rt>み</rt></ruby>じたくの<ruby>目的<rt>もくてき</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち、<ruby>国際<rt>こくさい</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby><ruby>機能<rt>きのう</rt></ruby><ruby>分類<rt>ぶんるい</rt></ruby>（ＩＣＦ）における「<ruby>心身<rt>しんしん</rt></ruby><ruby>機能<rt>きのう</rt></ruby>・<ruby>身体<rt>しんたい</rt></ruby><ruby>構造<rt>こうぞう</rt></ruby>」の<ruby>観点<rt>かんてん</rt></ruby>が<ruby>考<rt>かんが</rt></ruby>えられるものとして、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  体温を調整する。",
-      "2  身体を清潔に保つ。",
-      "3  セルフケアを行う。",
-      "4  自分を表現する。",
-      "5  周囲との人間関係を調整する。"
+      "1 <ruby>体温<rt>たいおん</rt></ruby>を<ruby>調整<rt>ちょうせい</rt></ruby>する。",
+      "2 <ruby>身体<rt>しんたい</rt></ruby>を<ruby>清潔<rt>せいけつ</rt></ruby>に<ruby>保<rt>たも</rt></ruby>つ。",
+      "3 セルフケアを<ruby>行<rt>おこな</rt></ruby>う。",
+      "4 <ruby>自分<rt>じぶん</rt></ruby>を<ruby>表現<rt>ひょうげん</rt></ruby>する。",
+      "5 <ruby>周囲<rt>しゅうい</rt></ruby>との<ruby>人間関係<rt>にんげんかんけい</rt></ruby>を<ruby>調整<rt>ちょうせい</rt></ruby>する。"
     ],
     "answer": 0
   },
   {
-    "question": "問題42 次の記述のうち、介護が必要な利用者への口腔｛こうくう｝ケアとして、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>42 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち、<ruby>介護<rt>かいご</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>な<ruby>利用者<rt>りようしゃ</rt></ruby>への<ruby>口腔<rt>こうこう</rt></ruby>｛こうくう｝ケアとして、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  仰臥位｛ぎょうがい｝（背臥位｛はいがい｝）で行う。",
-      "2  歯垢｛しこう｝を除去するためにうがいをしてもらう。",
-      "3  歯ブラシで歯を1、2本ずつ磨く。",
-      "4  スポンジブラシは乾いた状態で使用する。",
-      "5  部分床義歯（局部床義歯）はつけたまま行う。"
+      "1 <ruby>仰臥<rt>ぎょうが</rt></ruby><ruby>位<rt>くらい</rt></ruby>｛ぎょうがい｝（<ruby>背<rt>せ</rt></ruby><ruby>臥位<rt>がい</rt></ruby>｛はいがい｝）で<ruby>行<rt>おこな</rt></ruby>う。",
+      "2 <ruby>歯垢<rt>しこう</rt></ruby>｛しこう｝を<ruby>除去<rt>じょきょ</rt></ruby>するためにうがいをしてもらう。",
+      "3 <ruby>歯ブラシ<rt>はぶらし</rt></ruby>で<ruby>歯<rt>は</rt></ruby>を1、2<ruby>本<rt>ほん</rt></ruby>ずつ<ruby>磨<rt>みが</rt></ruby>く。",
+      "4 スポンジブラシは<ruby>乾<rt>かわ</rt></ruby>いた<ruby>状態<rt>じょうたい</rt></ruby>で<ruby>使用<rt>しよう</rt></ruby>する。",
+      "5 <ruby>部分<rt>ぶぶん</rt></ruby><ruby>床義<rt>しょうぎ</rt></ruby><ruby>歯<rt>は</rt></ruby>（<ruby>局部<rt>きょくぶ</rt></ruby><ruby>床義<rt>しょうぎ</rt></ruby><ruby>歯<rt>は</rt></ruby>）はつけたまま<ruby>行<rt>おこな</rt></ruby>う。"
     ],
     "answer": 2
   },
   {
-    "question": "問題43 次のうち、右片麻痺｛みぎかたまひ｝の利用者が前開きの上着を着脱するときに介護福祉職が行う説明として、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>43 <ruby>次<rt>つぎ</rt></ruby>のうち、<ruby>右片<rt>うへん</rt></ruby><ruby>麻痺<rt>まひ</rt></ruby>｛みぎかたまひ｝の<ruby>利用者<rt>りようしゃ</rt></ruby>が<ruby>前開<rt>ぜんかい</rt></ruby>きの<ruby>上着<rt>うわぎ</rt></ruby>を<ruby>着脱<rt>ちゃくだつ</rt></ruby>するときに<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>が<ruby>行<rt>おこな</rt></ruby>う<ruby>説明<rt>せつめい</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  「脱ぐときは、左肩の衣服を下げてから、右側の袖から腕を抜きましょう」",
-      "2  「脱ぐときは、右肩の衣服を下げてから、右側の袖から腕を抜きましょう」",
-      "3  「襟元を手前にして、腿｛もも｝の上に置きましょう」",
-      "4  「着るときは、右袖を肘まで通してから、左袖を通しましょう」",
-      "5  「着るときは、右袖を肩まで通してから、左袖を通しましょう」"
+      "1 「<ruby>脱<rt>ぬ</rt></ruby>ぐときは、<ruby>左肩<rt>ひだりかた</rt></ruby>の<ruby>衣服<rt>いふく</rt></ruby>を<ruby>下<rt>さ</rt></ruby>げてから、<ruby>右側<rt>みぎがわ</rt></ruby>の<ruby>袖<rt>そで</rt></ruby>から<ruby>腕<rt>うで</rt></ruby>を<ruby>抜<rt>ぬ</rt></ruby>きましょう」",
+      "2 「<ruby>脱<rt>ぬ</rt></ruby>ぐときは、<ruby>右肩<rt>みぎかた</rt></ruby>の<ruby>衣服<rt>いふく</rt></ruby>を<ruby>下<rt>さ</rt></ruby>げてから、<ruby>右側<rt>みぎがわ</rt></ruby>の<ruby>袖<rt>そで</rt></ruby>から<ruby>腕<rt>うで</rt></ruby>を<ruby>抜<rt>ぬ</rt></ruby>きましょう」",
+      "3 「<ruby>襟元<rt>えりもと</rt></ruby>を<ruby>手前<rt>てまえ</rt></ruby>にして、<ruby>腿<rt>もも</rt></ruby>｛もも｝の<ruby>上<rt>うえ</rt></ruby>に<ruby>置<rt>お</rt></ruby>きましょう」",
+      "4 「<ruby>着<rt>き</rt></ruby>るときは、<ruby>右袖<rt>みぎそで</rt></ruby>を<ruby>肘<rt>ひじ</rt></ruby>まで<ruby>通<rt>とう</rt></ruby>してから、<ruby>左袖<rt>ひだりそで</rt></ruby>を<ruby>通<rt>とう</rt></ruby>しましょう」",
+      "5 「<ruby>着<rt>き</rt></ruby>るときは、<ruby>右袖<rt>みぎそで</rt></ruby>を<ruby>肩<rt>かた</rt></ruby>まで<ruby>通<rt>とう</rt></ruby>してから、<ruby>左袖<rt>ひだりそで</rt></ruby>を<ruby>通<rt>とう</rt></ruby>しましょう」"
     ],
     "answer": 4
   },
   {
-    "question": "問題44 次の記述のうち、介護老人福祉施設における食事に関する支援として、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>44 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち、<ruby>介護<rt>かいご</rt></ruby><ruby>老人<rt>ろうじん</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>施設<rt>しせつ</rt></ruby>における<ruby>食事<rt>しょくじ</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>支援<rt>しえん</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  食堂の換気は、不要である。",
-      "2  食事中は、会話を控えるようにする。",
-      "3  食事が楽しくなるような雰囲気をつくる。",
-      "4  食べ終わった利用者の食器は、すぐに下膳する。",
-      "5  照明は、明るさを25ルクス（lx）以下にする。"
+      "1 <ruby>食堂<rt>しょくどう</rt></ruby>の<ruby>換気<rt>かんき</rt></ruby>は、<ruby>不要<rt>ふよう</rt></ruby>である。",
+      "2 <ruby>食事中<rt>しょくじちゅう</rt></ruby>は、<ruby>会話<rt>かいわ</rt></ruby>を<ruby>控<rt>ひか</rt></ruby>えるようにする。",
+      "3 <ruby>食事<rt>しょくじ</rt></ruby>が<ruby>楽<rt>たの</rt></ruby>しくなるような<ruby>雰囲気<rt>ふんいき</rt></ruby>をつくる。",
+      "4 <ruby>食<rt>た</rt></ruby>べ<ruby>終<rt>お</rt></ruby>わった<ruby>利用者<rt>りようしゃ</rt></ruby>の<ruby>食器<rt>しょっき</rt></ruby>は、すぐに<ruby>下<rt>した</rt></ruby><ruby>膳<rt>ぜん</rt></ruby>する。",
+      "5 <ruby>照明<rt>しょうめい</rt></ruby>は、<ruby>明<rt>あか</rt></ruby>るさを25ルクス（lx）<ruby>以下<rt>いか</rt></ruby>にする。"
     ],
     "answer": 2
   },
   {
-    "question": "問題45 次の記述のうち、椅子に座って食事をするときに、利用者が食事をしやすい姿勢を確保するための介護として、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>45 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち、<ruby>椅子<rt>いす</rt></ruby>に<ruby>座<rt>すわ</rt></ruby>って<ruby>食事<rt>しょくじ</rt></ruby>をするときに、<ruby>利用者<rt>りようしゃ</rt></ruby>が<ruby>食事<rt>しょくじ</rt></ruby>をしやすい<ruby>姿勢<rt>しせい</rt></ruby>を<ruby>確保<rt>かくほ</rt></ruby>するための<ruby>介護<rt>かいご</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  足底を床につけてもらう。",
-      "2  テーブルと身体の間は30cm離してもらう。",
-      "3  椅子に浅く座ってもらう。",
-      "4  体幹を後方に傾けてもらう。",
-      "5  顎を上げてもらう。"
+      "1 <ruby>足底<rt>あしそこ</rt></ruby>を<ruby>床<rt>とこ</rt></ruby>につけてもらう。",
+      "2 テーブルと<ruby>身体<rt>しんたい</rt></ruby>の<ruby>間<rt>かん</rt></ruby>は30cm<ruby>離<rt>はな</rt></ruby>してもらう。",
+      "3 <ruby>椅子<rt>いす</rt></ruby>に<ruby>浅<rt>あさ</rt></ruby>く<ruby>座<rt>すわ</rt></ruby>ってもらう。",
+      "4 <ruby>体幹<rt>たいかん</rt></ruby>を<ruby>後方<rt>こうほう</rt></ruby>に<ruby>傾<rt>かたむ</rt></ruby>けてもらう。",
+      "5 <ruby>顎<rt>あご</rt></ruby>を<ruby>上<rt>あ</rt></ruby>げてもらう。"
     ],
     "answer": 0
   },
   {
-    "question": "問題46 咀嚼機能｛そしゃくきのう｝が低下した利用者の食事介護に関する次の記述のうち、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>46 <ruby>咀嚼<rt>そしゃく</rt></ruby><ruby>機能<rt>きのう</rt></ruby>｛そしゃくきのう｝が<ruby>低下<rt>ていか</rt></ruby>した<ruby>利用者<rt>りようしゃ</rt></ruby>の<ruby>食事<rt>しょくじ</rt></ruby><ruby>介護<rt>かいご</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  大きめのスプーンで吸い込むように食べてもらう。",
-      "2  一口量は、ティースプーンに軽く一杯を目安にする。",
-      "3  食べる順番は、介護福祉職の判断で行う。",
-      "4  スプーンは、舌の奥にのせるように入れる。",
-      "5  咀嚼｛そしゃく｝が始まったら、すぐに次の食べ物を口に入れる。"
+      "1 <ruby>大<rt>おお</rt></ruby>きめのスプーンで<ruby>吸い込<rt>すいこ</rt></ruby>むように<ruby>食<rt>た</rt></ruby>べてもらう。",
+      "2 <ruby>一口<rt>ひとくち</rt></ruby><ruby>量<rt>りょう</rt></ruby>は、ティースプーンに<ruby>軽<rt>かる</rt></ruby>く<ruby>一杯<rt>いっぱい</rt></ruby>を<ruby>目安<rt>めやす</rt></ruby>にする。",
+      "3 <ruby>食<rt>た</rt></ruby>べる<ruby>順番<rt>じゅんばん</rt></ruby>は、<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>の<ruby>判断<rt>はんだん</rt></ruby>で<ruby>行<rt>おこな</rt></ruby>う。",
+      "4 スプーンは、<ruby>舌<rt>した</rt></ruby>の<ruby>奥<rt>おく</rt></ruby>にのせるように<ruby>入<rt>い</rt></ruby>れる。",
+      "5 <ruby>咀嚼<rt>そしゃく</rt></ruby>｛そしゃく｝が<ruby>始<rt>はじ</rt></ruby>まったら、すぐに<ruby>次<rt>つぎ</rt></ruby>の<ruby>食べ物<rt>たべもの</rt></ruby>を<ruby>口<rt>くち</rt></ruby>に<ruby>入<rt>い</rt></ruby>れる。"
     ],
     "answer": 1
   },
   {
-    "question": "問題47 Ａさん（80歳、女性、要介護3）は、介護老人福祉施設で生活している。食事は見守りのもとでほぼ自力で摂取しているが、嚥下機能｛えんげきのう｝は低下してきている。医師からは、食事摂取に配慮するように指導されている。ある日の昼食中、Ａさんは食事を1/3ほど食べたところで箸を止め、表情がこわばり、呼吸もやや浅くなった。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>47 Ａさん（80<ruby>歳<rt>とし</rt></ruby>、<ruby>女性<rt>じょせい</rt></ruby>、<ruby>要介<rt>ようすけ</rt></ruby><ruby>護<rt>ご</rt></ruby>3）は、<ruby>介護<rt>かいご</rt></ruby><ruby>老人<rt>ろうじん</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>施設<rt>しせつ</rt></ruby>で<ruby>生活<rt>せいかつ</rt></ruby>している。<ruby>食事<rt>しょくじ</rt></ruby>は<ruby>見守<rt>みまも</rt></ruby>りのもとでほぼ<ruby>自力<rt>じりき</rt></ruby>で<ruby>摂取<rt>せっしゅ</rt></ruby>しているが、<ruby>嚥下<rt>えんか</rt></ruby><ruby>機能<rt>きのう</rt></ruby>｛えんげきのう｝は<ruby>低下<rt>ていか</rt></ruby>してきている。<ruby>医師<rt>いし</rt></ruby>からは、<ruby>食事<rt>しょくじ</rt></ruby><ruby>摂取<rt>せっしゅ</rt></ruby>に<ruby>配慮<rt>はいりょ</rt></ruby>するように<ruby>指導<rt>しどう</rt></ruby>されている。ある<ruby>日<rt>にち</rt></ruby>の<ruby>昼食<rt>ちゅうしょく</rt></ruby><ruby>中<rt>なか</rt></ruby>、Ａさんは<ruby>食事<rt>しょくじ</rt></ruby>を1/3ほど<ruby>食<rt>た</rt></ruby>べたところで<ruby>箸<rt>はし</rt></ruby>を<ruby>止<rt>と</rt></ruby>め、<ruby>表情<rt>ひょうじょう</rt></ruby>がこわばり、<ruby>呼吸<rt>こきゅう</rt></ruby>もやや<ruby>浅<rt>あさ</rt></ruby>くなった。",
     "choices": [
-      "1  血圧を測定する。",
-      "2  口腔｛こうくう｝の状況を観察する。",
-      "3  口すぼめ呼吸を促す。",
-      "4  その場で仰臥位｛ぎょうがい｝（背臥位｛はいがい｝）になってもらう。",
-      "5  すぐに薬を服用してもらう。"
+      "1 <ruby>血圧<rt>けつあつ</rt></ruby>を<ruby>測定<rt>そくてい</rt></ruby>する。",
+      "2 <ruby>口腔<rt>こうこう</rt></ruby>｛こうくう｝の<ruby>状況<rt>じょうきょう</rt></ruby>を<ruby>観察<rt>かんさつ</rt></ruby>する。",
+      "3 <ruby>口<rt>くち</rt></ruby>すぼめ<ruby>呼吸<rt>こきゅう</rt></ruby>を<ruby>促<rt>うなが</rt></ruby>す。",
+      "4 その<ruby>場<rt>ば</rt></ruby>で<ruby>仰臥<rt>ぎょうが</rt></ruby><ruby>位<rt>くらい</rt></ruby>｛ぎょうがい｝（<ruby>背<rt>せ</rt></ruby><ruby>臥位<rt>がい</rt></ruby>｛はいがい｝）になってもらう。",
+      "5 すぐに<ruby>薬<rt>くすり</rt></ruby>を<ruby>服用<rt>ふくよう</rt></ruby>してもらう。"
     ],
     "answer": 1
   },
   {
-    "question": "問題48 ベッド上で行う陰部洗浄に関する次の記述のうち、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>48 ベッド<ruby>上<rt>うえ</rt></ruby>で<ruby>行<rt>おこな</rt></ruby>う<ruby>陰部<rt>いんぶ</rt></ruby><ruby>洗浄<rt>せんじょう</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  滅菌手袋を使用して行う。",
-      "2  上半身はベッドの手前端に移動する。",
-      "3  バスタオルで両下肢を包む。",
-      "4  洗浄する時は、43℃のお湯を用いる。",
-      "5  終了後は、蒸しタオルで水分を拭き取る。"
+      "1 <ruby>滅菌<rt>めっきん</rt></ruby><ruby>手袋<rt>てぶくろ</rt></ruby>を<ruby>使用<rt>しよう</rt></ruby>して<ruby>行<rt>おこな</rt></ruby>う。",
+      "2 <ruby>上半身<rt>じょうはんしん</rt></ruby>はベッドの<ruby>手前<rt>てまえ</rt></ruby><ruby>端<rt>はじ</rt></ruby>に<ruby>移動<rt>いどう</rt></ruby>する。",
+      "3 バスタオルで<ruby>両<rt>りょう</rt></ruby><ruby>下肢<rt>かし</rt></ruby>を<ruby>包<rt>つつ</rt></ruby>む。",
+      "4 <ruby>洗浄<rt>せんじょう</rt></ruby>する<ruby>時<rt>とき</rt></ruby>は、43℃のお<ruby>湯<rt>ゆ</rt></ruby>を<ruby>用<rt>もち</rt></ruby>いる。",
+      "5 <ruby>終了後<rt>しゅうりょうご</rt></ruby>は、<ruby>蒸<rt>む</rt></ruby>しタオルで<ruby>水分<rt>すいぶん</rt></ruby>を<ruby>拭<rt>ふ</rt></ruby>き<ruby>取<rt>と</rt></ruby>る。"
     ],
     "answer": 2
   },
   {
-    "question": "問題49 この問題は視覚素材問題です。選択肢１から５まで、図で示されている。 腹部の清拭の方法を図に示す。矢印は拭く方向を表している。次のうち、基本的な清拭の方法として、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>49 この<ruby>問題<rt>もんだい</rt></ruby>は<ruby>視覚<rt>しかく</rt></ruby><ruby>素材<rt>そざい</rt></ruby><ruby>問題<rt>もんだい</rt></ruby>です。<ruby>選択肢<rt>せんたくし</rt></ruby>１から５まで、<ruby>図<rt>ず</rt></ruby>で<ruby>示<rt>しめ</rt></ruby>されている。 <ruby>腹部<rt>ふくぶ</rt></ruby>の<ruby>清拭<rt>せいしき</rt></ruby>の<ruby>方法<rt>ほうほう</rt></ruby>を<ruby>図<rt>ず</rt></ruby>に<ruby>示<rt>しめ</rt></ruby>す。<ruby>矢印<rt>やじるし</rt></ruby>は<ruby>拭<rt>ふ</rt></ruby>く<ruby>方向<rt>ほうこう</rt></ruby>を<ruby>表<rt>あらわ</rt></ruby>している。<ruby>次<rt>つぎ</rt></ruby>のうち、<ruby>基本的<rt>きほんてき</rt></ruby>な<ruby>清拭<rt>せいしき</rt></ruby>の<ruby>方法<rt>ほうほう</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "１  腹の上部右側から腹の左側斜め下に、そのあとは腹の右側斜め下に、そのあとは腹の左側斜め下、そのあとは腹の右側斜め下に拭く。",
-      "２  腹の上部真ん中、から、時計回りの円を描くように、へその上から恥骨部に、そのあとはへその上に、そのあとは恥骨部にと、拭く。",
-      "３  腹の上部右側から恥骨部に向けて左斜め下に、その後は腹の上部左斜め上に、その後は腹の下部左斜め下に、その後は腹の上部左斜め上に拭く。",
-      "４  腹の上部真ん中から、反時計回りの円を描くように、へその上から恥骨部に、その後はへその上に、その後は恥骨部にと、拭く。",
-      "５  腹の下部左側から腹の右側斜め上に、その後は腹の左側斜め上に、その後は腹の右側斜め上に、その後は腹の左斜め上に拭く。"
+      "１ <ruby>腹<rt>はら</rt></ruby>の<ruby>上部<rt>じょうぶ</rt></ruby><ruby>右側<rt>みぎがわ</rt></ruby>から<ruby>腹<rt>はら</rt></ruby>の<ruby>左側<rt>ひだりがわ</rt></ruby><ruby>斜<rt>なな</rt></ruby>め<ruby>下<rt>した</rt></ruby>に、そのあとは<ruby>腹<rt>はら</rt></ruby>の<ruby>右側<rt>みぎがわ</rt></ruby><ruby>斜<rt>なな</rt></ruby>め<ruby>下<rt>した</rt></ruby>に、そのあとは<ruby>腹<rt>はら</rt></ruby>の<ruby>左側<rt>ひだりがわ</rt></ruby><ruby>斜<rt>なな</rt></ruby>め<ruby>下<rt>した</rt></ruby>、そのあとは<ruby>腹<rt>はら</rt></ruby>の<ruby>右側<rt>みぎがわ</rt></ruby><ruby>斜<rt>なな</rt></ruby>め<ruby>下<rt>した</rt></ruby>に<ruby>拭<rt>ふ</rt></ruby>く。",
+      "２ <ruby>腹<rt>はら</rt></ruby>の<ruby>上部<rt>じょうぶ</rt></ruby><ruby>真ん中<rt>まんなか</rt></ruby>、から、<ruby>時計<rt>とけい</rt></ruby><ruby>回<rt>まわ</rt></ruby>りの<ruby>円<rt>えん</rt></ruby>を<ruby>描<rt>えが</rt></ruby>くように、へその<ruby>上<rt>うえ</rt></ruby>から<ruby>恥骨<rt>ちこつ</rt></ruby><ruby>部<rt>ぶ</rt></ruby>に、そのあとはへその<ruby>上<rt>うえ</rt></ruby>に、そのあとは<ruby>恥骨<rt>ちこつ</rt></ruby><ruby>部<rt>ぶ</rt></ruby>にと、<ruby>拭<rt>ふ</rt></ruby>く。",
+      "３ <ruby>腹<rt>はら</rt></ruby>の<ruby>上部<rt>じょうぶ</rt></ruby><ruby>右側<rt>みぎがわ</rt></ruby>から<ruby>恥骨<rt>ちこつ</rt></ruby><ruby>部<rt>ぶ</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて<ruby>左<rt>ひだり</rt></ruby><ruby>斜<rt>なな</rt></ruby>め<ruby>下<rt>した</rt></ruby>に、その<ruby>後<rt>のち</rt></ruby>は<ruby>腹<rt>はら</rt></ruby>の<ruby>上部<rt>じょうぶ</rt></ruby><ruby>左<rt>ひだり</rt></ruby><ruby>斜<rt>なな</rt></ruby>め<ruby>上<rt>うえ</rt></ruby>に、その<ruby>後<rt>のち</rt></ruby>は<ruby>腹<rt>はら</rt></ruby>の<ruby>下部<rt>かぶ</rt></ruby><ruby>左<rt>ひだり</rt></ruby><ruby>斜<rt>なな</rt></ruby>め<ruby>下<rt>した</rt></ruby>に、その<ruby>後<rt>のち</rt></ruby>は<ruby>腹<rt>はら</rt></ruby>の<ruby>上部<rt>じょうぶ</rt></ruby><ruby>左<rt>ひだり</rt></ruby><ruby>斜<rt>なな</rt></ruby>め<ruby>上<rt>うえ</rt></ruby>に<ruby>拭<rt>ふ</rt></ruby>く。",
+      "４ <ruby>腹<rt>はら</rt></ruby>の<ruby>上部<rt>じょうぶ</rt></ruby><ruby>真ん中<rt>まんなか</rt></ruby>から、<ruby>反時計<rt>はんとけい</rt></ruby><ruby>回<rt>まわ</rt></ruby>りの<ruby>円<rt>えん</rt></ruby>を<ruby>描<rt>えが</rt></ruby>くように、へその<ruby>上<rt>うえ</rt></ruby>から<ruby>恥骨<rt>ちこつ</rt></ruby><ruby>部<rt>ぶ</rt></ruby>に、その<ruby>後<rt>のち</rt></ruby>はへその<ruby>上<rt>うえ</rt></ruby>に、その<ruby>後<rt>のち</rt></ruby>は<ruby>恥骨<rt>ちこつ</rt></ruby><ruby>部<rt>ぶ</rt></ruby>にと、<ruby>拭<rt>ふ</rt></ruby>く。",
+      "５ <ruby>腹<rt>はら</rt></ruby>の<ruby>下部<rt>かぶ</rt></ruby><ruby>左側<rt>ひだりがわ</rt></ruby>から<ruby>腹<rt>はら</rt></ruby>の<ruby>右側<rt>みぎがわ</rt></ruby><ruby>斜<rt>なな</rt></ruby>め<ruby>上<rt>うえ</rt></ruby>に、その<ruby>後<rt>のち</rt></ruby>は<ruby>腹<rt>はら</rt></ruby>の<ruby>左側<rt>ひだりがわ</rt></ruby><ruby>斜<rt>なな</rt></ruby>め<ruby>上<rt>うえ</rt></ruby>に、その<ruby>後<rt>のち</rt></ruby>は<ruby>腹<rt>はら</rt></ruby>の<ruby>右側<rt>みぎがわ</rt></ruby><ruby>斜<rt>なな</rt></ruby>め<ruby>上<rt>うえ</rt></ruby>に、その<ruby>後<rt>のち</rt></ruby>は<ruby>腹<rt>はら</rt></ruby>の<ruby>左<rt>ひだり</rt></ruby><ruby>斜<rt>なな</rt></ruby>め<ruby>上<rt>うえ</rt></ruby>に<ruby>拭<rt>ふ</rt></ruby>く。"
     ],
     "answer": 1
   },
   {
-    "question": "問題50 Ａさん（55歳、男性、会社員）は、20歳のときに交通事故で第5頚髄｛けいずい｝（C5）を損傷した。現在、電動車いすを利用し、自宅で自立した生活を送っている。身体状況は安定しているが、ときどき仙骨部に褥瘡｛じょくそう｝ができることがある。入浴は、居宅介護（ホームヘルプサービス）を利用していて、訪問介護員（ホームヘルパー）が福祉用具を用いて入浴介護をしている。 次のうち、Ａさんが入浴時に使用している福祉用具として、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>50 Ａさん（55<ruby>歳<rt>とし</rt></ruby>、<ruby>男性<rt>だんせい</rt></ruby>、<ruby>会社員<rt>かいしゃいん</rt></ruby>）は、20<ruby>歳<rt>とし</rt></ruby>のときに<ruby>交通事故<rt>こうつうじこ</rt></ruby>で<ruby>第<rt>だい</rt></ruby>5<ruby>頚髄<rt>けいずい</rt></ruby>｛けいずい｝（C5）を<ruby>損傷<rt>そんしょう</rt></ruby>した。<ruby>現在<rt>げんざい</rt></ruby>、<ruby>電動車<rt>でんどうしゃ</rt></ruby>いすを<ruby>利用<rt>りよう</rt></ruby>し、<ruby>自宅<rt>じたく</rt></ruby>で<ruby>自立<rt>じりつ</rt></ruby>した<ruby>生活<rt>せいかつ</rt></ruby>を<ruby>送<rt>おく</rt></ruby>っている。<ruby>身体<rt>しんたい</rt></ruby><ruby>状況<rt>じょうきょう</rt></ruby>は<ruby>安定<rt>あんてい</rt></ruby>しているが、ときどき<ruby>仙骨<rt>せんこつ</rt></ruby><ruby>部<rt>ぶ</rt></ruby>に<ruby>褥瘡<rt>じょくそう</rt></ruby>｛じょくそう｝ができることがある。<ruby>入浴<rt>にゅうよく</rt></ruby>は、<ruby>居宅<rt>きょたく</rt></ruby><ruby>介護<rt>かいご</rt></ruby>（ホームヘルプサービス）を<ruby>利用<rt>りよう</rt></ruby>していて、<ruby>訪問<rt>ほうもん</rt></ruby><ruby>介護<rt>かいご</rt></ruby><ruby>員<rt>いん</rt></ruby>（ホームヘルパー）が<ruby>福祉<rt>ふくし</rt></ruby><ruby>用具<rt>ようぐ</rt></ruby>を<ruby>用<rt>もち</rt></ruby>いて<ruby>入浴<rt>にゅうよく</rt></ruby><ruby>介護<rt>かいご</rt></ruby>をしている。 <ruby>次<rt>つぎ</rt></ruby>のうち、Ａさんが<ruby>入浴<rt>にゅうよく</rt></ruby><ruby>時<rt>とき</rt></ruby>に<ruby>使用<rt>しよう</rt></ruby>している<ruby>福祉<rt>ふくし</rt></ruby><ruby>用具<rt>ようぐ</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  移乗台",
+      "1 <ruby>移乗<rt>いじょう</rt></ruby><ruby>台<rt>だい</rt></ruby>",
       "2  バスボード",
-      "3  入浴用リフト",
-      "4  浴槽用手すり",
-      "5  滑り止めマット"
+      "3 <ruby>入浴<rt>にゅうよく</rt></ruby><ruby>用<rt>よう</rt></ruby>リフト",
+      "4 <ruby>浴槽<rt>よくそう</rt></ruby><ruby>用<rt>よう</rt></ruby><ruby>手<rt>て</rt></ruby>すり",
+      "5 <ruby>滑<rt>すべ</rt></ruby>り<ruby>止<rt>と</rt></ruby>めマット"
     ],
     "answer": 2
   },
   {
-    "question": "問題51 Ａさん（85歳、男性、要介護3）は、アルツハイマー型認知症（dementia of the Alzheimer’s type）と診断され、認知症対応型共同生活介護（認知症高齢者グループホーム）で生活をしている。入所時、Ａさんは、尿意や便意はあり、自分でトイレに行って排泄｛はいせつ｝できていた。最近、認知機能の低下によって、トイレ以外の場所で排泄｛はいせつ｝するようになった。 次の記述のうち、Ａさんの状態に合わせた介護福祉職の対応として、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>51 Ａさん（85<ruby>歳<rt>とし</rt></ruby>、<ruby>男性<rt>だんせい</rt></ruby>、<ruby>要介<rt>ようすけ</rt></ruby><ruby>護<rt>ご</rt></ruby>3）は、アルツハイマー<ruby>型<rt>かた</rt></ruby><ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby>（dementia of the Alzheimer’s type）と<ruby>診断<rt>しんだん</rt></ruby>され、<ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby><ruby>対応型<rt>たいおうがた</rt></ruby><ruby>共同生活<rt>きょうどうせいかつ</rt></ruby><ruby>介護<rt>かいご</rt></ruby>（<ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby><ruby>高齢者<rt>こうれいしゃ</rt></ruby>グループホーム）で<ruby>生活<rt>せいかつ</rt></ruby>をしている。<ruby>入所<rt>にゅうしょ</rt></ruby><ruby>時<rt>とき</rt></ruby>、Ａさんは、<ruby>尿意<rt>にょうい</rt></ruby>や<ruby>便意<rt>べんい</rt></ruby>はあり、<ruby>自分<rt>じぶん</rt></ruby>でトイレに<ruby>行<rt>い</rt></ruby>って<ruby>排泄<rt>はいせつ</rt></ruby>｛はいせつ｝できていた。<ruby>最近<rt>さいきん</rt></ruby>、<ruby>認知機能<rt>にんちきのう</rt></ruby>の<ruby>低下<rt>ていか</rt></ruby>によって、トイレ<ruby>以外<rt>いがい</rt></ruby>の<ruby>場所<rt>ばしょ</rt></ruby>で<ruby>排泄<rt>はいせつ</rt></ruby>｛はいせつ｝するようになった。 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち、Ａさんの<ruby>状態<rt>じょうたい</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わせた<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>の<ruby>対応<rt>たいおう</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  骨盤底筋訓練を行う。",
-      "2  紙おむつを使用する。",
-      "3  一日の水分摂取量を減らす。",
-      "4  ほかの利用者と同じ時間にトイレへ誘導する。",
-      "5  トイレの出入口に「トイレ」と書いた紙を貼る。"
+      "1 <ruby>骨盤<rt>こつばん</rt></ruby><ruby>底<rt>そこ</rt></ruby><ruby>筋<rt>すじ</rt></ruby><ruby>訓練<rt>くんれん</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う。",
+      "2 <ruby>紙<rt>かみ</rt></ruby>おむつを<ruby>使用<rt>しよう</rt></ruby>する。",
+      "3 <ruby>一日<rt>ついたち</rt></ruby>の<ruby>水分<rt>すいぶん</rt></ruby><ruby>摂取量<rt>せっしゅりょう</rt></ruby>を<ruby>減<rt>へ</rt></ruby>らす。",
+      "4 ほかの<ruby>利用者<rt>りようしゃ</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じ<ruby>時間<rt>じかん</rt></ruby>にトイレへ<ruby>誘導<rt>ゆうどう</rt></ruby>する。",
+      "5 トイレの<ruby>出入口<rt>でいりぐち</rt></ruby>に「トイレ」と<ruby>書<rt>か</rt></ruby>いた<ruby>紙<rt>かみ</rt></ruby>を<ruby>貼<rt>は</rt></ruby>る。"
     ],
     "answer": 4
   },
   {
-    "question": "問題52 次のうち、下痢をしている利用者の水分補給として、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>52 <ruby>次<rt>つぎ</rt></ruby>のうち、<ruby>下痢<rt>げり</rt></ruby>をしている<ruby>利用者<rt>りようしゃ</rt></ruby>の<ruby>水分<rt>すいぶん</rt></ruby><ruby>補給<rt>ほきゅう</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  白湯",
-      "2  牛乳",
-      "3  炭酸水",
+      "1 <ruby>白湯<rt>さゆ</rt></ruby>",
+      "2 <ruby>牛乳<rt>ぎゅうにゅう</rt></ruby>",
+      "3 <ruby>炭酸水<rt>たんさんすい</rt></ruby>",
       "4  コーヒー",
-      "5  冷水"
+      "5 <ruby>冷水<rt>ひやみず</rt></ruby>"
     ],
     "answer": 0
   },
   {
-    "question": "問題53 Ａさん（83歳、男性、要介護1）は、一人暮らしで、少額の年金で生活している。Ａさんは軽度の認知症（dementia）と診断を受けている。近所には親しくしている人が複数人いる。ある日、訪問介護員（ホームヘルパー）が訪問すると、近所のスーパーで購入した未開封の健康食品が山積みになっていた。Ａさんが財布を持ってきて、「買いたいものがたくさんあるが、お金が足りない。どうしたらよいか」と訪問介護員（ホームヘルパー）に相談した。 このときの訪問介護員（ホームヘルパー）の対応に関する次の記述のうち、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>53 Ａさん（83<ruby>歳<rt>とし</rt></ruby>、<ruby>男性<rt>だんせい</rt></ruby>、<ruby>要介<rt>ようすけ</rt></ruby><ruby>護<rt>ご</rt></ruby>1）は、<ruby>一人暮<rt>ひとりぐ</rt></ruby>らしで、<ruby>少額<rt>しょうがく</rt></ruby>の<ruby>年金<rt>ねんきん</rt></ruby>で<ruby>生活<rt>せいかつ</rt></ruby>している。Ａさんは<ruby>軽度<rt>けいど</rt></ruby>の<ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby>（dementia）と<ruby>診断<rt>しんだん</rt></ruby>を<ruby>受<rt>う</rt></ruby>けている。<ruby>近所<rt>きんじょ</rt></ruby>には<ruby>親<rt>した</rt></ruby>しくしている<ruby>人<rt>にん</rt></ruby>が<ruby>複数人<rt>ふくすうにん</rt></ruby>いる。ある<ruby>日<rt>にち</rt></ruby>、<ruby>訪問<rt>ほうもん</rt></ruby><ruby>介護<rt>かいご</rt></ruby><ruby>員<rt>いん</rt></ruby>（ホームヘルパー）が<ruby>訪問<rt>ほうもん</rt></ruby>すると、<ruby>近所<rt>きんじょ</rt></ruby>のスーパーで<ruby>購入<rt>こうにゅう</rt></ruby>した<ruby>未開封<rt>みかいふう</rt></ruby>の<ruby>健康食品<rt>けんこうしょくひん</rt></ruby>が<ruby>山積<rt>やまづ</rt></ruby>みになっていた。Ａさんが<ruby>財布<rt>さいふ</rt></ruby>を<ruby>持<rt>も</rt></ruby>ってきて、「<ruby>買<rt>か</rt></ruby>いたいものがたくさんあるが、お<ruby>金<rt>きん</rt></ruby>が<ruby>足<rt>た</rt></ruby>りない。どうしたらよいか」と<ruby>訪問<rt>ほうもん</rt></ruby><ruby>介護<rt>かいご</rt></ruby><ruby>員<rt>いん</rt></ruby>（ホームヘルパー）に<ruby>相談<rt>そうだん</rt></ruby>した。 このときの<ruby>訪問<rt>ほうもん</rt></ruby><ruby>介護<rt>かいご</rt></ruby><ruby>員<rt>いん</rt></ruby>（ホームヘルパー）の<ruby>対応<rt>たいおう</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  「お金は足りているから安心して大丈夫ですよ」と伝える。",
-      "2  近所の親しい人に、財布を預かってもらえるか、聞いてみる。",
-      "3  鍵付きの引き出しに財布を入れ、訪問介護員（ホームヘルパー）が鍵を管理する。",
-      "4  「お金の使い方について、一緒に考えてみませんか」と提案する。",
-      "5  健康食品のクーリング・オフを勧める。"
+      "1 「お<ruby>金<rt>きん</rt></ruby>は<ruby>足<rt>た</rt></ruby>りているから<ruby>安心<rt>あんしん</rt></ruby>して<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>ですよ」と<ruby>伝<rt>つた</rt></ruby>える。",
+      "2 <ruby>近所<rt>きんじょ</rt></ruby>の<ruby>親<rt>した</rt></ruby>しい<ruby>人<rt>にん</rt></ruby>に、<ruby>財布<rt>さいふ</rt></ruby>を<ruby>預<rt>あず</rt></ruby>かってもらえるか、<ruby>聞<rt>き</rt></ruby>いてみる。",
+      "3 <ruby>鍵<rt>かぎ</rt></ruby><ruby>付<rt>つ</rt></ruby>きの<ruby>引き出<rt>ひきだ</rt></ruby>しに<ruby>財布<rt>さいふ</rt></ruby>を<ruby>入<rt>い</rt></ruby>れ、<ruby>訪問<rt>ほうもん</rt></ruby><ruby>介護<rt>かいご</rt></ruby><ruby>員<rt>いん</rt></ruby>（ホームヘルパー）が<ruby>鍵<rt>かぎ</rt></ruby>を<ruby>管理<rt>かんり</rt></ruby>する。",
+      "4 「お<ruby>金<rt>きん</rt></ruby>の<ruby>使い方<rt>つかいかた</rt></ruby>について、<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>考<rt>かんが</rt></ruby>えてみませんか」と<ruby>提案<rt>ていあん</rt></ruby>する。",
+      "5 <ruby>健康食品<rt>けんこうしょくひん</rt></ruby>のクーリング・オフを<ruby>勧<rt>すす</rt></ruby>める。"
     ],
     "answer": 3
   },
   {
-    "question": "問題54 繊維や衣類の性質と洗濯方法に関する次の記述のうち、正しいものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>54 <ruby>繊維<rt>せんい</rt></ruby>や<ruby>衣類<rt>いるい</rt></ruby>の<ruby>性質<rt>せいしつ</rt></ruby>と<ruby>洗濯<rt>せんたく</rt></ruby><ruby>方法<rt>ほうほう</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち、<ruby>正<rt>ただ</rt></ruby>しいものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  綿の柄物シャツには酸素系漂白剤を使う。",
-      "2  ナイロンのレインウエアは脱水時間を長くする。",
-      "3  ウールのニットセーターは乾燥機を使う。",
-      "4  レーヨンのパジャマはすすぎ時間を長くする。",
-      "5  絹のブラウスには弱アルカリ性洗剤を使う。"
+      "1 <ruby>綿<rt>めん</rt></ruby>の<ruby>柄物<rt>がらもの</rt></ruby>シャツには<ruby>酸素<rt>さんそ</rt></ruby><ruby>系<rt>けい</rt></ruby><ruby>漂白剤<rt>ひょうはくざい</rt></ruby>を<ruby>使<rt>つか</rt></ruby>う。",
+      "2 ナイロンのレインウエアは<ruby>脱水<rt>だっすい</rt></ruby><ruby>時間<rt>じかん</rt></ruby>を<ruby>長<rt>なが</rt></ruby>くする。",
+      "3 ウールのニットセーターは<ruby>乾燥機<rt>かんそうき</rt></ruby>を<ruby>使<rt>つか</rt></ruby>う。",
+      "4 レーヨンのパジャマはすすぎ<ruby>時間<rt>じかん</rt></ruby>を<ruby>長<rt>なが</rt></ruby>くする。",
+      "5 <ruby>絹<rt>きぬ</rt></ruby>のブラウスには<ruby>弱<rt>じゃく</rt></ruby>アルカリ<ruby>性<rt>せい</rt></ruby><ruby>洗剤<rt>せんざい</rt></ruby>を<ruby>使<rt>つか</rt></ruby>う。"
     ],
     "answer": 0
   },
   {
-    "question": "問題55 Ａさん（82歳、女性、要介護1）は、訪問介護（ホームヘルプサービス）を週1回利用し、生活援助を受けながら、自宅で一人暮らしをしている。調理はＡさん本人が行うなど、できることは自分で行いたいと思っている。ある日、訪問介護員（ホームヘルパー）はＡさんから買物リストを渡されて、近くのスーパーで食材を購入してきた。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>55 Ａさん（82<ruby>歳<rt>とし</rt></ruby>、<ruby>女性<rt>じょせい</rt></ruby>、<ruby>要介<rt>ようすけ</rt></ruby><ruby>護<rt>ご</rt></ruby>1）は、<ruby>訪問<rt>ほうもん</rt></ruby><ruby>介護<rt>かいご</rt></ruby>（ホームヘルプサービス）を<ruby>週<rt>しゅう</rt></ruby>1<ruby>回<rt>かい</rt></ruby><ruby>利用<rt>りよう</rt></ruby>し、<ruby>生活<rt>せいかつ</rt></ruby><ruby>援助<rt>えんじょ</rt></ruby>を<ruby>受<rt>う</rt></ruby>けながら、<ruby>自宅<rt>じたく</rt></ruby>で<ruby>一人暮<rt>ひとりぐ</rt></ruby>らしをしている。<ruby>調理<rt>ちょうり</rt></ruby>はＡさん<ruby>本人<rt>ほんにん</rt></ruby>が<ruby>行<rt>おこな</rt></ruby>うなど、できることは<ruby>自分<rt>じぶん</rt></ruby>で<ruby>行<rt>おこな</rt></ruby>いたいと<ruby>思<rt>おも</rt></ruby>っている。ある<ruby>日<rt>にち</rt></ruby>、<ruby>訪問<rt>ほうもん</rt></ruby><ruby>介護<rt>かいご</rt></ruby><ruby>員<rt>いん</rt></ruby>（ホームヘルパー）はＡさんから<ruby>買物<rt>かいもの</rt></ruby>リストを<ruby>渡<rt>わた</rt></ruby>されて、<ruby>近<rt>ちか</rt></ruby>くのスーパーで<ruby>食材<rt>しょくざい</rt></ruby>を<ruby>購入<rt>こうにゅう</rt></ruby>してきた。",
     "choices": [
-      "次の記述のうち、Ａさんへの生活援助における訪問介護員（ホームヘルパー）の対応として、最も適切なものを1つ選びなさい。",
-      "1  依頼された食材が安かったので、リストに書かれた数より多く購入した。",
-      "2  おつりとレシート、購入した食材の確認を、Ａさんにすべて任せた。",
-      "3  冷蔵庫を開けたとき、賞味期限切れの食材があったため廃棄した。",
-      "4  買物リストは、次から訪問介護員（ホームヘルパー）が書くことを提案した。"
+      "<ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち、Ａさんへの<ruby>生活<rt>せいかつ</rt></ruby><ruby>援助<rt>えんじょ</rt></ruby>における<ruby>訪問<rt>ほうもん</rt></ruby><ruby>介護<rt>かいご</rt></ruby><ruby>員<rt>いん</rt></ruby>（ホームヘルパー）の<ruby>対応<rt>たいおう</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
+      "1 <ruby>依頼<rt>いらい</rt></ruby>された<ruby>食材<rt>しょくざい</rt></ruby>が<ruby>安<rt>やす</rt></ruby>かったので、リストに<ruby>書<rt>か</rt></ruby>かれた<ruby>数<rt>かず</rt></ruby>より<ruby>多<rt>おお</rt></ruby>く<ruby>購入<rt>こうにゅう</rt></ruby>した。",
+      "2 おつりとレシート、<ruby>購入<rt>こうにゅう</rt></ruby>した<ruby>食材<rt>しょくざい</rt></ruby>の<ruby>確認<rt>かくにん</rt></ruby>を、Ａさんにすべて<ruby>任<rt>まか</rt></ruby>せた。",
+      "3 <ruby>冷蔵庫<rt>れいぞうこ</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>けたとき、<ruby>賞味期限<rt>しょうみきげん</rt></ruby><ruby>切<rt>き</rt></ruby>れの<ruby>食材<rt>しょくざい</rt></ruby>があったため<ruby>廃棄<rt>はいき</rt></ruby>した。",
+      "4 <ruby>買物<rt>かいもの</rt></ruby>リストは、<ruby>次<rt>つぎ</rt></ruby>から<ruby>訪問<rt>ほうもん</rt></ruby><ruby>介護<rt>かいご</rt></ruby><ruby>員<rt>いん</rt></ruby>（ホームヘルパー）が<ruby>書<rt>か</rt></ruby>くことを<ruby>提案<rt>ていあん</rt></ruby>した。"
     ],
     "answer": 4
   },
   {
-    "question": "問題56 次の記述のうち、良質な睡眠のための環境づくりとして、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>56 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち、<ruby>良質<rt>りょうしつ</rt></ruby>な<ruby>睡眠<rt>すいみん</rt></ruby>のための<ruby>環境<rt>かんきょう</rt></ruby>づくりとして、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  日中は、強度の高い運動を多く取り入れる。",
-      "2  夜食は、就寝直前にとる。",
-      "3  入浴は、就寝の1～2時間前に行う。",
-      "4  眠気がなくても、決まった時間に目を閉じる。",
-      "5  寝ている間も、照明は明るくしておく。"
+      "1 <ruby>日中<rt>にっちゅう</rt></ruby>は、<ruby>強度<rt>きょうど</rt></ruby>の<ruby>高<rt>たか</rt></ruby>い<ruby>運動<rt>うんどう</rt></ruby>を<ruby>多<rt>おお</rt></ruby>く<ruby>取り入<rt>とりい</rt></ruby>れる。",
+      "2 <ruby>夜食<rt>やしょく</rt></ruby>は、<ruby>就寝<rt>しゅうしん</rt></ruby><ruby>直前<rt>ちょくぜん</rt></ruby>にとる。",
+      "3 <ruby>入浴<rt>にゅうよく</rt></ruby>は、<ruby>就寝<rt>しゅうしん</rt></ruby>の1～2<ruby>時間前<rt>じかんまえ</rt></ruby>に<ruby>行<rt>おこな</rt></ruby>う。",
+      "4 <ruby>眠気<rt>ねむけ</rt></ruby>がなくても、<ruby>決<rt>き</rt></ruby>まった<ruby>時間<rt>じかん</rt></ruby>に<ruby>目<rt>め</rt></ruby>を<ruby>閉<rt>と</rt></ruby>じる。",
+      "5 <ruby>寝<rt>ね</rt></ruby>ている<ruby>間<rt>かん</rt></ruby>も、<ruby>照明<rt>しょうめい</rt></ruby>は<ruby>明<rt>あか</rt></ruby>るくしておく。"
     ],
     "answer": 2
   },
   {
-    "question": "問題57 Ａさん（83歳、女性、要介護3）は、脳梗塞（cerebral infarction）の後遺症で左片麻痺｛ひだりかたまひ｝があり、介護老人福祉施設に入所している。ある日の夜間、仰臥位｛ぎょうがい｝（背臥位｛はいがい｝）で寝ていたＡさんが、「背中が重く感じて、眠れない」と介護福祉職に訴えた。 次の記述のうち、介護福祉職がＡさんに行う介護として、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>57 Ａさん（83<ruby>歳<rt>とし</rt></ruby>、<ruby>女性<rt>じょせい</rt></ruby>、<ruby>要介<rt>ようすけ</rt></ruby><ruby>護<rt>ご</rt></ruby>3）は、<ruby>脳<rt>のう</rt></ruby><ruby>梗塞<rt>こうそく</rt></ruby>（cerebral infarction）の<ruby>後遺症<rt>こういしょう</rt></ruby>で<ruby>左片<rt>さへん</rt></ruby><ruby>麻痺<rt>まひ</rt></ruby>｛ひだりかたまひ｝があり、<ruby>介護<rt>かいご</rt></ruby><ruby>老人<rt>ろうじん</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>施設<rt>しせつ</rt></ruby>に<ruby>入所<rt>にゅうしょ</rt></ruby>している。ある<ruby>日<rt>にち</rt></ruby>の<ruby>夜間<rt>やかん</rt></ruby>、<ruby>仰臥<rt>ぎょうが</rt></ruby><ruby>位<rt>くらい</rt></ruby>｛ぎょうがい｝（<ruby>背<rt>せ</rt></ruby><ruby>臥位<rt>がい</rt></ruby>｛はいがい｝）で<ruby>寝<rt>ね</rt></ruby>ていたＡさんが、「<ruby>背中<rt>せなか</rt></ruby>が<ruby>重<rt>おも</rt></ruby>く<ruby>感<rt>かん</rt></ruby>じて、<ruby>眠<rt>ねむ</rt></ruby>れない」と<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>に<ruby>訴<rt>うった</rt></ruby>えた。 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち、<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>がＡさんに<ruby>行<rt>おこな</rt></ruby>う<ruby>介護<rt>かいご</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  ファーラー位にして、左下肢にクッションを入れる。",
-      "2  両上肢の下に、クッションを入れる。",
-      "3  両膝窩部｛りょうしつかぶ｝に、クッションを入れる。",
-      "4  右側臥位｛みぎそくがい｝にして、クッションを抱いてもらう。",
-      "5  右下肢の足部に、クッションを入れる。"
+      "1 ファーラー<ruby>位<rt>くらい</rt></ruby>にして、<ruby>左下<rt>ひだりした</rt></ruby><ruby>肢<rt>し</rt></ruby>にクッションを<ruby>入<rt>い</rt></ruby>れる。",
+      "2 <ruby>両<rt>りょう</rt></ruby><ruby>上肢<rt>じょうし</rt></ruby>の<ruby>下<rt>した</rt></ruby>に、クッションを<ruby>入<rt>い</rt></ruby>れる。",
+      "3 <ruby>両膝<rt>りょうひざ</rt></ruby><ruby>窩<rt>か</rt></ruby><ruby>部<rt>ぶ</rt></ruby>｛りょうしつかぶ｝に、クッションを<ruby>入<rt>い</rt></ruby>れる。",
+      "4 <ruby>右側<rt>みぎがわ</rt></ruby><ruby>臥位<rt>がい</rt></ruby>｛みぎそくがい｝にして、クッションを<ruby>抱<rt>だ</rt></ruby>いてもらう。",
+      "5 <ruby>右下<rt>みぎした</rt></ruby><ruby>肢<rt>し</rt></ruby>の<ruby>足部<rt>そくぶ</rt></ruby>に、クッションを<ruby>入<rt>い</rt></ruby>れる。"
     ],
     "answer": 3
   },
   {
-    "question": "問題58 次の記述のうち、介護老人福祉施設で、終末期にある利用者とその家族に行う介護福祉職の支援として、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>58 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち、<ruby>介護<rt>かいご</rt></ruby><ruby>老人<rt>ろうじん</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>施設<rt>しせつ</rt></ruby>で、<ruby>終末<rt>しゅうまつ</rt></ruby><ruby>期<rt>き</rt></ruby>にある<ruby>利用者<rt>りようしゃ</rt></ruby>とその<ruby>家族<rt>かぞく</rt></ruby>に<ruby>行<rt>おこな</rt></ruby>う<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>の<ruby>支援<rt>しえん</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  利用者の苦しそうな姿を見せないように、家族には面会を控えてもらう。",
-      "2  利用者と家族の関係が良好でない場合は、家族と連絡を取らないようにする。",
-      "3  好きなものや食べたいものがある場合は、家族に持ってきてもらう。",
-      "4  苦痛を訴える場合は、家族から激励してもらう。",
-      "5  家族が不安になるため、体調の変化は伝えないようにする。"
+      "1 <ruby>利用者<rt>りようしゃ</rt></ruby>の<ruby>苦<rt>くる</rt></ruby>しそうな<ruby>姿<rt>すがた</rt></ruby>を<ruby>見<rt>み</rt></ruby>せないように、<ruby>家族<rt>かぞく</rt></ruby>には<ruby>面会<rt>めんかい</rt></ruby>を<ruby>控<rt>ひか</rt></ruby>えてもらう。",
+      "2 <ruby>利用者<rt>りようしゃ</rt></ruby>と<ruby>家族<rt>かぞく</rt></ruby>の<ruby>関係<rt>かんけい</rt></ruby>が<ruby>良好<rt>りょうこう</rt></ruby>でない<ruby>場合<rt>ばあい</rt></ruby>は、<ruby>家族<rt>かぞく</rt></ruby>と<ruby>連絡<rt>れんらく</rt></ruby>を<ruby>取<rt>と</rt></ruby>らないようにする。",
+      "3 <ruby>好<rt>す</rt></ruby>きなものや<ruby>食<rt>た</rt></ruby>べたいものがある<ruby>場合<rt>ばあい</rt></ruby>は、<ruby>家族<rt>かぞく</rt></ruby>に<ruby>持<rt>も</rt></ruby>ってきてもらう。",
+      "4 <ruby>苦痛<rt>くつう</rt></ruby>を<ruby>訴<rt>うった</rt></ruby>える<ruby>場合<rt>ばあい</rt></ruby>は、<ruby>家族<rt>かぞく</rt></ruby>から<ruby>激励<rt>げきれい</rt></ruby>してもらう。",
+      "5 <ruby>家族<rt>かぞく</rt></ruby>が<ruby>不安<rt>ふあん</rt></ruby>になるため、<ruby>体調<rt>たいちょう</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>は<ruby>伝<rt>つた</rt></ruby>えないようにする。"
     ],
     "answer": 2
   },
   {
-    "question": "問題59 次の記述のうち、施設で亡くなった利用者家族への介護福祉職の対応として、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>59 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち、<ruby>施設<rt>しせつ</rt></ruby>で<ruby>亡<rt>な</rt></ruby>くなった<ruby>利用者<rt>りようしゃ</rt></ruby><ruby>家族<rt>かぞく</rt></ruby>への<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>の<ruby>対応<rt>たいおう</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  悲しみの表出があった時点からかかわりを開始する。",
-      "2  傾聴よりも励ますことを重視する。",
-      "3  悲嘆は特異な反応のため注意する。",
-      "4  故人との思い出には触れないようにする。",
-      "5  悲嘆が長期化した場合は、専門医等へ相談するように助言する。"
+      "1 <ruby>悲<rt>かな</rt></ruby>しみの<ruby>表出<rt>ひょうしゅつ</rt></ruby>があった<ruby>時点<rt>じてん</rt></ruby>からかかわりを<ruby>開始<rt>かいし</rt></ruby>する。",
+      "2 <ruby>傾聴<rt>けいちょう</rt></ruby>よりも<ruby>励<rt>はげ</rt></ruby>ますことを<ruby>重視<rt>じゅうし</rt></ruby>する。",
+      "3 <ruby>悲嘆<rt>ひたん</rt></ruby>は<ruby>特異<rt>とくい</rt></ruby>な<ruby>反応<rt>はんのう</rt></ruby>のため<ruby>注意<rt>ちゅうい</rt></ruby>する。",
+      "4 <ruby>故人<rt>こじん</rt></ruby>との<ruby>思い出<rt>おもいで</rt></ruby>には<ruby>触<rt>ふ</rt></ruby>れないようにする。",
+      "5 <ruby>悲嘆<rt>ひたん</rt></ruby>が<ruby>長期化<rt>ちょうきか</rt></ruby>した<ruby>場合<rt>ばあい</rt></ruby>は、<ruby>専門医<rt>せんもんい</rt></ruby><ruby>等<rt>など</rt></ruby>へ<ruby>相談<rt>そうだん</rt></ruby>するように<ruby>助言<rt>じょげん</rt></ruby>する。"
     ],
     "answer": 4
   },
   {
-    "question": "問題60 次のうち、固定式歩行器が適した利用者として、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>60 <ruby>次<rt>つぎ</rt></ruby>のうち、<ruby>固定式<rt>こていしき</rt></ruby><ruby>歩行<rt>ほこう</rt></ruby><ruby>器<rt>うつわ</rt></ruby>が<ruby>適<rt>てき</rt></ruby>した<ruby>利用者<rt>りようしゃ</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  対麻痺｛ついまひ｝で、下肢を交互に出すことができない人",
-      "2  片麻痺｛かたまひ｝があって、麻痺側｛まひそく｝の指関節の拘縮がある人",
-      "3  両上肢の筋力が弱く、手関節に痛みがある人",
-      "4  両手の握力が保たれていて、数秒程度の立位保持ができる人",
-      "5  右の足根骨を骨折して、右下肢に体重をかけることができない人"
+      "1 <ruby>対<rt>つい</rt></ruby><ruby>麻痺<rt>まひ</rt></ruby>｛ついまひ｝で、<ruby>下肢<rt>かし</rt></ruby>を<ruby>交互<rt>こうご</rt></ruby>に<ruby>出<rt>だ</rt></ruby>すことができない<ruby>人<rt>にん</rt></ruby>",
+      "2 <ruby>片麻<rt>へんま</rt></ruby><ruby>痺<rt>ひ</rt></ruby>｛かたまひ｝があって、<ruby>麻痺<rt>まひ</rt></ruby><ruby>側<rt>がわ</rt></ruby>｛まひそく｝の<ruby>指<rt>ゆび</rt></ruby><ruby>関節<rt>かんせつ</rt></ruby>の<ruby>拘縮<rt>こうしゅく</rt></ruby>がある<ruby>人<rt>にん</rt></ruby>",
+      "3 <ruby>両<rt>りょう</rt></ruby><ruby>上肢<rt>じょうし</rt></ruby>の<ruby>筋力<rt>きんりょく</rt></ruby>が<ruby>弱<rt>よわ</rt></ruby>く、<ruby>手<rt>て</rt></ruby><ruby>関節<rt>かんせつ</rt></ruby>に<ruby>痛<rt>いた</rt></ruby>みがある<ruby>人<rt>にん</rt></ruby>",
+      "4 <ruby>両手<rt>りょうて</rt></ruby>の<ruby>握力<rt>あくりょく</rt></ruby>が<ruby>保<rt>たも</rt></ruby>たれていて、<ruby>数秒<rt>すうびょう</rt></ruby><ruby>程度<rt>ていど</rt></ruby>の<ruby>立位<rt>りつい</rt></ruby><ruby>保持<rt>ほじ</rt></ruby>ができる<ruby>人<rt>にん</rt></ruby>",
+      "5 <ruby>右<rt>みぎ</rt></ruby>の<ruby>足根<rt>そっこん</rt></ruby><ruby>骨<rt>ほね</rt></ruby>を<ruby>骨折<rt>こっせつ</rt></ruby>して、<ruby>右下<rt>みぎした</rt></ruby><ruby>肢<rt>し</rt></ruby>に<ruby>体重<rt>たいじゅう</rt></ruby>をかけることができない<ruby>人<rt>にん</rt></ruby>"
     ],
     "answer": 3
   },
   {
-    "question": "問題61 次のうち、比較的短い時間に限られる大きな感情の動きに該当するものとして、適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>61 <ruby>次<rt>つぎ</rt></ruby>のうち、<ruby>比較的<rt>ひかくてき</rt></ruby><ruby>短<rt>みじか</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>に<ruby>限<rt>かぎ</rt></ruby>られる<ruby>大<rt>おお</rt></ruby>きな<ruby>感情<rt>かんじょう</rt></ruby>の<ruby>動<rt>うご</rt></ruby>きに<ruby>該当<rt>がいとう</rt></ruby>するものとして、<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  条件づけ",
-      "2  短期記憶",
-      "3  気分",
-      "4  思考",
-      "5  情動"
+      "1 <ruby>条件<rt>じょうけん</rt></ruby>づけ",
+      "2 <ruby>短期記憶<rt>たんききおく</rt></ruby>",
+      "3 <ruby>気分<rt>きぶん</rt></ruby>",
+      "4 <ruby>思考<rt>しこう</rt></ruby>",
+      "5 <ruby>情動<rt>じょうどう</rt></ruby>"
     ],
     "answer": 4
   },
   {
-    "question": "問題62 次の記述のうち、脳のしくみとその働きとして、適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>62 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち、<ruby>脳<rt>のう</rt></ruby>のしくみとその<ruby>働<rt>はたら</rt></ruby>きとして、<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  神経細胞は、神経膠細胞｛しんけいこうさいぼう｝（グリア細胞）を支える。",
-      "2  神経膠細胞｛しんけいこうさいぼう｝（グリア細胞）は、情報伝達をつかさどる。",
-      "3  セロトニン（serotonin）は、神経伝達物質の1つである。",
-      "4  頭頂葉には、運動野が存在する。",
-      "5  海馬は、視覚をつかさどる。"
+      "1 <ruby>神経細胞<rt>しんけいさいぼう</rt></ruby>は、<ruby>神経<rt>しんけい</rt></ruby><ruby>膠<rt>にかわ</rt></ruby><ruby>細胞<rt>さいぼう</rt></ruby>｛しんけいこうさいぼう｝（グリア<ruby>細胞<rt>さいぼう</rt></ruby>）を<ruby>支<rt>ささ</rt></ruby>える。",
+      "2 <ruby>神経<rt>しんけい</rt></ruby><ruby>膠<rt>にかわ</rt></ruby><ruby>細胞<rt>さいぼう</rt></ruby>｛しんけいこうさいぼう｝（グリア<ruby>細胞<rt>さいぼう</rt></ruby>）は、<ruby>情報伝達<rt>じょうほうでんたつ</rt></ruby>をつかさどる。",
+      "3 セロトニン（serotonin）は、<ruby>神経伝達物質<rt>しんけいでんたつぶっしつ</rt></ruby>の1つである。",
+      "4 <ruby>頭頂<rt>とうちょう</rt></ruby><ruby>葉<rt>は</rt></ruby>には、<ruby>運動<rt>うんどう</rt></ruby><ruby>野<rt>の</rt></ruby>が<ruby>存在<rt>そんざい</rt></ruby>する。",
+      "5 <ruby>海馬<rt>かいば</rt></ruby>は、<ruby>視覚<rt>しかく</rt></ruby>をつかさどる。"
     ],
     "answer": 2
   },
   {
-    "question": "問題63 次の記述のうち、循環器系のしくみとして、正しいものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>63 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち、<ruby>循環器系<rt>じゅんかんきけい</rt></ruby>のしくみとして、<ruby>正<rt>ただ</rt></ruby>しいものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  心臓は体性神経が支配している。",
-      "2  肺動脈には静脈血が流れている。",
-      "3  左心室から出た血液は大静脈へ流れる。",
-      "4  リンパ管には血液が流れている。",
-      "5  静脈血とは酸素を多く含む血液である。"
+      "1 <ruby>心臓<rt>しんぞう</rt></ruby>は<ruby>体性<rt>たいせい</rt></ruby><ruby>神経<rt>しんけい</rt></ruby>が<ruby>支配<rt>しはい</rt></ruby>している。",
+      "2 <ruby>肺<rt>はい</rt></ruby><ruby>動脈<rt>どうみゃく</rt></ruby>には<ruby>静脈<rt>じょうみゃく</rt></ruby><ruby>血<rt>ち</rt></ruby>が<ruby>流<rt>なが</rt></ruby>れている。",
+      "3 <ruby>左心室<rt>さしんしつ</rt></ruby>から<ruby>出<rt>で</rt></ruby>た<ruby>血液<rt>けつえき</rt></ruby>は<ruby>大<rt>だい</rt></ruby><ruby>静脈<rt>じょうみゃく</rt></ruby>へ<ruby>流<rt>なが</rt></ruby>れる。",
+      "4 リンパ<ruby>管<rt>かん</rt></ruby>には<ruby>血液<rt>けつえき</rt></ruby>が<ruby>流<rt>なが</rt></ruby>れている。",
+      "5 <ruby>静脈<rt>じょうみゃく</rt></ruby><ruby>血<rt>ち</rt></ruby>とは<ruby>酸素<rt>さんそ</rt></ruby>を<ruby>多<rt>おお</rt></ruby>く<ruby>含<rt>ふく</rt></ruby>む<ruby>血液<rt>けつえき</rt></ruby>である。"
     ],
     "answer": 1
   },
   {
-    "question": "問題64 次の記述のうち、人の動作時に収縮する筋肉に関する説明として、適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>64 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち、<ruby>人<rt>にん</rt></ruby>の<ruby>動作時<rt>どうさじ</rt></ruby>に<ruby>収縮<rt>しゅうしゅく</rt></ruby>する<ruby>筋肉<rt>きんにく</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>説明<rt>せつめい</rt></ruby>として、<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  立位を保持するときは大殿筋が収縮する。",
-      "2  膝の屈曲には大腿四頭筋｛だいたいしとうきん｝が収縮する。",
-      "3  肘の屈曲には上腕三頭筋が収縮する。",
-      "4  肩関節を内転するときは三角筋が収縮する。",
-      "5  足関節の底屈では前脛骨筋｛ぜんけいこつきん｝が収縮する。"
+      "1 <ruby>立位<rt>りつい</rt></ruby>を<ruby>保持<rt>ほじ</rt></ruby>するときは<ruby>大殿<rt>おおとの</rt></ruby><ruby>筋<rt>すじ</rt></ruby>が<ruby>収縮<rt>しゅうしゅく</rt></ruby>する。",
+      "2 <ruby>膝<rt>ひざ</rt></ruby>の<ruby>屈曲<rt>くっきょく</rt></ruby>には<ruby>大腿<rt>だいたい</rt></ruby><ruby>四<rt>し</rt></ruby><ruby>頭<rt>あたま</rt></ruby><ruby>筋<rt>すじ</rt></ruby>｛だいたいしとうきん｝が<ruby>収縮<rt>しゅうしゅく</rt></ruby>する。",
+      "3 <ruby>肘<rt>ひじ</rt></ruby>の<ruby>屈曲<rt>くっきょく</rt></ruby>には<ruby>上腕<rt>じょうわん</rt></ruby><ruby>三頭<rt>さんとう</rt></ruby><ruby>筋<rt>すじ</rt></ruby>が<ruby>収縮<rt>しゅうしゅく</rt></ruby>する。",
+      "4 <ruby>肩<rt>かた</rt></ruby><ruby>関節<rt>かんせつ</rt></ruby>を<ruby>内転<rt>ないてん</rt></ruby>するときは<ruby>三角<rt>さんかく</rt></ruby><ruby>筋<rt>すじ</rt></ruby>が<ruby>収縮<rt>しゅうしゅく</rt></ruby>する。",
+      "5 <ruby>足<rt>あし</rt></ruby><ruby>関節<rt>かんせつ</rt></ruby>の<ruby>底屈<rt>ていくつ</rt></ruby>では<ruby>前<rt>まえ</rt></ruby><ruby>脛骨<rt>けいこつ</rt></ruby><ruby>筋<rt>すじ</rt></ruby>｛ぜんけいこつきん｝が<ruby>収縮<rt>しゅうしゅく</rt></ruby>する。"
     ],
     "answer": 0
   },
   {
-    "question": "問題65 次のうち、白内障（cataract）で混濁する部位として、適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>65 <ruby>次<rt>つぎ</rt></ruby>のうち、<ruby>白内障<rt>はくないしょう</rt></ruby>（cataract）で<ruby>混濁<rt>こんだく</rt></ruby>する<ruby>部位<rt>ぶい</rt></ruby>として、<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  網膜",
-      "2  角膜",
-      "3  脈絡膜",
-      "4  硝子体",
-      "5  水晶体"
+      "1 <ruby>網膜<rt>もうまく</rt></ruby>",
+      "2 <ruby>角膜<rt>かくまく</rt></ruby>",
+      "3 <ruby>脈絡<rt>みゃくらく</rt></ruby><ruby>膜<rt>まく</rt></ruby>",
+      "4 <ruby>硝子<rt>がらす</rt></ruby><ruby>体<rt>からだ</rt></ruby>",
+      "5 <ruby>水晶体<rt>すいしょうたい</rt></ruby>"
     ],
     "answer": 4
   },
   {
-    "question": "問題66 次の記述のうち、低栄養の高齢者にみられる症状や行動の特徴として、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>66 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち、<ruby>低<rt>てい</rt></ruby><ruby>栄養<rt>えいよう</rt></ruby>の<ruby>高齢者<rt>こうれいしゃ</rt></ruby>にみられる<ruby>症状<rt>しょうじょう</rt></ruby>や<ruby>行動<rt>こうどう</rt></ruby>の<ruby>特徴<rt>とくちょう</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  唾液の分泌が増加する。",
-      "2  腸蠕動｛ちょうぜんどう｝が亢進｛こうしん｝する。",
-      "3  食べこぼしが減る。",
-      "4  偏りのある食べ方をする。",
-      "5  体重が増える。"
+      "1 <ruby>唾液<rt>だえき</rt></ruby>の<ruby>分泌<rt>ぶんぴつ</rt></ruby>が<ruby>増加<rt>ぞうか</rt></ruby>する。",
+      "2 <ruby>腸<rt>ちょう</rt></ruby><ruby>蠕動<rt>ぜんどう</rt></ruby>｛ちょうぜんどう｝が<ruby>亢進<rt>こうしん</rt></ruby>｛こうしん｝する。",
+      "3 <ruby>食<rt>た</rt></ruby>べこぼしが<ruby>減<rt>へ</rt></ruby>る。",
+      "4 <ruby>偏<rt>かたよ</rt></ruby>りのある<ruby>食べ方<rt>たべかた</rt></ruby>をする。",
+      "5 <ruby>体重<rt>たいじゅう</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>える。"
     ],
     "answer": 3
   },
   {
-    "question": "問題67 次のうち、バリア機能をもつ表皮の構造として、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>67 <ruby>次<rt>つぎ</rt></ruby>のうち、バリア<ruby>機能<rt>きのう</rt></ruby>をもつ<ruby>表皮<rt>ひょうひ</rt></ruby>の<ruby>構造<rt>こうぞう</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  汗腺",
-      "2  角質層",
-      "3  基底層",
-      "4  有棘層｛ゆうきょくそう｝",
-      "5  顆粒層｛かりゅうそう｝"
+      "1 <ruby>汗腺<rt>かんせん</rt></ruby>",
+      "2 <ruby>角質<rt>かくしつ</rt></ruby><ruby>層<rt>そう</rt></ruby>",
+      "3 <ruby>基底<rt>きてい</rt></ruby><ruby>層<rt>そう</rt></ruby>",
+      "4 <ruby>有棘<rt>ゆうきょく</rt></ruby><ruby>層<rt>そう</rt></ruby>｛ゆうきょくそう｝",
+      "5 <ruby>顆粒<rt>かりゅう</rt></ruby><ruby>層<rt>そう</rt></ruby>｛かりゅうそう｝"
     ],
     "answer": 1
   },
   {
-    "question": "問題68 Ａさん（98歳、女性）は、認知症（dementia）があるが、食事動作は自立していた。最近、配膳されても食事動作が始まらないことが増えてきた。介護福祉職が献立や食材などの説明をしたところ、Ａさんは食べ始めるようになった。 次の摂食嚥下｛せっしょくえんげ｝の5期のうち、介護福祉職が支援した期として、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>68 Ａさん（98<ruby>歳<rt>とし</rt></ruby>、<ruby>女性<rt>じょせい</rt></ruby>）は、<ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby>（dementia）があるが、<ruby>食事<rt>しょくじ</rt></ruby><ruby>動作<rt>どうさ</rt></ruby>は<ruby>自立<rt>じりつ</rt></ruby>していた。<ruby>最近<rt>さいきん</rt></ruby>、<ruby>配膳<rt>はいぜん</rt></ruby>されても<ruby>食事<rt>しょくじ</rt></ruby><ruby>動作<rt>どうさ</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まらないことが<ruby>増<rt>ふ</rt></ruby>えてきた。<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>が<ruby>献立<rt>こんだて</rt></ruby>や<ruby>食材<rt>しょくざい</rt></ruby>などの<ruby>説明<rt>せつめい</rt></ruby>をしたところ、Ａさんは<ruby>食<rt>た</rt></ruby>べ<ruby>始<rt>はじ</rt></ruby>めるようになった。 <ruby>次<rt>つぎ</rt></ruby>の<ruby>摂食<rt>せっしょく</rt></ruby><ruby>嚥下<rt>えんか</rt></ruby>｛せっしょくえんげ｝の5<ruby>期<rt>き</rt></ruby>のうち、<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>が<ruby>支援<rt>しえん</rt></ruby>した<ruby>期<rt>き</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  先行期",
-      "2  準備期",
-      "3  口腔期",
-      "4  咽頭期",
-      "5  食道期"
+      "1 <ruby>先行<rt>せんこう</rt></ruby><ruby>期<rt>き</rt></ruby>",
+      "2 <ruby>準備<rt>じゅんび</rt></ruby><ruby>期<rt>き</rt></ruby>",
+      "3 <ruby>口腔<rt>こうこう</rt></ruby><ruby>期<rt>き</rt></ruby>",
+      "4 <ruby>咽頭<rt>いんとう</rt></ruby><ruby>期<rt>き</rt></ruby>",
+      "5 <ruby>食道<rt>しょくどう</rt></ruby><ruby>期<rt>き</rt></ruby>"
     ],
     "answer": 0
   },
   {
-    "question": "問題69 次のうち、健康な成人において、横行結腸の次に便が通過する部位として、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>69 <ruby>次<rt>つぎ</rt></ruby>のうち、<ruby>健康<rt>けんこう</rt></ruby>な<ruby>成人<rt>せいじん</rt></ruby>において、<ruby>横行<rt>おうこう</rt></ruby><ruby>結腸<rt>けっちょう</rt></ruby>の<ruby>次<rt>つぎ</rt></ruby>に<ruby>便<rt>びん</rt></ruby>が<ruby>通過<rt>つうか</rt></ruby>する<ruby>部位<rt>ぶい</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  盲腸",
-      "2  上行結腸",
-      "3  下行結腸",
-      "4  Ｓ状結腸",
-      "5  直腸"
+      "1 <ruby>盲腸<rt>もうちょう</rt></ruby>",
+      "2 <ruby>上行<rt>じょうぎょう</rt></ruby><ruby>結腸<rt>けっちょう</rt></ruby>",
+      "3 <ruby>下行<rt>かぎょう</rt></ruby><ruby>結腸<rt>けっちょう</rt></ruby>",
+      "4 Ｓ<ruby>状<rt>じょう</rt></ruby><ruby>結腸<rt>けっちょう</rt></ruby>",
+      "5 <ruby>直腸<rt>ちょくちょう</rt></ruby>"
     ],
     "answer": 2
   },
   {
-    "question": "問題70 Ａさん（80歳、男性）は、半年前から急に便秘になり、最近では排便回数が5日に1回程度となった。腹部は膨満していて、便は細く、血液が付着することがあるという。 次の記述のうち、Ａさんの便秘に対する対応として、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>70 Ａさん（80<ruby>歳<rt>とし</rt></ruby>、<ruby>男性<rt>だんせい</rt></ruby>）は、<ruby>半年前<rt>はんとしまえ</rt></ruby>から<ruby>急<rt>きゅう</rt></ruby>に<ruby>便秘<rt>べんぴ</rt></ruby>になり、<ruby>最近<rt>さいきん</rt></ruby>では<ruby>排便<rt>はいべん</rt></ruby><ruby>回数<rt>かいすう</rt></ruby>が5<ruby>日<rt>にち</rt></ruby>に1<ruby>回<rt>かい</rt></ruby><ruby>程度<rt>ていど</rt></ruby>となった。<ruby>腹部<rt>ふくぶ</rt></ruby>は<ruby>膨満<rt>ぼうまん</rt></ruby>していて、<ruby>便<rt>びん</rt></ruby>は<ruby>細<rt>こま</rt></ruby>く、<ruby>血液<rt>けつえき</rt></ruby>が<ruby>付着<rt>ふちゃく</rt></ruby>することがあるという。 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち、Ａさんの<ruby>便秘<rt>べんぴ</rt></ruby>に<ruby>対<rt>たい</rt></ruby>する<ruby>対応<rt>たいおう</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  水分摂取を促す。",
-      "2  食物繊維の摂取を促す。",
-      "3  散歩などの運動を促す。",
-      "4  腹部のマッサージを行う。",
-      "5  医療機関の受診を促す。"
+      "1 <ruby>水分<rt>すいぶん</rt></ruby><ruby>摂取<rt>せっしゅ</rt></ruby>を<ruby>促<rt>うなが</rt></ruby>す。",
+      "2 <ruby>食物<rt>たべもの</rt></ruby><ruby>繊維<rt>せんい</rt></ruby>の<ruby>摂取<rt>せっしゅ</rt></ruby>を<ruby>促<rt>うなが</rt></ruby>す。",
+      "3 <ruby>散歩<rt>さんぽ</rt></ruby>などの<ruby>運動<rt>うんどう</rt></ruby>を<ruby>促<rt>うなが</rt></ruby>す。",
+      "4 <ruby>腹部<rt>ふくぶ</rt></ruby>のマッサージを<ruby>行<rt>おこな</rt></ruby>う。",
+      "5 <ruby>医療機関<rt>いりょうきかん</rt></ruby>の<ruby>受診<rt>じゅしん</rt></ruby>を<ruby>促<rt>うなが</rt></ruby>す。"
     ],
     "answer": 4
   },
   {
-    "question": "問題71 次のうち、65歳の人の妥当な睡眠時間として、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>71 <ruby>次<rt>つぎ</rt></ruby>のうち、65<ruby>歳<rt>とし</rt></ruby>の<ruby>人<rt>にん</rt></ruby>の<ruby>妥当<rt>だとう</rt></ruby>な<ruby>睡眠時間<rt>すいみんじかん</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  約12時間",
-      "2  約10時間",
-      "3  約8時間",
-      "4  約6時間",
-      "5  約4時間"
+      "1 <ruby>約<rt>やく</rt></ruby>12<ruby>時間<rt>じかん</rt></ruby>",
+      "2 <ruby>約<rt>やく</rt></ruby>10<ruby>時間<rt>じかん</rt></ruby>",
+      "3 <ruby>約<rt>やく</rt></ruby>8<ruby>時間<rt>じかん</rt></ruby>",
+      "4 <ruby>約<rt>やく</rt></ruby>6<ruby>時間<rt>じかん</rt></ruby>",
+      "5 <ruby>約<rt>やく</rt></ruby>4<ruby>時間<rt>じかん</rt></ruby>"
     ],
     "answer": 3
   },
   {
-    "question": "問題72 キューブラー・ロス（Kubler-Ross, E.）が示した終末期にある人の死の受容プロセスのうち「抑うつ」の段階として、適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>72 キューブラー・ロス（Kubler-Ross, E.）が<ruby>示<rt>しめ</rt></ruby>した<ruby>終末<rt>しゅうまつ</rt></ruby><ruby>期<rt>き</rt></ruby>にある<ruby>人<rt>にん</rt></ruby>の<ruby>死<rt>し</rt></ruby>の<ruby>受容<rt>じゅよう</rt></ruby>プロセスのうち「<ruby>抑<rt>よく</rt></ruby>うつ」の<ruby>段階<rt>だんかい</rt></ruby>として、<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  第1段階",
-      "2  第2段階",
-      "3  第3段階",
-      "4  第4段階",
-      "5  第5段階"
+      "1 <ruby>第<rt>だい</rt></ruby>1<ruby>段階<rt>だんかい</rt></ruby>",
+      "2 <ruby>第<rt>だい</rt></ruby>2<ruby>段階<rt>だんかい</rt></ruby>",
+      "3 <ruby>第<rt>だい</rt></ruby>3<ruby>段階<rt>だんかい</rt></ruby>",
+      "4 <ruby>第<rt>だい</rt></ruby>4<ruby>段階<rt>だんかい</rt></ruby>",
+      "5 <ruby>第<rt>だい</rt></ruby>5<ruby>段階<rt>だんかい</rt></ruby>"
     ],
     "answer": 3
   },
   {
-    "question": "問題73 次の記述のうち、ハヴィガースト（Havighurst, R.）の示す中年期の発達課題に該当するものとして、適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>73 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち、ハヴィガースト（Havighurst, R.）の<ruby>示<rt>しめ</rt></ruby>す<ruby>中年<rt>ちゅうねん</rt></ruby><ruby>期<rt>き</rt></ruby>の<ruby>発達<rt>はったつ</rt></ruby><ruby>課題<rt>かだい</rt></ruby>に<ruby>該当<rt>がいとう</rt></ruby>するものとして、<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  良心、道徳心、価値尺度を発達させる。",
-      "2  成人としての市民的・社会的責任を達成する。",
-      "3  満足できる住宅を確保する。",
-      "4  男性あるいは女性の社会的役割を身につける。",
-      "5  気心の合う社交集団を見つける。"
+      "1 <ruby>良心<rt>りょうしん</rt></ruby>、<ruby>道徳<rt>どうとく</rt></ruby><ruby>心<rt>こころ</rt></ruby>、<ruby>価値<rt>かち</rt></ruby><ruby>尺度<rt>しゃくど</rt></ruby>を<ruby>発達<rt>はったつ</rt></ruby>させる。",
+      "2 <ruby>成人<rt>せいじん</rt></ruby>としての<ruby>市民<rt>しみん</rt></ruby><ruby>的<rt>てき</rt></ruby>・<ruby>社会的責任<rt>しゃかいてきせきにん</rt></ruby>を<ruby>達成<rt>たっせい</rt></ruby>する。",
+      "3 <ruby>満足<rt>まんぞく</rt></ruby>できる<ruby>住宅<rt>じゅうたく</rt></ruby>を<ruby>確保<rt>かくほ</rt></ruby>する。",
+      "4 <ruby>男性<rt>だんせい</rt></ruby>あるいは<ruby>女性<rt>じょせい</rt></ruby>の<ruby>社会的<rt>しゃかいてき</rt></ruby><ruby>役割<rt>やくわり</rt></ruby>を<ruby>身<rt>み</rt></ruby>につける。",
+      "5 <ruby>気心<rt>きごころ</rt></ruby>の<ruby>合<rt>あ</rt></ruby>う<ruby>社交<rt>しゃこう</rt></ruby><ruby>集団<rt>しゅうだん</rt></ruby>を<ruby>見<rt>み</rt></ruby>つける。"
     ],
     "answer": 1
   },
   {
-    "question": "問題74 次の記述のうち、自閉症スペクトラム障害（autism spectrum disorder）の特徴として、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>74 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち、<ruby>自閉症<rt>じへいしょう</rt></ruby>スペクトラム<ruby>障害<rt>しょうがい</rt></ruby>（autism spectrum disorder）の<ruby>特徴<rt>とくちょう</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  文字のつづりがうまく書けず、類似の文字を間違えたりする。",
-      "2  同じ動作や行動を繰り返す。",
-      "3  注意の持続が難しい。",
-      "4  順番を待てずに割り込む。",
-      "5  数の大小の比較が難しい。"
+      "1 <ruby>文字<rt>もじ</rt></ruby>のつづりがうまく<ruby>書<rt>か</rt></ruby>けず、<ruby>類似<rt>るいじ</rt></ruby>の<ruby>文字<rt>もじ</rt></ruby>を<ruby>間違<rt>まちが</rt></ruby>えたりする。",
+      "2 <ruby>同<rt>おな</rt></ruby>じ<ruby>動作<rt>どうさ</rt></ruby>や<ruby>行動<rt>こうどう</rt></ruby>を<ruby>繰り返<rt>くりかえ</rt></ruby>す。",
+      "3 <ruby>注意<rt>ちゅうい</rt></ruby>の<ruby>持続<rt>じぞく</rt></ruby>が<ruby>難<rt>むずか</rt></ruby>しい。",
+      "4 <ruby>順番<rt>じゅんばん</rt></ruby>を<ruby>待<rt>ま</rt></ruby>てずに<ruby>割り込<rt>わりこ</rt></ruby>む。",
+      "5 <ruby>数<rt>かず</rt></ruby>の<ruby>大小<rt>だいしょう</rt></ruby>の<ruby>比較<rt>ひかく</rt></ruby>が<ruby>難<rt>むずか</rt></ruby>しい。"
     ],
     "answer": 1
   },
   {
-    "question": "問題75 次のうち、健康な状態と心身の機能が低下して介護等が必要な状態の中間を示す用語として、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>75 <ruby>次<rt>つぎ</rt></ruby>のうち、<ruby>健康<rt>けんこう</rt></ruby>な<ruby>状態<rt>じょうたい</rt></ruby>と<ruby>心身<rt>しんしん</rt></ruby>の<ruby>機能<rt>きのう</rt></ruby>が<ruby>低下<rt>ていか</rt></ruby>して<ruby>介護<rt>かいご</rt></ruby><ruby>等<rt>など</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>な<ruby>状態<rt>じょうたい</rt></ruby>の<ruby>中間<rt>ちゅうかん</rt></ruby>を<ruby>示<rt>しめ</rt></ruby>す<ruby>用語<rt>ようご</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
       "1  エイジング（aging）",
       "2  サルコペニア（sarcopenia）",
@@ -827,150 +827,150 @@ const examSets = {
     "answer": 4
   },
   {
-    "question": "問題76 高齢者のセクシュアリティ（sexuality）に関する次の記述のうち、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>76 <ruby>高齢者<rt>こうれいしゃ</rt></ruby>のセクシュアリティ（sexuality）に<ruby>関<rt>かん</rt></ruby>する<ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  高齢になると性への関心がなくなる。",
-      "2  男性は、高齢になっても性ホルモンの分泌が維持される。",
-      "3  女性は、高齢になると性交痛を感じやすくなる。",
-      "4  高齢者は生殖機能の喪失と同時にセクシュアリティ（sexuality）を喪失する。",
-      "5  高齢者の性的欲求に、性差はみられない。"
+      "1 <ruby>高齢<rt>こうれい</rt></ruby>になると<ruby>性<rt>せい</rt></ruby>への<ruby>関心<rt>かんしん</rt></ruby>がなくなる。",
+      "2 <ruby>男性<rt>だんせい</rt></ruby>は、<ruby>高齢<rt>こうれい</rt></ruby>になっても<ruby>性<rt>せい</rt></ruby>ホルモンの<ruby>分泌<rt>ぶんぴつ</rt></ruby>が<ruby>維持<rt>いじ</rt></ruby>される。",
+      "3 <ruby>女性<rt>じょせい</rt></ruby>は、<ruby>高齢<rt>こうれい</rt></ruby>になると<ruby>性交<rt>せいこう</rt></ruby><ruby>痛<rt>つう</rt></ruby>を<ruby>感<rt>かん</rt></ruby>じやすくなる。",
+      "4 <ruby>高齢者<rt>こうれいしゃ</rt></ruby>は<ruby>生殖<rt>せいしょく</rt></ruby><ruby>機能<rt>きのう</rt></ruby>の<ruby>喪失<rt>そうしつ</rt></ruby>と<ruby>同時<rt>どうじ</rt></ruby>にセクシュアリティ（sexuality）を<ruby>喪失<rt>そうしつ</rt></ruby>する。",
+      "5 <ruby>高齢者<rt>こうれいしゃ</rt></ruby>の<ruby>性的<rt>せいてき</rt></ruby><ruby>欲求<rt>よっきゅう</rt></ruby>に、<ruby>性差<rt>せいさ</rt></ruby>はみられない。"
     ],
     "answer": 2
   },
   {
-    "question": "問題77 Ａさん（22歳、女性）は、施設で介護福祉職として勤務し、食事や睡眠を工夫しながら、一人暮らしをしている。日々の生活や勤務状況に問題はない。職場にＡさんと年齢の近い介護福祉職はおらず、休憩時間や休みの日も一人で過ごしている。Ａさんは、「自分の仕事ぶりを上司に認めてほしいという気持ちはない。それよりも、仕事やそれ以外のことを深く話せる同年代の同僚がほしい」と思っている。 次のマズロー（Maslow, A.H.）の欲求階層説の各段階のうち、Ａさんの現在の気持ちが当てはまるものとして、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>77 Ａさん（22<ruby>歳<rt>とし</rt></ruby>、<ruby>女性<rt>じょせい</rt></ruby>）は、<ruby>施設<rt>しせつ</rt></ruby>で<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>として<ruby>勤務<rt>きんむ</rt></ruby>し、<ruby>食事<rt>しょくじ</rt></ruby>や<ruby>睡眠<rt>すいみん</rt></ruby>を<ruby>工夫<rt>くふう</rt></ruby>しながら、<ruby>一人暮<rt>ひとりぐ</rt></ruby>らしをしている。<ruby>日々<rt>ひび</rt></ruby>の<ruby>生活<rt>せいかつ</rt></ruby>や<ruby>勤務<rt>きんむ</rt></ruby><ruby>状況<rt>じょうきょう</rt></ruby>に<ruby>問題<rt>もんだい</rt></ruby>はない。<ruby>職場<rt>しょくば</rt></ruby>にＡさんと<ruby>年齢<rt>ねんれい</rt></ruby>の<ruby>近<rt>ちか</rt></ruby>い<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>はおらず、<ruby>休憩時間<rt>きゅうけいじかん</rt></ruby>や<ruby>休<rt>やす</rt></ruby>みの<ruby>日<rt>にち</rt></ruby>も<ruby>一人<rt>ひとり</rt></ruby>で<ruby>過<rt>す</rt></ruby>ごしている。Ａさんは、「<ruby>自分<rt>じぶん</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>ぶりを<ruby>上司<rt>じょうし</rt></ruby>に<ruby>認<rt>みと</rt></ruby>めてほしいという<ruby>気持<rt>きも</rt></ruby>ちはない。それよりも、<ruby>仕事<rt>しごと</rt></ruby>やそれ<ruby>以外<rt>いがい</rt></ruby>のことを<ruby>深<rt>ふか</rt></ruby>く<ruby>話<rt>はな</rt></ruby>せる<ruby>同年代<rt>どうねんだい</rt></ruby>の<ruby>同僚<rt>どうりょう</rt></ruby>がほしい」と<ruby>思<rt>おも</rt></ruby>っている。 <ruby>次<rt>つぎ</rt></ruby>のマズロー（Maslow, A.H.）の<ruby>欲求<rt>よっきゅう</rt></ruby><ruby>階層<rt>かいそう</rt></ruby><ruby>説<rt>せつ</rt></ruby>の<ruby>各段階<rt>かくだんかい</rt></ruby>のうち、Ａさんの<ruby>現在<rt>げんざい</rt></ruby>の<ruby>気持<rt>きも</rt></ruby>ちが<ruby>当<rt>あ</rt></ruby>てはまるものとして、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  生理的欲求",
-      "2  所属・愛情欲求",
-      "3  安全欲求",
-      "4  承認欲求",
-      "5  自己実現欲求"
+      "1 <ruby>生理的<rt>せいりてき</rt></ruby><ruby>欲求<rt>よっきゅう</rt></ruby>",
+      "2 <ruby>所属<rt>しょぞく</rt></ruby>・<ruby>愛情<rt>あいじょう</rt></ruby><ruby>欲求<rt>よっきゅう</rt></ruby>",
+      "3 <ruby>安全<rt>あんぜん</rt></ruby><ruby>欲求<rt>よっきゅう</rt></ruby>",
+      "4 <ruby>承認<rt>しょうにん</rt></ruby><ruby>欲求<rt>よっきゅう</rt></ruby>",
+      "5 <ruby>自己実現<rt>じこじつげん</rt></ruby><ruby>欲求<rt>よっきゅう</rt></ruby>"
     ],
     "answer": 1
   },
   {
-    "question": "問題78 次のうち、加齢に伴い階段を上ると息切れしやすくなる現象に関係する恒常性の機能として、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>78 <ruby>次<rt>つぎ</rt></ruby>のうち、<ruby>加齢<rt>かれい</rt></ruby>に<ruby>伴<rt>ともな</rt></ruby>い<ruby>階段<rt>かいだん</rt></ruby>を<ruby>上<rt>のぼ</rt></ruby>ると<ruby>息切<rt>いきぎ</rt></ruby>れしやすくなる<ruby>現象<rt>げんしょう</rt></ruby>に<ruby>関係<rt>かんけい</rt></ruby>する<ruby>恒常性<rt>こうじょうせい</rt></ruby>の<ruby>機能<rt>きのう</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  予備力",
-      "2  適応力",
-      "3  免疫力",
-      "4  抵抗力",
-      "5  回復力"
+      "1 <ruby>予備<rt>よび</rt></ruby><ruby>力<rt>ちから</rt></ruby>",
+      "2 <ruby>適応力<rt>てきおうりょく</rt></ruby>",
+      "3 <ruby>免疫力<rt>めんえきりょく</rt></ruby>",
+      "4 <ruby>抵抗力<rt>ていこうりょく</rt></ruby>",
+      "5 <ruby>回復力<rt>かいふくりょく</rt></ruby>"
     ],
     "answer": 0
   },
   {
-    "question": "問題79 次の記述のうち、高齢者の疾患や症状の特徴として、適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>79 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち、<ruby>高齢者<rt>こうれいしゃ</rt></ruby>の<ruby>疾患<rt>しっかん</rt></ruby>や<ruby>症状<rt>しょうじょう</rt></ruby>の<ruby>特徴<rt>とくちょう</rt></ruby>として、<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  典型的な症状を呈する。",
-      "2  生活が活発になる。",
-      "3  痛みに敏感になる。",
-      "4  複数の疾患を持ちやすい。",
-      "5  慢性的な疾患は少ない。"
+      "1 <ruby>典型的<rt>てんけいてき</rt></ruby>な<ruby>症状<rt>しょうじょう</rt></ruby>を<ruby>呈<rt>てい</rt></ruby>する。",
+      "2 <ruby>生活<rt>せいかつ</rt></ruby>が<ruby>活発<rt>かっぱつ</rt></ruby>になる。",
+      "3 <ruby>痛<rt>いた</rt></ruby>みに<ruby>敏感<rt>びんかん</rt></ruby>になる。",
+      "4 <ruby>複数<rt>ふくすう</rt></ruby>の<ruby>疾患<rt>しっかん</rt></ruby>を<ruby>持<rt>も</rt></ruby>ちやすい。",
+      "5 <ruby>慢性的<rt>まんせいてき</rt></ruby>な<ruby>疾患<rt>しっかん</rt></ruby>は<ruby>少<rt>すく</rt></ruby>ない。"
     ],
     "answer": 3
   },
   {
-    "question": "問題80 Ａさん（82歳、女性）は、介護老人保健施設に入所している。朝、眠そうな様子であったため、介護福祉職がどうしたのかと尋ねると、Ａさんは、「夜、足や背中がかゆくてあまり眠れなかった」と話した。看護師と共に足や背中を観察すると、皮膚が乾燥していて、引っ掻｛か｝いたような傷があった。そのほかに皮膚の異常はみられなかった。Ａさんは寒さに弱く、今は冬なので常に電気毛布を使用している。昨日は入浴日であった。 次のうち、Ａさんに生じている可能性がある疾患として、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>80 Ａさん（82<ruby>歳<rt>とし</rt></ruby>、<ruby>女性<rt>じょせい</rt></ruby>）は、<ruby>介護<rt>かいご</rt></ruby><ruby>老人<rt>ろうじん</rt></ruby><ruby>保健<rt>ほけん</rt></ruby><ruby>施設<rt>しせつ</rt></ruby>に<ruby>入所<rt>にゅうしょ</rt></ruby>している。<ruby>朝<rt>あさ</rt></ruby>、<ruby>眠<rt>ねむ</rt></ruby>そうな<ruby>様子<rt>ようす</rt></ruby>であったため、<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>がどうしたのかと<ruby>尋<rt>たず</rt></ruby>ねると、Ａさんは、「<ruby>夜<rt>よる</rt></ruby>、<ruby>足<rt>あし</rt></ruby>や<ruby>背中<rt>せなか</rt></ruby>がかゆくてあまり<ruby>眠<rt>ねむ</rt></ruby>れなかった」と<ruby>話<rt>はな</rt></ruby>した。<ruby>看護<rt>かんご</rt></ruby><ruby>師<rt>し</rt></ruby>と<ruby>共<rt>とも</rt></ruby>に<ruby>足<rt>あし</rt></ruby>や<ruby>背中<rt>せなか</rt></ruby>を<ruby>観察<rt>かんさつ</rt></ruby>すると、<ruby>皮膚<rt>ひふ</rt></ruby>が<ruby>乾燥<rt>かんそう</rt></ruby>していて、<ruby>引<rt>ひ</rt></ruby>っ<ruby>掻<rt>そう</rt></ruby>｛か｝いたような<ruby>傷<rt>きず</rt></ruby>があった。そのほかに<ruby>皮膚<rt>ひふ</rt></ruby>の<ruby>異常<rt>いじょう</rt></ruby>はみられなかった。Ａさんは<ruby>寒<rt>さむ</rt></ruby>さに<ruby>弱<rt>よわ</rt></ruby>く、<ruby>今<rt>いま</rt></ruby>は<ruby>冬<rt>ふゆ</rt></ruby>なので<ruby>常<rt>つね</rt></ruby>に<ruby>電気<rt>でんき</rt></ruby><ruby>毛布<rt>もうふ</rt></ruby>を<ruby>使用<rt>しよう</rt></ruby>している。<ruby>昨日<rt>きのう</rt></ruby>は<ruby>入浴<rt>にゅうよく</rt></ruby><ruby>日<rt>にち</rt></ruby>であった。 <ruby>次<rt>つぎ</rt></ruby>のうち、Ａさんに<ruby>生<rt>しょう</rt></ruby>じている<ruby>可能性<rt>かのうせい</rt></ruby>がある<ruby>疾患<rt>しっかん</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  角化型疥癬｛かくかがたかいせん｝（hyperkeratotic scabies）",
-      "2  帯状疱疹｛たいじょうほうしん｝（herpes zoster）",
-      "3  褥瘡｛じょくそう｝",
-      "4  老人性皮膚掻痒症｛ろうじんせいひふそうようしょう｝（senile pruritus）",
-      "5  閉塞性動脈硬化症（arteriosclerosis obliterans）"
+      "1 <ruby>角化<rt>かくか</rt></ruby><ruby>型<rt>かた</rt></ruby><ruby>疥癬<rt>かいせん</rt></ruby>｛かくかがたかいせん｝（hyperkeratotic scabies）",
+      "2 <ruby>帯状疱疹<rt>たいじょうほうしん</rt></ruby>｛たいじょうほうしん｝（herpes zoster）",
+      "3 <ruby>褥瘡<rt>じょくそう</rt></ruby>｛じょくそう｝",
+      "4 <ruby>老人性<rt>ろうじんせい</rt></ruby><ruby>皮膚<rt>ひふ</rt></ruby><ruby>掻痒<rt>そうよう</rt></ruby><ruby>症<rt>しょう</rt></ruby>｛ろうじんせいひふそうようしょう｝（senile pruritus）",
+      "5 <ruby>閉塞<rt>へいそく</rt></ruby><ruby>性<rt>せい</rt></ruby><ruby>動脈硬化<rt>どうみゃくこうか</rt></ruby><ruby>症<rt>しょう</rt></ruby>（arteriosclerosis obliterans）"
     ],
     "answer": 3
   },
   {
-    "question": "問題81 次の記述のうち、認知症（dementia）のある人にみられる妄想の説明として、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>81 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち、<ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby>（dementia）のある<ruby>人<rt>にん</rt></ruby>にみられる<ruby>妄想<rt>もうそう</rt></ruby>の<ruby>説明<rt>せつめい</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  自分でしまい忘れた物が見つからず、誰かが盗んだと思い込むのは、嫉妬妄想である。",
-      "2  孫と会って話をしたにもかかわらず、孫にずっと会わせてもらえていないと主張するのは、カプグラ症候群である。",
-      "3  介護支援専門員（ケアマネジャー）と妻が話しているのを見て、妻の浮気相手だと思い込むのは、幻の同居人である。",
-      "4  家族など身近な人がよく似た偽物と入れ替わっていると主張するのは、被害妄想である。",
-      "5  身体的疾患がないにもかかわらず、自分が病気だと思い込むのは、心気妄想である。"
+      "1 <ruby>自分<rt>じぶん</rt></ruby>でしまい<ruby>忘<rt>わす</rt></ruby>れた<ruby>物<rt>もの</rt></ruby>が<ruby>見<rt>み</rt></ruby>つからず、<ruby>誰<rt>だれ</rt></ruby>かが<ruby>盗<rt>ぬす</rt></ruby>んだと<ruby>思い込<rt>おもいこ</rt></ruby>むのは、<ruby>嫉妬<rt>しっと</rt></ruby><ruby>妄想<rt>もうそう</rt></ruby>である。",
+      "2 <ruby>孫<rt>まご</rt></ruby>と<ruby>会<rt>あ</rt></ruby>って<ruby>話<rt>はなし</rt></ruby>をしたにもかかわらず、<ruby>孫<rt>まご</rt></ruby>にずっと<ruby>会<rt>あ</rt></ruby>わせてもらえていないと<ruby>主張<rt>しゅちょう</rt></ruby>するのは、カプグラ<ruby>症候群<rt>しょうこうぐん</rt></ruby>である。",
+      "3 <ruby>介護<rt>かいご</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>専門<rt>せんもん</rt></ruby><ruby>員<rt>いん</rt></ruby>（ケアマネジャー）と<ruby>妻<rt>つま</rt></ruby>が<ruby>話<rt>はな</rt></ruby>しているのを<ruby>見<rt>み</rt></ruby>て、<ruby>妻<rt>つま</rt></ruby>の<ruby>浮気<rt>うわき</rt></ruby><ruby>相手<rt>あいて</rt></ruby>だと<ruby>思い込<rt>おもいこ</rt></ruby>むのは、<ruby>幻<rt>まぼろし</rt></ruby>の<ruby>同居人<rt>どうきょにん</rt></ruby>である。",
+      "4 <ruby>家族<rt>かぞく</rt></ruby>など<ruby>身近<rt>みじか</rt></ruby>な<ruby>人<rt>にん</rt></ruby>がよく<ruby>似<rt>に</rt></ruby>た<ruby>偽物<rt>にせもの</rt></ruby>と<ruby>入れ替<rt>いれか</rt></ruby>わっていると<ruby>主張<rt>しゅちょう</rt></ruby>するのは、<ruby>被害妄想<rt>ひがいもうそう</rt></ruby>である。",
+      "5 <ruby>身体的<rt>しんたいてき</rt></ruby><ruby>疾患<rt>しっかん</rt></ruby>がないにもかかわらず、<ruby>自分<rt>じぶん</rt></ruby>が<ruby>病気<rt>びょうき</rt></ruby>だと<ruby>思い込<rt>おもいこ</rt></ruby>むのは、<ruby>心気<rt>しんき</rt></ruby><ruby>妄想<rt>もうそう</rt></ruby>である。"
     ],
     "answer": 4
   },
   {
-    "question": "問題82 次の記述のうち、認知症（dementia）の人への取り組みとその説明として、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>82 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち、<ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby>（dementia）の<ruby>人<rt>にん</rt></ruby>への<ruby>取り組<rt>とりく</rt></ruby>みとその<ruby>説明<rt>せつめい</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  本人ミーティングでは、当事者たちが語り合い社会に発信も行う。",
-      "2  認知症初期集中支援チームは、要介護認定を行う。",
-      "3  若年性認知症支援コーディネーターは、認知症（dementia）の診断を行う。",
-      "4  認知症疾患医療センターは、地域ケア会議を開催する。",
-      "5  認知症カフェは、認知症介護指導者を養成する。"
+      "1 <ruby>本人<rt>ほんにん</rt></ruby>ミーティングでは、<ruby>当事者<rt>とうじしゃ</rt></ruby>たちが<ruby>語<rt>かた</rt></ruby>り<ruby>合<rt>あ</rt></ruby>い<ruby>社会<rt>しゃかい</rt></ruby>に<ruby>発信<rt>はっしん</rt></ruby>も<ruby>行<rt>おこな</rt></ruby>う。",
+      "2 <ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby><ruby>初期<rt>しょき</rt></ruby><ruby>集中<rt>しゅうちゅう</rt></ruby><ruby>支援<rt>しえん</rt></ruby>チームは、<ruby>要介<rt>ようすけ</rt></ruby><ruby>護<rt>ご</rt></ruby><ruby>認定<rt>にんてい</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う。",
+      "3 <ruby>若年<rt>じゃくねん</rt></ruby><ruby>性<rt>せい</rt></ruby><ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby><ruby>支援<rt>しえん</rt></ruby>コーディネーターは、<ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby>（dementia）の<ruby>診断<rt>しんだん</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う。",
+      "4 <ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby><ruby>疾患<rt>しっかん</rt></ruby><ruby>医療<rt>いりょう</rt></ruby>センターは、<ruby>地域<rt>ちいき</rt></ruby>ケア<ruby>会議<rt>かいぎ</rt></ruby>を<ruby>開催<rt>かいさい</rt></ruby>する。",
+      "5 <ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby>カフェは、<ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby><ruby>介護<rt>かいご</rt></ruby><ruby>指導者<rt>しどうしゃ</rt></ruby>を<ruby>養成<rt>ようせい</rt></ruby>する。"
     ],
     "answer": 0
   },
   {
-    "question": "問題83 次の記述のうち、認知症（dementia）の行動・心理症状（ＢＰＳＤ）に該当するものとして、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>83 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち、<ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby>（dementia）の<ruby>行動<rt>こうどう</rt></ruby>・<ruby>心理<rt>しんり</rt></ruby><ruby>症状<rt>しょうじょう</rt></ruby>（ＢＰＳＤ）に<ruby>該当<rt>がいとう</rt></ruby>するものとして、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  10分前に施設職員が挨拶しに来たことを、覚えていない。",
-      "2  病院にいるのに、自宅にいると思っている。",
-      "3  通所介護（デイサービス）を利用中に、出口を探して歩き回る。",
-      "4  薬を処方されても、服薬管理ができない。",
-      "5  入浴を促すと、湯につかるだけで出てくる。"
+      "1 10<ruby>分前<rt>ふんまえ</rt></ruby>に<ruby>施設<rt>しせつ</rt></ruby><ruby>職員<rt>しょくいん</rt></ruby>が<ruby>挨拶<rt>あいさつ</rt></ruby>しに<ruby>来<rt>き</rt></ruby>たことを、<ruby>覚<rt>おぼ</rt></ruby>えていない。",
+      "2 <ruby>病院<rt>びょういん</rt></ruby>にいるのに、<ruby>自宅<rt>じたく</rt></ruby>にいると<ruby>思<rt>おも</rt></ruby>っている。",
+      "3 <ruby>通所<rt>つうしょ</rt></ruby><ruby>介護<rt>かいご</rt></ruby>（デイサービス）を<ruby>利用中<rt>りようちゅう</rt></ruby>に、<ruby>出口<rt>でぐち</rt></ruby>を<ruby>探<rt>さが</rt></ruby>して<ruby>歩<rt>ある</rt></ruby>き<ruby>回<rt>まわ</rt></ruby>る。",
+      "4 <ruby>薬<rt>くすり</rt></ruby>を<ruby>処方<rt>しょほう</rt></ruby>されても、<ruby>服薬<rt>ふくやく</rt></ruby><ruby>管理<rt>かんり</rt></ruby>ができない。",
+      "5 <ruby>入浴<rt>にゅうよく</rt></ruby>を<ruby>促<rt>うなが</rt></ruby>すと、<ruby>湯<rt>ゆ</rt></ruby>につかるだけで<ruby>出<rt>で</rt></ruby>てくる。"
     ],
     "answer": 2
   },
   {
-    "question": "問題84 次の記述のうち、アルツハイマー型認知症（dementia of the Alzheimer’s type）の説明として、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>84 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち、アルツハイマー<ruby>型<rt>かた</rt></ruby><ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby>（dementia of the Alzheimer’s type）の<ruby>説明<rt>せつめい</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  古い記憶から障害され、徐々に新しい記憶も障害される。",
-      "2  認知機能が変動することが特徴的である。",
-      "3  ＡＤＬ（Activities of Daily Living：日常生活動作）の障害は、重度期以降に認められる。",
-      "4  見当識障害は、中期以降に認められる。",
-      "5  記憶障害は、初期から認められる。"
+      "1 <ruby>古<rt>ふる</rt></ruby>い<ruby>記憶<rt>きおく</rt></ruby>から<ruby>障害<rt>しょうがい</rt></ruby>され、<ruby>徐々<rt>じょじょ</rt></ruby>に<ruby>新<rt>あたら</rt></ruby>しい<ruby>記憶<rt>きおく</rt></ruby>も<ruby>障害<rt>しょうがい</rt></ruby>される。",
+      "2 <ruby>認知機能<rt>にんちきのう</rt></ruby>が<ruby>変動<rt>へんどう</rt></ruby>することが<ruby>特徴的<rt>とくちょうてき</rt></ruby>である。",
+      "3 ＡＤＬ（Activities of Daily Living：<ruby>日常生活<rt>にちじょうせいかつ</rt></ruby><ruby>動作<rt>どうさ</rt></ruby>）の<ruby>障害<rt>しょうがい</rt></ruby>は、<ruby>重度<rt>じゅうど</rt></ruby><ruby>期<rt>き</rt></ruby><ruby>以降<rt>いこう</rt></ruby>に<ruby>認<rt>みと</rt></ruby>められる。",
+      "4 <ruby>見当<rt>けんとう</rt></ruby><ruby>識<rt>しき</rt></ruby><ruby>障害<rt>しょうがい</rt></ruby>は、<ruby>中期<rt>ちゅうき</rt></ruby><ruby>以降<rt>いこう</rt></ruby>に<ruby>認<rt>みと</rt></ruby>められる。",
+      "5 <ruby>記憶<rt>きおく</rt></ruby><ruby>障害<rt>しょうがい</rt></ruby>は、<ruby>初期<rt>しょき</rt></ruby>から<ruby>認<rt>みと</rt></ruby>められる。"
     ],
     "answer": 4
   },
   {
-    "question": "問題85 次のうち、レビー小体型認知症（dementia with Lewy bodies）の症状として、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>85 <ruby>次<rt>つぎ</rt></ruby>のうち、レビー<ruby>小体<rt>しょうたい</rt></ruby><ruby>型<rt>かた</rt></ruby><ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby>（dementia with Lewy bodies）の<ruby>症状<rt>しょうじょう</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  ノンレム睡眠行動障害による大声",
-      "2  自律神経症状による起立性低血圧（orthostatic hypotension）",
-      "3  聴覚認知機能の障害による幻聴",
-      "4  側頭葉の萎縮による意味性失語",
-      "5  嚥下機能｛えんげきのう｝の促進による食欲増加"
+      "1 ノンレム<ruby>睡眠<rt>すいみん</rt></ruby><ruby>行動<rt>こうどう</rt></ruby><ruby>障害<rt>しょうがい</rt></ruby>による<ruby>大声<rt>おおごえ</rt></ruby>",
+      "2 <ruby>自律神経<rt>じりつしんけい</rt></ruby><ruby>症状<rt>しょうじょう</rt></ruby>による<ruby>起立<rt>きりつ</rt></ruby><ruby>性<rt>せい</rt></ruby><ruby>低血圧<rt>ていけつあつ</rt></ruby>（orthostatic hypotension）",
+      "3 <ruby>聴覚<rt>ちょうかく</rt></ruby><ruby>認知機能<rt>にんちきのう</rt></ruby>の<ruby>障害<rt>しょうがい</rt></ruby>による<ruby>幻聴<rt>げんちょう</rt></ruby>",
+      "4 <ruby>側頭<rt>そくとう</rt></ruby><ruby>葉<rt>は</rt></ruby>の<ruby>萎縮<rt>いしゅく</rt></ruby>による<ruby>意味<rt>いみ</rt></ruby><ruby>性<rt>せい</rt></ruby><ruby>失語<rt>しつご</rt></ruby>",
+      "5 <ruby>嚥下<rt>えんか</rt></ruby><ruby>機能<rt>きのう</rt></ruby>｛えんげきのう｝の<ruby>促進<rt>そくしん</rt></ruby>による<ruby>食欲<rt>しょくよく</rt></ruby><ruby>増加<rt>ぞうか</rt></ruby>"
     ],
     "answer": 1
   },
   {
-    "question": "問題86 次のうち、認知症（dementia）の人の生活をアセスメントするうえで、身体的要因に含まれる項目として、適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>86 <ruby>次<rt>つぎ</rt></ruby>のうち、<ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby>（dementia）の<ruby>人<rt>にん</rt></ruby>の<ruby>生活<rt>せいかつ</rt></ruby>をアセスメントするうえで、<ruby>身体的<rt>しんたいてき</rt></ruby><ruby>要因<rt>よういん</rt></ruby>に<ruby>含<rt>ふく</rt></ruby>まれる<ruby>項目<rt>こうもく</rt></ruby>として、<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  性格",
-      "2  居住環境",
-      "3  人的環境",
-      "4  ＩＡＤＬ（Instrumental Activities of Daily Living：手段的日常生活動作）",
-      "5  社会とのつながり"
+      "1 <ruby>性格<rt>せいかく</rt></ruby>",
+      "2 <ruby>居住<rt>きょじゅう</rt></ruby><ruby>環境<rt>かんきょう</rt></ruby>",
+      "3 <ruby>人的<rt>じんてき</rt></ruby><ruby>環境<rt>かんきょう</rt></ruby>",
+      "4 ＩＡＤＬ（Instrumental Activities of Daily Living：<ruby>手段<rt>しゅだん</rt></ruby><ruby>的<rt>てき</rt></ruby><ruby>日常生活<rt>にちじょうせいかつ</rt></ruby><ruby>動作<rt>どうさ</rt></ruby>）",
+      "5 <ruby>社会<rt>しゃかい</rt></ruby>とのつながり"
     ],
     "answer": 3
   },
   {
-    "question": "問題87 認知症（dementia）の人への環境の配慮に関する次の記述のうち、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>87 <ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby>（dementia）の<ruby>人<rt>にん</rt></ruby>への<ruby>環境<rt>かんきょう</rt></ruby>の<ruby>配慮<rt>はいりょ</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  視覚的認識を容易にするために、廊下の手すりに色をつけて目立つようにする。",
-      "2  聴覚に影響を与えるために、ピクトグラム（pictogram）を表示する。",
-      "3  音の選択的聴取の力を高めるために、ＢＧＭ（background music）の音量を大きくする。",
-      "4  穏やかに生活するために、居室の光の刺激を強くする。",
-      "5  落ち着く空間をつくるために、居室を細かい模様の壁紙で統一する。"
+      "1 <ruby>視覚的<rt>しかくてき</rt></ruby><ruby>認識<rt>にんしき</rt></ruby>を<ruby>容易<rt>ようい</rt></ruby>にするために、<ruby>廊下<rt>ろうか</rt></ruby>の<ruby>手<rt>て</rt></ruby>すりに<ruby>色<rt>いろ</rt></ruby>をつけて<ruby>目立<rt>めだ</rt></ruby>つようにする。",
+      "2 <ruby>聴覚<rt>ちょうかく</rt></ruby>に<ruby>影響<rt>えいきょう</rt></ruby>を<ruby>与<rt>あた</rt></ruby>えるために、ピクトグラム（pictogram）を<ruby>表示<rt>ひょうじ</rt></ruby>する。",
+      "3 <ruby>音<rt>おと</rt></ruby>の<ruby>選択的<rt>せんたくてき</rt></ruby><ruby>聴取<rt>ちょうしゅ</rt></ruby>の<ruby>力<rt>ちから</rt></ruby>を<ruby>高<rt>たか</rt></ruby>めるために、ＢＧＭ（background music）の<ruby>音量<rt>おんりょう</rt></ruby>を<ruby>大<rt>おお</rt></ruby>きくする。",
+      "4 <ruby>穏<rt>おだ</rt></ruby>やかに<ruby>生活<rt>せいかつ</rt></ruby>するために、<ruby>居室<rt>きょしつ</rt></ruby>の<ruby>光<rt>ひかり</rt></ruby>の<ruby>刺激<rt>しげき</rt></ruby>を<ruby>強<rt>つよ</rt></ruby>くする。",
+      "5 <ruby>落ち着<rt>おちつ</rt></ruby>く<ruby>空間<rt>くうかん</rt></ruby>をつくるために、<ruby>居室<rt>きょしつ</rt></ruby>を<ruby>細<rt>こま</rt></ruby>かい<ruby>模様<rt>もよう</rt></ruby>の<ruby>壁紙<rt>かべがみ</rt></ruby>で<ruby>統一<rt>とういつ</rt></ruby>する。"
     ],
     "answer": 0
   },
   {
-    "question": "問題88 次の記述のうち、認知症（dementia）の人の遂行機能障害の症状として、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>88 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち、<ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby>（dementia）の<ruby>人<rt>にん</rt></ruby>の<ruby>遂行<rt>すいこう</rt></ruby><ruby>機能障害<rt>きのうしょうがい</rt></ruby>の<ruby>症状<rt>しょうじょう</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  ご飯を食べたことを忘れて、ご飯をほしいと言う。",
-      "2  包丁の使い方を忘れて、うまく使うことができない。",
-      "3  食事が配膳されているが、左側のものを残す。",
-      "4  調理の手順を順序だてて行うことができない。",
-      "5  皿の模様をおかずと間違えて、スプーンですくおうとする。"
+      "1 ご<ruby>飯<rt>めし</rt></ruby>を<ruby>食<rt>た</rt></ruby>べたことを<ruby>忘<rt>わす</rt></ruby>れて、ご<ruby>飯<rt>めし</rt></ruby>をほしいと<ruby>言<rt>い</rt></ruby>う。",
+      "2 <ruby>包丁<rt>ほうちょう</rt></ruby>の<ruby>使い方<rt>つかいかた</rt></ruby>を<ruby>忘<rt>わす</rt></ruby>れて、うまく<ruby>使<rt>つか</rt></ruby>うことができない。",
+      "3 <ruby>食事<rt>しょくじ</rt></ruby>が<ruby>配膳<rt>はいぜん</rt></ruby>されているが、<ruby>左側<rt>ひだりがわ</rt></ruby>のものを<ruby>残<rt>のこ</rt></ruby>す。",
+      "4 <ruby>調理<rt>ちょうり</rt></ruby>の<ruby>手順<rt>てじゅん</rt></ruby>を<ruby>順序<rt>じゅんじょ</rt></ruby>だてて<ruby>行<rt>おこな</rt></ruby>うことができない。",
+      "5 <ruby>皿<rt>さら</rt></ruby>の<ruby>模様<rt>もよう</rt></ruby>をおかずと<ruby>間違<rt>まちが</rt></ruby>えて、スプーンですくおうとする。"
     ],
     "answer": 3
   },
   {
-    "question": "問題89 Ａさん（75歳、男性）は、認知症（dementia）で、通所介護（デイサービス）を利用している。介護福祉職が、「今日は何月何日でしょうか」と聞くと、Ａさんは、「9月」と答えた。介護福祉職が、「今朝、Ａさんの家の庭にあじさいが咲いていましたね」と言うと、Ｂさんが、「あじさいが咲くのは6月？」と答えた。介護福祉職は、「そうです。今日は6月22日です」と言い、ホワイトボードに日付とあじさいの絵を描いた。介護福祉職が、「6月生まれの方はいますか」と聞くが、返事がない。介護福祉職は、「今日は6月22日ですが、あと3日でＡさんの誕生日ですね」と伝えた。 次のうち、介護福祉職が実施した技法として、適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>89 Ａさん（75<ruby>歳<rt>とし</rt></ruby>、<ruby>男性<rt>だんせい</rt></ruby>）は、<ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby>（dementia）で、<ruby>通所<rt>つうしょ</rt></ruby><ruby>介護<rt>かいご</rt></ruby>（デイサービス）を<ruby>利用<rt>りよう</rt></ruby>している。<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>が、「<ruby>今日<rt>こんにち</rt></ruby>は<ruby>何月何日<rt>なんがつなんにち</rt></ruby>でしょうか」と<ruby>聞<rt>き</rt></ruby>くと、Ａさんは、「9<ruby>月<rt>がつ</rt></ruby>」と<ruby>答<rt>こた</rt></ruby>えた。<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>が、「<ruby>今朝<rt>けさ</rt></ruby>、Ａさんの<ruby>家<rt>いえ</rt></ruby>の<ruby>庭<rt>にわ</rt></ruby>にあじさいが<ruby>咲<rt>さ</rt></ruby>いていましたね」と<ruby>言<rt>い</rt></ruby>うと、Ｂさんが、「あじさいが<ruby>咲<rt>さ</rt></ruby>くのは6<ruby>月<rt>がつ</rt></ruby>？」と<ruby>答<rt>こた</rt></ruby>えた。<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>は、「そうです。<ruby>今日<rt>こんにち</rt></ruby>は6<ruby>月<rt>がつ</rt></ruby>22<ruby>日<rt>にち</rt></ruby>です」と<ruby>言<rt>い</rt></ruby>い、ホワイトボードに<ruby>日付<rt>ひづけ</rt></ruby>とあじさいの<ruby>絵<rt>え</rt></ruby>を<ruby>描<rt>えが</rt></ruby>いた。<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>が、「6<ruby>月生<rt>げつせい</rt></ruby>まれの<ruby>方<rt>かた</rt></ruby>はいますか」と<ruby>聞<rt>き</rt></ruby>くが、<ruby>返事<rt>へんじ</rt></ruby>がない。<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>は、「<ruby>今日<rt>こんにち</rt></ruby>は6<ruby>月<rt>がつ</rt></ruby>22<ruby>日<rt>にち</rt></ruby>ですが、あと3<ruby>日<rt>にち</rt></ruby>でＡさんの<ruby>誕生日<rt>たんじょうび</rt></ruby>ですね」と<ruby>伝<rt>つた</rt></ruby>えた。 <ruby>次<rt>つぎ</rt></ruby>のうち、<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>が<ruby>実施<rt>じっし</rt></ruby>した<ruby>技法<rt>ぎほう</rt></ruby>として、<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
       "1  タッチケア（touch care）",
       "2  アートセラピー（art therapy）",
@@ -981,271 +981,271 @@ const examSets = {
     "answer": 2
   },
   {
-    "question": "問題90 Ａさん（88歳、女性）は、4年前に、認知症（dementia）と診断された。在宅で長男が介護している。Ａさんは、3か月前から、何度もトイレ以外で排泄｛はいせつ｝しようとする様子がみられた。長男が繰り返しトイレの場所を教えているが、状態は変わらない。長男はＡさんに対して、「何回、同じことを言ったら、わかるんだ」と大声でどなってしまい、その後で落ち込むようになった。また、長男は、「認知症（dementia）がいつまで続くのか」「自分に何か問題があったのではないか」と言って、自分を強く責めている。 次のうち、Ａさんの認知症（dementia）を長男が受け入れる過程と考えた場合、このときの長男の心理的特徴に該当する段階として、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>90 Ａさん（88<ruby>歳<rt>とし</rt></ruby>、<ruby>女性<rt>じょせい</rt></ruby>）は、4<ruby>年前<rt>ねんまえ</rt></ruby>に、<ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby>（dementia）と<ruby>診断<rt>しんだん</rt></ruby>された。<ruby>在宅<rt>ざいたく</rt></ruby>で<ruby>長男<rt>ちょうなん</rt></ruby>が<ruby>介護<rt>かいご</rt></ruby>している。Ａさんは、3か<ruby>月前<rt>げつまえ</rt></ruby>から、<ruby>何度<rt>なんど</rt></ruby>もトイレ<ruby>以外<rt>いがい</rt></ruby>で<ruby>排泄<rt>はいせつ</rt></ruby>｛はいせつ｝しようとする<ruby>様子<rt>ようす</rt></ruby>がみられた。<ruby>長男<rt>ちょうなん</rt></ruby>が<ruby>繰り返<rt>くりかえ</rt></ruby>しトイレの<ruby>場所<rt>ばしょ</rt></ruby>を<ruby>教<rt>おし</rt></ruby>えているが、<ruby>状態<rt>じょうたい</rt></ruby>は<ruby>変<rt>か</rt></ruby>わらない。<ruby>長男<rt>ちょうなん</rt></ruby>はＡさんに<ruby>対<rt>たい</rt></ruby>して、「<ruby>何回<rt>なんかい</rt></ruby>、<ruby>同<rt>おな</rt></ruby>じことを<ruby>言<rt>い</rt></ruby>ったら、わかるんだ」と<ruby>大声<rt>おおごえ</rt></ruby>でどなってしまい、その<ruby>後<rt>あと</rt></ruby>で<ruby>落ち込<rt>おちこ</rt></ruby>むようになった。また、<ruby>長男<rt>ちょうなん</rt></ruby>は、「<ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby>（dementia）がいつまで<ruby>続<rt>つづ</rt></ruby>くのか」「<ruby>自分<rt>じぶん</rt></ruby>に<ruby>何<rt>なに</rt></ruby>か<ruby>問題<rt>もんだい</rt></ruby>があったのではないか」と<ruby>言<rt>い</rt></ruby>って、<ruby>自分<rt>じぶん</rt></ruby>を<ruby>強<rt>つよ</rt></ruby>く<ruby>責<rt>せ</rt></ruby>めている。 <ruby>次<rt>つぎ</rt></ruby>のうち、Ａさんの<ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby>（dementia）を<ruby>長男<rt>ちょうなん</rt></ruby>が<ruby>受け入<rt>うけい</rt></ruby>れる<ruby>過程<rt>かてい</rt></ruby>と<ruby>考<rt>かんが</rt></ruby>えた<ruby>場合<rt>ばあい</rt></ruby>、このときの<ruby>長男<rt>ちょうなん</rt></ruby>の<ruby>心理的<rt>しんりてき</rt></ruby><ruby>特徴<rt>とくちょう</rt></ruby>に<ruby>該当<rt>がいとう</rt></ruby>する<ruby>段階<rt>だんかい</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  ショック期",
-      "2  否認期",
-      "3  混乱期",
-      "4  解決への努力期",
-      "5  受容期"
+      "1 ショック<ruby>期<rt>き</rt></ruby>",
+      "2 <ruby>否認<rt>ひにん</rt></ruby><ruby>期<rt>き</rt></ruby>",
+      "3 <ruby>混乱<rt>こんらん</rt></ruby><ruby>期<rt>き</rt></ruby>",
+      "4 <ruby>解決<rt>かいけつ</rt></ruby>への<ruby>努力<rt>どりょく</rt></ruby><ruby>期<rt>き</rt></ruby>",
+      "5 <ruby>受容<rt>じゅよう</rt></ruby><ruby>期<rt>き</rt></ruby>"
     ],
     "answer": 2
   },
   {
-    "question": "問題91 次のうち、障害福祉におけるソーシャルインクルージョン（social inclusion）の考え方の説明として、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>91 <ruby>次<rt>つぎ</rt></ruby>のうち、<ruby>障害<rt>しょうがい</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby>におけるソーシャルインクルージョン（social inclusion）の<ruby>考え方<rt>かんがえかた</rt></ruby>の<ruby>説明<rt>せつめい</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  障害のある人とない人を統合する社会",
-      "2  障害のある人を権利侵害から守る社会",
-      "3  障害のある人の意思決定を支援する社会",
-      "4  障害のある人の最善の利益を考える社会",
-      "5  障害のある人もない人も包摂する社会"
+      "1 <ruby>障害<rt>しょうがい</rt></ruby>のある<ruby>人<rt>にん</rt></ruby>とない<ruby>人<rt>にん</rt></ruby>を<ruby>統合<rt>とうごう</rt></ruby>する<ruby>社会<rt>しゃかい</rt></ruby>",
+      "2 <ruby>障害<rt>しょうがい</rt></ruby>のある<ruby>人<rt>にん</rt></ruby>を<ruby>権利侵害<rt>けんりしんがい</rt></ruby>から<ruby>守<rt>まも</rt></ruby>る<ruby>社会<rt>しゃかい</rt></ruby>",
+      "3 <ruby>障害<rt>しょうがい</rt></ruby>のある<ruby>人<rt>にん</rt></ruby>の<ruby>意思決定<rt>いしけってい</rt></ruby>を<ruby>支援<rt>しえん</rt></ruby>する<ruby>社会<rt>しゃかい</rt></ruby>",
+      "4 <ruby>障害<rt>しょうがい</rt></ruby>のある<ruby>人<rt>にん</rt></ruby>の<ruby>最善<rt>さいぜん</rt></ruby>の<ruby>利益<rt>りえき</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>える<ruby>社会<rt>しゃかい</rt></ruby>",
+      "5 <ruby>障害<rt>しょうがい</rt></ruby>のある<ruby>人<rt>にん</rt></ruby>もない<ruby>人<rt>にん</rt></ruby>も<ruby>包摂<rt>ほうせつ</rt></ruby>する<ruby>社会<rt>しゃかい</rt></ruby>"
     ],
     "answer": 4
   },
   {
-    "question": "問題92 知的障害に関する次の記述のうち、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>92 <ruby>知的障害<rt>ちてきしょうがい</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  障害が発達期にあらわれる。",
-      "2  障害の原因は明らかである。",
-      "3  一般就労は不可能である。",
-      "4  療育手帳の等級は障害支援区分で決める。",
-      "5  運動発達の遅れは伴わない。"
+      "1 <ruby>障害<rt>しょうがい</rt></ruby>が<ruby>発達<rt>はったつ</rt></ruby><ruby>期<rt>き</rt></ruby>にあらわれる。",
+      "2 <ruby>障害<rt>しょうがい</rt></ruby>の<ruby>原因<rt>げんいん</rt></ruby>は<ruby>明<rt>あき</rt></ruby>らかである。",
+      "3 <ruby>一般<rt>いっぱん</rt></ruby><ruby>就労<rt>しゅうろう</rt></ruby>は<ruby>不可能<rt>ふかのう</rt></ruby>である。",
+      "4 <ruby>療育<rt>りょういく</rt></ruby><ruby>手帳<rt>てちょう</rt></ruby>の<ruby>等級<rt>とうきゅう</rt></ruby>は<ruby>障害<rt>しょうがい</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>区分<rt>くぶん</rt></ruby>で<ruby>決<rt>き</rt></ruby>める。",
+      "5 <ruby>運動<rt>うんどう</rt></ruby><ruby>発達<rt>はったつ</rt></ruby>の<ruby>遅<rt>おく</rt></ruby>れは<ruby>伴<rt>ともな</rt></ruby>わない。"
     ],
     "answer": 0
   },
   {
-    "question": "問題93 次のうち、後遺症によって片麻痺｛かたまひ｝や言語障害を伴うことがある疾患や病態として、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>93 <ruby>次<rt>つぎ</rt></ruby>のうち、<ruby>後遺症<rt>こういしょう</rt></ruby>によって<ruby>片麻<rt>へんま</rt></ruby><ruby>痺<rt>ひ</rt></ruby>｛かたまひ｝や<ruby>言語<rt>げんご</rt></ruby><ruby>障害<rt>しょうがい</rt></ruby>を<ruby>伴<rt>ともな</rt></ruby>うことがある<ruby>疾患<rt>しっかん</rt></ruby>や<ruby>病態<rt>びょうたい</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  脳血管障害（cerebrovascular disorder）",
-      "2  糖尿病（diabetes mellitus）",
-      "3  脊髄損傷（spinal cord injury）",
-      "4  慢性閉塞性肺疾患（chronic obstructive pulmonary disease）",
-      "5  クローン病（Crohn disease）"
+      "1 <ruby>脳<rt>のう</rt></ruby><ruby>血管<rt>けっかん</rt></ruby><ruby>障害<rt>しょうがい</rt></ruby>（cerebrovascular disorder）",
+      "2 <ruby>糖尿病<rt>とうにょうびょう</rt></ruby>（diabetes mellitus）",
+      "3 <ruby>脊髄<rt>せきずい</rt></ruby><ruby>損傷<rt>そんしょう</rt></ruby>（spinal cord injury）",
+      "4 <ruby>慢性<rt>まんせい</rt></ruby><ruby>閉塞<rt>へいそく</rt></ruby><ruby>性<rt>せい</rt></ruby><ruby>肺疾<rt>はいしつ</rt></ruby><ruby>患<rt>かん</rt></ruby>（chronic obstructive pulmonary disease）",
+      "5 クローン<ruby>病<rt>びょう</rt></ruby>（Crohn disease）"
     ],
     "answer": 0
   },
   {
-    "question": "問題94 次の記述のうち、国際障害者年を契機に、日本の障害福祉に起きた変化として、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>94 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち、<ruby>国際<rt>こくさい</rt></ruby><ruby>障害者<rt>しょうがいしゃ</rt></ruby><ruby>年<rt>ねん</rt></ruby>を<ruby>契機<rt>けいき</rt></ruby>に、<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>障害<rt>しょうがい</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby>に<ruby>起<rt>お</rt></ruby>きた<ruby>変化<rt>へんか</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  障害者を弱者として保護する捉え方が広まった。",
-      "2  ノーマライゼーションの理念が徐々に浸透した。",
-      "3  身体障害者福祉法の制定につながった。",
-      "4  障害種別ごとの福祉サービス給付が始まった。",
-      "5  措置制度から自立支援医療制度へ移行した。"
+      "1 <ruby>障害者<rt>しょうがいしゃ</rt></ruby>を<ruby>弱者<rt>じゃくしゃ</rt></ruby>として<ruby>保護<rt>ほご</rt></ruby>する<ruby>捉え方<rt>とらえかた</rt></ruby>が<ruby>広<rt>ひろ</rt></ruby>まった。",
+      "2 ノーマライゼーションの<ruby>理念<rt>りねん</rt></ruby>が<ruby>徐々<rt>じょじょ</rt></ruby>に<ruby>浸透<rt>しんとう</rt></ruby>した。",
+      "3 <ruby>身体障害者<rt>しんたいしょうがいしゃ</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>法<rt>ほう</rt></ruby>の<ruby>制定<rt>せいてい</rt></ruby>につながった。",
+      "4 <ruby>障害<rt>しょうがい</rt></ruby><ruby>種別<rt>しゅべつ</rt></ruby>ごとの<ruby>福祉<rt>ふくし</rt></ruby>サービス<ruby>給付<rt>きゅうふ</rt></ruby>が<ruby>始<rt>はじ</rt></ruby>まった。",
+      "5 <ruby>措置<rt>そち</rt></ruby><ruby>制度<rt>せいど</rt></ruby>から<ruby>自立<rt>じりつ</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>医療制度<rt>いりょうせいど</rt></ruby>へ<ruby>移行<rt>いこう</rt></ruby>した。"
     ],
     "answer": 1
   },
   {
-    "question": "問題95 次のうち、筋萎縮性側索硬化症（amyotrophic lateral sclerosis：ＡＬＳ）によくみられる症状として、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>95 <ruby>次<rt>つぎ</rt></ruby>のうち、<ruby>筋<rt>すじ</rt></ruby><ruby>萎縮<rt>いしゅく</rt></ruby><ruby>性<rt>せい</rt></ruby><ruby>側索<rt>そくさく</rt></ruby><ruby>硬化<rt>こうか</rt></ruby><ruby>症<rt>しょう</rt></ruby>（amyotrophic lateral sclerosis：ＡＬＳ）によくみられる<ruby>症状<rt>しょうじょう</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  感覚障害",
-      "2  失禁",
-      "3  嚥下障害｛えんげしょうがい｝",
-      "4  視力障害",
-      "5  便秘"
+      "1 <ruby>感覚<rt>かんかく</rt></ruby><ruby>障害<rt>しょうがい</rt></ruby>",
+      "2 <ruby>失禁<rt>しっきん</rt></ruby>",
+      "3 <ruby>嚥下<rt>えんか</rt></ruby><ruby>障害<rt>しょうがい</rt></ruby>｛えんげしょうがい｝",
+      "4 <ruby>視力<rt>しりょく</rt></ruby><ruby>障害<rt>しょうがい</rt></ruby>",
+      "5 <ruby>便秘<rt>べんぴ</rt></ruby>"
     ],
     "answer": 2
   },
   {
-    "question": "問題96 Ａさん（50歳、男性）は、以前は一人暮らしをしていたが、現在は統合失調症（schizophrenia）のため長期入院をしている。症状が軽快して安定したため、医師から間もなく退院できるという説明があった。Ａさんは以前と同じように独居を希望しているが、一人で住居を探すのに不安がある。 次のうち、Ａさんの希望を実現するために利用する公的な支援として、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>96 Ａさん（50<ruby>歳<rt>とし</rt></ruby>、<ruby>男性<rt>だんせい</rt></ruby>）は、<ruby>以前<rt>いぜん</rt></ruby>は<ruby>一人暮<rt>ひとりぐ</rt></ruby>らしをしていたが、<ruby>現在<rt>げんざい</rt></ruby>は<ruby>統合<rt>とうごう</rt></ruby><ruby>失調<rt>しっちょう</rt></ruby><ruby>症<rt>しょう</rt></ruby>（schizophrenia）のため<ruby>長期入院<rt>ちょうきにゅういん</rt></ruby>をしている。<ruby>症状<rt>しょうじょう</rt></ruby>が<ruby>軽快<rt>けいかい</rt></ruby>して<ruby>安定<rt>あんてい</rt></ruby>したため、<ruby>医師<rt>いし</rt></ruby>から<ruby>間<rt>かん</rt></ruby>もなく<ruby>退院<rt>たいいん</rt></ruby>できるという<ruby>説明<rt>せつめい</rt></ruby>があった。Ａさんは<ruby>以前<rt>いぜん</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じように<ruby>独居<rt>どっきょ</rt></ruby>を<ruby>希望<rt>きぼう</rt></ruby>しているが、<ruby>一人<rt>ひとり</rt></ruby>で<ruby>住居<rt>じゅうきょ</rt></ruby>を<ruby>探<rt>さが</rt></ruby>すのに<ruby>不安<rt>ふあん</rt></ruby>がある。 <ruby>次<rt>つぎ</rt></ruby>のうち、Ａさんの<ruby>希望<rt>きぼう</rt></ruby>を<ruby>実現<rt>じつげん</rt></ruby>するために<ruby>利用<rt>りよう</rt></ruby>する<ruby>公的<rt>こうてき</rt></ruby>な<ruby>支援<rt>しえん</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  地域定着支援",
-      "2  自立生活援助",
-      "3  地域移行支援",
-      "4  生活介護",
-      "5  同行援護"
+      "1 <ruby>地域<rt>ちいき</rt></ruby><ruby>定着<rt>ていちゃく</rt></ruby><ruby>支援<rt>しえん</rt></ruby>",
+      "2 <ruby>自立<rt>じりつ</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby><ruby>援助<rt>えんじょ</rt></ruby>",
+      "3 <ruby>地域<rt>ちいき</rt></ruby><ruby>移行<rt>いこう</rt></ruby><ruby>支援<rt>しえん</rt></ruby>",
+      "4 <ruby>生活<rt>せいかつ</rt></ruby><ruby>介護<rt>かいご</rt></ruby>",
+      "5 <ruby>同行<rt>どうこう</rt></ruby><ruby>援護<rt>えんご</rt></ruby>"
     ],
     "answer": 2
   },
   {
-    "question": "問題97 Ａさん（45歳、男性）は、1年前、交通事故で頭部外傷を負った。四肢に障害は残らなかったが、高次脳機能障害（higher brain dysfunction）と診断された。 次の記述のうち、Ａさんの障害特性を理解した支援として、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>97 Ａさん（45<ruby>歳<rt>とし</rt></ruby>、<ruby>男性<rt>だんせい</rt></ruby>）は、1<ruby>年前<rt>ねんまえ</rt></ruby>、<ruby>交通事故<rt>こうつうじこ</rt></ruby>で<ruby>頭部<rt>とうぶ</rt></ruby><ruby>外傷<rt>がいしょう</rt></ruby>を<ruby>負<rt>お</rt></ruby>った。<ruby>四肢<rt>しし</rt></ruby>に<ruby>障害<rt>しょうがい</rt></ruby>は<ruby>残<rt>のこ</rt></ruby>らなかったが、<ruby>高次<rt>こうじ</rt></ruby><ruby>脳機能<rt>のうきのう</rt></ruby><ruby>障害<rt>しょうがい</rt></ruby>（higher brain dysfunction）と<ruby>診断<rt>しんだん</rt></ruby>された。 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち、Ａさんの<ruby>障害<rt>しょうがい</rt></ruby><ruby>特性<rt>とくせい</rt></ruby>を<ruby>理解<rt>りかい</rt></ruby>した<ruby>支援<rt>しえん</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  記憶障害によって同じことを何度も質問するが、一度だけ質問に答える。",
-      "2  注意障害によって作業のミスが多いため、その度ごとに強く注意する。",
-      "3  遂行機能障害によって指示されないと作業ができないため、自分の判断でやるように促す。",
-      "4  社会的行動障害によってすぐに怒りだすことがあるため、感情が落ち着くように場面や話題を変える。",
-      "5  病識低下によってできないことを認めないため、できないことを指摘する。"
+      "1 <ruby>記憶<rt>きおく</rt></ruby><ruby>障害<rt>しょうがい</rt></ruby>によって<ruby>同<rt>おな</rt></ruby>じことを<ruby>何度<rt>なんど</rt></ruby>も<ruby>質問<rt>しつもん</rt></ruby>するが、<ruby>一度<rt>いちど</rt></ruby>だけ<ruby>質問<rt>しつもん</rt></ruby>に<ruby>答<rt>こた</rt></ruby>える。",
+      "2 <ruby>注意<rt>ちゅうい</rt></ruby><ruby>障害<rt>しょうがい</rt></ruby>によって<ruby>作業<rt>さぎょう</rt></ruby>のミスが<ruby>多<rt>おお</rt></ruby>いため、その<ruby>度<rt>ど</rt></ruby>ごとに<ruby>強<rt>つよ</rt></ruby>く<ruby>注意<rt>ちゅうい</rt></ruby>する。",
+      "3 <ruby>遂行<rt>すいこう</rt></ruby><ruby>機能障害<rt>きのうしょうがい</rt></ruby>によって<ruby>指示<rt>しじ</rt></ruby>されないと<ruby>作業<rt>さぎょう</rt></ruby>ができないため、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>判断<rt>はんだん</rt></ruby>でやるように<ruby>促<rt>うなが</rt></ruby>す。",
+      "4 <ruby>社会的行動<rt>しゃかいてきこうどう</rt></ruby><ruby>障害<rt>しょうがい</rt></ruby>によってすぐに<ruby>怒<rt>いか</rt></ruby>りだすことがあるため、<ruby>感情<rt>かんじょう</rt></ruby>が<ruby>落ち着<rt>おちつ</rt></ruby>くように<ruby>場面<rt>ばめん</rt></ruby>や<ruby>話題<rt>わだい</rt></ruby>を<ruby>変<rt>か</rt></ruby>える。",
+      "5 <ruby>病識<rt>びょうしき</rt></ruby><ruby>低下<rt>ていか</rt></ruby>によってできないことを<ruby>認<rt>みと</rt></ruby>めないため、できないことを<ruby>指摘<rt>してき</rt></ruby>する。"
     ],
     "answer": 3
   },
   {
-    "question": "問題98 次のうち、「障害者総合支援法」に規定する補装具として、適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>98 <ruby>次<rt>つぎ</rt></ruby>のうち、「<ruby>障害者<rt>しょうがいしゃ</rt></ruby><ruby>総合<rt>そうごう</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>法<rt>ほう</rt></ruby>」に<ruby>規定<rt>きてい</rt></ruby>する<ruby>補装<rt>ほそう</rt></ruby><ruby>具<rt>ぐ</rt></ruby>として、<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  特殊寝台",
-      "2  電動車椅子",
-      "3  点字器",
-      "4  電気式たん吸引器",
-      "5  ストーマ装具"
+      "1 <ruby>特殊<rt>とくしゅ</rt></ruby><ruby>寝台<rt>しんだい</rt></ruby>",
+      "2 <ruby>電動車<rt>でんどうしゃ</rt></ruby><ruby>椅子<rt>いす</rt></ruby>",
+      "3 <ruby>点字<rt>てんじ</rt></ruby><ruby>器<rt>うつわ</rt></ruby>",
+      "4 <ruby>電気式<rt>でんきしき</rt></ruby>たん<ruby>吸引<rt>きゅういん</rt></ruby><ruby>器<rt>うつわ</rt></ruby>",
+      "5 ストーマ<ruby>装具<rt>そうぐ</rt></ruby>"
     ],
     "answer": 1
   },
   {
-    "question": "問題99 次の記述のうち、地域における障害者のサポート体制として、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>99 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち、<ruby>地域<rt>ちいき</rt></ruby>における<ruby>障害者<rt>しょうがいしゃ</rt></ruby>のサポート<ruby>体制<rt>たいせい</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  介護支援専門員は、サービス等利用計画を作成する。",
-      "2  相談支援専門員は、個別支援計画を作成する。",
-      "3  基幹相談支援センターは、障害支援区分を決定する。",
-      "4  地域包括支援センターは、要介護度を決定する。",
-      "5  市町村は、地域生活支援事業を行う。"
+      "1 <ruby>介護<rt>かいご</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>専門<rt>せんもん</rt></ruby><ruby>員<rt>いん</rt></ruby>は、サービス<ruby>等<rt>など</rt></ruby><ruby>利用<rt>りよう</rt></ruby><ruby>計画<rt>けいかく</rt></ruby>を<ruby>作成<rt>さくせい</rt></ruby>する。",
+      "2 <ruby>相談<rt>そうだん</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>専門<rt>せんもん</rt></ruby><ruby>員<rt>いん</rt></ruby>は、<ruby>個別<rt>こべつ</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>計画<rt>けいかく</rt></ruby>を<ruby>作成<rt>さくせい</rt></ruby>する。",
+      "3 <ruby>基幹<rt>きかん</rt></ruby><ruby>相談<rt>そうだん</rt></ruby><ruby>支援<rt>しえん</rt></ruby>センターは、<ruby>障害<rt>しょうがい</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>区分<rt>くぶん</rt></ruby>を<ruby>決定<rt>けってい</rt></ruby>する。",
+      "4 <ruby>地域<rt>ちいき</rt></ruby><ruby>包括<rt>ほうかつ</rt></ruby><ruby>支援<rt>しえん</rt></ruby>センターは、<ruby>要介<rt>ようすけ</rt></ruby><ruby>護<rt>ご</rt></ruby><ruby>度<rt>ど</rt></ruby>を<ruby>決定<rt>けってい</rt></ruby>する。",
+      "5 <ruby>市町村<rt>しちょうそん</rt></ruby>は、<ruby>地域生活<rt>ちいきせいかつ</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>事業<rt>じぎょう</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う。"
     ],
     "answer": 4
   },
   {
-    "question": "問題100 次のうち、障害があるためスプーンがうまく握れない人に自助具を作成する職種として、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>100 <ruby>次<rt>つぎ</rt></ruby>のうち、<ruby>障害<rt>しょうがい</rt></ruby>があるためスプーンがうまく<ruby>握<rt>にぎ</rt></ruby>れない<ruby>人<rt>にん</rt></ruby>に<ruby>自助<rt>じじょ</rt></ruby><ruby>具<rt>ぐ</rt></ruby>を<ruby>作成<rt>さくせい</rt></ruby>する<ruby>職種<rt>しょくしゅ</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  看護師",
-      "2  義肢装具士",
-      "3  理学療法士",
-      "4  作業療法士",
-      "5  言語聴覚士"
+      "1 <ruby>看護<rt>かんご</rt></ruby><ruby>師<rt>し</rt></ruby>",
+      "2 <ruby>義肢<rt>ぎし</rt></ruby><ruby>装具<rt>そうぐ</rt></ruby><ruby>士<rt>さむらい</rt></ruby>",
+      "3 <ruby>理学<rt>りがく</rt></ruby><ruby>療法<rt>りょうほう</rt></ruby><ruby>士<rt>さむらい</rt></ruby>",
+      "4 <ruby>作業<rt>さぎょう</rt></ruby><ruby>療法<rt>りょうほう</rt></ruby><ruby>士<rt>さむらい</rt></ruby>",
+      "5 <ruby>言語<rt>げんご</rt></ruby><ruby>聴覚<rt>ちょうかく</rt></ruby><ruby>士<rt>さむらい</rt></ruby>"
     ],
     "answer": 3
   },
   {
-    "question": "問題101 次の記述のうち、バイタルサインを測定するときの留意点として、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>101 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち、バイタルサインを<ruby>測定<rt>そくてい</rt></ruby>するときの<ruby>留意点<rt>りゅういてん</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  非接触型体温計による測定では、環境温度に注意する。",
-      "2  脈拍の測定では、橈骨動脈｛とうこつどうみゃく｝に拇指｛ぼし｝で触れる。",
-      "3  呼吸の測定では、ゆっくりと息をするように伝えてから行う。",
-      "4  血圧測定では、上腕にマンシェットを隙間のないように巻く。",
-      "5  意識レベルは、まず身体を揺さぶって反応をみる。"
+      "1 <ruby>非接触<rt>ひせっしょく</rt></ruby><ruby>型体<rt>けいたい</rt></ruby><ruby>温<rt>おん</rt></ruby><ruby>計<rt>けい</rt></ruby>による<ruby>測定<rt>そくてい</rt></ruby>では、<ruby>環境<rt>かんきょう</rt></ruby><ruby>温度<rt>おんど</rt></ruby>に<ruby>注意<rt>ちゅうい</rt></ruby>する。",
+      "2 <ruby>脈拍<rt>みゃくはく</rt></ruby>の<ruby>測定<rt>そくてい</rt></ruby>では、<ruby>橈骨<rt>とうこつ</rt></ruby><ruby>動脈<rt>どうみゃく</rt></ruby>｛とうこつどうみゃく｝に<ruby>拇指<rt>ぼし</rt></ruby>｛ぼし｝で<ruby>触<rt>ふ</rt></ruby>れる。",
+      "3 <ruby>呼吸<rt>こきゅう</rt></ruby>の<ruby>測定<rt>そくてい</rt></ruby>では、ゆっくりと<ruby>息<rt>いき</rt></ruby>をするように<ruby>伝<rt>つた</rt></ruby>えてから<ruby>行<rt>おこな</rt></ruby>う。",
+      "4 <ruby>血圧<rt>けつあつ</rt></ruby><ruby>測定<rt>そくてい</rt></ruby>では、<ruby>上腕<rt>じょうわん</rt></ruby>にマンシェットを<ruby>隙間<rt>すきま</rt></ruby>のないように<ruby>巻<rt>ま</rt></ruby>く。",
+      "5 <ruby>意識<rt>いしき</rt></ruby>レベルは、まず<ruby>身体<rt>しんたい</rt></ruby>を<ruby>揺<rt>ゆ</rt></ruby>さぶって<ruby>反応<rt>はんのう</rt></ruby>をみる。"
     ],
     "answer": 0
   },
   {
-    "question": "問題102 気管カニューレの構造等に関する次の記述のうち、正しいものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>102 <ruby>気管<rt>きかん</rt></ruby>カニューレの<ruby>構造<rt>こうぞう</rt></ruby><ruby>等<rt>など</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち、<ruby>正<rt>ただ</rt></ruby>しいものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  気管カニューレは、咽頭に挿入されている。",
-      "2  気管カニューレは、交換の必要がない。",
-      "3  カフは、カニューレの上端についている。",
-      "4  カフには、滅菌蒸留水が入れてある。",
-      "5  サイドチューブから、カフの上部の貯留物を吸引することができる。"
+      "1 <ruby>気管<rt>きかん</rt></ruby>カニューレは、<ruby>咽頭<rt>いんとう</rt></ruby>に<ruby>挿入<rt>そうにゅう</rt></ruby>されている。",
+      "2 <ruby>気管<rt>きかん</rt></ruby>カニューレは、<ruby>交換<rt>こうかん</rt></ruby>の<ruby>必要<rt>ひつよう</rt></ruby>がない。",
+      "3 カフは、カニューレの<ruby>上端<rt>じょうたん</rt></ruby>についている。",
+      "4 カフには、<ruby>滅菌<rt>めっきん</rt></ruby><ruby>蒸留水<rt>じょうりゅうすい</rt></ruby>が<ruby>入<rt>い</rt></ruby>れてある。",
+      "5 サイドチューブから、カフの<ruby>上部<rt>じょうぶ</rt></ruby>の<ruby>貯留<rt>ちょりゅう</rt></ruby><ruby>物<rt>もの</rt></ruby>を<ruby>吸引<rt>きゅういん</rt></ruby>することができる。"
     ],
     "answer": 4
   },
   {
-    "question": "問題103 Ａさん（85歳、男性）は、慢性閉塞性肺疾患（chronic obstructive pulmonary disease）で、介護老人福祉施設に入所している。ある日、Ａさんから、「痰｛たん｝がからんでいて、咳｛せき｝をしても出せない」という訴えがあった。介護福祉士が呼吸回数を確認すると、1分間に22回で、ゴロゴロという音がしていた。看護職からは、右肺に痰｛たん｝が貯留しやすいという情報提供があった。口腔内吸引｛こうくうないきゅういん｝をすると、粘性の強い透明な痰｛たん｝が吸引できた。 このとき、介護福祉士が喀痰排出｛かくたんはいしゅつ｝を促すためにＡさんに行う対応として、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>103 Ａさん（85<ruby>歳<rt>とし</rt></ruby>、<ruby>男性<rt>だんせい</rt></ruby>）は、<ruby>慢性<rt>まんせい</rt></ruby><ruby>閉塞<rt>へいそく</rt></ruby><ruby>性<rt>せい</rt></ruby><ruby>肺疾<rt>はいしつ</rt></ruby><ruby>患<rt>かん</rt></ruby>（chronic obstructive pulmonary disease）で、<ruby>介護<rt>かいご</rt></ruby><ruby>老人<rt>ろうじん</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>施設<rt>しせつ</rt></ruby>に<ruby>入所<rt>にゅうしょ</rt></ruby>している。ある<ruby>日<rt>にち</rt></ruby>、Ａさんから、「<ruby>痰<rt>たん</rt></ruby>｛たん｝がからんでいて、<ruby>咳<rt>せき</rt></ruby>｛せき｝をしても<ruby>出<rt>だ</rt></ruby>せない」という<ruby>訴<rt>うった</rt></ruby>えがあった。<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>士<rt>さむらい</rt></ruby>が<ruby>呼吸<rt>こきゅう</rt></ruby><ruby>回数<rt>かいすう</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>すると、1<ruby>分間<rt>ふんかん</rt></ruby>に22<ruby>回<rt>かい</rt></ruby>で、ゴロゴロという<ruby>音<rt>おと</rt></ruby>がしていた。<ruby>看護<rt>かんご</rt></ruby><ruby>職<rt>しょく</rt></ruby>からは、<ruby>右肺<rt>みぎはい</rt></ruby>に<ruby>痰<rt>たん</rt></ruby>｛たん｝が<ruby>貯留<rt>ちょりゅう</rt></ruby>しやすいという<ruby>情報提供<rt>じょうほうていきょう</rt></ruby>があった。<ruby>口腔内<rt>こうくうない</rt></ruby><ruby>吸引<rt>きゅういん</rt></ruby>｛こうくうないきゅういん｝をすると、<ruby>粘性<rt>ねんせい</rt></ruby>の<ruby>強<rt>つよ</rt></ruby>い<ruby>透明<rt>とうめい</rt></ruby>な<ruby>痰<rt>たん</rt></ruby>｛たん｝が<ruby>吸引<rt>きゅういん</rt></ruby>できた。 このとき、<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>士<rt>さむらい</rt></ruby>が<ruby>喀痰<rt>かくたん</rt></ruby><ruby>排出<rt>はいしゅつ</rt></ruby>｛かくたんはいしゅつ｝を<ruby>促<rt>うなが</rt></ruby>すためにＡさんに<ruby>行<rt>おこな</rt></ruby>う<ruby>対応<rt>たいおう</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  居室の湿度を30％に保つ。",
-      "2  水分摂取を控えるように伝える。",
-      "3  左側を下にした体位を勧める。",
-      "4  太い吸引チューブに変える。",
-      "5  ベッド上での安静を勧める。"
+      "1 <ruby>居室<rt>きょしつ</rt></ruby>の<ruby>湿度<rt>しつど</rt></ruby>を30％に<ruby>保<rt>たも</rt></ruby>つ。",
+      "2 <ruby>水分<rt>すいぶん</rt></ruby><ruby>摂取<rt>せっしゅ</rt></ruby>を<ruby>控<rt>ひか</rt></ruby>えるように<ruby>伝<rt>つた</rt></ruby>える。",
+      "3 <ruby>左側<rt>ひだりがわ</rt></ruby>を<ruby>下<rt>した</rt></ruby>にした<ruby>体位<rt>たいい</rt></ruby>を<ruby>勧<rt>すす</rt></ruby>める。",
+      "4 <ruby>太<rt>ふと</rt></ruby>い<ruby>吸引<rt>きゅういん</rt></ruby>チューブに<ruby>変<rt>か</rt></ruby>える。",
+      "5 ベッド<ruby>上<rt>うえ</rt></ruby>での<ruby>安静<rt>あんせい</rt></ruby>を<ruby>勧<rt>すす</rt></ruby>める。"
     ],
     "answer": 2
   },
   {
-    "question": "問題104 次の記述のうち、胃の構造として、正しいものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>104 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち、<ruby>胃<rt>い</rt></ruby>の<ruby>構造<rt>こうぞう</rt></ruby>として、<ruby>正<rt>ただ</rt></ruby>しいものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  幽門から始まり噴門で終わる。",
-      "2  左上方を胃底部といい、食べ物を一時的にためる。",
-      "3  左下方の縁を小弯｛しょうわん｝という。",
-      "4  胃には3つの生理的狭窄部｛せいりてききょうさくぶ｝がある。",
-      "5  胃に続く小腸は、空腸という。"
+      "1 <ruby>幽門<rt>ゆうもん</rt></ruby>から<ruby>始<rt>はじ</rt></ruby>まり<ruby>噴門<rt>ふんもん</rt></ruby>で<ruby>終<rt>お</rt></ruby>わる。",
+      "2 <ruby>左上<rt>ひだりうえ</rt></ruby><ruby>方<rt>ほう</rt></ruby>を<ruby>胃底<rt>いてい</rt></ruby><ruby>部<rt>ぶ</rt></ruby>といい、<ruby>食べ物<rt>たべもの</rt></ruby>を<ruby>一時的<rt>いちじてき</rt></ruby>にためる。",
+      "3 <ruby>左下<rt>ひだりした</rt></ruby><ruby>方<rt>ほう</rt></ruby>の<ruby>縁<rt>へり</rt></ruby>を<ruby>小弯<rt>しょうわん</rt></ruby>｛しょうわん｝という。",
+      "4 <ruby>胃<rt>い</rt></ruby>には3つの<ruby>生理的<rt>せいりてき</rt></ruby><ruby>狭窄<rt>きょうさく</rt></ruby><ruby>部<rt>ぶ</rt></ruby>｛せいりてききょうさくぶ｝がある。",
+      "5 <ruby>胃<rt>い</rt></ruby>に<ruby>続<rt>つづ</rt></ruby>く<ruby>小腸<rt>しょうちょう</rt></ruby>は、<ruby>空腸<rt>くうちょう</rt></ruby>という。"
     ],
     "answer": 1
   },
   {
-    "question": "問題105 次の記述のうち、ボタン型胃ろうチューブを挿入している利用者に対して、介護福祉士が行うケアとして、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>105 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち、ボタン<ruby>型<rt>かた</rt></ruby><ruby>胃<rt>い</rt></ruby>ろうチューブを<ruby>挿入<rt>そうにゅう</rt></ruby>している<ruby>利用者<rt>りようしゃ</rt></ruby>に<ruby>対<rt>たい</rt></ruby>して、<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>士<rt>さむらい</rt></ruby>が<ruby>行<rt>おこな</rt></ruby>うケアとして、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  胃ろう周囲の皮膚に発赤がある場合は、軟膏｛なんこう｝を塗布する。",
-      "2  1日に2、3回、胃ろうチューブを回転させて、癒着を防ぐ。",
-      "3  胃ろうチューブの抜去予防のため、歩行は避けるように勧める。",
-      "4  胃ろう周囲の皮膚は石けんとぬるま湯で洗浄して、清潔を保つ。",
-      "5  栄養剤を注入する前には、胃ろう部を消毒する。"
+      "1 <ruby>胃<rt>い</rt></ruby>ろう<ruby>周囲<rt>しゅうい</rt></ruby>の<ruby>皮膚<rt>ひふ</rt></ruby>に<ruby>発赤<rt>はっせき</rt></ruby>がある<ruby>場合<rt>ばあい</rt></ruby>は、<ruby>軟膏<rt>なんこう</rt></ruby>｛なんこう｝を<ruby>塗布<rt>とふ</rt></ruby>する。",
+      "2 1<ruby>日<rt>にち</rt></ruby>に2、3<ruby>回<rt>かい</rt></ruby>、<ruby>胃<rt>い</rt></ruby>ろうチューブを<ruby>回転<rt>かいてん</rt></ruby>させて、<ruby>癒着<rt>ゆちゃく</rt></ruby>を<ruby>防<rt>ふせ</rt></ruby>ぐ。",
+      "3 <ruby>胃<rt>い</rt></ruby>ろうチューブの<ruby>抜去<rt>ばっきょ</rt></ruby><ruby>予防<rt>よぼう</rt></ruby>のため、<ruby>歩行<rt>ほこう</rt></ruby>は<ruby>避<rt>さ</rt></ruby>けるように<ruby>勧<rt>すす</rt></ruby>める。",
+      "4 <ruby>胃<rt>い</rt></ruby>ろう<ruby>周囲<rt>しゅうい</rt></ruby>の<ruby>皮膚<rt>ひふ</rt></ruby>は<ruby>石<rt>いし</rt></ruby>けんとぬるま<ruby>湯<rt>ゆ</rt></ruby>で<ruby>洗浄<rt>せんじょう</rt></ruby>して、<ruby>清潔<rt>せいけつ</rt></ruby>を<ruby>保<rt>たも</rt></ruby>つ。",
+      "5 <ruby>栄養剤<rt>えいようざい</rt></ruby>を<ruby>注入<rt>ちゅうにゅう</rt></ruby>する<ruby>前<rt>まえ</rt></ruby>には、<ruby>胃<rt>い</rt></ruby>ろう<ruby>部<rt>ぶ</rt></ruby>を<ruby>消毒<rt>しょうどく</rt></ruby>する。"
     ],
     "answer": 3
   },
   {
-    "question": "問題106 次のうち、介護過程における生活課題への対応として、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>106 <ruby>次<rt>つぎ</rt></ruby>のうち、<ruby>介護<rt>かいご</rt></ruby><ruby>過程<rt>かてい</rt></ruby>における<ruby>生活<rt>せいかつ</rt></ruby><ruby>課題<rt>かだい</rt></ruby>への<ruby>対応<rt>たいおう</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  介護福祉職が望む支援を実現すること",
-      "2  利用者が望む暮らしを実現すること",
-      "3  他職種が望む連携を実現すること",
-      "4  家族が望む経済状況を実現すること",
-      "5  施設が望む運営を実現すること"
+      "1 <ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>が<ruby>望<rt>のぞ</rt></ruby>む<ruby>支援<rt>しえん</rt></ruby>を<ruby>実現<rt>じつげん</rt></ruby>すること",
+      "2 <ruby>利用者<rt>りようしゃ</rt></ruby>が<ruby>望<rt>のぞ</rt></ruby>む<ruby>暮<rt>く</rt></ruby>らしを<ruby>実現<rt>じつげん</rt></ruby>すること",
+      "3 <ruby>他<rt>ほか</rt></ruby><ruby>職種<rt>しょくしゅ</rt></ruby>が<ruby>望<rt>のぞ</rt></ruby>む<ruby>連携<rt>れんけい</rt></ruby>を<ruby>実現<rt>じつげん</rt></ruby>すること",
+      "4 <ruby>家族<rt>かぞく</rt></ruby>が<ruby>望<rt>のぞ</rt></ruby>む<ruby>経済<rt>けいざい</rt></ruby><ruby>状況<rt>じょうきょう</rt></ruby>を<ruby>実現<rt>じつげん</rt></ruby>すること",
+      "5 <ruby>施設<rt>しせつ</rt></ruby>が<ruby>望<rt>のぞ</rt></ruby>む<ruby>運営<rt>うんえい</rt></ruby>を<ruby>実現<rt>じつげん</rt></ruby>すること"
     ],
     "answer": 1
   },
   {
-    "question": "問題107 次の記述のうち、短期目標に関する説明として、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>107 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち、<ruby>短期<rt>たんき</rt></ruby><ruby>目標<rt>もくひょう</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>説明<rt>せつめい</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  介護福祉職の介護目標を設定する。",
-      "2  利用者の1年後の状態を記載する。",
-      "3  利用者の家族を主体にして表現する。",
-      "4  アセスメントに基づく利用者の具体的な生活課題から検討する。",
-      "5  目標達成時の介護福祉職の満足度を記載する。"
+      "1 <ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>の<ruby>介護<rt>かいご</rt></ruby><ruby>目標<rt>もくひょう</rt></ruby>を<ruby>設定<rt>せってい</rt></ruby>する。",
+      "2 <ruby>利用者<rt>りようしゃ</rt></ruby>の1<ruby>年後<rt>ねんご</rt></ruby>の<ruby>状態<rt>じょうたい</rt></ruby>を<ruby>記載<rt>きさい</rt></ruby>する。",
+      "3 <ruby>利用者<rt>りようしゃ</rt></ruby>の<ruby>家族<rt>かぞく</rt></ruby>を<ruby>主体<rt>しゅたい</rt></ruby>にして<ruby>表現<rt>ひょうげん</rt></ruby>する。",
+      "4 アセスメントに<ruby>基<rt>もと</rt></ruby>づく<ruby>利用者<rt>りようしゃ</rt></ruby>の<ruby>具体的<rt>ぐたいてき</rt></ruby>な<ruby>生活<rt>せいかつ</rt></ruby><ruby>課題<rt>かだい</rt></ruby>から<ruby>検討<rt>けんとう</rt></ruby>する。",
+      "5 <ruby>目標<rt>もくひょう</rt></ruby><ruby>達成<rt>たっせい</rt></ruby><ruby>時<rt>とき</rt></ruby>の<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>の<ruby>満足度<rt>まんぞくど</rt></ruby>を<ruby>記載<rt>きさい</rt></ruby>する。"
     ],
     "answer": 3
   },
   {
-    "question": "問題108 次の記述のうち、介護計画の実施に関するものとして、適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>108 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち、<ruby>介護<rt>かいご</rt></ruby><ruby>計画<rt>けいかく</rt></ruby>の<ruby>実施<rt>じっし</rt></ruby>に<ruby>関<rt>かん</rt></ruby>するものとして、<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  利用者の実践状況は評価日にまとめて記録する。",
-      "2  介護福祉職が結果に満足できるまで実践を続ける。",
-      "3  介護福祉職の実践経験を積むことを目的にする。",
-      "4  他職種が立案した介護計画をチームで実践する。",
-      "5  利用者に支援内容を説明して同意を得る。"
+      "1 <ruby>利用者<rt>りようしゃ</rt></ruby>の<ruby>実践<rt>じっせん</rt></ruby><ruby>状況<rt>じょうきょう</rt></ruby>は<ruby>評価<rt>ひょうか</rt></ruby><ruby>日<rt>にち</rt></ruby>にまとめて<ruby>記録<rt>きろく</rt></ruby>する。",
+      "2 <ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>が<ruby>結果<rt>けっか</rt></ruby>に<ruby>満足<rt>まんぞく</rt></ruby>できるまで<ruby>実践<rt>じっせん</rt></ruby>を<ruby>続<rt>つづ</rt></ruby>ける。",
+      "3 <ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>の<ruby>実践<rt>じっせん</rt></ruby><ruby>経験<rt>けいけん</rt></ruby>を<ruby>積<rt>つ</rt></ruby>むことを<ruby>目的<rt>もくてき</rt></ruby>にする。",
+      "4 <ruby>他<rt>ほか</rt></ruby><ruby>職種<rt>しょくしゅ</rt></ruby>が<ruby>立案<rt>りつあん</rt></ruby>した<ruby>介護<rt>かいご</rt></ruby><ruby>計画<rt>けいかく</rt></ruby>をチームで<ruby>実践<rt>じっせん</rt></ruby>する。",
+      "5 <ruby>利用者<rt>りようしゃ</rt></ruby>に<ruby>支援<rt>しえん</rt></ruby><ruby>内容<rt>ないよう</rt></ruby>を<ruby>説明<rt>せつめい</rt></ruby>して<ruby>同意<rt>どうい</rt></ruby>を<ruby>得<rt>え</rt></ruby>る。"
     ],
     "answer": 4
   },
   {
-    "question": "問題109 次のうち、サービス担当者会議にサービス管理責任者が出席する目的として、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>109 <ruby>次<rt>つぎ</rt></ruby>のうち、サービス<ruby>担当者<rt>たんとうしゃ</rt></ruby><ruby>会議<rt>かいぎ</rt></ruby>にサービス<ruby>管理責任者<rt>かんりせきにんしゃ</rt></ruby>が<ruby>出席<rt>しゅっせき</rt></ruby>する<ruby>目的<rt>もくてき</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  個別支援計画の取り組みの報告",
-      "2  障害支援区分の判定",
-      "3  支給が必要かどうかの決定",
-      "4  サービス等利用計画の説明",
-      "5  相談支援専門員への個別支援計画作成の指示"
+      "1 <ruby>個別<rt>こべつ</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>計画<rt>けいかく</rt></ruby>の<ruby>取り組<rt>とりく</rt></ruby>みの<ruby>報告<rt>ほうこく</rt></ruby>",
+      "2 <ruby>障害<rt>しょうがい</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>区分<rt>くぶん</rt></ruby>の<ruby>判定<rt>はんてい</rt></ruby>",
+      "3 <ruby>支給<rt>しきゅう</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>かどうかの<ruby>決定<rt>けってい</rt></ruby>",
+      "4 サービス<ruby>等<rt>など</rt></ruby><ruby>利用<rt>りよう</rt></ruby><ruby>計画<rt>けいかく</rt></ruby>の<ruby>説明<rt>せつめい</rt></ruby>",
+      "5 <ruby>相談<rt>そうだん</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>専門<rt>せんもん</rt></ruby><ruby>員<rt>いん</rt></ruby>への<ruby>個別<rt>こべつ</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>計画<rt>けいかく</rt></ruby><ruby>作成<rt>さくせい</rt></ruby>の<ruby>指示<rt>しじ</rt></ruby>"
     ],
     "answer": 0
   },
   {
-    "question": "問題110 次のうち、Ａさんのニーズとして、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>110 <ruby>次<rt>つぎ</rt></ruby>のうち、Ａさんのニーズとして、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  娘の家で同居すること",
-      "2  自宅での生活を続けること",
-      "3  通所介護（デイサービス）を休めること",
-      "4  弁当のメニューを変更すること",
-      "5  ごみ出しを近所の人に任せること"
+      "1 <ruby>娘<rt>むすめ</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>で<ruby>同居<rt>どうきょ</rt></ruby>すること",
+      "2 <ruby>自宅<rt>じたく</rt></ruby>での<ruby>生活<rt>せいかつ</rt></ruby>を<ruby>続<rt>つづ</rt></ruby>けること",
+      "3 <ruby>通所<rt>つうしょ</rt></ruby><ruby>介護<rt>かいご</rt></ruby>（デイサービス）を<ruby>休<rt>やす</rt></ruby>めること",
+      "4 <ruby>弁当<rt>べんとう</rt></ruby>のメニューを<ruby>変更<rt>へんこう</rt></ruby>すること",
+      "5 ごみ<ruby>出<rt>だ</rt></ruby>しを<ruby>近所<rt>きんじょ</rt></ruby>の<ruby>人<rt>にん</rt></ruby>に<ruby>任<rt>まか</rt></ruby>せること"
     ],
     "answer": 1
   },
   {
-    "question": "問題111 Ａさんの娘から連絡を受けた通所介護（デイサービス）では、介護過程の再アセスメントをすることになった。 次のうち、Ａさんの再アセスメントで重視すべき情報として、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>111 Ａさんの<ruby>娘<rt>むすめ</rt></ruby>から<ruby>連絡<rt>れんらく</rt></ruby>を<ruby>受<rt>う</rt></ruby>けた<ruby>通所<rt>つうしょ</rt></ruby><ruby>介護<rt>かいご</rt></ruby>（デイサービス）では、<ruby>介護<rt>かいご</rt></ruby><ruby>過程<rt>かてい</rt></ruby>の<ruby>再<rt>さい</rt></ruby>アセスメントをすることになった。 <ruby>次<rt>つぎ</rt></ruby>のうち、Ａさんの<ruby>再<rt>さい</rt></ruby>アセスメントで<ruby>重視<rt>じゅうし</rt></ruby>すべき<ruby>情報<rt>じょうほう</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  通所介護（デイサービス）を利用しない日の過ごし方",
-      "2  通所介護（デイサービス）での様子",
-      "3  通所介護（デイサービス）の利用継続に関する娘の意見",
-      "4  通所介護（デイサービス）の迎えを担当した介護福祉職の印象",
-      "5  通所介護（デイサービス）以外のサービスを利用することへの意向"
+      "1 <ruby>通所<rt>つうしょ</rt></ruby><ruby>介護<rt>かいご</rt></ruby>（デイサービス）を<ruby>利用<rt>りよう</rt></ruby>しない<ruby>日<rt>にち</rt></ruby>の<ruby>過ごし方<rt>すごしかた</rt></ruby>",
+      "2 <ruby>通所<rt>つうしょ</rt></ruby><ruby>介護<rt>かいご</rt></ruby>（デイサービス）での<ruby>様子<rt>ようす</rt></ruby>",
+      "3 <ruby>通所<rt>つうしょ</rt></ruby><ruby>介護<rt>かいご</rt></ruby>（デイサービス）の<ruby>利用<rt>りよう</rt></ruby><ruby>継続<rt>けいぞく</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>娘<rt>むすめ</rt></ruby>の<ruby>意見<rt>いけん</rt></ruby>",
+      "4 <ruby>通所<rt>つうしょ</rt></ruby><ruby>介護<rt>かいご</rt></ruby>（デイサービス）の<ruby>迎<rt>むか</rt></ruby>えを<ruby>担当<rt>たんとう</rt></ruby>した<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>の<ruby>印象<rt>いんしょう</rt></ruby>",
+      "5 <ruby>通所<rt>つうしょ</rt></ruby><ruby>介護<rt>かいご</rt></ruby>（デイサービス）<ruby>以外<rt>いがい</rt></ruby>のサービスを<ruby>利用<rt>りよう</rt></ruby>することへの<ruby>意向<rt>いこう</rt></ruby>"
     ],
     "answer": 1
   },
   {
-    "question": "問題112 次のうち、日中活動を休むようになったＡさんの状態を理解するために必要な情報として、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>112 <ruby>次<rt>つぎ</rt></ruby>のうち、<ruby>日中<rt>にっちゅう</rt></ruby><ruby>活動<rt>かつどう</rt></ruby>を<ruby>休<rt>やす</rt></ruby>むようになったＡさんの<ruby>状態<rt>じょうたい</rt></ruby>を<ruby>理解<rt>りかい</rt></ruby>するために<ruby>必要<rt>ひつよう</rt></ruby>な<ruby>情報<rt>じょうほう</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  Ａさんの姉の家族構成",
-      "2  隣室の友人がＡさんの部屋に行った時間",
-      "3  Ａさんが自信をなくした理由",
-      "4  生活支援員がＡさんの部屋を訪ねた心情",
-      "5  Ａさんが隣室の友人と遊ぶことになった理由"
+      "1 Ａさんの<ruby>姉<rt>あね</rt></ruby>の<ruby>家族構成<rt>かぞくこうせい</rt></ruby>",
+      "2 <ruby>隣室<rt>りんしつ</rt></ruby>の<ruby>友人<rt>ゆうじん</rt></ruby>がＡさんの<ruby>部屋<rt>へや</rt></ruby>に<ruby>行<rt>い</rt></ruby>った<ruby>時間<rt>じかん</rt></ruby>",
+      "3 Ａさんが<ruby>自信<rt>じしん</rt></ruby>をなくした<ruby>理由<rt>りゆう</rt></ruby>",
+      "4 <ruby>生活<rt>せいかつ</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>員<rt>いん</rt></ruby>がＡさんの<ruby>部屋<rt>へや</rt></ruby>を<ruby>訪<rt>たず</rt></ruby>ねた<ruby>心情<rt>しんじょう</rt></ruby>",
+      "5 Ａさんが<ruby>隣室<rt>りんしつ</rt></ruby>の<ruby>友人<rt>ゆうじん</rt></ruby>と<ruby>遊<rt>あそ</rt></ruby>ぶことになった<ruby>理由<rt>りゆう</rt></ruby>"
     ],
     "answer": 2
   },
   {
-    "question": "問題113 後日、カンファレンスが開かれ、短期目標についての見直しが検討された。次の記述のうち、見直された短期目標として、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>113 <ruby>後日<rt>ごじつ</rt></ruby>、カンファレンスが<ruby>開<rt>ひら</rt></ruby>かれ、<ruby>短期<rt>たんき</rt></ruby><ruby>目標<rt>もくひょう</rt></ruby>についての<ruby>見直<rt>みなお</rt></ruby>しが<ruby>検討<rt>けんとう</rt></ruby>された。<ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち、<ruby>見直<rt>みなお</rt></ruby>された<ruby>短期<rt>たんき</rt></ruby><ruby>目標<rt>もくひょう</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  趣味を変更する。",
-      "2  現在の自室の状態を維持する。",
-      "3  衣服を部屋の隅に寄せる。",
-      "4  日中活動の事業所を変更する。",
-      "5  自室を整理整頓する。"
+      "1 <ruby>趣味<rt>しゅみ</rt></ruby>を<ruby>変更<rt>へんこう</rt></ruby>する。",
+      "2 <ruby>現在<rt>げんざい</rt></ruby>の<ruby>自室<rt>じしつ</rt></ruby>の<ruby>状態<rt>じょうたい</rt></ruby>を<ruby>維持<rt>いじ</rt></ruby>する。",
+      "3 <ruby>衣服<rt>いふく</rt></ruby>を<ruby>部屋<rt>へや</rt></ruby>の<ruby>隅<rt>すみ</rt></ruby>に<ruby>寄<rt>よ</rt></ruby>せる。",
+      "4 <ruby>日中<rt>にっちゅう</rt></ruby><ruby>活動<rt>かつどう</rt></ruby>の<ruby>事業所<rt>じぎょうしょ</rt></ruby>を<ruby>変更<rt>へんこう</rt></ruby>する。",
+      "5 <ruby>自室<rt>じしつ</rt></ruby>を<ruby>整理整頓<rt>せいりせいとん</rt></ruby>する。"
     ],
     "answer": 4
   },
   {
-    "question": "問題114 Ａさんの手足の震えは、ある体内物質の影響によって生じている。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>114 Ａさんの<ruby>手足<rt>てあし</rt></ruby>の<ruby>震<rt>ふる</rt></ruby>えは、ある<ruby>体内<rt>たいない</rt></ruby><ruby>物質<rt>ぶっしつ</rt></ruby>の<ruby>影響<rt>えいきょう</rt></ruby>によって<ruby>生<rt>しょう</rt></ruby>じている。",
     "choices": [
       "1  メラトニン（melatonin）",
       "2  ドーパミン（dopamine）",
@@ -1256,73 +1256,73 @@ const examSets = {
     "answer": 1
   },
   {
-    "question": "問題115 ある日、送迎のときに、介護予防通所リハビリテーション事業所のＢ介護福祉職は、息子から、日々の症状に変動がある母を自宅で介護をするときにどのようなことに注意すべきか、と聞かれた。Ｂ介護福祉職は事業所で多職種ミーティングを行ってから返答することにした。 次の記述のうち、Ｂ介護福祉職の息子への助言として、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>115 ある<ruby>日<rt>にち</rt></ruby>、<ruby>送迎<rt>そうげい</rt></ruby>のときに、<ruby>介護<rt>かいご</rt></ruby><ruby>予防<rt>よぼう</rt></ruby><ruby>通所<rt>つうしょ</rt></ruby>リハビリテーション<ruby>事業所<rt>じぎょうしょ</rt></ruby>のＢ<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>は、<ruby>息子<rt>むすこ</rt></ruby>から、<ruby>日々<rt>ひび</rt></ruby>の<ruby>症状<rt>しょうじょう</rt></ruby>に<ruby>変動<rt>へんどう</rt></ruby>がある<ruby>母<rt>はは</rt></ruby>を<ruby>自宅<rt>じたく</rt></ruby>で<ruby>介護<rt>かいご</rt></ruby>をするときにどのようなことに<ruby>注意<rt>ちゅうい</rt></ruby>すべきか、と<ruby>聞<rt>き</rt></ruby>かれた。Ｂ<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>は<ruby>事業所<rt>じぎょうしょ</rt></ruby>で<ruby>多<rt>た</rt></ruby><ruby>職種<rt>しょくしゅ</rt></ruby>ミーティングを<ruby>行<rt>い</rt></ruby>ってから<ruby>返答<rt>へんとう</rt></ruby>することにした。 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち、Ｂ<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>の<ruby>息子<rt>むすこ</rt></ruby>への<ruby>助言<rt>じょげん</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  視覚的環境からの影響を防ぐために、自室のカーテンを無地のものに変更する。",
-      "2  下肢筋力を維持するために、毎日決まった時間に同じ運動をする。",
-      "3  転倒を防止するために、Ａさんの外出の機会を減らす。",
-      "4  夜間は部屋をできるだけ明るく照らすために、直接照明を用いる。",
-      "5  着脱をしやすくするために、ボタン止めの衣服を使用する。"
+      "1 <ruby>視覚的<rt>しかくてき</rt></ruby><ruby>環境<rt>かんきょう</rt></ruby>からの<ruby>影響<rt>えいきょう</rt></ruby>を<ruby>防<rt>ふせ</rt></ruby>ぐために、<ruby>自室<rt>じしつ</rt></ruby>のカーテンを<ruby>無地<rt>むじ</rt></ruby>のものに<ruby>変更<rt>へんこう</rt></ruby>する。",
+      "2 <ruby>下肢<rt>かし</rt></ruby><ruby>筋力<rt>きんりょく</rt></ruby>を<ruby>維持<rt>いじ</rt></ruby>するために、<ruby>毎日<rt>まいにち</rt></ruby><ruby>決<rt>き</rt></ruby>まった<ruby>時間<rt>じかん</rt></ruby>に<ruby>同<rt>おな</rt></ruby>じ<ruby>運動<rt>うんどう</rt></ruby>をする。",
+      "3 <ruby>転倒<rt>てんとう</rt></ruby>を<ruby>防止<rt>ぼうし</rt></ruby>するために、Ａさんの<ruby>外出<rt>がいしゅつ</rt></ruby>の<ruby>機会<rt>きかい</rt></ruby>を<ruby>減<rt>へ</rt></ruby>らす。",
+      "4 <ruby>夜間<rt>やかん</rt></ruby>は<ruby>部屋<rt>へや</rt></ruby>をできるだけ<ruby>明<rt>あか</rt></ruby>るく<ruby>照<rt>て</rt></ruby>らすために、<ruby>直接照明<rt>ちょくせつしょうめい</rt></ruby>を<ruby>用<rt>もち</rt></ruby>いる。",
+      "5 <ruby>着脱<rt>ちゃくだつ</rt></ruby>をしやすくするために、ボタン<ruby>止<rt>と</rt></ruby>めの<ruby>衣服<rt>いふく</rt></ruby>を<ruby>使用<rt>しよう</rt></ruby>する。"
     ],
     "answer": 0
   },
   {
-    "question": "問題116 サービス利用開始から2か月後、担当介護支援専門員（介護福祉士）はモニタリングを行うために、Ａさんの自宅を訪れた。Ａさんは、「もっとほかの人と交流したいが、自宅で生活しながら利用できると安心だ。とにかく息子に心配をかけずに一緒に暮らしていきたい」と語った。 息子は、「最近仕事が忙しくなり、今後泊まりの出張もあるので、リハビリ以外のサービスもうまく使ってほしい」と語った。 次のうち、Ａさんに利用を勧めるサービスとして、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>116 サービス<ruby>利用<rt>りよう</rt></ruby><ruby>開始<rt>かいし</rt></ruby>から2か<ruby>月後<rt>げつご</rt></ruby>、<ruby>担当<rt>たんとう</rt></ruby><ruby>介護<rt>かいご</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>専門<rt>せんもん</rt></ruby><ruby>員<rt>いん</rt></ruby>（<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>士<rt>さむらい</rt></ruby>）はモニタリングを<ruby>行<rt>おこな</rt></ruby>うために、Ａさんの<ruby>自宅<rt>じたく</rt></ruby>を<ruby>訪<rt>おとず</rt></ruby>れた。Ａさんは、「もっとほかの<ruby>人<rt>にん</rt></ruby>と<ruby>交流<rt>こうりゅう</rt></ruby>したいが、<ruby>自宅<rt>じたく</rt></ruby>で<ruby>生活<rt>せいかつ</rt></ruby>しながら<ruby>利用<rt>りよう</rt></ruby>できると<ruby>安心<rt>あんしん</rt></ruby>だ。とにかく<ruby>息子<rt>むすこ</rt></ruby>に<ruby>心配<rt>しんぱい</rt></ruby>をかけずに<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>暮<rt>く</rt></ruby>らしていきたい」と<ruby>語<rt>かた</rt></ruby>った。 <ruby>息子<rt>むすこ</rt></ruby>は、「<ruby>最近<rt>さいきん</rt></ruby><ruby>仕事<rt>しごと</rt></ruby>が<ruby>忙<rt>いそが</rt></ruby>しくなり、<ruby>今後<rt>こんご</rt></ruby><ruby>泊<rt>と</rt></ruby>まりの<ruby>出張<rt>しゅっちょう</rt></ruby>もあるので、リハビリ<ruby>以外<rt>いがい</rt></ruby>のサービスもうまく<ruby>使<rt>つか</rt></ruby>ってほしい」と<ruby>語<rt>かた</rt></ruby>った。 <ruby>次<rt>つぎ</rt></ruby>のうち、Ａさんに<ruby>利用<rt>りよう</rt></ruby>を<ruby>勧<rt>すす</rt></ruby>めるサービスとして、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  介護予防認知症対応型共同生活介護（認知症高齢者グループホーム）",
-      "2  日常生活自立支援事業",
-      "3  訪問介護（ホームヘルプサービス）",
-      "4  介護予防小規模多機能型居宅介護",
-      "5  介護予防・生活支援サービス事業の通所型サービス"
+      "1 <ruby>介護<rt>かいご</rt></ruby><ruby>予防<rt>よぼう</rt></ruby><ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby><ruby>対応型<rt>たいおうがた</rt></ruby><ruby>共同生活<rt>きょうどうせいかつ</rt></ruby><ruby>介護<rt>かいご</rt></ruby>（<ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby><ruby>高齢者<rt>こうれいしゃ</rt></ruby>グループホーム）",
+      "2 <ruby>日常生活<rt>にちじょうせいかつ</rt></ruby><ruby>自立<rt>じりつ</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>事業<rt>じぎょう</rt></ruby>",
+      "3 <ruby>訪問<rt>ほうもん</rt></ruby><ruby>介護<rt>かいご</rt></ruby>（ホームヘルプサービス）",
+      "4 <ruby>介護<rt>かいご</rt></ruby><ruby>予防<rt>よぼう</rt></ruby><ruby>小規模<rt>しょうきぼ</rt></ruby><ruby>多機能<rt>たきのう</rt></ruby><ruby>型<rt>かた</rt></ruby><ruby>居宅<rt>きょたく</rt></ruby><ruby>介護<rt>かいご</rt></ruby>",
+      "5 <ruby>介護<rt>かいご</rt></ruby><ruby>予防<rt>よぼう</rt></ruby>・<ruby>生活<rt>せいかつ</rt></ruby><ruby>支援<rt>しえん</rt></ruby>サービス<ruby>事業<rt>じぎょう</rt></ruby>の<ruby>通所<rt>つうしょ</rt></ruby><ruby>型<rt>かた</rt></ruby>サービス"
     ],
     "answer": 3
   },
   {
-    "question": "問題117 次のうち、Ａさんが不安に思っている駐車場収入の管理について、訪問介護事業所のサービス提供責任者がＡさんに提案する制度として、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>117 <ruby>次<rt>つぎ</rt></ruby>のうち、Ａさんが<ruby>不安<rt>ふあん</rt></ruby>に<ruby>思<rt>おも</rt></ruby>っている<ruby>駐車場<rt>ちゅうしゃじょう</rt></ruby><ruby>収入<rt>しゅうにゅう</rt></ruby>の<ruby>管理<rt>かんり</rt></ruby>について、<ruby>訪問<rt>ほうもん</rt></ruby><ruby>介護<rt>かいご</rt></ruby><ruby>事業所<rt>じぎょうしょ</rt></ruby>のサービス<ruby>提供<rt>ていきょう</rt></ruby><ruby>責任者<rt>せきにんしゃ</rt></ruby>がＡさんに<ruby>提案<rt>ていあん</rt></ruby>する<ruby>制度<rt>せいど</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  成年後見制度",
-      "2  生活保護制度",
-      "3  老齢年金制度",
-      "4  継続雇用制度",
-      "5  後期高齢者医療制度"
+      "1 <ruby>成年<rt>せいねん</rt></ruby><ruby>後見<rt>こうけん</rt></ruby><ruby>制度<rt>せいど</rt></ruby>",
+      "2 <ruby>生活<rt>せいかつ</rt></ruby><ruby>保護<rt>ほご</rt></ruby><ruby>制度<rt>せいど</rt></ruby>",
+      "3 <ruby>老齢<rt>ろうれい</rt></ruby><ruby>年金制度<rt>ねんきんせいど</rt></ruby>",
+      "4 <ruby>継続<rt>けいぞく</rt></ruby><ruby>雇用<rt>こよう</rt></ruby><ruby>制度<rt>せいど</rt></ruby>",
+      "5 <ruby>後期<rt>こうき</rt></ruby><ruby>高齢者<rt>こうれいしゃ</rt></ruby><ruby>医療制度<rt>いりょうせいど</rt></ruby>"
     ],
     "answer": 0
   },
   {
-    "question": "問題118 その後、Ａさんは認知症（dementia）が進行することを心配し、介護支援専門員（ケアマネジャー）に相談して、同じ市内のＤ介護付き有料老人ホームに転居することになった。 転居してから2年後、Ａさんの認知症（dementia）の症状は進行してきた。Ａさんの担当となったＥ介護福祉職はサービス担当者会議で、「現在、Ａさんの、認知症高齢者の日常生活自立度判定基準は、ランクⅢａと考えられる。そこで、このランクに合った介護計画を立案したい」と提案し、他職種の承諾を得た。 次のうち、Ａさんの介護計画立案時にＥ介護福祉職が意識する、認知症高齢者の日常生活自立度判定基準Ⅲａに該当する状態として、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>118 その<ruby>後<rt>のち</rt></ruby>、Ａさんは<ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby>（dementia）が<ruby>進行<rt>しんこう</rt></ruby>することを<ruby>心配<rt>しんぱい</rt></ruby>し、<ruby>介護<rt>かいご</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>専門<rt>せんもん</rt></ruby><ruby>員<rt>いん</rt></ruby>（ケアマネジャー）に<ruby>相談<rt>そうだん</rt></ruby>して、<ruby>同<rt>おな</rt></ruby>じ<ruby>市内<rt>しない</rt></ruby>のＤ<ruby>介護<rt>かいご</rt></ruby><ruby>付<rt>つ</rt></ruby>き<ruby>有料<rt>ゆうりょう</rt></ruby><ruby>老人<rt>ろうじん</rt></ruby>ホームに<ruby>転居<rt>てんきょ</rt></ruby>することになった。 <ruby>転居<rt>てんきょ</rt></ruby>してから2<ruby>年後<rt>ねんご</rt></ruby>、Ａさんの<ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby>（dementia）の<ruby>症状<rt>しょうじょう</rt></ruby>は<ruby>進行<rt>しんこう</rt></ruby>してきた。Ａさんの<ruby>担当<rt>たんとう</rt></ruby>となったＥ<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>はサービス<ruby>担当者<rt>たんとうしゃ</rt></ruby><ruby>会議<rt>かいぎ</rt></ruby>で、「<ruby>現在<rt>げんざい</rt></ruby>、Ａさんの、<ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby><ruby>高齢者<rt>こうれいしゃ</rt></ruby>の<ruby>日常生活<rt>にちじょうせいかつ</rt></ruby><ruby>自立<rt>じりつ</rt></ruby><ruby>度<rt>ど</rt></ruby><ruby>判定基準<rt>はんていきじゅん</rt></ruby>は、ランクⅢａと<ruby>考<rt>かんが</rt></ruby>えられる。そこで、このランクに<ruby>合<rt>あ</rt></ruby>った<ruby>介護<rt>かいご</rt></ruby><ruby>計画<rt>けいかく</rt></ruby>を<ruby>立案<rt>りつあん</rt></ruby>したい」と<ruby>提案<rt>ていあん</rt></ruby>し、<ruby>他<rt>ほか</rt></ruby><ruby>職種<rt>しょくしゅ</rt></ruby>の<ruby>承諾<rt>しょうだく</rt></ruby>を<ruby>得<rt>え</rt></ruby>た。 <ruby>次<rt>つぎ</rt></ruby>のうち、Ａさんの<ruby>介護<rt>かいご</rt></ruby><ruby>計画<rt>けいかく</rt></ruby><ruby>立案<rt>りつあん</rt></ruby><ruby>時<rt>とき</rt></ruby>にＥ<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>が<ruby>意識<rt>いしき</rt></ruby>する、<ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby><ruby>高齢者<rt>こうれいしゃ</rt></ruby>の<ruby>日常生活<rt>にちじょうせいかつ</rt></ruby><ruby>自立<rt>じりつ</rt></ruby><ruby>度<rt>ど</rt></ruby><ruby>判定基準<rt>はんていきじゅん</rt></ruby>Ⅲａに<ruby>該当<rt>がいとう</rt></ruby>する<ruby>状態<rt>じょうたい</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  日常生活が自立している状態",
-      "2  見守りがあれば自立できる状態",
-      "3  日中を中心に意思疎通の困難さがみられ、介護を必要とする状態",
-      "4  意思疎通の困難さが頻繁にみられ、常に介護を必要とする状態",
-      "5  専門医療の導入が必要な状態"
+      "1 <ruby>日常生活<rt>にちじょうせいかつ</rt></ruby>が<ruby>自立<rt>じりつ</rt></ruby>している<ruby>状態<rt>じょうたい</rt></ruby>",
+      "2 <ruby>見守<rt>みまも</rt></ruby>りがあれば<ruby>自立<rt>じりつ</rt></ruby>できる<ruby>状態<rt>じょうたい</rt></ruby>",
+      "3 <ruby>日中<rt>にっちゅう</rt></ruby>を<ruby>中心<rt>ちゅうしん</rt></ruby>に<ruby>意思疎通<rt>いしそつう</rt></ruby>の<ruby>困難<rt>こんなん</rt></ruby>さがみられ、<ruby>介護<rt>かいご</rt></ruby>を<ruby>必要<rt>ひつよう</rt></ruby>とする<ruby>状態<rt>じょうたい</rt></ruby>",
+      "4 <ruby>意思疎通<rt>いしそつう</rt></ruby>の<ruby>困難<rt>こんなん</rt></ruby>さが<ruby>頻繁<rt>ひんぱん</rt></ruby>にみられ、<ruby>常<rt>つね</rt></ruby>に<ruby>介護<rt>かいご</rt></ruby>を<ruby>必要<rt>ひつよう</rt></ruby>とする<ruby>状態<rt>じょうたい</rt></ruby>",
+      "5 <ruby>専門医<rt>せんもんい</rt></ruby><ruby>療<rt>りょう</rt></ruby>の<ruby>導入<rt>どうにゅう</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>な<ruby>状態<rt>じょうたい</rt></ruby>"
     ],
     "answer": 2
   },
   {
-    "question": "問題119 Ｄ介護付き有料老人ホームに転居してから3年が経過した。Ａさんの認知症（dementia）の症状は、さらに進行してきた。Ｄ介護付き有料老人ホームでは、施設の方針として、新たにパーソン・センタード・ケアを取り入れることになった。 次の記述のうち、Ｅ介護福祉職が介護計画を見直すときの方向性として、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>119 Ｄ<ruby>介護<rt>かいご</rt></ruby><ruby>付<rt>つ</rt></ruby>き<ruby>有料<rt>ゆうりょう</rt></ruby><ruby>老人<rt>ろうじん</rt></ruby>ホームに<ruby>転居<rt>てんきょ</rt></ruby>してから3<ruby>年<rt>ねん</rt></ruby>が<ruby>経過<rt>けいか</rt></ruby>した。Ａさんの<ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby>（dementia）の<ruby>症状<rt>しょうじょう</rt></ruby>は、さらに<ruby>進行<rt>しんこう</rt></ruby>してきた。Ｄ<ruby>介護<rt>かいご</rt></ruby><ruby>付<rt>つ</rt></ruby>き<ruby>有料<rt>ゆうりょう</rt></ruby><ruby>老人<rt>ろうじん</rt></ruby>ホームでは、<ruby>施設<rt>しせつ</rt></ruby>の<ruby>方針<rt>ほうしん</rt></ruby>として、<ruby>新<rt>あら</rt></ruby>たにパーソン・センタード・ケアを<ruby>取り入<rt>とりい</rt></ruby>れることになった。 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち、Ｅ<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>が<ruby>介護<rt>かいご</rt></ruby><ruby>計画<rt>けいかく</rt></ruby>を<ruby>見直<rt>みなお</rt></ruby>すときの<ruby>方向性<rt>ほうこうせい</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  認知症（dementia）の人の共通点に着目したケアマニュアルをつくる。",
-      "2  認知症（dementia）を治療する。",
-      "3  認知症（dementia）の人のその人らしさを支える。",
-      "4  認知症（dementia）の人を特別な存在として保護する。",
-      "5  行動・心理症状（ＢＰＳＤ）をなくす。"
+      "1 <ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby>（dementia）の<ruby>人<rt>にん</rt></ruby>の<ruby>共通点<rt>きょうつうてん</rt></ruby>に<ruby>着目<rt>ちゃくもく</rt></ruby>したケアマニュアルをつくる。",
+      "2 <ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby>（dementia）を<ruby>治療<rt>ちりょう</rt></ruby>する。",
+      "3 <ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby>（dementia）の<ruby>人<rt>にん</rt></ruby>のその<ruby>人<rt>にん</rt></ruby>らしさを<ruby>支<rt>ささ</rt></ruby>える。",
+      "4 <ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby>（dementia）の<ruby>人<rt>にん</rt></ruby>を<ruby>特別<rt>とくべつ</rt></ruby>な<ruby>存在<rt>そんざい</rt></ruby>として<ruby>保護<rt>ほご</rt></ruby>する。",
+      "5 <ruby>行動<rt>こうどう</rt></ruby>・<ruby>心理<rt>しんり</rt></ruby><ruby>症状<rt>しょうじょう</rt></ruby>（ＢＰＳＤ）をなくす。"
     ],
     "answer": 2
   },
   {
-    "question": "問題120 次のうち、Ａさんの正常時の便の性状として、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>120 <ruby>次<rt>つぎ</rt></ruby>のうち、Ａさんの<ruby>正常<rt>せいじょう</rt></ruby><ruby>時<rt>とき</rt></ruby>の<ruby>便<rt>びん</rt></ruby>の<ruby>性状<rt>せいじょう</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  水様から粥状｛じゅくじょう｝",
-      "2  流動状から液状",
-      "3  半流動から粥状｛じゅくじょう｝",
-      "4  泥状から軟便",
-      "5  軟便から固形状"
+      "1 <ruby>水様<rt>すいよう</rt></ruby>から<ruby>粥<rt>かゆ</rt></ruby><ruby>状<rt>じょう</rt></ruby>｛じゅくじょう｝",
+      "2 <ruby>流動<rt>りゅうどう</rt></ruby><ruby>状<rt>じょう</rt></ruby>から<ruby>液状<rt>えきじょう</rt></ruby>",
+      "3 <ruby>半<rt>はん</rt></ruby><ruby>流動<rt>りゅうどう</rt></ruby>から<ruby>粥<rt>かゆ</rt></ruby><ruby>状<rt>じょう</rt></ruby>｛じゅくじょう｝",
+      "4 <ruby>泥状<rt>でいじょう</rt></ruby>から<ruby>軟便<rt>なんべん</rt></ruby>",
+      "5 <ruby>軟便<rt>なんべん</rt></ruby>から<ruby>固形<rt>こけい</rt></ruby><ruby>状<rt>じょう</rt></ruby>"
     ],
     "answer": 4
   },
   {
-    "question": "問題121 ある日、訪問介護員（ホームヘルパー）にＡさんから、「今度、父親と温泉に行くことになったが、便のにおいが気になる」と相談があった。 次のうち、訪問介護員（ホームヘルパー）がＡさんに勧める食品として、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>121 ある<ruby>日<rt>にち</rt></ruby>、<ruby>訪問<rt>ほうもん</rt></ruby><ruby>介護<rt>かいご</rt></ruby><ruby>員<rt>いん</rt></ruby>（ホームヘルパー）にＡさんから、「<ruby>今度<rt>こんど</rt></ruby>、<ruby>父親<rt>ちちおや</rt></ruby>と<ruby>温泉<rt>おんせん</rt></ruby>に<ruby>行<rt>い</rt></ruby>くことになったが、<ruby>便<rt>びん</rt></ruby>のにおいが<ruby>気<rt>き</rt></ruby>になる」と<ruby>相談<rt>そうだん</rt></ruby>があった。 <ruby>次<rt>つぎ</rt></ruby>のうち、<ruby>訪問<rt>ほうもん</rt></ruby><ruby>介護<rt>かいご</rt></ruby><ruby>員<rt>いん</rt></ruby>（ホームヘルパー）がＡさんに<ruby>勧<rt>すす</rt></ruby>める<ruby>食品<rt>しょくひん</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
       "1  チーズ",
       "2  たまねぎ",
@@ -1333,18 +1333,18 @@ const examSets = {
     "answer": 2
   },
   {
-    "question": "問題122 ある日、訪問介護員（ホームヘルパー）がＡさんの自宅を訪問したところ、Ａさんの父親から、「地震のニュースを見たら、知的障害があり、ストーマの管理が必要な息子に対する災害時の対応が心配になった」と相談があった。訪問介護員（ホームヘルパー）は、相談支援専門員に状況を報告し、相談支援専門員とともにほかの利用者家族に確認したところ、同様に災害時の不安を感じている親が多く、この地域では個別避難計画の作成が遅れていることがわかった。そこで、訪問介護員（ホームヘルパー）はこの課題を地域の課題としてとらえ、サービス提供責任者や相談支援専門員とともに対応することを確認した。 次のうち、この地域課題の検討を働きかける場として、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>122 ある<ruby>日<rt>にち</rt></ruby>、<ruby>訪問<rt>ほうもん</rt></ruby><ruby>介護<rt>かいご</rt></ruby><ruby>員<rt>いん</rt></ruby>（ホームヘルパー）がＡさんの<ruby>自宅<rt>じたく</rt></ruby>を<ruby>訪問<rt>ほうもん</rt></ruby>したところ、Ａさんの<ruby>父親<rt>ちちおや</rt></ruby>から、「<ruby>地震<rt>じしん</rt></ruby>のニュースを<ruby>見<rt>み</rt></ruby>たら、<ruby>知的障害<rt>ちてきしょうがい</rt></ruby>があり、ストーマの<ruby>管理<rt>かんり</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>な<ruby>息子<rt>むすこ</rt></ruby>に<ruby>対<rt>たい</rt></ruby>する<ruby>災害時<rt>さいがいじ</rt></ruby>の<ruby>対応<rt>たいおう</rt></ruby>が<ruby>心配<rt>しんぱい</rt></ruby>になった」と<ruby>相談<rt>そうだん</rt></ruby>があった。<ruby>訪問<rt>ほうもん</rt></ruby><ruby>介護<rt>かいご</rt></ruby><ruby>員<rt>いん</rt></ruby>（ホームヘルパー）は、<ruby>相談<rt>そうだん</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>専門<rt>せんもん</rt></ruby><ruby>員<rt>いん</rt></ruby>に<ruby>状況<rt>じょうきょう</rt></ruby>を<ruby>報告<rt>ほうこく</rt></ruby>し、<ruby>相談<rt>そうだん</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>専門<rt>せんもん</rt></ruby><ruby>員<rt>いん</rt></ruby>とともにほかの<ruby>利用者<rt>りようしゃ</rt></ruby><ruby>家族<rt>かぞく</rt></ruby>に<ruby>確認<rt>かくにん</rt></ruby>したところ、<ruby>同様<rt>どうよう</rt></ruby>に<ruby>災害時<rt>さいがいじ</rt></ruby>の<ruby>不安<rt>ふあん</rt></ruby>を<ruby>感<rt>かん</rt></ruby>じている<ruby>親<rt>おや</rt></ruby>が<ruby>多<rt>おお</rt></ruby>く、この<ruby>地域<rt>ちいき</rt></ruby>では<ruby>個別<rt>こべつ</rt></ruby><ruby>避難<rt>ひなん</rt></ruby><ruby>計画<rt>けいかく</rt></ruby>の<ruby>作成<rt>さくせい</rt></ruby>が<ruby>遅<rt>おく</rt></ruby>れていることがわかった。そこで、<ruby>訪問<rt>ほうもん</rt></ruby><ruby>介護<rt>かいご</rt></ruby><ruby>員<rt>いん</rt></ruby>（ホームヘルパー）はこの<ruby>課題<rt>かだい</rt></ruby>を<ruby>地域<rt>ちいき</rt></ruby>の<ruby>課題<rt>かだい</rt></ruby>としてとらえ、サービス<ruby>提供<rt>ていきょう</rt></ruby><ruby>責任者<rt>せきにんしゃ</rt></ruby>や<ruby>相談<rt>そうだん</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>専門<rt>せんもん</rt></ruby><ruby>員<rt>いん</rt></ruby>とともに<ruby>対応<rt>たいおう</rt></ruby>することを<ruby>確認<rt>かくにん</rt></ruby>した。 <ruby>次<rt>つぎ</rt></ruby>のうち、この<ruby>地域<rt>ちいき</rt></ruby><ruby>課題<rt>かだい</rt></ruby>の<ruby>検討<rt>けんとう</rt></ruby>を<ruby>働<rt>はたら</rt></ruby>きかける<ruby>場<rt>ば</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  協議会",
-      "2  運営適正化委員会",
-      "3  介護保険審査会",
-      "4  障害者政策委員会",
-      "5  地方更生保護委員会"
+      "1 <ruby>協議会<rt>きょうぎかい</rt></ruby>",
+      "2 <ruby>運営<rt>うんえい</rt></ruby><ruby>適正化<rt>てきせいか</rt></ruby><ruby>委員会<rt>いいんかい</rt></ruby>",
+      "3 <ruby>介護<rt>かいご</rt></ruby><ruby>保険<rt>ほけん</rt></ruby><ruby>審査会<rt>しんさかい</rt></ruby>",
+      "4 <ruby>障害者<rt>しょうがいしゃ</rt></ruby><ruby>政策<rt>せいさく</rt></ruby><ruby>委員会<rt>いいんかい</rt></ruby>",
+      "5 <ruby>地方<rt>ちほう</rt></ruby><ruby>更生<rt>こうせい</rt></ruby><ruby>保護<rt>ほご</rt></ruby><ruby>委員会<rt>いいんかい</rt></ruby>"
     ],
     "answer": 0
   },
   {
-    "question": "問題123 次のうち、Ｃ介護主任がＢ介護福祉職への対応に用いた手法として、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>123 <ruby>次<rt>つぎ</rt></ruby>のうち、Ｃ<ruby>介護<rt>かいご</rt></ruby><ruby>主任<rt>しゅにん</rt></ruby>がＢ<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>への<ruby>対応<rt>たいおう</rt></ruby>に<ruby>用<rt>もち</rt></ruby>いた<ruby>手法<rt>しゅほう</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
       "1  コンサルテーション（consultation）",
       "2  コーチング（coaching）",
@@ -1355,1274 +1355,1274 @@ const examSets = {
     "answer": 1
   },
   {
-    "question": "問題124 Ｂ介護福祉職は、Ａさんが車いすで良肢位を保つことができるように、クッションを使用することにした。まず、Ｂ介護福祉職はＡさんの上半身を起こし深く座り直してもらった。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>124 Ｂ<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>は、Ａさんが<ruby>車<rt>くるま</rt></ruby>いすで<ruby>良<rt>りょう</rt></ruby><ruby>肢<rt>し</rt></ruby><ruby>位<rt>くらい</rt></ruby>を<ruby>保<rt>たも</rt></ruby>つことができるように、クッションを<ruby>使用<rt>しよう</rt></ruby>することにした。まず、Ｂ<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>はＡさんの<ruby>上半身<rt>じょうはんしん</rt></ruby>を<ruby>起<rt>お</rt></ruby>こし<ruby>深<rt>ふか</rt></ruby>く<ruby>座<rt>すわ</rt></ruby>り<ruby>直<rt>なお</rt></ruby>してもらった。",
     "choices": [
-      "1  背中とバックサポートの間",
-      "2  左大腿部｛ひだりだいたいぶ｝と座面の間",
-      "3  両下腿｛りょうかたい｝とレッグサポートの間",
-      "4  右大腿部｛みぎだいたいぶ｝と左大腿部｛ひだりだいたいぶ｝の間",
-      "5  右上肢と右アームサポートの間"
+      "1 <ruby>背中<rt>せなか</rt></ruby>とバックサポートの<ruby>間<rt>かん</rt></ruby>",
+      "2 <ruby>左<rt>ひだり</rt></ruby><ruby>大腿部<rt>だいたいぶ</rt></ruby>｛ひだりだいたいぶ｝と<ruby>座面<rt>ざめん</rt></ruby>の<ruby>間<rt>かん</rt></ruby>",
+      "3 <ruby>両<rt>りょう</rt></ruby><ruby>下腿<rt>かたい</rt></ruby>｛りょうかたい｝とレッグサポートの<ruby>間<rt>かん</rt></ruby>",
+      "4 <ruby>右<rt>みぎ</rt></ruby><ruby>大腿部<rt>だいたいぶ</rt></ruby>｛みぎだいたいぶ｝と<ruby>左<rt>ひだり</rt></ruby><ruby>大腿部<rt>だいたいぶ</rt></ruby>｛ひだりだいたいぶ｝の<ruby>間<rt>かん</rt></ruby>",
+      "5 <ruby>右上<rt>みぎうえ</rt></ruby><ruby>肢<rt>し</rt></ruby>と<ruby>右<rt>みぎ</rt></ruby>アームサポートの<ruby>間<rt>かん</rt></ruby>"
     ],
     "answer": 4
   },
   {
-    "question": "問題125 妻の相談を受けたＢ介護福祉職がサービス管理責任者に報告をしたところ、ある社会資源を紹介することになった。 次のうち、Ｂ介護福祉職が妻に紹介した社会資源として、最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>125 <ruby>妻<rt>つま</rt></ruby>の<ruby>相談<rt>そうだん</rt></ruby>を<ruby>受<rt>う</rt></ruby>けたＢ<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>がサービス<ruby>管理責任者<rt>かんりせきにんしゃ</rt></ruby>に<ruby>報告<rt>ほうこく</rt></ruby>をしたところ、ある<ruby>社会<rt>しゃかい</rt></ruby><ruby>資源<rt>しげん</rt></ruby>を<ruby>紹介<rt>しょうかい</rt></ruby>することになった。 <ruby>次<rt>つぎ</rt></ruby>のうち、Ｂ<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>が<ruby>妻<rt>つま</rt></ruby>に<ruby>紹介<rt>しょうかい</rt></ruby>した<ruby>社会<rt>しゃかい</rt></ruby><ruby>資源<rt>しげん</rt></ruby>として、<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1  福祉事務所",
-      "2  公共職業安定所（ハローワーク）",
-      "3  家族会",
-      "4  地域包括支援センター",
-      "5  地域障害者職業センター"
+      "1 <ruby>福祉<rt>ふくし</rt></ruby><ruby>事務所<rt>じむしょ</rt></ruby>",
+      "2 <ruby>公共<rt>こうきょう</rt></ruby><ruby>職業<rt>しょくぎょう</rt></ruby><ruby>安定<rt>あんてい</rt></ruby><ruby>所<rt>ところ</rt></ruby>（ハローワーク）",
+      "3 <ruby>家族<rt>かぞく</rt></ruby><ruby>会<rt>かい</rt></ruby>",
+      "4 <ruby>地域<rt>ちいき</rt></ruby><ruby>包括<rt>ほうかつ</rt></ruby><ruby>支援<rt>しえん</rt></ruby>センター",
+      "5 <ruby>地域<rt>ちいき</rt></ruby><ruby>障害者<rt>しょうがいしゃ</rt></ruby><ruby>職業<rt>しょくぎょう</rt></ruby>センター"
     ],
     "answer": 2
   }
 ],
   "37": [
   {
-    "question": "問題1 次の記述のうち，介護福祉職がアドボカシー（advocacy）の視点から行う対応として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>1 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>がアドボカシー（advocacy）の<ruby>視点<rt>してん</rt></ruby>から<ruby>行<rt>おこな</rt></ruby>う<ruby>対応<rt>たいおう</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "介護を行う前には，利用者に十分な説明をして同意を得る。",
-      "利用者の介護計画を作成するときに，他職種に専門的な助言を求める。",
-      "利用者個人の趣味を生かして，レクリエーション活動を行う。",
-      "希望を言い出しにくい利用者の意思をくみ取り，その実現に向けて働きかける。",
-      "視覚障害者が必要とする情報を，利用しやすいようにする。"
+      "<ruby>介護<rt>かいご</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う<ruby>前<rt>まえ</rt></ruby>には，<ruby>利用者<rt>りようしゃ</rt></ruby>に<ruby>十分<rt>じゅうぶん</rt></ruby>な<ruby>説明<rt>せつめい</rt></ruby>をして<ruby>同意<rt>どうい</rt></ruby>を<ruby>得<rt>え</rt></ruby>る。",
+      "<ruby>利用者<rt>りようしゃ</rt></ruby>の<ruby>介護<rt>かいご</rt></ruby><ruby>計画<rt>けいかく</rt></ruby>を<ruby>作成<rt>さくせい</rt></ruby>するときに，<ruby>他<rt>ほか</rt></ruby><ruby>職種<rt>しょくしゅ</rt></ruby>に<ruby>専門的<rt>せんもんてき</rt></ruby>な<ruby>助言<rt>じょげん</rt></ruby>を<ruby>求<rt>もと</rt></ruby>める。",
+      "<ruby>利用者<rt>りようしゃ</rt></ruby><ruby>個人<rt>こじん</rt></ruby>の<ruby>趣味<rt>しゅみ</rt></ruby>を<ruby>生<rt>い</rt></ruby>かして，レクリエーション<ruby>活動<rt>かつどう</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う。",
+      "<ruby>希望<rt>きぼう</rt></ruby>を<ruby>言い出<rt>いいだ</rt></ruby>しにくい<ruby>利用者<rt>りようしゃ</rt></ruby>の<ruby>意思<rt>いし</rt></ruby>をくみ<ruby>取<rt>と</rt></ruby>り，その<ruby>実現<rt>じつげん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて<ruby>働<rt>はたら</rt></ruby>きかける。",
+      "<ruby>視覚障害者<rt>しかくしょうがいしゃ</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>とする<ruby>情報<rt>じょうほう</rt></ruby>を，<ruby>利用<rt>りよう</rt></ruby>しやすいようにする。"
     ],
     "answer": 3
   },
   {
-    "question": "問題2 Ａさん（83歳，女性，要介護3）は，脳梗塞（cerebral infarction）の後遺症で左片麻痺（ひだりかたまひ）があり，介護老人福祉施設で生活している。家族から，「できることは自分で行ってほしい」と希望があり，Ａさんは自室から食堂まで車いすで自走することを日課としている。1 週間前から，介護福祉士養成施設の学生がＡさんのフロアで実習を開始した。数日前からＡさんは実習生に，「今日は腕が痛いので，食堂まで車いすを押してください」と依頼するようになった。悩んだ実習生は，実習指導者に相談をした。 実習生に対する実習指導者の最初の助言として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>2 Ａさん（83<ruby>歳<rt>とし</rt></ruby>，<ruby>女性<rt>じょせい</rt></ruby>，<ruby>要介<rt>ようすけ</rt></ruby><ruby>護<rt>ご</rt></ruby>3）は，<ruby>脳<rt>のう</rt></ruby><ruby>梗塞<rt>こうそく</rt></ruby>（cerebral infarction）の<ruby>後遺症<rt>こういしょう</rt></ruby>で<ruby>左片<rt>さへん</rt></ruby><ruby>麻痺<rt>まひ</rt></ruby>（ひだりかたまひ）があり，<ruby>介護<rt>かいご</rt></ruby><ruby>老人<rt>ろうじん</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>施設<rt>しせつ</rt></ruby>で<ruby>生活<rt>せいかつ</rt></ruby>している。<ruby>家族<rt>かぞく</rt></ruby>から，「できることは<ruby>自分<rt>じぶん</rt></ruby>で<ruby>行<rt>い</rt></ruby>ってほしい」と<ruby>希望<rt>きぼう</rt></ruby>があり，Ａさんは<ruby>自室<rt>じしつ</rt></ruby>から<ruby>食堂<rt>しょくどう</rt></ruby>まで<ruby>車<rt>くるま</rt></ruby>いすで<ruby>自走<rt>じそう</rt></ruby>することを<ruby>日課<rt>にっか</rt></ruby>としている。1 <ruby>週間前<rt>しゅうかんまえ</rt></ruby>から，<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>士<rt>さむらい</rt></ruby><ruby>養成施設<rt>ようせいしせつ</rt></ruby>の<ruby>学生<rt>がくせい</rt></ruby>がＡさんのフロアで<ruby>実習<rt>じっしゅう</rt></ruby>を<ruby>開始<rt>かいし</rt></ruby>した。<ruby>数日前<rt>すうじつまえ</rt></ruby>からＡさんは<ruby>実習生<rt>じっしゅうせい</rt></ruby>に，「<ruby>今日<rt>こんにち</rt></ruby>は<ruby>腕<rt>うで</rt></ruby>が<ruby>痛<rt>いた</rt></ruby>いので，<ruby>食堂<rt>しょくどう</rt></ruby>まで<ruby>車<rt>くるま</rt></ruby>いすを<ruby>押<rt>お</rt></ruby>してください」と<ruby>依頼<rt>いらい</rt></ruby>するようになった。<ruby>悩<rt>なや</rt></ruby>んだ<ruby>実習生<rt>じっしゅうせい</rt></ruby>は，<ruby>実習<rt>じっしゅう</rt></ruby><ruby>指導者<rt>しどうしゃ</rt></ruby>に<ruby>相談<rt>そうだん</rt></ruby>をした。 <ruby>実習生<rt>じっしゅうせい</rt></ruby>に<ruby>対<rt>たい</rt></ruby>する<ruby>実習<rt>じっしゅう</rt></ruby><ruby>指導者<rt>しどうしゃ</rt></ruby>の<ruby>最初<rt>さいしょ</rt></ruby>の<ruby>助言<rt>じょげん</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "「Ａさんの腕は痛くないので，気にしないでください」",
-      "「どのようなときも，Ａさん自身で行ってもらうことが必要です」",
-      "「ご家族から自分で行うように，言われています」",
-      "「それは自立につながらないので，車いすを押さないでください」",
-      "「Ａさんが依頼する理由を，まず考えてみることが大切です」"
+      "「Ａさんの<ruby>腕<rt>うで</rt></ruby>は<ruby>痛<rt>いた</rt></ruby>くないので，<ruby>気<rt>き</rt></ruby>にしないでください」",
+      "「どのようなときも，Ａさん<ruby>自身<rt>じしん</rt></ruby>で<ruby>行<rt>い</rt></ruby>ってもらうことが<ruby>必要<rt>ひつよう</rt></ruby>です」",
+      "「ご<ruby>家族<rt>かぞく</rt></ruby>から<ruby>自分<rt>じぶん</rt></ruby>で<ruby>行<rt>おこな</rt></ruby>うように，<ruby>言<rt>い</rt></ruby>われています」",
+      "「それは<ruby>自立<rt>じりつ</rt></ruby>につながらないので，<ruby>車<rt>くるま</rt></ruby>いすを<ruby>押<rt>お</rt></ruby>さないでください」",
+      "「Ａさんが<ruby>依頼<rt>いらい</rt></ruby>する<ruby>理由<rt>りゆう</rt></ruby>を，まず<ruby>考<rt>かんが</rt></ruby>えてみることが<ruby>大切<rt>たいせつ</rt></ruby>です」"
     ],
     "answer": 4
   },
   {
-    "question": "問題3 人間関係と心理に関する次の記述のうち，適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>3 <ruby>人間関係<rt>にんげんかんけい</rt></ruby>と<ruby>心理<rt>しんり</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "自己愛とは，自分という存在を，他人と区別して意識することである。",
-      "自己同一性の確立とは，自分とは何かという認識をもつことである。",
-      "自我とは，日常行動に影響を与える，表面化していない意識のことである。",
-      "自己覚知とは，コミュニケーションにおいて自分について話すことである。",
-      "自己中心性とは，自分の意思で自分の行動をコントロールすることである。"
+      "<ruby>自己愛<rt>じこあい</rt></ruby>とは，<ruby>自分<rt>じぶん</rt></ruby>という<ruby>存在<rt>そんざい</rt></ruby>を，<ruby>他人<rt>たにん</rt></ruby>と<ruby>区別<rt>くべつ</rt></ruby>して<ruby>意識<rt>いしき</rt></ruby>することである。",
+      "<ruby>自己<rt>じこ</rt></ruby><ruby>同一性<rt>どういつせい</rt></ruby>の<ruby>確立<rt>かくりつ</rt></ruby>とは，<ruby>自分<rt>じぶん</rt></ruby>とは<ruby>何<rt>なに</rt></ruby>かという<ruby>認識<rt>にんしき</rt></ruby>をもつことである。",
+      "<ruby>自我<rt>じが</rt></ruby>とは，<ruby>日常<rt>にちじょう</rt></ruby><ruby>行動<rt>こうどう</rt></ruby>に<ruby>影響<rt>えいきょう</rt></ruby>を<ruby>与<rt>あた</rt></ruby>える，<ruby>表面化<rt>ひょうめんか</rt></ruby>していない<ruby>意識<rt>いしき</rt></ruby>のことである。",
+      "<ruby>自己<rt>じこ</rt></ruby><ruby>覚<rt>かく</rt></ruby><ruby>知<rt>し</rt></ruby>とは，コミュニケーションにおいて<ruby>自分<rt>じぶん</rt></ruby>について<ruby>話<rt>はな</rt></ruby>すことである。",
+      "<ruby>自己<rt>じこ</rt></ruby><ruby>中心<rt>ちゅうしん</rt></ruby><ruby>性<rt>せい</rt></ruby>とは，<ruby>自分<rt>じぶん</rt></ruby>の<ruby>意思<rt>いし</rt></ruby>で<ruby>自分<rt>じぶん</rt></ruby>の<ruby>行動<rt>こうどう</rt></ruby>をコントロールすることである。"
     ],
     "answer": 1
   },
   {
-    "question": "問題4 Ａさん（80歳，男性）は，有料老人ホームに入所することになった。一人暮らしが長かったＡさんは，入所当日，担当の介護福祉職と話すことに戸惑っている様子で，なかなか自分のことを話そうとはしなかった。介護福祉職は，一方的な働きかけにならないように，Ａさんとコミュニケーションをとるとき，あいづちを打ちながらＡさんの発話を引き出すように心がけた。 このときの，介護福祉職の対応の意図に当てはまるものとして，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>4 Ａさん（80<ruby>歳<rt>とし</rt></ruby>，<ruby>男性<rt>だんせい</rt></ruby>）は，<ruby>有料<rt>ゆうりょう</rt></ruby><ruby>老人<rt>ろうじん</rt></ruby>ホームに<ruby>入所<rt>にゅうしょ</rt></ruby>することになった。<ruby>一人暮<rt>ひとりぐ</rt></ruby>らしが<ruby>長<rt>なが</rt></ruby>かったＡさんは，<ruby>入所<rt>にゅうしょ</rt></ruby><ruby>当日<rt>とうじつ</rt></ruby>，<ruby>担当<rt>たんとう</rt></ruby>の<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>と<ruby>話<rt>はな</rt></ruby>すことに<ruby>戸惑<rt>とまど</rt></ruby>っている<ruby>様子<rt>ようす</rt></ruby>で，なかなか<ruby>自分<rt>じぶん</rt></ruby>のことを<ruby>話<rt>はな</rt></ruby>そうとはしなかった。<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>は，<ruby>一方的<rt>いっぽうてき</rt></ruby>な<ruby>働<rt>はたら</rt></ruby>きかけにならないように，Ａさんとコミュニケーションをとるとき，あいづちを<ruby>打<rt>う</rt></ruby>ちながらＡさんの<ruby>発話<rt>はつわ</rt></ruby>を<ruby>引き出<rt>ひきだ</rt></ruby>すように<ruby>心<rt>こころ</rt></ruby>がけた。 このときの，<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>の<ruby>対応<rt>たいおう</rt></ruby>の<ruby>意図<rt>いと</rt></ruby>に<ruby>当<rt>あ</rt></ruby>てはまるものとして，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "互いの自己開示",
-      "コミュニケーション能力の評価",
-      "感覚機能の低下への配慮",
-      "認知機能の改善",
-      "双方向のやり取り"
+      "<ruby>互<rt>たが</rt></ruby>いの<ruby>自己<rt>じこ</rt></ruby><ruby>開示<rt>かいじ</rt></ruby>",
+      "コミュニケーション<ruby>能力<rt>のうりょく</rt></ruby>の<ruby>評価<rt>ひょうか</rt></ruby>",
+      "<ruby>感覚<rt>かんかく</rt></ruby><ruby>機能<rt>きのう</rt></ruby>の<ruby>低下<rt>ていか</rt></ruby>への<ruby>配慮<rt>はいりょ</rt></ruby>",
+      "<ruby>認知機能<rt>にんちきのう</rt></ruby>の<ruby>改善<rt>かいぜん</rt></ruby>",
+      "<ruby>双方向<rt>そうほうこう</rt></ruby>のやり<ruby>取<rt>と</rt></ruby>り"
     ],
     "answer": 4
   },
   {
-    "question": "問題5 次の記述のうち，介護福祉職のキャリアパスに関するものとして，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>5 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>のキャリアパスに<ruby>関<rt>かん</rt></ruby>するものとして，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "介護計画を作成するときのポイントを明確にする。",
-      "介護福祉職の業務マニュアルを具体化する。",
-      "利用サービスに応じて求められる関係書類を検討する。",
-      "介護施設に必要な設備基準について確認する。",
-      "介護福祉職として必要な能力や経験を明確にする。"
+      "<ruby>介護<rt>かいご</rt></ruby><ruby>計画<rt>けいかく</rt></ruby>を<ruby>作成<rt>さくせい</rt></ruby>するときのポイントを<ruby>明確<rt>めいかく</rt></ruby>にする。",
+      "<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>の<ruby>業務<rt>ぎょうむ</rt></ruby>マニュアルを<ruby>具体化<rt>ぐたいか</rt></ruby>する。",
+      "<ruby>利用<rt>りよう</rt></ruby>サービスに<ruby>応<rt>おう</rt></ruby>じて<ruby>求<rt>もと</rt></ruby>められる<ruby>関係書類<rt>かんけいしょるい</rt></ruby>を<ruby>検討<rt>けんとう</rt></ruby>する。",
+      "<ruby>介護<rt>かいご</rt></ruby><ruby>施設<rt>しせつ</rt></ruby>に<ruby>必要<rt>ひつよう</rt></ruby>な<ruby>設備<rt>せつび</rt></ruby><ruby>基準<rt>きじゅん</rt></ruby>について<ruby>確認<rt>かくにん</rt></ruby>する。",
+      "<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>として<ruby>必要<rt>ひつよう</rt></ruby>な<ruby>能力<rt>のうりょく</rt></ruby>や<ruby>経験<rt>けいけん</rt></ruby>を<ruby>明確<rt>めいかく</rt></ruby>にする。"
     ],
     "answer": 4
   },
   {
-    "question": "問題6 Ｂ介護老人福祉施設に，学校を卒業したばかりの元気なＣ介護福祉職が加わった。2か月後，ユニットリーダーが，「最近，Ｃ介護福祉職に笑顔が少ない。いつもとちがう様子だ」と，フォロワーであるＤ介護福祉職に話した。Ｄ介護福祉職はチームの一員として何ができるのかを考えた。 Ｄ介護福祉職が最初に行うフォロワーシップとして，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>6 Ｂ<ruby>介護<rt>かいご</rt></ruby><ruby>老人<rt>ろうじん</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>施設<rt>しせつ</rt></ruby>に，<ruby>学校<rt>がっこう</rt></ruby>を<ruby>卒業<rt>そつぎょう</rt></ruby>したばかりの<ruby>元気<rt>げんき</rt></ruby>なＣ<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>が<ruby>加<rt>くわ</rt></ruby>わった。2か<ruby>月後<rt>げつご</rt></ruby>，ユニットリーダーが，「<ruby>最近<rt>さいきん</rt></ruby>，Ｃ<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>に<ruby>笑顔<rt>えがお</rt></ruby>が<ruby>少<rt>すく</rt></ruby>ない。いつもとちがう<ruby>様子<rt>ようす</rt></ruby>だ」と，フォロワーであるＤ<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>に<ruby>話<rt>はな</rt></ruby>した。Ｄ<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>はチームの<ruby>一員<rt>いちいん</rt></ruby>として<ruby>何<rt>なに</rt></ruby>ができるのかを<ruby>考<rt>かんが</rt></ruby>えた。 Ｄ<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>が<ruby>最初<rt>さいしょ</rt></ruby>に<ruby>行<rt>おこな</rt></ruby>うフォロワーシップとして，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "Ｃ介護福祉職に対して，元気を出すように励ます。",
-      "ユニットリーダーが気になっていることを詳しく聞く。",
-      "Ｃ介護福祉職の状況をユニット内のほかのメンバーと速やかに共有する。",
-      "施設長に対して，何か指示を出すようにお願いする。",
-      "Ｃ介護福祉職に対して，介助方法について教える。"
+      "Ｃ<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>に<ruby>対<rt>たい</rt></ruby>して，<ruby>元気<rt>げんき</rt></ruby>を<ruby>出<rt>だ</rt></ruby>すように<ruby>励<rt>はげ</rt></ruby>ます。",
+      "ユニットリーダーが<ruby>気<rt>き</rt></ruby>になっていることを<ruby>詳<rt>くわ</rt></ruby>しく<ruby>聞<rt>き</rt></ruby>く。",
+      "Ｃ<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>の<ruby>状況<rt>じょうきょう</rt></ruby>をユニット<ruby>内<rt>ない</rt></ruby>のほかのメンバーと<ruby>速<rt>すみ</rt></ruby>やかに<ruby>共有<rt>きょうゆう</rt></ruby>する。",
+      "<ruby>施設長<rt>しせつちょう</rt></ruby>に<ruby>対<rt>たい</rt></ruby>して，<ruby>何<rt>なに</rt></ruby>か<ruby>指示<rt>しじ</rt></ruby>を<ruby>出<rt>だ</rt></ruby>すようにお<ruby>願<rt>ねが</rt></ruby>いする。",
+      "Ｃ<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>に<ruby>対<rt>たい</rt></ruby>して，<ruby>介助<rt>かいじょ</rt></ruby><ruby>方法<rt>ほうほう</rt></ruby>について<ruby>教<rt>おし</rt></ruby>える。"
     ],
     "answer": 1
   },
   {
-    "question": "問題7 社会福祉法に基づく社会福祉法人に関する次の記述のうち，適切なものを 1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>7 <ruby>社会福祉<rt>しゃかいふくし</rt></ruby><ruby>法<rt>ほう</rt></ruby>に<ruby>基<rt>もと</rt></ruby>づく<ruby>社会福祉<rt>しゃかいふくし</rt></ruby><ruby>法人<rt>ほうじん</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>適切<rt>てきせつ</rt></ruby>なものを 1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "収益事業は禁止されている。",
-      "所轄庁は内閣府である。",
-      "設立時に所轄庁の認可は不要である。",
-      "評議員会を置く必要がある。",
-      "解散は禁止されている。"
+      "<ruby>収益<rt>しゅうえき</rt></ruby><ruby>事業<rt>じぎょう</rt></ruby>は<ruby>禁止<rt>きんし</rt></ruby>されている。",
+      "<ruby>所轄<rt>しょかつ</rt></ruby><ruby>庁<rt>ちょう</rt></ruby>は<ruby>内閣<rt>ないかく</rt></ruby><ruby>府<rt>ふ</rt></ruby>である。",
+      "<ruby>設立時<rt>せつりつじ</rt></ruby>に<ruby>所轄<rt>しょかつ</rt></ruby><ruby>庁<rt>ちょう</rt></ruby>の<ruby>認可<rt>にんか</rt></ruby>は<ruby>不要<rt>ふよう</rt></ruby>である。",
+      "<ruby>評議員<rt>ひょうぎいん</rt></ruby><ruby>会<rt>あ</rt></ruby>を<ruby>置<rt>お</rt></ruby>く<ruby>必要<rt>ひつよう</rt></ruby>がある。",
+      "<ruby>解散<rt>かいさん</rt></ruby>は<ruby>禁止<rt>きんし</rt></ruby>されている。"
     ],
     "answer": 3
   },
   {
-    "question": "問題8 次の記述のうち，定期巡回・随時対応型訪問介護看護の説明として，正しいものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>8 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>定期<rt>ていき</rt></ruby><ruby>巡回<rt>じゅんかい</rt></ruby>・<ruby>随時<rt>ずいじ</rt></ruby><ruby>対応型<rt>たいおうがた</rt></ruby><ruby>訪問<rt>ほうもん</rt></ruby><ruby>介護<rt>かいご</rt></ruby><ruby>看護<rt>かんご</rt></ruby>の<ruby>説明<rt>せつめい</rt></ruby>として，<ruby>正<rt>ただ</rt></ruby>しいものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "利用定員は，9人以下と定められている。",
-      "日中・夜間を通じて，提供するサービスである。",
-      "認知症対応型共同生活介護（認知症高齢者グループホーム）に入居する利用者に対して，機能訓練を行うサービスである。",
-      "通い，泊まり，看護の3種類の組合せによるサービスである。",
-      "都道府県が事業者の指定，指導，監督を行うサービスである。"
+      "<ruby>利用<rt>りよう</rt></ruby><ruby>定員<rt>ていいん</rt></ruby>は，9<ruby>人<rt>にん</rt></ruby><ruby>以下<rt>いか</rt></ruby>と<ruby>定<rt>さだ</rt></ruby>められている。",
+      "<ruby>日中<rt>にっちゅう</rt></ruby>・<ruby>夜間<rt>やかん</rt></ruby>を<ruby>通<rt>つう</rt></ruby>じて，<ruby>提供<rt>ていきょう</rt></ruby>するサービスである。",
+      "<ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby><ruby>対応型<rt>たいおうがた</rt></ruby><ruby>共同生活<rt>きょうどうせいかつ</rt></ruby><ruby>介護<rt>かいご</rt></ruby>（<ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby><ruby>高齢者<rt>こうれいしゃ</rt></ruby>グループホーム）に<ruby>入居<rt>にゅうきょ</rt></ruby>する<ruby>利用者<rt>りようしゃ</rt></ruby>に<ruby>対<rt>たい</rt></ruby>して，<ruby>機能<rt>きのう</rt></ruby><ruby>訓練<rt>くんれん</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>うサービスである。",
+      "<ruby>通<rt>かよ</rt></ruby>い，<ruby>泊<rt>と</rt></ruby>まり，<ruby>看護<rt>かんご</rt></ruby>の3<ruby>種類<rt>しゅるい</rt></ruby>の<ruby>組合<rt>くみあわ</rt></ruby>せによるサービスである。",
+      "<ruby>都道府県<rt>とどうふけん</rt></ruby>が<ruby>事業者<rt>じぎょうしゃ</rt></ruby>の<ruby>指定<rt>してい</rt></ruby>，<ruby>指導<rt>しどう</rt></ruby>，<ruby>監督<rt>かんとく</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>うサービスである。"
     ],
     "answer": 1
   },
   {
-    "question": "問題9 Ａさん（48歳，会社員）は，うつ症状から体調不良が続き，仕事を休むことが増えたため，自主的に退職した。その後，体調は回復したが，再就職先がなかなか見つからなかった。しばらく貯金で生活していたが，数か月後，生活を営むことができなくなってしまった。頼れる親族はなく，生活保護を受給することにした。 この事例において，日本国憲法に基づいてＡさんに保障された権利として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>9 Ａさん（48<ruby>歳<rt>とし</rt></ruby>，<ruby>会社員<rt>かいしゃいん</rt></ruby>）は，うつ<ruby>症状<rt>しょうじょう</rt></ruby>から<ruby>体調不良<rt>たいちょうふりょう</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>き，<ruby>仕事<rt>しごと</rt></ruby>を<ruby>休<rt>やす</rt></ruby>むことが<ruby>増<rt>ふ</rt></ruby>えたため，<ruby>自主的<rt>じしゅてき</rt></ruby>に<ruby>退職<rt>たいしょく</rt></ruby>した。その<ruby>後<rt>のち</rt></ruby>，<ruby>体調<rt>たいちょう</rt></ruby>は<ruby>回復<rt>かいふく</rt></ruby>したが，<ruby>再就職<rt>さいしゅうしょく</rt></ruby><ruby>先<rt>さき</rt></ruby>がなかなか<ruby>見<rt>み</rt></ruby>つからなかった。しばらく<ruby>貯金<rt>ちょきん</rt></ruby>で<ruby>生活<rt>せいかつ</rt></ruby>していたが，<ruby>数か月<rt>すうかげつ</rt></ruby><ruby>後<rt>のち</rt></ruby>，<ruby>生活<rt>せいかつ</rt></ruby>を<ruby>営<rt>いとな</rt></ruby>むことができなくなってしまった。<ruby>頼<rt>たよ</rt></ruby>れる<ruby>親族<rt>しんぞく</rt></ruby>はなく，<ruby>生活<rt>せいかつ</rt></ruby><ruby>保護<rt>ほご</rt></ruby>を<ruby>受給<rt>じゅきゅう</rt></ruby>することにした。 この<ruby>事例<rt>じれい</rt></ruby>において，<ruby>日本国憲法<rt>にほんこくけんぽう</rt></ruby>に<ruby>基<rt>もと</rt></ruby>づいてＡさんに<ruby>保障<rt>ほしょう</rt></ruby>された<ruby>権利<rt>けんり</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "団体交渉権",
-      "平等権",
-      "財産権",
-      "思想の自由",
-      "生存権"
+      "<ruby>団体交渉<rt>だんたいこうしょう</rt></ruby><ruby>権<rt>けん</rt></ruby>",
+      "<ruby>平等<rt>びょうどう</rt></ruby><ruby>権<rt>けん</rt></ruby>",
+      "<ruby>財産権<rt>ざいさんけん</rt></ruby>",
+      "<ruby>思想<rt>しそう</rt></ruby>の<ruby>自由<rt>じゆう</rt></ruby>",
+      "<ruby>生存権<rt>せいぞんけん</rt></ruby>"
     ],
     "answer": 4
   },
   {
-    "question": "問題10 次の記述のうち，保健所に関するものとして，正しいものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>10 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>保健所<rt>ほけんしょ</rt></ruby>に<ruby>関<rt>かん</rt></ruby>するものとして，<ruby>正<rt>ただ</rt></ruby>しいものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "保健師助産師看護師法に基づいて設置されている。",
-      "すべての市町村に設置の義務がある。",
-      "業務には精神保健に関する事項が含まれている。",
-      "歯科衛生士を置かなくてはならない。",
-      "児童の一時保護を行う。"
+      "<ruby>保健<rt>ほけん</rt></ruby><ruby>師<rt>し</rt></ruby><ruby>助産<rt>じょさん</rt></ruby><ruby>師<rt>し</rt></ruby><ruby>看護<rt>かんご</rt></ruby><ruby>師<rt>し</rt></ruby><ruby>法<rt>ほう</rt></ruby>に<ruby>基<rt>もと</rt></ruby>づいて<ruby>設置<rt>せっち</rt></ruby>されている。",
+      "すべての<ruby>市町村<rt>しちょうそん</rt></ruby>に<ruby>設置<rt>せっち</rt></ruby>の<ruby>義務<rt>ぎむ</rt></ruby>がある。",
+      "<ruby>業務<rt>ぎょうむ</rt></ruby>には<ruby>精神<rt>せいしん</rt></ruby><ruby>保健<rt>ほけん</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>事項<rt>じこう</rt></ruby>が<ruby>含<rt>ふく</rt></ruby>まれている。",
+      "<ruby>歯科<rt>しか</rt></ruby><ruby>衛生士<rt>えいせいし</rt></ruby>を<ruby>置<rt>お</rt></ruby>かなくてはならない。",
+      "<ruby>児童<rt>じどう</rt></ruby>の<ruby>一時<rt>いちじ</rt></ruby><ruby>保護<rt>ほご</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う。"
     ],
     "answer": 2
   },
   {
-    "question": "問題11 地域包括支援センターの業務に関する記述として，正しいものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>11 <ruby>地域<rt>ちいき</rt></ruby><ruby>包括<rt>ほうかつ</rt></ruby><ruby>支援<rt>しえん</rt></ruby>センターの<ruby>業務<rt>ぎょうむ</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>記述<rt>きじゅつ</rt></ruby>として，<ruby>正<rt>ただ</rt></ruby>しいものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "地域ケア会議の開催",
-      "施設サービスのケアプランの作成",
-      "成年後見制度の申請",
-      "介護認定審査会の設置",
-      "地域密着型サービスの事業者の指導・監督"
+      "<ruby>地域<rt>ちいき</rt></ruby>ケア<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>開催<rt>かいさい</rt></ruby>",
+      "<ruby>施設<rt>しせつ</rt></ruby>サービスのケアプランの<ruby>作成<rt>さくせい</rt></ruby>",
+      "<ruby>成年<rt>せいねん</rt></ruby><ruby>後見<rt>こうけん</rt></ruby><ruby>制度<rt>せいど</rt></ruby>の<ruby>申請<rt>しんせい</rt></ruby>",
+      "<ruby>介護<rt>かいご</rt></ruby><ruby>認定<rt>にんてい</rt></ruby><ruby>審査会<rt>しんさかい</rt></ruby>の<ruby>設置<rt>せっち</rt></ruby>",
+      "<ruby>地域密着<rt>ちいきみっちゃく</rt></ruby><ruby>型<rt>かた</rt></ruby>サービスの<ruby>事業者<rt>じぎょうしゃ</rt></ruby>の<ruby>指導<rt>しどう</rt></ruby>・<ruby>監督<rt>かんとく</rt></ruby>"
     ],
     "answer": 0
   },
   {
-    "question": "問題12 Ｂさん（85歳，男性，要支援1）は，自宅で一人暮らしをしている。最近，物忘れが多くなり，1か月前から地域支援事業の訪問型サービスを利用するようになった。ある日，Ｂさんが，「これからも自宅で生活したいが，日中，話し相手がいなくて寂しい」と介護福祉職に話した。 次のうち，Ｂさんに介護福祉職が勧めるサービスとして，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>12 Ｂさん（85<ruby>歳<rt>とし</rt></ruby>，<ruby>男性<rt>だんせい</rt></ruby>，<ruby>要<rt>よう</rt></ruby><ruby>支援<rt>しえん</rt></ruby>1）は，<ruby>自宅<rt>じたく</rt></ruby>で<ruby>一人暮<rt>ひとりぐ</rt></ruby>らしをしている。<ruby>最近<rt>さいきん</rt></ruby>，<ruby>物忘<rt>ものわす</rt></ruby>れが<ruby>多<rt>おお</rt></ruby>くなり，1か<ruby>月前<rt>げつまえ</rt></ruby>から<ruby>地域<rt>ちいき</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>事業<rt>じぎょう</rt></ruby>の<ruby>訪問<rt>ほうもん</rt></ruby><ruby>型<rt>かた</rt></ruby>サービスを<ruby>利用<rt>りよう</rt></ruby>するようになった。ある<ruby>日<rt>にち</rt></ruby>，Ｂさんが，「これからも<ruby>自宅<rt>じたく</rt></ruby>で<ruby>生活<rt>せいかつ</rt></ruby>したいが，<ruby>日中<rt>にっちゅう</rt></ruby>，<ruby>話し相手<rt>はなしあいて</rt></ruby>がいなくて<ruby>寂<rt>さび</rt></ruby>しい」と<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>に<ruby>話<rt>はな</rt></ruby>した。 <ruby>次<rt>つぎ</rt></ruby>のうち，Ｂさんに<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>が<ruby>勧<rt>すす</rt></ruby>めるサービスとして，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "認知症対応型共同生活介護（認知症高齢者グループホーム）",
-      "介護老人福祉施設",
-      "第一号通所事業（通所型サービス）",
-      "夜間対応型訪問介護",
-      "居宅療養管理指導"
+      "<ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby><ruby>対応型<rt>たいおうがた</rt></ruby><ruby>共同生活<rt>きょうどうせいかつ</rt></ruby><ruby>介護<rt>かいご</rt></ruby>（<ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby><ruby>高齢者<rt>こうれいしゃ</rt></ruby>グループホーム）",
+      "<ruby>介護<rt>かいご</rt></ruby><ruby>老人<rt>ろうじん</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>施設<rt>しせつ</rt></ruby>",
+      "<ruby>第一<rt>だいいち</rt></ruby><ruby>号<rt>ごう</rt></ruby><ruby>通所<rt>つうしょ</rt></ruby><ruby>事業<rt>じぎょう</rt></ruby>（<ruby>通所<rt>つうしょ</rt></ruby><ruby>型<rt>かた</rt></ruby>サービス）",
+      "<ruby>夜間<rt>やかん</rt></ruby><ruby>対応型<rt>たいおうがた</rt></ruby><ruby>訪問<rt>ほうもん</rt></ruby><ruby>介護<rt>かいご</rt></ruby>",
+      "<ruby>居宅<rt>きょたく</rt></ruby><ruby>療養<rt>りょうよう</rt></ruby><ruby>管理<rt>かんり</rt></ruby><ruby>指導<rt>しどう</rt></ruby>"
     ],
     "answer": 2
   },
   {
-    "question": "問題13 介護保険制度に関する記述として，正しいものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>13 <ruby>介護<rt>かいご</rt></ruby><ruby>保険制度<rt>ほけんせいど</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>記述<rt>きじゅつ</rt></ruby>として，<ruby>正<rt>ただ</rt></ruby>しいものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "第1号被保険者の保険料は，都道府県が徴収する。",
-      "第1号被保険者の保険料は，全国一律である。",
-      "第2号被保険者の保険料は，年金保険の保険料と合わせて徴収される。",
-      "財源には，第1号被保険者の保険料と第2号被保険者の保険料が含まれる。",
-      "介護保険サービスの利用者負担割合は，一律，1割である。"
+      "<ruby>第<rt>だい</rt></ruby>1<ruby>号<rt>ごう</rt></ruby><ruby>被保険者<rt>ひほけんしゃ</rt></ruby>の<ruby>保険料<rt>ほけんりょう</rt></ruby>は，<ruby>都道府県<rt>とどうふけん</rt></ruby>が<ruby>徴収<rt>ちょうしゅう</rt></ruby>する。",
+      "<ruby>第<rt>だい</rt></ruby>1<ruby>号<rt>ごう</rt></ruby><ruby>被保険者<rt>ひほけんしゃ</rt></ruby>の<ruby>保険料<rt>ほけんりょう</rt></ruby>は，<ruby>全国一<rt>ぜんこくいち</rt></ruby><ruby>律<rt>りつ</rt></ruby>である。",
+      "<ruby>第<rt>だい</rt></ruby>2<ruby>号<rt>ごう</rt></ruby><ruby>被保険者<rt>ひほけんしゃ</rt></ruby>の<ruby>保険料<rt>ほけんりょう</rt></ruby>は，<ruby>年金<rt>ねんきん</rt></ruby><ruby>保険<rt>ほけん</rt></ruby>の<ruby>保険料<rt>ほけんりょう</rt></ruby>と<ruby>合<rt>あ</rt></ruby>わせて<ruby>徴収<rt>ちょうしゅう</rt></ruby>される。",
+      "<ruby>財源<rt>ざいげん</rt></ruby>には，<ruby>第<rt>だい</rt></ruby>1<ruby>号<rt>ごう</rt></ruby><ruby>被保険者<rt>ひほけんしゃ</rt></ruby>の<ruby>保険料<rt>ほけんりょう</rt></ruby>と<ruby>第<rt>だい</rt></ruby>2<ruby>号<rt>ごう</rt></ruby><ruby>被保険者<rt>ひほけんしゃ</rt></ruby>の<ruby>保険料<rt>ほけんりょう</rt></ruby>が<ruby>含<rt>ふく</rt></ruby>まれる。",
+      "<ruby>介護<rt>かいご</rt></ruby><ruby>保険<rt>ほけん</rt></ruby>サービスの<ruby>利用者<rt>りようしゃ</rt></ruby><ruby>負担<rt>ふたん</rt></ruby><ruby>割合<rt>わりあい</rt></ruby>は，<ruby>一律<rt>いちりつ</rt></ruby>，1<ruby>割<rt>わり</rt></ruby>である。"
     ],
     "answer": 3
   },
   {
-    "question": "問題14 障害者の雇用の促進等に関する法律に関する次の記述のうち，正しいものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>14 <ruby>障害者<rt>しょうがいしゃ</rt></ruby>の<ruby>雇用<rt>こよう</rt></ruby>の<ruby>促進<rt>そくしん</rt></ruby><ruby>等<rt>など</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>法律<rt>ほうりつ</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>正<rt>ただ</rt></ruby>しいものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "2024 年度（令和6年度）の民間企業の法定雇用率は，2.5％である。",
-      "精神障害者は，法定雇用率の対象から除外されている。",
-      "2024 年度（令和6年度）に，障害者の雇用義務が生じるのは，従業員101人以上の事業主である。",
-      "週所定労働時間が10時間以上20時間未満の労働は認められていない。",
-      "2024 年度（令和6年度）の事業主支援（助成金）は，2023年度（令和5年度）以前と同じである。"
+      "2024 <ruby>年度<rt>ねんど</rt></ruby>（<ruby>令和<rt>れいわ</rt></ruby>6<ruby>年度<rt>ねんど</rt></ruby>）の<ruby>民間企業<rt>みんかんきぎょう</rt></ruby>の<ruby>法定<rt>ほうてい</rt></ruby><ruby>雇用<rt>こよう</rt></ruby><ruby>率<rt>りつ</rt></ruby>は，2.5％である。",
+      "<ruby>精神<rt>せいしん</rt></ruby><ruby>障害者<rt>しょうがいしゃ</rt></ruby>は，<ruby>法定<rt>ほうてい</rt></ruby><ruby>雇用<rt>こよう</rt></ruby><ruby>率<rt>りつ</rt></ruby>の<ruby>対象<rt>たいしょう</rt></ruby>から<ruby>除外<rt>じょがい</rt></ruby>されている。",
+      "2024 <ruby>年度<rt>ねんど</rt></ruby>（<ruby>令和<rt>れいわ</rt></ruby>6<ruby>年度<rt>ねんど</rt></ruby>）に，<ruby>障害者<rt>しょうがいしゃ</rt></ruby>の<ruby>雇用<rt>こよう</rt></ruby><ruby>義務<rt>ぎむ</rt></ruby>が<ruby>生<rt>しょう</rt></ruby>じるのは，<ruby>従業員<rt>じゅうぎょういん</rt></ruby>101<ruby>人以上<rt>ひといじょう</rt></ruby>の<ruby>事業主<rt>じぎょうぬし</rt></ruby>である。",
+      "<ruby>週<rt>しゅう</rt></ruby><ruby>所定<rt>しょてい</rt></ruby><ruby>労働時間<rt>ろうどうじかん</rt></ruby>が10<ruby>時間<rt>じかん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>20<ruby>時間<rt>じかん</rt></ruby><ruby>未満<rt>みまん</rt></ruby>の<ruby>労働<rt>ろうどう</rt></ruby>は<ruby>認<rt>みと</rt></ruby>められていない。",
+      "2024 <ruby>年度<rt>ねんど</rt></ruby>（<ruby>令和<rt>れいわ</rt></ruby>6<ruby>年度<rt>ねんど</rt></ruby>）の<ruby>事業主<rt>じぎょうぬし</rt></ruby><ruby>支援<rt>しえん</rt></ruby>（<ruby>助成金<rt>じょせいきん</rt></ruby>）は，2023<ruby>年度<rt>ねんど</rt></ruby>（<ruby>令和<rt>れいわ</rt></ruby>5<ruby>年度<rt>ねんど</rt></ruby>）<ruby>以前<rt>いぜん</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じである。"
     ],
     "answer": 0
   },
   {
-    "question": "問題15 「障害者総合支援法」のサービスに関する次の記述のうち，適切なものを1 つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>15 「<ruby>障害者<rt>しょうがいしゃ</rt></ruby><ruby>総合<rt>そうごう</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>法<rt>ほう</rt></ruby>」のサービスに<ruby>関<rt>かん</rt></ruby>する<ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>適切<rt>てきせつ</rt></ruby>なものを1 つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "介護給付費の支給を受けるときに，障害支援区分の認定は不要である。",
-      "短期入所は介護給付の1つである。",
-      "地域生活支援事業は，国が実施主体である。",
-      "自立支援給付は応益負担である。",
-      "行動援護は訓練等給付の1つである。"
+      "<ruby>介護<rt>かいご</rt></ruby><ruby>給付<rt>きゅうふ</rt></ruby><ruby>費<rt>ひ</rt></ruby>の<ruby>支給<rt>しきゅう</rt></ruby>を<ruby>受<rt>う</rt></ruby>けるときに，<ruby>障害<rt>しょうがい</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>区分<rt>くぶん</rt></ruby>の<ruby>認定<rt>にんてい</rt></ruby>は<ruby>不要<rt>ふよう</rt></ruby>である。",
+      "<ruby>短期<rt>たんき</rt></ruby><ruby>入所<rt>にゅうしょ</rt></ruby>は<ruby>介護<rt>かいご</rt></ruby><ruby>給付<rt>きゅうふ</rt></ruby>の1つである。",
+      "<ruby>地域生活<rt>ちいきせいかつ</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>事業<rt>じぎょう</rt></ruby>は，<ruby>国<rt>くに</rt></ruby>が<ruby>実施<rt>じっし</rt></ruby><ruby>主体<rt>しゅたい</rt></ruby>である。",
+      "<ruby>自立<rt>じりつ</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>給付<rt>きゅうふ</rt></ruby>は<ruby>応益<rt>おうえき</rt></ruby><ruby>負担<rt>ふたん</rt></ruby>である。",
+      "<ruby>行動<rt>こうどう</rt></ruby><ruby>援護<rt>えんご</rt></ruby>は<ruby>訓練<rt>くんれん</rt></ruby><ruby>等<rt>など</rt></ruby><ruby>給付<rt>きゅうふ</rt></ruby>の1つである。"
     ],
     "answer": 1
   },
   {
-    "question": "問題16 障害児支援に関する次の記述のうち，適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>16 <ruby>障害児<rt>しょうがいじ</rt></ruby><ruby>支援<rt>しえん</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "サービスを受けるには，療育手帳の取得が必要である。",
-      "放課後等デイサービスは，子ども・子育て支援法に基づく支援である。",
-      "障害児通所支援の利用には，障害児支援利用計画の作成は不要である。",
-      "障害児入所支援は，すべての市町村が実施主体である。",
-      "保育所等訪問支援は，保育所等を訪問し，障害のある児童が集団生活に適応できるように専門的な支援を行う。"
+      "サービスを<ruby>受<rt>う</rt></ruby>けるには，<ruby>療育<rt>りょういく</rt></ruby><ruby>手帳<rt>てちょう</rt></ruby>の<ruby>取得<rt>しゅとく</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>である。",
+      "<ruby>放課後<rt>ほうかご</rt></ruby><ruby>等<rt>など</rt></ruby>デイサービスは，<ruby>子<rt>こ</rt></ruby>ども・<ruby>子育<rt>こそだ</rt></ruby>て<ruby>支援<rt>しえん</rt></ruby><ruby>法<rt>ほう</rt></ruby>に<ruby>基<rt>もと</rt></ruby>づく<ruby>支援<rt>しえん</rt></ruby>である。",
+      "<ruby>障害児<rt>しょうがいじ</rt></ruby><ruby>通所<rt>つうしょ</rt></ruby><ruby>支援<rt>しえん</rt></ruby>の<ruby>利用<rt>りよう</rt></ruby>には，<ruby>障害児<rt>しょうがいじ</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>利用<rt>りよう</rt></ruby><ruby>計画<rt>けいかく</rt></ruby>の<ruby>作成<rt>さくせい</rt></ruby>は<ruby>不要<rt>ふよう</rt></ruby>である。",
+      "<ruby>障害児<rt>しょうがいじ</rt></ruby><ruby>入所<rt>にゅうしょ</rt></ruby><ruby>支援<rt>しえん</rt></ruby>は，すべての<ruby>市町村<rt>しちょうそん</rt></ruby>が<ruby>実施<rt>じっし</rt></ruby><ruby>主体<rt>しゅたい</rt></ruby>である。",
+      "<ruby>保育所<rt>ほいくしょ</rt></ruby><ruby>等<rt>など</rt></ruby><ruby>訪問<rt>ほうもん</rt></ruby><ruby>支援<rt>しえん</rt></ruby>は，<ruby>保育所<rt>ほいくしょ</rt></ruby><ruby>等<rt>など</rt></ruby>を<ruby>訪問<rt>ほうもん</rt></ruby>し，<ruby>障害<rt>しょうがい</rt></ruby>のある<ruby>児童<rt>じどう</rt></ruby>が<ruby>集団生活<rt>しゅうだんせいかつ</rt></ruby>に<ruby>適応<rt>てきおう</rt></ruby>できるように<ruby>専門的<rt>せんもんてき</rt></ruby>な<ruby>支援<rt>しえん</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う。"
     ],
     "answer": 4
   },
   {
-    "question": "問題17 次の記述のうち，サービス付き高齢者向け住宅に関するものとして，正しいものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>17 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，サービス<ruby>付<rt>つ</rt></ruby>き<ruby>高齢者<rt>こうれいしゃ</rt></ruby><ruby>向<rt>む</rt></ruby>け<ruby>住宅<rt>じゅうたく</rt></ruby>に<ruby>関<rt>かん</rt></ruby>するものとして，<ruby>正<rt>ただ</rt></ruby>しいものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "「高齢者住まい法」に基づく，高齢者のための住まいである。",
-      "65 歳以上の者が，市町村の措置によって入居する。",
-      "認知症高齢者を対象とした，共同生活の住居である。",
-      "食事サービスの提供が義務づけられている。",
-      "介護サービスの提供が義務づけられている。"
+      "「<ruby>高齢者<rt>こうれいしゃ</rt></ruby><ruby>住<rt>す</rt></ruby>まい<ruby>法<rt>ほう</rt></ruby>」に<ruby>基<rt>もと</rt></ruby>づく，<ruby>高齢者<rt>こうれいしゃ</rt></ruby>のための<ruby>住<rt>す</rt></ruby>まいである。",
+      "65 <ruby>歳<rt>とし</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>者<rt>もの</rt></ruby>が，<ruby>市町村<rt>しちょうそん</rt></ruby>の<ruby>措置<rt>そち</rt></ruby>によって<ruby>入居<rt>にゅうきょ</rt></ruby>する。",
+      "<ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby><ruby>高齢者<rt>こうれいしゃ</rt></ruby>を<ruby>対象<rt>たいしょう</rt></ruby>とした，<ruby>共同生活<rt>きょうどうせいかつ</rt></ruby>の<ruby>住居<rt>じゅうきょ</rt></ruby>である。",
+      "<ruby>食事<rt>しょくじ</rt></ruby>サービスの<ruby>提供<rt>ていきょう</rt></ruby>が<ruby>義務<rt>ぎむ</rt></ruby>づけられている。",
+      "<ruby>介護<rt>かいご</rt></ruby>サービスの<ruby>提供<rt>ていきょう</rt></ruby>が<ruby>義務<rt>ぎむ</rt></ruby>づけられている。"
     ],
     "answer": 0
   },
   {
-    "question": "問題18 Ｃさん（60歳，男性）は，休日に自宅で趣味の家庭菜園の作業中に脳出血（cerebral hemorrhage）を起こして救急搬送された。特に麻痺はなく，その後，リハビリテーション病院に転院した。現在は，高次脳機能障害（higher brain dysfunction）の治療とリハビリテーションに専念している。 医療費を支払うときにＣさんが利用する制度として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>18 Ｃさん（60<ruby>歳<rt>とし</rt></ruby>，<ruby>男性<rt>だんせい</rt></ruby>）は，<ruby>休日<rt>きゅうじつ</rt></ruby>に<ruby>自宅<rt>じたく</rt></ruby>で<ruby>趣味<rt>しゅみ</rt></ruby>の<ruby>家庭菜園<rt>かていさいえん</rt></ruby>の<ruby>作業中<rt>さぎょうちゅう</rt></ruby>に<ruby>脳出血<rt>のうしゅっけつ</rt></ruby>（cerebral hemorrhage）を<ruby>起<rt>お</rt></ruby>こして<ruby>救急<rt>きゅうきゅう</rt></ruby><ruby>搬送<rt>はんそう</rt></ruby>された。<ruby>特<rt>とく</rt></ruby>に<ruby>麻痺<rt>まひ</rt></ruby>はなく，その<ruby>後<rt>のち</rt></ruby>，リハビリテーション<ruby>病院<rt>びょういん</rt></ruby>に<ruby>転院<rt>てんいん</rt></ruby>した。<ruby>現在<rt>げんざい</rt></ruby>は，<ruby>高次<rt>こうじ</rt></ruby><ruby>脳機能<rt>のうきのう</rt></ruby><ruby>障害<rt>しょうがい</rt></ruby>（higher brain dysfunction）の<ruby>治療<rt>ちりょう</rt></ruby>とリハビリテーションに<ruby>専念<rt>せんねん</rt></ruby>している。 <ruby>医療費<rt>いりょうひ</rt></ruby>を<ruby>支払<rt>しはら</rt></ruby>うときにＣさんが<ruby>利用<rt>りよう</rt></ruby>する<ruby>制度<rt>せいど</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "介護保険制度",
-      "労働者災害補償保険制度",
-      "雇用保険制度",
-      "医療保険制度",
-      "年金制度"
+      "<ruby>介護<rt>かいご</rt></ruby><ruby>保険制度<rt>ほけんせいど</rt></ruby>",
+      "<ruby>労働者<rt>ろうどうしゃ</rt></ruby><ruby>災害<rt>さいがい</rt></ruby><ruby>補償保険<rt>ほしょうほけん</rt></ruby><ruby>制度<rt>せいど</rt></ruby>",
+      "<ruby>雇用<rt>こよう</rt></ruby><ruby>保険制度<rt>ほけんせいど</rt></ruby>",
+      "<ruby>医療<rt>いりょう</rt></ruby><ruby>保険制度<rt>ほけんせいど</rt></ruby>",
+      "<ruby>年金制度<rt>ねんきんせいど</rt></ruby>"
     ],
     "answer": 3
   },
   {
-    "question": "問題19 次のうち，恐怖や不安，喜びなどの情動に関わる脳の機能局在の部位として，正しいものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>19 <ruby>次<rt>つぎ</rt></ruby>のうち，<ruby>恐怖<rt>きょうふ</rt></ruby>や<ruby>不安<rt>ふあん</rt></ruby>，<ruby>喜<rt>よろこ</rt></ruby>びなどの<ruby>情動<rt>じょうどう</rt></ruby>に<ruby>関<rt>かか</rt></ruby>わる<ruby>脳<rt>のう</rt></ruby>の<ruby>機能<rt>きのう</rt></ruby><ruby>局在<rt>きょくざい</rt></ruby>の<ruby>部位<rt>ぶい</rt></ruby>として，<ruby>正<rt>ただ</rt></ruby>しいものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "扁桃体",
-      "小脳",
-      "下垂体",
-      "海馬",
-      "視床下部"
+      "<ruby>扁桃<rt>へんとう</rt></ruby><ruby>体<rt>からだ</rt></ruby>",
+      "<ruby>小脳<rt>しょうのう</rt></ruby>",
+      "<ruby>下垂体<rt>かすいたい</rt></ruby>",
+      "<ruby>海馬<rt>かいば</rt></ruby>",
+      "<ruby>視床<rt>ししょう</rt></ruby><ruby>下部<rt>かぶ</rt></ruby>"
     ],
     "answer": 0
   },
   {
-    "question": "問題20 次のうち，顔の感覚に関与する脳神経として，正しいものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>20 <ruby>次<rt>つぎ</rt></ruby>のうち，<ruby>顔<rt>かお</rt></ruby>の<ruby>感覚<rt>かんかく</rt></ruby>に<ruby>関与<rt>かんよ</rt></ruby>する<ruby>脳神経<rt>のうしんけい</rt></ruby>として，<ruby>正<rt>ただ</rt></ruby>しいものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "嗅神経",
-      "三叉神経",
-      "顔面神経",
-      "迷走神経",
-      "舌下神経"
+      "<ruby>嗅<rt>きゅう</rt></ruby><ruby>神経<rt>しんけい</rt></ruby>",
+      "<ruby>三叉<rt>さんさ</rt></ruby><ruby>神経<rt>しんけい</rt></ruby>",
+      "<ruby>顔面<rt>がんめん</rt></ruby><ruby>神経<rt>しんけい</rt></ruby>",
+      "<ruby>迷走<rt>めいそう</rt></ruby><ruby>神経<rt>しんけい</rt></ruby>",
+      "<ruby>舌下<rt>ぜっか</rt></ruby><ruby>神経<rt>しんけい</rt></ruby>"
     ],
     "answer": 1
   },
   {
-    "question": "問題21 次の記述のうち，鼻の構造と機能として，適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>21 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>鼻<rt>はな</rt></ruby>の<ruby>構造<rt>こうぞう</rt></ruby>と<ruby>機能<rt>きのう</rt></ruby>として，<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "鼻腔は前鼻道・中鼻道・後鼻道に分かれる。",
-      "鼻毛は塵や埃を除去する。",
-      "鼻腔の奥は喉頭に直接つながっている。",
-      "鼻腔には毛細血管は少ない。",
-      "嗅細胞は外鼻孔にある。"
+      "<ruby>鼻腔<rt>びこう</rt></ruby>は<ruby>前<rt>まえ</rt></ruby><ruby>鼻道<rt>びどう</rt></ruby>・<ruby>中<rt>なか</rt></ruby><ruby>鼻道<rt>びどう</rt></ruby>・<ruby>後<rt>のち</rt></ruby><ruby>鼻道<rt>びどう</rt></ruby>に<ruby>分<rt>わ</rt></ruby>かれる。",
+      "<ruby>鼻毛<rt>はなげ</rt></ruby>は<ruby>塵<rt>ちり</rt></ruby>や<ruby>埃<rt>ほこり</rt></ruby>を<ruby>除去<rt>じょきょ</rt></ruby>する。",
+      "<ruby>鼻腔<rt>びこう</rt></ruby>の<ruby>奥<rt>おく</rt></ruby>は<ruby>喉頭<rt>こうとう</rt></ruby>に<ruby>直接<rt>ちょくせつ</rt></ruby>つながっている。",
+      "<ruby>鼻腔<rt>びこう</rt></ruby>には<ruby>毛細血管<rt>もうさいけっかん</rt></ruby>は<ruby>少<rt>すく</rt></ruby>ない。",
+      "<ruby>嗅<rt>きゅう</rt></ruby><ruby>細胞<rt>さいぼう</rt></ruby>は<ruby>外<rt>そと</rt></ruby><ruby>鼻孔<rt>びこう</rt></ruby>にある。"
     ],
     "answer": 1
   },
   {
-    "question": "問題22 次のうち，歯周病（periodontal disease）の症状として，適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>22 <ruby>次<rt>つぎ</rt></ruby>のうち，<ruby>歯周<rt>ししゅう</rt></ruby><ruby>病<rt>びょう</rt></ruby>（periodontal disease）の<ruby>症状<rt>しょうじょう</rt></ruby>として，<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "歯のくぼみの形成",
-      "歯の硬組織の軟化",
-      "歯髄の炎症・疼痛",
-      "歯のエナメル質の侵蝕",
-      "歯周ポケットの形成"
+      "<ruby>歯<rt>は</rt></ruby>のくぼみの<ruby>形成<rt>けいせい</rt></ruby>",
+      "<ruby>歯<rt>は</rt></ruby>の<ruby>硬<rt>こう</rt></ruby><ruby>組織<rt>そしき</rt></ruby>の<ruby>軟化<rt>なんか</rt></ruby>",
+      "<ruby>歯髄<rt>しずい</rt></ruby>の<ruby>炎症<rt>えんしょう</rt></ruby>・<ruby>疼痛<rt>とうつう</rt></ruby>",
+      "<ruby>歯<rt>は</rt></ruby>のエナメル<ruby>質<rt>しつ</rt></ruby>の<ruby>侵蝕<rt>しんしょく</rt></ruby>",
+      "<ruby>歯周<rt>ししゅう</rt></ruby>ポケットの<ruby>形成<rt>けいせい</rt></ruby>"
     ],
     "answer": 4
   },
   {
-    "question": "問題23 Ａさん（78歳，女性）は，友人から口臭を指摘されて悩んでいる。また，食事をするときに，「水分と一緒に食べないと飲み込みにくい」とも話している。Ａさんに歯の欠損，麻痺はなく，ストレスの訴えもない。 次のうち，Ａさんのからだの中で，機能低下が考えられるものとして，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>23 Ａさん（78<ruby>歳<rt>とし</rt></ruby>，<ruby>女性<rt>じょせい</rt></ruby>）は，<ruby>友人<rt>ゆうじん</rt></ruby>から<ruby>口臭<rt>こうしゅう</rt></ruby>を<ruby>指摘<rt>してき</rt></ruby>されて<ruby>悩<rt>なや</rt></ruby>んでいる。また，<ruby>食事<rt>しょくじ</rt></ruby>をするときに，「<ruby>水分<rt>すいぶん</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>食<rt>た</rt></ruby>べないと<ruby>飲み込<rt>のみこ</rt></ruby>みにくい」とも<ruby>話<rt>はな</rt></ruby>している。Ａさんに<ruby>歯<rt>は</rt></ruby>の<ruby>欠損<rt>けっそん</rt></ruby>，<ruby>麻痺<rt>まひ</rt></ruby>はなく，ストレスの<ruby>訴<rt>うった</rt></ruby>えもない。 <ruby>次<rt>つぎ</rt></ruby>のうち，Ａさんのからだの<ruby>中<rt>なか</rt></ruby>で，<ruby>機能<rt>きのう</rt></ruby><ruby>低下<rt>ていか</rt></ruby>が<ruby>考<rt>かんが</rt></ruby>えられるものとして，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "咀嚼",
-      "蠕動運動",
-      "嗅覚",
-      "唾液分泌",
-      "胃液分泌"
+      "<ruby>咀嚼<rt>そしゃく</rt></ruby>",
+      "<ruby>蠕動<rt>ぜんどう</rt></ruby><ruby>運動<rt>うんどう</rt></ruby>",
+      "<ruby>嗅覚<rt>きゅうかく</rt></ruby>",
+      "<ruby>唾液<rt>だえき</rt></ruby><ruby>分泌<rt>ぶんぴつ</rt></ruby>",
+      "<ruby>胃液<rt>いえき</rt></ruby><ruby>分泌<rt>ぶんぴつ</rt></ruby>"
     ],
     "answer": 3
   },
   {
-    "question": "問題24 皮膚の構造に関する次の記述のうち，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>24 <ruby>皮膚<rt>ひふ</rt></ruby>の<ruby>構造<rt>こうぞう</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "表皮の厚さは平均2.0mmである。",
-      "真皮には角質層がある。",
-      "外界と接する組織は表皮である。",
-      "皮脂腺は皮下組織にある。",
-      "表皮の最表面は基底層である。"
+      "<ruby>表皮<rt>ひょうひ</rt></ruby>の<ruby>厚<rt>あつ</rt></ruby>さは<ruby>平均<rt>へいきん</rt></ruby>2.0mmである。",
+      "<ruby>真皮<rt>しんぴ</rt></ruby>には<ruby>角質<rt>かくしつ</rt></ruby><ruby>層<rt>そう</rt></ruby>がある。",
+      "<ruby>外界<rt>がいかい</rt></ruby>と<ruby>接<rt>せっ</rt></ruby>する<ruby>組織<rt>そしき</rt></ruby>は<ruby>表皮<rt>ひょうひ</rt></ruby>である。",
+      "<ruby>皮脂腺<rt>ひしせん</rt></ruby>は<ruby>皮下<rt>ひか</rt></ruby><ruby>組織<rt>そしき</rt></ruby>にある。",
+      "<ruby>表皮<rt>ひょうひ</rt></ruby>の<ruby>最<rt>さい</rt></ruby><ruby>表面<rt>ひょうめん</rt></ruby>は<ruby>基底<rt>きてい</rt></ruby><ruby>層<rt>そう</rt></ruby>である。"
     ],
     "answer": 2
   },
   {
-    "question": "問題25 次のうち，高齢者が嗜好や温度覚の低下によって高温浴を希望した場合に，説明すべき高温浴の特徴として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>25 <ruby>次<rt>つぎ</rt></ruby>のうち，<ruby>高齢者<rt>こうれいしゃ</rt></ruby>が<ruby>嗜好<rt>しこう</rt></ruby>や<ruby>温度<rt>おんど</rt></ruby><ruby>覚<rt>かく</rt></ruby>の<ruby>低下<rt>ていか</rt></ruby>によって<ruby>高温<rt>こうおん</rt></ruby><ruby>浴<rt>よく</rt></ruby>を<ruby>希望<rt>きぼう</rt></ruby>した<ruby>場合<rt>ばあい</rt></ruby>に，<ruby>説明<rt>せつめい</rt></ruby>すべき<ruby>高温<rt>こうおん</rt></ruby><ruby>浴<rt>よく</rt></ruby>の<ruby>特徴<rt>とくちょう</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "血圧の上昇",
-      "腸蠕動の促進",
-      "腎機能の促進",
-      "副交感神経の亢進",
-      "心機能の抑制"
+      "<ruby>血圧<rt>けつあつ</rt></ruby>の<ruby>上昇<rt>じょうしょう</rt></ruby>",
+      "<ruby>腸<rt>ちょう</rt></ruby><ruby>蠕動<rt>ぜんどう</rt></ruby>の<ruby>促進<rt>そくしん</rt></ruby>",
+      "<ruby>腎<rt>じん</rt></ruby><ruby>機能<rt>きのう</rt></ruby>の<ruby>促進<rt>そくしん</rt></ruby>",
+      "<ruby>副<rt>ふく</rt></ruby><ruby>交感神経<rt>こうかんしんけい</rt></ruby>の<ruby>亢進<rt>こうしん</rt></ruby>",
+      "<ruby>心機<rt>しんき</rt></ruby><ruby>能<rt>のう</rt></ruby>の<ruby>抑制<rt>よくせい</rt></ruby>"
     ],
     "answer": 0
   },
   {
-    "question": "問題26 次のうち，食物の栄養素の大部分を吸収する部位として，正しいものを 1 つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>26 <ruby>次<rt>つぎ</rt></ruby>のうち，<ruby>食物<rt>たべもの</rt></ruby>の<ruby>栄養素<rt>えいようそ</rt></ruby>の<ruby>大部分<rt>だいぶぶん</rt></ruby>を<ruby>吸収<rt>きゅうしゅう</rt></ruby>する<ruby>部位<rt>ぶい</rt></ruby>として，<ruby>正<rt>ただ</rt></ruby>しいものを 1 つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "胃",
-      "小腸",
-      "直腸",
-      "横行結腸",
-      "Ｓ状結腸"
+      "<ruby>胃<rt>い</rt></ruby>",
+      "<ruby>小腸<rt>しょうちょう</rt></ruby>",
+      "<ruby>直腸<rt>ちょくちょう</rt></ruby>",
+      "<ruby>横行<rt>おうこう</rt></ruby><ruby>結腸<rt>けっちょう</rt></ruby>",
+      "Ｓ<ruby>状<rt>じょう</rt></ruby><ruby>結腸<rt>けっちょう</rt></ruby>"
     ],
     "answer": 1
   },
   {
-    "question": "問題27 次の記述のうち，レム睡眠に関するものとして，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>27 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，レム<ruby>睡眠<rt>すいみん</rt></ruby>に<ruby>関<rt>かん</rt></ruby>するものとして，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "記憶を整理し，定着させる。",
-      "脳を休息させる。",
-      "入眠初期に出現する。",
-      "成長ホルモンの分泌を促す。",
-      "深い眠りの状態である。"
+      "<ruby>記憶<rt>きおく</rt></ruby>を<ruby>整理<rt>せいり</rt></ruby>し，<ruby>定着<rt>ていちゃく</rt></ruby>させる。",
+      "<ruby>脳<rt>のう</rt></ruby>を<ruby>休息<rt>きゅうそく</rt></ruby>させる。",
+      "<ruby>入眠<rt>にゅうみん</rt></ruby><ruby>初期<rt>しょき</rt></ruby>に<ruby>出現<rt>しゅつげん</rt></ruby>する。",
+      "<ruby>成長<rt>せいちょう</rt></ruby>ホルモンの<ruby>分泌<rt>ぶんぴつ</rt></ruby>を<ruby>促<rt>うなが</rt></ruby>す。",
+      "<ruby>深<rt>ふか</rt></ruby>い<ruby>眠<rt>ねむ</rt></ruby>りの<ruby>状態<rt>じょうたい</rt></ruby>である。"
     ],
     "answer": 0
   },
   {
-    "question": "問題28 Ｂさん（76歳，男性）は，この数週間，日中に，「眠い」と訴えている。Ｂさんは毎日15時にコーヒー1杯を飲み，たばこを1本吸い，21時に就寝する。夜間の睡眠状態を数日間観察すると，睡眠中にぴくぴくと下肢が動いていることがたびたびあった。起床後，手足に異常を感じるかをＢさんに確認したが，「特にない」とのことだった。 次のうち，Ｂさんの睡眠障害の原因として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>28 Ｂさん（76<ruby>歳<rt>とし</rt></ruby>，<ruby>男性<rt>だんせい</rt></ruby>）は，この<ruby>数週間<rt>すうしゅうかん</rt></ruby>，<ruby>日中<rt>にっちゅう</rt></ruby>に，「<ruby>眠<rt>ねむ</rt></ruby>い」と<ruby>訴<rt>うった</rt></ruby>えている。Ｂさんは<ruby>毎日<rt>まいにち</rt></ruby>15<ruby>時<rt>とき</rt></ruby>にコーヒー1<ruby>杯<rt>はい</rt></ruby>を<ruby>飲<rt>の</rt></ruby>み，たばこを1<ruby>本<rt>ほん</rt></ruby><ruby>吸<rt>す</rt></ruby>い，21<ruby>時<rt>とき</rt></ruby>に<ruby>就寝<rt>しゅうしん</rt></ruby>する。<ruby>夜間<rt>やかん</rt></ruby>の<ruby>睡眠<rt>すいみん</rt></ruby><ruby>状態<rt>じょうたい</rt></ruby>を<ruby>数日間<rt>すうじつかん</rt></ruby><ruby>観察<rt>かんさつ</rt></ruby>すると，<ruby>睡眠中<rt>すいみんちゅう</rt></ruby>にぴくぴくと<ruby>下肢<rt>かし</rt></ruby>が<ruby>動<rt>うご</rt></ruby>いていることがたびたびあった。<ruby>起床<rt>きしょう</rt></ruby><ruby>後<rt>のち</rt></ruby>，<ruby>手足<rt>てあし</rt></ruby>に<ruby>異常<rt>いじょう</rt></ruby>を<ruby>感<rt>かん</rt></ruby>じるかをＢさんに<ruby>確認<rt>かくにん</rt></ruby>したが，「<ruby>特<rt>とく</rt></ruby>にない」とのことだった。 <ruby>次<rt>つぎ</rt></ruby>のうち，Ｂさんの<ruby>睡眠障害<rt>すいみんしょうがい</rt></ruby>の<ruby>原因<rt>げんいん</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "ニコチン摂取",
-      "レム睡眠行動障害",
-      "レストレスレッグス症候群",
-      "カフェイン摂取",
-      "周期性四肢運動障害"
+      "ニコチン<ruby>摂取<rt>せっしゅ</rt></ruby>",
+      "レム<ruby>睡眠<rt>すいみん</rt></ruby><ruby>行動<rt>こうどう</rt></ruby><ruby>障害<rt>しょうがい</rt></ruby>",
+      "レストレスレッグス<ruby>症候群<rt>しょうこうぐん</rt></ruby>",
+      "カフェイン<ruby>摂取<rt>せっしゅ</rt></ruby>",
+      "<ruby>周期性<rt>しゅうきせい</rt></ruby><ruby>四肢<rt>しし</rt></ruby><ruby>運動<rt>うんどう</rt></ruby><ruby>障害<rt>しょうがい</rt></ruby>"
     ],
     "answer": 4
   },
   {
-    "question": "問題29 次のうち，呼吸中枢がある部位として，正しいものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>29 <ruby>次<rt>つぎ</rt></ruby>のうち，<ruby>呼吸<rt>こきゅう</rt></ruby><ruby>中枢<rt>ちゅうすう</rt></ruby>がある<ruby>部位<rt>ぶい</rt></ruby>として，<ruby>正<rt>ただ</rt></ruby>しいものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "大脳",
-      "中脳",
-      "小脳",
-      "延髄",
-      "脊髄"
+      "<ruby>大脳<rt>だいのう</rt></ruby>",
+      "<ruby>中脳<rt>ちゅうのう</rt></ruby>",
+      "<ruby>小脳<rt>しょうのう</rt></ruby>",
+      "<ruby>延髄<rt>えんずい</rt></ruby>",
+      "<ruby>脊髄<rt>せきずい</rt></ruby>"
     ],
     "answer": 3
   },
   {
-    "question": "問題30 次のうち，脳の機能停止を示す徴候に該当するものとして，適切なものを 1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>30 <ruby>次<rt>つぎ</rt></ruby>のうち，<ruby>脳<rt>のう</rt></ruby>の<ruby>機能停止<rt>きのうていし</rt></ruby>を<ruby>示<rt>しめ</rt></ruby>す<ruby>徴候<rt>ちょうこう</rt></ruby>に<ruby>該当<rt>がいとう</rt></ruby>するものとして，<ruby>適切<rt>てきせつ</rt></ruby>なものを 1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "呼吸不全",
-      "溢流性尿失禁",
-      "心停止",
-      "蠕動運動の減弱",
-      "瞳孔散大・対光反射消失"
+      "<ruby>呼吸<rt>こきゅう</rt></ruby><ruby>不全<rt>ふぜん</rt></ruby>",
+      "<ruby>溢流<rt>いつりゅう</rt></ruby><ruby>性<rt>せい</rt></ruby><ruby>尿<rt>にょう</rt></ruby><ruby>失禁<rt>しっきん</rt></ruby>",
+      "<ruby>心<rt>こころ</rt></ruby><ruby>停止<rt>ていし</rt></ruby>",
+      "<ruby>蠕動<rt>ぜんどう</rt></ruby><ruby>運動<rt>うんどう</rt></ruby>の<ruby>減弱<rt>げんじゃく</rt></ruby>",
+      "<ruby>瞳孔<rt>どうこう</rt></ruby><ruby>散大<rt>さんだい</rt></ruby>・<ruby>対光反射<rt>たいこうはんしゃ</rt></ruby><ruby>消失<rt>しょうしつ</rt></ruby>"
     ],
     "answer": 4
   },
   {
-    "question": "問題31 次の記述のうち，子どもの標準的な成長として，適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>31 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>子<rt>こ</rt></ruby>どもの<ruby>標準的<rt>ひょうじゅんてき</rt></ruby>な<ruby>成長<rt>せいちょう</rt></ruby>として，<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "1 歳半から2歳ごろに，ハイハイをして移動できるようになる。",
-      "生後9か月から1歳ごろに，指をさして自分の関心や欲求を他者に伝えられるようになる。",
-      "子どもが使う言葉が急に増える語彙爆発は，5歳を過ぎたころに生じる。",
-      "人見知りの反応は，2歳を過ぎたころに生じる。",
-      "イヤイヤをしてすぐに泣く行動は，第二反抗期に生じる。"
+      "1 <ruby>歳<rt>とし</rt></ruby><ruby>半<rt>はん</rt></ruby>から2<ruby>歳<rt>とし</rt></ruby>ごろに，ハイハイをして<ruby>移動<rt>いどう</rt></ruby>できるようになる。",
+      "<ruby>生後<rt>せいご</rt></ruby>9か<ruby>月<rt>がつ</rt></ruby>から1<ruby>歳<rt>とし</rt></ruby>ごろに，<ruby>指<rt>ゆび</rt></ruby>をさして<ruby>自分<rt>じぶん</rt></ruby>の<ruby>関心<rt>かんしん</rt></ruby>や<ruby>欲求<rt>よっきゅう</rt></ruby>を<ruby>他者<rt>たしゃ</rt></ruby>に<ruby>伝<rt>つた</rt></ruby>えられるようになる。",
+      "<ruby>子<rt>こ</rt></ruby>どもが<ruby>使<rt>つか</rt></ruby>う<ruby>言葉<rt>ことば</rt></ruby>が<ruby>急<rt>きゅう</rt></ruby>に<ruby>増<rt>ふ</rt></ruby>える<ruby>語彙<rt>ごい</rt></ruby><ruby>爆発<rt>ばくはつ</rt></ruby>は，5<ruby>歳<rt>とし</rt></ruby>を<ruby>過<rt>す</rt></ruby>ぎたころに<ruby>生<rt>しょう</rt></ruby>じる。",
+      "<ruby>人見知<rt>ひとみし</rt></ruby>りの<ruby>反応<rt>はんのう</rt></ruby>は，2<ruby>歳<rt>とし</rt></ruby>を<ruby>過<rt>す</rt></ruby>ぎたころに<ruby>生<rt>しょう</rt></ruby>じる。",
+      "イヤイヤをしてすぐに<ruby>泣<rt>な</rt></ruby>く<ruby>行動<rt>こうどう</rt></ruby>は，<ruby>第二<rt>だいに</rt></ruby><ruby>反抗<rt>はんこう</rt></ruby><ruby>期<rt>き</rt></ruby>に<ruby>生<rt>しょう</rt></ruby>じる。"
     ],
     "answer": 1
   },
   {
-    "question": "問題32 次の記述のうち，神経性無食欲症（anorexia nervosa）に関するものとして，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>32 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>神経性<rt>しんけいせい</rt></ruby><ruby>無<rt>む</rt></ruby><ruby>食欲<rt>しょくよく</rt></ruby><ruby>症<rt>しょう</rt></ruby>（anorexia nervosa）に<ruby>関<rt>かん</rt></ruby>するものとして，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "活動性が高まる。",
-      "学童期に最も生じやすい。",
-      "太ることへの恐怖はみられない。",
-      "低体重の深刻さを理解している。",
-      "多くが男性である。"
+      "<ruby>活動<rt>かつどう</rt></ruby><ruby>性<rt>せい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>まる。",
+      "<ruby>学童<rt>がくどう</rt></ruby><ruby>期<rt>き</rt></ruby>に<ruby>最<rt>もっと</rt></ruby>も<ruby>生<rt>しょう</rt></ruby>じやすい。",
+      "<ruby>太<rt>ふと</rt></ruby>ることへの<ruby>恐怖<rt>きょうふ</rt></ruby>はみられない。",
+      "<ruby>低<rt>てい</rt></ruby><ruby>体重<rt>たいじゅう</rt></ruby>の<ruby>深刻<rt>しんこく</rt></ruby>さを<ruby>理解<rt>りかい</rt></ruby>している。",
+      "<ruby>多<rt>おお</rt></ruby>くが<ruby>男性<rt>だんせい</rt></ruby>である。"
     ],
     "answer": 0
   },
   {
-    "question": "問題33 Ａさん（73歳，男性）は，会社の役員として勤めていたが，3年前に退職した。地域の老人クラブへの入会を勧められたが拒否している。毎年，敬老の日に記念品が配布されても，不快感を示して受け取らない。退職後も会社の状況を気にしていて，後輩とときどき連絡をとっている。Ａさんは，身体が衰えることに強い不安を感じて，筋力トレーニングを毎日行っている。会社の後輩から，「いつも若々しいですね」と言われることに喜びを感じている。 ライチャード（Reichard, S.）による，引退後の男性の5つの適応タイプのうち，Ａさんに相当するものとして，適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>33 Ａさん（73<ruby>歳<rt>とし</rt></ruby>，<ruby>男性<rt>だんせい</rt></ruby>）は，<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>役員<rt>やくいん</rt></ruby>として<ruby>勤<rt>つと</rt></ruby>めていたが，3<ruby>年前<rt>ねんまえ</rt></ruby>に<ruby>退職<rt>たいしょく</rt></ruby>した。<ruby>地域<rt>ちいき</rt></ruby>の<ruby>老人<rt>ろうじん</rt></ruby>クラブへの<ruby>入会<rt>にゅうかい</rt></ruby>を<ruby>勧<rt>すす</rt></ruby>められたが<ruby>拒否<rt>きょひ</rt></ruby>している。<ruby>毎年<rt>まいとし</rt></ruby>，<ruby>敬老<rt>けいろう</rt></ruby>の<ruby>日<rt>にち</rt></ruby>に<ruby>記念品<rt>きねんひん</rt></ruby>が<ruby>配布<rt>はいふ</rt></ruby>されても，<ruby>不快感<rt>ふかいかん</rt></ruby>を<ruby>示<rt>しめ</rt></ruby>して<ruby>受け取<rt>うけと</rt></ruby>らない。<ruby>退職後<rt>たいしょくご</rt></ruby>も<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>状況<rt>じょうきょう</rt></ruby>を<ruby>気<rt>き</rt></ruby>にしていて，<ruby>後輩<rt>こうはい</rt></ruby>とときどき<ruby>連絡<rt>れんらく</rt></ruby>をとっている。Ａさんは，<ruby>身体<rt>しんたい</rt></ruby>が<ruby>衰<rt>おとろ</rt></ruby>えることに<ruby>強<rt>つよ</rt></ruby>い<ruby>不安<rt>ふあん</rt></ruby>を<ruby>感<rt>かん</rt></ruby>じて，<ruby>筋力<rt>きんりょく</rt></ruby>トレーニングを<ruby>毎日<rt>まいにち</rt></ruby><ruby>行<rt>い</rt></ruby>っている。<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>後輩<rt>こうはい</rt></ruby>から，「いつも<ruby>若々<rt>わかわか</rt></ruby>しいですね」と<ruby>言<rt>い</rt></ruby>われることに<ruby>喜<rt>よろこ</rt></ruby>びを<ruby>感<rt>かん</rt></ruby>じている。 ライチャード（Reichard, S.）による，<ruby>引退後<rt>いんたいご</rt></ruby>の<ruby>男性<rt>だんせい</rt></ruby>の5つの<ruby>適応<rt>てきおう</rt></ruby>タイプのうち，Ａさんに<ruby>相当<rt>そうとう</rt></ruby>するものとして，<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "外罰（憤慨）型",
-      "内罰（自責）型",
-      "円熟（成熟）型",
-      "自己防衛（装甲）型",
-      "ロッキングチェアー（安楽椅子）型"
+      "<ruby>外<rt>そと</rt></ruby><ruby>罰<rt>ばつ</rt></ruby>（<ruby>憤慨<rt>ふんがい</rt></ruby>）<ruby>型<rt>かた</rt></ruby>",
+      "<ruby>内<rt>ない</rt></ruby><ruby>罰<rt>ばつ</rt></ruby>（<ruby>自責<rt>じせき</rt></ruby>）<ruby>型<rt>かた</rt></ruby>",
+      "<ruby>円熟<rt>えんじゅく</rt></ruby>（<ruby>成熟<rt>せいじゅく</rt></ruby>）<ruby>型<rt>かた</rt></ruby>",
+      "<ruby>自己防衛<rt>じこぼうえい</rt></ruby>（<ruby>装甲<rt>そうこう</rt></ruby>）<ruby>型<rt>かた</rt></ruby>",
+      "ロッキングチェアー（<ruby>安楽椅子<rt>あんらくいす</rt></ruby>）<ruby>型<rt>かた</rt></ruby>"
     ],
     "answer": 3
   },
   {
-    "question": "問題34 次の記述のうち，結晶性知能に関する説明として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>34 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>結晶<rt>けっしょう</rt></ruby><ruby>性<rt>せい</rt></ruby><ruby>知能<rt>ちのう</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>説明<rt>せつめい</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "感覚や運動に基づく知能である。",
-      "過去に得た知識を活用して問題を解決する能力である。",
-      "40～50歳で急激に低下する。",
-      "知識や文化の影響よりも，生理的な老化の影響を受けやすい。",
-      "その場で新しい問題を解決する能力である。"
+      "<ruby>感覚<rt>かんかく</rt></ruby>や<ruby>運動<rt>うんどう</rt></ruby>に<ruby>基<rt>もと</rt></ruby>づく<ruby>知能<rt>ちのう</rt></ruby>である。",
+      "<ruby>過去<rt>かこ</rt></ruby>に<ruby>得<rt>え</rt></ruby>た<ruby>知識<rt>ちしき</rt></ruby>を<ruby>活用<rt>かつよう</rt></ruby>して<ruby>問題<rt>もんだい</rt></ruby>を<ruby>解決<rt>かいけつ</rt></ruby>する<ruby>能力<rt>のうりょく</rt></ruby>である。",
+      "40～50<ruby>歳<rt>とし</rt></ruby>で<ruby>急激<rt>きゅうげき</rt></ruby>に<ruby>低下<rt>ていか</rt></ruby>する。",
+      "<ruby>知識<rt>ちしき</rt></ruby>や<ruby>文化<rt>ぶんか</rt></ruby>の<ruby>影響<rt>えいきょう</rt></ruby>よりも，<ruby>生理的<rt>せいりてき</rt></ruby>な<ruby>老化<rt>ろうか</rt></ruby>の<ruby>影響<rt>えいきょう</rt></ruby>を<ruby>受<rt>う</rt></ruby>けやすい。",
+      "その<ruby>場<rt>ば</rt></ruby>で<ruby>新<rt>あたら</rt></ruby>しい<ruby>問題<rt>もんだい</rt></ruby>を<ruby>解決<rt>かいけつ</rt></ruby>する<ruby>能力<rt>のうりょく</rt></ruby>である。"
     ],
     "answer": 1
   },
   {
-    "question": "問題35 次の記述のうち，加齢に伴う感覚機能の変化として，最も適切なものを1 つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>35 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>加齢<rt>かれい</rt></ruby>に<ruby>伴<rt>ともな</rt></ruby>う<ruby>感覚<rt>かんかく</rt></ruby><ruby>機能<rt>きのう</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1 つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "皮膚感覚が敏感になる。",
-      "高音域の聴力が高まる。",
-      "暗順応の時間が延長する。",
-      "味覚が敏感になる。",
-      "嗅覚が敏感になる。"
+      "<ruby>皮膚<rt>ひふ</rt></ruby><ruby>感覚<rt>かんかく</rt></ruby>が<ruby>敏感<rt>びんかん</rt></ruby>になる。",
+      "<ruby>高音域<rt>こうおんいき</rt></ruby>の<ruby>聴力<rt>ちょうりょく</rt></ruby>が<ruby>高<rt>たか</rt></ruby>まる。",
+      "<ruby>暗<rt>あん</rt></ruby><ruby>順応<rt>じゅんのう</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>が<ruby>延長<rt>えんちょう</rt></ruby>する。",
+      "<ruby>味覚<rt>みかく</rt></ruby>が<ruby>敏感<rt>びんかん</rt></ruby>になる。",
+      "<ruby>嗅覚<rt>きゅうかく</rt></ruby>が<ruby>敏感<rt>びんかん</rt></ruby>になる。"
     ],
     "answer": 2
   },
   {
-    "question": "問題36 Ｂさん（74歳，女性）は，地方で一人暮らしをしている。持病はなく，認知機能の異常もない。ダンスサークルに通い，近所との付き合いも良好で，今の暮らしに満足している。最近，白髪が増え，友人との死別もあり，年をとったと感じている。ある日，一人息子（50歳，未婚）から，東京で一緒に住むことを提案された。Ｂさんは，「ここには知り合いがいるが，東京には誰もいない。ここが一番いい」と言った。すると息子は，Ｂさんに，「年をとると頑固になる。あと数年したら認知症（dementia）になるかもしれないので，自分と一緒に暮らすべきだ」と言った。 次のうち，Ｂさんに関する記述として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>36 Ｂさん（74<ruby>歳<rt>とし</rt></ruby>，<ruby>女性<rt>じょせい</rt></ruby>）は，<ruby>地方<rt>ちほう</rt></ruby>で<ruby>一人暮<rt>ひとりぐ</rt></ruby>らしをしている。<ruby>持病<rt>じびょう</rt></ruby>はなく，<ruby>認知機能<rt>にんちきのう</rt></ruby>の<ruby>異常<rt>いじょう</rt></ruby>もない。ダンスサークルに<ruby>通<rt>かよ</rt></ruby>い，<ruby>近所<rt>きんじょ</rt></ruby>との<ruby>付き合<rt>つきあ</rt></ruby>いも<ruby>良好<rt>りょうこう</rt></ruby>で，<ruby>今<rt>いま</rt></ruby>の<ruby>暮<rt>く</rt></ruby>らしに<ruby>満足<rt>まんぞく</rt></ruby>している。<ruby>最近<rt>さいきん</rt></ruby>，<ruby>白髪<rt>しらが</rt></ruby>が<ruby>増<rt>ふ</rt></ruby>え，<ruby>友人<rt>ゆうじん</rt></ruby>との<ruby>死別<rt>しべつ</rt></ruby>もあり，<ruby>年<rt>ねん</rt></ruby>をとったと<ruby>感<rt>かん</rt></ruby>じている。ある<ruby>日<rt>にち</rt></ruby>，<ruby>一人息子<rt>ひとりむすこ</rt></ruby>（50<ruby>歳<rt>とし</rt></ruby>，<ruby>未婚<rt>みこん</rt></ruby>）から，<ruby>東京<rt>とうきょう</rt></ruby>で<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>住<rt>す</rt></ruby>むことを<ruby>提案<rt>ていあん</rt></ruby>された。Ｂさんは，「ここには<ruby>知り合<rt>しりあ</rt></ruby>いがいるが，<ruby>東京<rt>とうきょう</rt></ruby>には<ruby>誰<rt>だれ</rt></ruby>もいない。ここが<ruby>一番<rt>いちばん</rt></ruby>いい」と<ruby>言<rt>い</rt></ruby>った。すると<ruby>息子<rt>むすこ</rt></ruby>は，Ｂさんに，「<ruby>年<rt>ねん</rt></ruby>をとると<ruby>頑固<rt>がんこ</rt></ruby>になる。あと<ruby>数年<rt>すうねん</rt></ruby>したら<ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby>（dementia）になるかもしれないので，<ruby>自分<rt>じぶん</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>暮<rt>く</rt></ruby>らすべきだ」と<ruby>言<rt>い</rt></ruby>った。 <ruby>次<rt>つぎ</rt></ruby>のうち，Ｂさんに<ruby>関<rt>かん</rt></ruby>する<ruby>記述<rt>きじゅつ</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "Ｂさんには，老性自覚はみられない。",
-      "Ｂさんには，友人との死別による悲嘆がみられる。",
-      "Ｂさんは，今，住んでいる環境や生活に適応できていない。",
-      "Ｂさんには，エイジズム（ageism）の考え方がみられる。",
-      "Ｂさんには，住み慣れた環境や仲間を喪失することへの不安がみられる。"
+      "Ｂさんには，<ruby>老<rt>ろう</rt></ruby><ruby>性<rt>せい</rt></ruby><ruby>自覚<rt>じかく</rt></ruby>はみられない。",
+      "Ｂさんには，<ruby>友人<rt>ゆうじん</rt></ruby>との<ruby>死別<rt>しべつ</rt></ruby>による<ruby>悲嘆<rt>ひたん</rt></ruby>がみられる。",
+      "Ｂさんは，<ruby>今<rt>いま</rt></ruby>，<ruby>住<rt>す</rt></ruby>んでいる<ruby>環境<rt>かんきょう</rt></ruby>や<ruby>生活<rt>せいかつ</rt></ruby>に<ruby>適応<rt>てきおう</rt></ruby>できていない。",
+      "Ｂさんには，エイジズム（ageism）の<ruby>考え方<rt>かんがえかた</rt></ruby>がみられる。",
+      "Ｂさんには，<ruby>住<rt>す</rt></ruby>み<ruby>慣<rt>な</rt></ruby>れた<ruby>環境<rt>かんきょう</rt></ruby>や<ruby>仲間<rt>なかま</rt></ruby>を<ruby>喪失<rt>そうしつ</rt></ruby>することへの<ruby>不安<rt>ふあん</rt></ruby>がみられる。"
     ],
     "answer": 4
   },
   {
-    "question": "問題37 次の記述のうち，サクセスフル・エイジング（successful aging）として，適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>37 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，サクセスフル・エイジング（successful aging）として，<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "長生きすることが，最大の目的である。",
-      "一人暮らしで，周囲の人と交流をしないようにしている。",
-      "膝に痛みがあるので，一日中ベッド上で過ごすようにしている。",
-      "難聴があるので，補聴器をつけてパソコン教室に通い始めた。",
-      "歌を上手に歌えなくなったので，カラオケに誘われても行かないようにしている。"
+      "<ruby>長生<rt>ながい</rt></ruby>きすることが，<ruby>最大<rt>さいだい</rt></ruby>の<ruby>目的<rt>もくてき</rt></ruby>である。",
+      "<ruby>一人暮<rt>ひとりぐ</rt></ruby>らしで，<ruby>周囲<rt>しゅうい</rt></ruby>の<ruby>人<rt>にん</rt></ruby>と<ruby>交流<rt>こうりゅう</rt></ruby>をしないようにしている。",
+      "<ruby>膝<rt>ひざ</rt></ruby>に<ruby>痛<rt>いた</rt></ruby>みがあるので，<ruby>一日中<rt>いちにちじゅう</rt></ruby>ベッド<ruby>上<rt>うえ</rt></ruby>で<ruby>過<rt>す</rt></ruby>ごすようにしている。",
+      "<ruby>難聴<rt>なんちょう</rt></ruby>があるので，<ruby>補聴器<rt>ほちょうき</rt></ruby>をつけてパソコン<ruby>教室<rt>きょうしつ</rt></ruby>に<ruby>通<rt>かよ</rt></ruby>い<ruby>始<rt>はじ</rt></ruby>めた。",
+      "<ruby>歌<rt>うた</rt></ruby>を<ruby>上手<rt>じょうず</rt></ruby>に<ruby>歌<rt>うた</rt></ruby>えなくなったので，カラオケに<ruby>誘<rt>さそ</rt></ruby>われても<ruby>行<rt>い</rt></ruby>かないようにしている。"
     ],
     "answer": 3
   },
   {
-    "question": "問題38 次のうち，老年症候群に直接関わる疾患として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>38 <ruby>次<rt>つぎ</rt></ruby>のうち，<ruby>老年<rt>ろうねん</rt></ruby><ruby>症候群<rt>しょうこうぐん</rt></ruby>に<ruby>直接<rt>ちょくせつ</rt></ruby><ruby>関<rt>かか</rt></ruby>わる<ruby>疾患<rt>しっかん</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "高血圧症（hypertension）",
-      "糖尿病（diabetes mellitus）",
-      "骨粗鬆症（osteoporosis）",
-      "心筋梗塞（myocardial infarction）",
-      "脂質異常症（dyslipidemia）"
+      "<ruby>高血圧<rt>こうけつあつ</rt></ruby><ruby>症<rt>しょう</rt></ruby>（hypertension）",
+      "<ruby>糖尿病<rt>とうにょうびょう</rt></ruby>（diabetes mellitus）",
+      "<ruby>骨粗鬆症<rt>こつそしょうしょう</rt></ruby>（osteoporosis）",
+      "<ruby>心筋梗塞<rt>しんきんこうそく</rt></ruby>（myocardial infarction）",
+      "<ruby>脂質<rt>ししつ</rt></ruby><ruby>異常<rt>いじょう</rt></ruby><ruby>症<rt>しょう</rt></ruby>（dyslipidemia）"
     ],
     "answer": 2
   },
   {
-    "question": "問題39 次の記述のうち，2019年（令和元年）の認知症施策推進大綱に関する説明として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>39 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，2019<ruby>年<rt>ねん</rt></ruby>（<ruby>令和<rt>れいわ</rt></ruby><ruby>元年<rt>がんねん</rt></ruby>）の<ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby><ruby>施策<rt>しさく</rt></ruby><ruby>推進<rt>すいしん</rt></ruby><ruby>大綱<rt>たいこう</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>説明<rt>せつめい</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "「共生」と「予防」を車の両輪として施策を推進していく。",
-      "「予防」とは，「認知症（dementia）にならない」という意味である。",
-      "「認知症高齢者等にやさしい地域づくり」を推進する7つの柱が示された。",
-      "「普及啓発・本人発信支援」として，家族が積極的に本人の意思を代弁することが示された。",
-      "策定後は，毎年施策の進捗を確認することが示された。"
+      "「<ruby>共生<rt>きょうせい</rt></ruby>」と「<ruby>予防<rt>よぼう</rt></ruby>」を<ruby>車<rt>くるま</rt></ruby>の<ruby>両輪<rt>りょうりん</rt></ruby>として<ruby>施策<rt>しさく</rt></ruby>を<ruby>推進<rt>すいしん</rt></ruby>していく。",
+      "「<ruby>予防<rt>よぼう</rt></ruby>」とは，「<ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby>（dementia）にならない」という<ruby>意味<rt>いみ</rt></ruby>である。",
+      "「<ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby><ruby>高齢者<rt>こうれいしゃ</rt></ruby><ruby>等<rt>など</rt></ruby>にやさしい<ruby>地域<rt>ちいき</rt></ruby>づくり」を<ruby>推進<rt>すいしん</rt></ruby>する7つの<ruby>柱<rt>はしら</rt></ruby>が<ruby>示<rt>しめ</rt></ruby>された。",
+      "「<ruby>普及<rt>ふきゅう</rt></ruby><ruby>啓発<rt>けいはつ</rt></ruby>・<ruby>本人<rt>ほんにん</rt></ruby><ruby>発信<rt>はっしん</rt></ruby><ruby>支援<rt>しえん</rt></ruby>」として，<ruby>家族<rt>かぞく</rt></ruby>が<ruby>積極的<rt>せっきょくてき</rt></ruby>に<ruby>本人<rt>ほんにん</rt></ruby>の<ruby>意思<rt>いし</rt></ruby>を<ruby>代弁<rt>だいべん</rt></ruby>することが<ruby>示<rt>しめ</rt></ruby>された。",
+      "<ruby>策定<rt>さくてい</rt></ruby><ruby>後<rt>のち</rt></ruby>は，<ruby>毎年<rt>まいとし</rt></ruby><ruby>施策<rt>しさく</rt></ruby>の<ruby>進捗<rt>しんちょく</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>することが<ruby>示<rt>しめ</rt></ruby>された。"
     ],
     "answer": 0
   },
   {
-    "question": "問題40 Ａさん（84歳，女性，要介護3）は，アルツハイマー型認知症（dementia of the Alzheimer’s type）で，介護老人福祉施設に入所している。赤ちゃんの人形を持っていて，「はなちゃん」と呼んで話しかけている。昼食のため，介護福祉職が居室を訪問すると，Ａさんは不安そうな顔で，「はなちゃんがいなくなった。どこへ連れて行ったの？返して」と大声を出した。人形はＡさんのロッカーの上に置かれていた。 Ａさんに対する介護福祉職の最初の声かけとして，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>40 Ａさん（84<ruby>歳<rt>とし</rt></ruby>，<ruby>女性<rt>じょせい</rt></ruby>，<ruby>要介<rt>ようすけ</rt></ruby><ruby>護<rt>ご</rt></ruby>3）は，アルツハイマー<ruby>型<rt>かた</rt></ruby><ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby>（dementia of the Alzheimer’s type）で，<ruby>介護<rt>かいご</rt></ruby><ruby>老人<rt>ろうじん</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>施設<rt>しせつ</rt></ruby>に<ruby>入所<rt>にゅうしょ</rt></ruby>している。<ruby>赤<rt>あか</rt></ruby>ちゃんの<ruby>人形<rt>にんぎょう</rt></ruby>を<ruby>持<rt>も</rt></ruby>っていて，「はなちゃん」と<ruby>呼<rt>よ</rt></ruby>んで<ruby>話<rt>はな</rt></ruby>しかけている。<ruby>昼食<rt>ちゅうしょく</rt></ruby>のため，<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>が<ruby>居室<rt>きょしつ</rt></ruby>を<ruby>訪問<rt>ほうもん</rt></ruby>すると，Ａさんは<ruby>不安<rt>ふあん</rt></ruby>そうな<ruby>顔<rt>かお</rt></ruby>で，「はなちゃんがいなくなった。どこへ<ruby>連<rt>つ</rt></ruby>れて<ruby>行<rt>い</rt></ruby>ったの？<ruby>返<rt>かえ</rt></ruby>して」と<ruby>大声<rt>おおごえ</rt></ruby>を<ruby>出<rt>だ</rt></ruby>した。<ruby>人形<rt>にんぎょう</rt></ruby>はＡさんのロッカーの<ruby>上<rt>うえ</rt></ruby>に<ruby>置<rt>お</rt></ruby>かれていた。 Ａさんに<ruby>対<rt>たい</rt></ruby>する<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>の<ruby>最初<rt>さいしょ</rt></ruby>の<ruby>声<rt>こえ</rt></ruby>かけとして，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "「私を疑っているんですか」",
-      "「置いた場所を忘れたんですか」",
-      "「心配ですね，一緒に探しませんか」",
-      "「ご飯を食べてから探してはどうですか」",
-      "「ロッカーの上にあるのが見えないんですか」"
+      "「<ruby>私<rt>わたし</rt></ruby>を<ruby>疑<rt>うたが</rt></ruby>っているんですか」",
+      "「<ruby>置<rt>お</rt></ruby>いた<ruby>場所<rt>ばしょ</rt></ruby>を<ruby>忘<rt>わす</rt></ruby>れたんですか」",
+      "「<ruby>心配<rt>しんぱい</rt></ruby>ですね，<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>探<rt>さが</rt></ruby>しませんか」",
+      "「ご<ruby>飯<rt>めし</rt></ruby>を<ruby>食<rt>た</rt></ruby>べてから<ruby>探<rt>さが</rt></ruby>してはどうですか」",
+      "「ロッカーの<ruby>上<rt>うえ</rt></ruby>にあるのが<ruby>見<rt>み</rt></ruby>えないんですか」"
     ],
     "answer": 2
   },
   {
-    "question": "問題41 認知症（dementia）の高齢者にみられる，せん妄に関する記述として，適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>41 <ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby>（dementia）の<ruby>高齢者<rt>こうれいしゃ</rt></ruby>にみられる，せん<ruby>妄<rt>もう</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>記述<rt>きじゅつ</rt></ruby>として，<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "覚醒レベルが重度に低下した状態である。",
-      "症状の変動が少ないことが特徴である。",
-      "夜間よりも日中に生じやすいことが特徴である。",
-      "認知機能障害がみられることはまれである。",
-      "関与する因子を特定することが重要である。"
+      "<ruby>覚醒<rt>かくせい</rt></ruby>レベルが<ruby>重度<rt>じゅうど</rt></ruby>に<ruby>低下<rt>ていか</rt></ruby>した<ruby>状態<rt>じょうたい</rt></ruby>である。",
+      "<ruby>症状<rt>しょうじょう</rt></ruby>の<ruby>変動<rt>へんどう</rt></ruby>が<ruby>少<rt>すく</rt></ruby>ないことが<ruby>特徴<rt>とくちょう</rt></ruby>である。",
+      "<ruby>夜間<rt>やかん</rt></ruby>よりも<ruby>日中<rt>にっちゅう</rt></ruby>に<ruby>生<rt>しょう</rt></ruby>じやすいことが<ruby>特徴<rt>とくちょう</rt></ruby>である。",
+      "<ruby>認知機能<rt>にんちきのう</rt></ruby><ruby>障害<rt>しょうがい</rt></ruby>がみられることはまれである。",
+      "<ruby>関与<rt>かんよ</rt></ruby>する<ruby>因子<rt>いんし</rt></ruby>を<ruby>特定<rt>とくてい</rt></ruby>することが<ruby>重要<rt>じゅうよう</rt></ruby>である。"
     ],
     "answer": 4
   },
   {
-    "question": "問題42 次の記述のうち，アルツハイマー型認知症（dementia of the Alzheimer’s type）の特徴として，適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>42 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，アルツハイマー<ruby>型<rt>かた</rt></ruby><ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby>（dementia of the Alzheimer’s type）の<ruby>特徴<rt>とくちょう</rt></ruby>として，<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "近時記憶（新しい記憶）の障害は，初期から始まる。",
-      "特徴的な症状として幻視がある。",
-      "脳にアミロイドβが沈着し始めると，すぐに発症する。",
-      "歩行障害が多く現れるのは，初期の段階である。",
-      "嚥下障害が多く現れるのは，初期の段階である。"
+      "<ruby>近時<rt>きんじ</rt></ruby><ruby>記憶<rt>きおく</rt></ruby>（<ruby>新<rt>あたら</rt></ruby>しい<ruby>記憶<rt>きおく</rt></ruby>）の<ruby>障害<rt>しょうがい</rt></ruby>は，<ruby>初期<rt>しょき</rt></ruby>から<ruby>始<rt>はじ</rt></ruby>まる。",
+      "<ruby>特徴的<rt>とくちょうてき</rt></ruby>な<ruby>症状<rt>しょうじょう</rt></ruby>として<ruby>幻視<rt>げんし</rt></ruby>がある。",
+      "<ruby>脳<rt>のう</rt></ruby>にアミロイドβが<ruby>沈着<rt>ちんちゃく</rt></ruby>し<ruby>始<rt>はじ</rt></ruby>めると，すぐに<ruby>発症<rt>はっしょう</rt></ruby>する。",
+      "<ruby>歩行<rt>ほこう</rt></ruby><ruby>障害<rt>しょうがい</rt></ruby>が<ruby>多<rt>おお</rt></ruby>く<ruby>現<rt>あらわ</rt></ruby>れるのは，<ruby>初期<rt>しょき</rt></ruby>の<ruby>段階<rt>だんかい</rt></ruby>である。",
+      "<ruby>嚥下<rt>えんか</rt></ruby><ruby>障害<rt>しょうがい</rt></ruby>が<ruby>多<rt>おお</rt></ruby>く<ruby>現<rt>あらわ</rt></ruby>れるのは，<ruby>初期<rt>しょき</rt></ruby>の<ruby>段階<rt>だんかい</rt></ruby>である。"
     ],
     "answer": 0
   },
   {
-    "question": "問題43 次のうち，認知症（dementia）のリスクを高める要因として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>43 <ruby>次<rt>つぎ</rt></ruby>のうち，<ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby>（dementia）のリスクを<ruby>高<rt>たか</rt></ruby>める<ruby>要因<rt>よういん</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "身体活動",
-      "不飽和脂肪酸の摂取",
-      "歯がなくなることによる咀嚼機能の低下",
-      "難聴による補聴器の使用",
-      "ボランティア活動"
+      "<ruby>身体<rt>しんたい</rt></ruby><ruby>活動<rt>かつどう</rt></ruby>",
+      "<ruby>不<rt>ふ</rt></ruby><ruby>飽和<rt>ほうわ</rt></ruby><ruby>脂肪酸<rt>しぼうさん</rt></ruby>の<ruby>摂取<rt>せっしゅ</rt></ruby>",
+      "<ruby>歯<rt>は</rt></ruby>がなくなることによる<ruby>咀嚼<rt>そしゃく</rt></ruby><ruby>機能<rt>きのう</rt></ruby>の<ruby>低下<rt>ていか</rt></ruby>",
+      "<ruby>難聴<rt>なんちょう</rt></ruby>による<ruby>補聴器<rt>ほちょうき</rt></ruby>の<ruby>使用<rt>しよう</rt></ruby>",
+      "ボランティア<ruby>活動<rt>かつどう</rt></ruby>"
     ],
     "answer": 2
   },
   {
-    "question": "問題44 次のうち，全般的な認知機能を評価する尺度であり，30点満点で20点以下を認知症の目安とするものとして，正しいものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>44 <ruby>次<rt>つぎ</rt></ruby>のうち，<ruby>全般的<rt>ぜんぱんてき</rt></ruby>な<ruby>認知機能<rt>にんちきのう</rt></ruby>を<ruby>評価<rt>ひょうか</rt></ruby>する<ruby>尺度<rt>しゃくど</rt></ruby>であり，30<ruby>点<rt>てん</rt></ruby><ruby>満点<rt>まんてん</rt></ruby>で20<ruby>点<rt>てん</rt></ruby><ruby>以下<rt>いか</rt></ruby>を<ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby>の<ruby>目安<rt>めやす</rt></ruby>とするものとして，<ruby>正<rt>ただ</rt></ruby>しいものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
       "バーセルインデックス（Barthel Index）",
-      "改訂長谷川式認知症スケール（HDS-R）",
+      "<ruby>改訂<rt>かいてい</rt></ruby><ruby>長谷川<rt>はせがわ</rt></ruby><ruby>式<rt>しき</rt></ruby><ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby>スケール（HDS-R）",
       "ＦＡＳＴ（Functional Assessment Staging）",
-      "認知症高齢者の日常生活自立度判定基準",
-      "臨床的認知症尺度（ＣＤＲ：Clinical Dementia Rating）"
+      "<ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby><ruby>高齢者<rt>こうれいしゃ</rt></ruby>の<ruby>日常生活<rt>にちじょうせいかつ</rt></ruby><ruby>自立<rt>じりつ</rt></ruby><ruby>度<rt>ど</rt></ruby><ruby>判定基準<rt>はんていきじゅん</rt></ruby>",
+      "<ruby>臨床的<rt>りんしょうてき</rt></ruby><ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby><ruby>尺度<rt>しゃくど</rt></ruby>（ＣＤＲ：Clinical Dementia Rating）"
     ],
     "answer": 1
   },
   {
-    "question": "問題45 次の記述のうち，「認知症（dementia）の人の日常生活・社会生活における意思決定支援ガイドライン」（2018年（平成30年）（厚生労働省））で示されている，意思決定支援として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>45 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，「<ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby>（dementia）の<ruby>人<rt>にん</rt></ruby>の<ruby>日常生活<rt>にちじょうせいかつ</rt></ruby>・<ruby>社会生活<rt>しゃかいせいかつ</rt></ruby>における<ruby>意思決定<rt>いしけってい</rt></ruby><ruby>支援<rt>しえん</rt></ruby>ガイドライン」（2018<ruby>年<rt>ねん</rt></ruby>（<ruby>平成<rt>へいせい</rt></ruby>30<ruby>年<rt>ねん</rt></ruby>）（<ruby>厚生<rt>こうせい</rt></ruby><ruby>労働省<rt>ろうどうしょう</rt></ruby>））で<ruby>示<rt>しめ</rt></ruby>されている，<ruby>意思決定<rt>いしけってい</rt></ruby><ruby>支援<rt>しえん</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "認知症（dementia）の人の家族の意思を支援することである。",
-      "意思決定支援者は特定の職種に限定される。",
-      "一度，意思決定したら，最後まで同じ内容で支援する。",
-      "看取りの場面になってから支援を開始する。",
-      "身振りや表情の変化も意思表示として読み取る努力を最大限に行う。"
+      "<ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby>（dementia）の<ruby>人<rt>にん</rt></ruby>の<ruby>家族<rt>かぞく</rt></ruby>の<ruby>意思<rt>いし</rt></ruby>を<ruby>支援<rt>しえん</rt></ruby>することである。",
+      "<ruby>意思決定<rt>いしけってい</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>者<rt>もの</rt></ruby>は<ruby>特定<rt>とくてい</rt></ruby>の<ruby>職種<rt>しょくしゅ</rt></ruby>に<ruby>限定<rt>げんてい</rt></ruby>される。",
+      "<ruby>一度<rt>いちど</rt></ruby>，<ruby>意思決定<rt>いしけってい</rt></ruby>したら，<ruby>最後<rt>さいご</rt></ruby>まで<ruby>同<rt>おな</rt></ruby>じ<ruby>内容<rt>ないよう</rt></ruby>で<ruby>支援<rt>しえん</rt></ruby>する。",
+      "<ruby>看取<rt>かんしゅ</rt></ruby>りの<ruby>場面<rt>ばめん</rt></ruby>になってから<ruby>支援<rt>しえん</rt></ruby>を<ruby>開始<rt>かいし</rt></ruby>する。",
+      "<ruby>身振<rt>みぶ</rt></ruby>りや<ruby>表情<rt>ひょうじょう</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>も<ruby>意思表示<rt>いしひょうじ</rt></ruby>として<ruby>読み取<rt>よみと</rt></ruby>る<ruby>努力<rt>どりょく</rt></ruby>を<ruby>最大限<rt>さいだいげん</rt></ruby>に<ruby>行<rt>おこな</rt></ruby>う。"
     ],
     "answer": 4
   },
   {
-    "question": "問題46 次の記述のうち，回想法として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>46 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>回想<rt>かいそう</rt></ruby><ruby>法<rt>ほう</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "肩や背中から優しくゆっくりと触れる。",
-      "共感を通して，認知症（dementia）の人が体験している現実を受け入れる。",
-      "見当識を高めるために，時間や場所，現在の状況を説明する。",
-      "昔の写真や音楽を活用して，記憶を活性化する。",
-      "残存能力を活用し，共同作業を通して仲間をつくる。"
+      "<ruby>肩<rt>かた</rt></ruby>や<ruby>背中<rt>せなか</rt></ruby>から<ruby>優<rt>やさ</rt></ruby>しくゆっくりと<ruby>触<rt>ふ</rt></ruby>れる。",
+      "<ruby>共感<rt>きょうかん</rt></ruby>を<ruby>通<rt>とう</rt></ruby>して，<ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby>（dementia）の<ruby>人<rt>にん</rt></ruby>が<ruby>体験<rt>たいけん</rt></ruby>している<ruby>現実<rt>げんじつ</rt></ruby>を<ruby>受け入<rt>うけい</rt></ruby>れる。",
+      "<ruby>見当<rt>けんとう</rt></ruby><ruby>識<rt>しき</rt></ruby>を<ruby>高<rt>たか</rt></ruby>めるために，<ruby>時間<rt>じかん</rt></ruby>や<ruby>場所<rt>ばしょ</rt></ruby>，<ruby>現在<rt>げんざい</rt></ruby>の<ruby>状況<rt>じょうきょう</rt></ruby>を<ruby>説明<rt>せつめい</rt></ruby>する。",
+      "<ruby>昔<rt>むかし</rt></ruby>の<ruby>写真<rt>しゃしん</rt></ruby>や<ruby>音楽<rt>おんがく</rt></ruby>を<ruby>活用<rt>かつよう</rt></ruby>して，<ruby>記憶<rt>きおく</rt></ruby>を<ruby>活性化<rt>かっせいか</rt></ruby>する。",
+      "<ruby>残存<rt>ざんそん</rt></ruby><ruby>能力<rt>のうりょく</rt></ruby>を<ruby>活用<rt>かつよう</rt></ruby>し，<ruby>共同作業<rt>きょうどうさぎょう</rt></ruby>を<ruby>通<rt>とう</rt></ruby>して<ruby>仲間<rt>なかま</rt></ruby>をつくる。"
     ],
     "answer": 3
   },
   {
-    "question": "問題47 次の記述のうち，認知症疾患医療センターの説明として，適切なものを1 つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>47 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby><ruby>疾患<rt>しっかん</rt></ruby><ruby>医療<rt>いりょう</rt></ruby>センターの<ruby>説明<rt>せつめい</rt></ruby>として，<ruby>適切<rt>てきせつ</rt></ruby>なものを1 つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "事業の実施主体は，市町村である。",
-      "都道府県ごとに，1か所の設置が義務づけられている。",
-      "認知症（dementia）の鑑別診断を行う。",
-      "主に認知症（dementia）が進行した人の入院治療を行う。",
-      "介護保険法に定められている。"
+      "<ruby>事業<rt>じぎょう</rt></ruby>の<ruby>実施<rt>じっし</rt></ruby><ruby>主体<rt>しゅたい</rt></ruby>は，<ruby>市町村<rt>しちょうそん</rt></ruby>である。",
+      "<ruby>都道府県<rt>とどうふけん</rt></ruby>ごとに，1か<ruby>所<rt>ところ</rt></ruby>の<ruby>設置<rt>せっち</rt></ruby>が<ruby>義務<rt>ぎむ</rt></ruby>づけられている。",
+      "<ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby>（dementia）の<ruby>鑑別<rt>かんべつ</rt></ruby><ruby>診断<rt>しんだん</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う。",
+      "<ruby>主<rt>おも</rt></ruby>に<ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby>（dementia）が<ruby>進行<rt>しんこう</rt></ruby>した<ruby>人<rt>にん</rt></ruby>の<ruby>入院<rt>にゅういん</rt></ruby><ruby>治療<rt>ちりょう</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う。",
+      "<ruby>介護<rt>かいご</rt></ruby><ruby>保険<rt>ほけん</rt></ruby><ruby>法<rt>ほう</rt></ruby>に<ruby>定<rt>さだ</rt></ruby>められている。"
     ],
     "answer": 2
   },
   {
-    "question": "問題48 Ｂさん（87歳，男性）は，一人暮らしである。玄関前で，脱水で倒れているところを発見され，救急搬送された。入院中，認知症（dementia）の疑いがある行動が見られた。Ｂさんは，「自宅で暮らしたい」と強く希望していた。退院後，Ｂさんは外出して自宅に戻れなくなることがあった。近所の人たちが，Ｂさんの生活を心配して，地域包括支援センターに相談した結果，認知症初期集中支援チームが編成された。 次の記述のうち，Ｂさんに対して認知症初期集中支援チームが行う支援として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>48 Ｂさん（87<ruby>歳<rt>とし</rt></ruby>，<ruby>男性<rt>だんせい</rt></ruby>）は，<ruby>一人暮<rt>ひとりぐ</rt></ruby>らしである。<ruby>玄関前<rt>げんかんまえ</rt></ruby>で，<ruby>脱水<rt>だっすい</rt></ruby>で<ruby>倒<rt>たお</rt></ruby>れているところを<ruby>発見<rt>はっけん</rt></ruby>され，<ruby>救急<rt>きゅうきゅう</rt></ruby><ruby>搬送<rt>はんそう</rt></ruby>された。<ruby>入院中<rt>にゅういんちゅう</rt></ruby>，<ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby>（dementia）の<ruby>疑<rt>うたが</rt></ruby>いがある<ruby>行動<rt>こうどう</rt></ruby>が<ruby>見<rt>み</rt></ruby>られた。Ｂさんは，「<ruby>自宅<rt>じたく</rt></ruby>で<ruby>暮<rt>く</rt></ruby>らしたい」と<ruby>強<rt>つよ</rt></ruby>く<ruby>希望<rt>きぼう</rt></ruby>していた。<ruby>退院<rt>たいいん</rt></ruby><ruby>後<rt>のち</rt></ruby>，Ｂさんは<ruby>外出<rt>がいしゅつ</rt></ruby>して<ruby>自宅<rt>じたく</rt></ruby>に<ruby>戻<rt>もど</rt></ruby>れなくなることがあった。<ruby>近所<rt>きんじょ</rt></ruby>の<ruby>人<rt>にん</rt></ruby>たちが，Ｂさんの<ruby>生活<rt>せいかつ</rt></ruby>を<ruby>心配<rt>しんぱい</rt></ruby>して，<ruby>地域<rt>ちいき</rt></ruby><ruby>包括<rt>ほうかつ</rt></ruby><ruby>支援<rt>しえん</rt></ruby>センターに<ruby>相談<rt>そうだん</rt></ruby>した<ruby>結果<rt>けっか</rt></ruby>，<ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby><ruby>初期<rt>しょき</rt></ruby><ruby>集中<rt>しゅうちゅう</rt></ruby><ruby>支援<rt>しえん</rt></ruby>チームが<ruby>編成<rt>へんせい</rt></ruby>された。 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，Ｂさんに<ruby>対<rt>たい</rt></ruby>して<ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby><ruby>初期<rt>しょき</rt></ruby><ruby>集中<rt>しゅうちゅう</rt></ruby><ruby>支援<rt>しえん</rt></ruby>チームが<ruby>行<rt>おこな</rt></ruby>う<ruby>支援<rt>しえん</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "金銭管理を行う。",
-      "支援方針を検討する。",
-      "居宅サービス計画書を作成する。",
-      "介護保険サービスを契約する。",
-      "法定後見を行う。"
+      "<ruby>金銭<rt>きんせん</rt></ruby><ruby>管理<rt>かんり</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う。",
+      "<ruby>支援<rt>しえん</rt></ruby><ruby>方針<rt>ほうしん</rt></ruby>を<ruby>検討<rt>けんとう</rt></ruby>する。",
+      "<ruby>居宅<rt>きょたく</rt></ruby>サービス<ruby>計画書<rt>けいかくしょ</rt></ruby>を<ruby>作成<rt>さくせい</rt></ruby>する。",
+      "<ruby>介護<rt>かいご</rt></ruby><ruby>保険<rt>ほけん</rt></ruby>サービスを<ruby>契約<rt>けいやく</rt></ruby>する。",
+      "<ruby>法定<rt>ほうてい</rt></ruby><ruby>後見<rt>こうけん</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う。"
     ],
     "answer": 1
   },
   {
-    "question": "問題49 次のうち，ＩＣＦ（International Classification of Functioning, Disability and Health：国際生活機能分類）の社会（人生）レベルに該当するものとして，正しいものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>49 <ruby>次<rt>つぎ</rt></ruby>のうち，ＩＣＦ（International Classification of Functioning, Disability and Health：<ruby>国際<rt>こくさい</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby><ruby>機能<rt>きのう</rt></ruby><ruby>分類<rt>ぶんるい</rt></ruby>）の<ruby>社会<rt>しゃかい</rt></ruby>（<ruby>人生<rt>じんせい</rt></ruby>）レベルに<ruby>該当<rt>がいとう</rt></ruby>するものとして，<ruby>正<rt>ただ</rt></ruby>しいものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "心身機能・身体構造",
-      "活動",
-      "参加",
-      "機能障害",
-      "活動制限"
+      "<ruby>心身<rt>しんしん</rt></ruby><ruby>機能<rt>きのう</rt></ruby>・<ruby>身体<rt>しんたい</rt></ruby><ruby>構造<rt>こうぞう</rt></ruby>",
+      "<ruby>活動<rt>かつどう</rt></ruby>",
+      "<ruby>参加<rt>さんか</rt></ruby>",
+      "<ruby>機能障害<rt>きのうしょうがい</rt></ruby>",
+      "<ruby>活動<rt>かつどう</rt></ruby><ruby>制限<rt>せいげん</rt></ruby>"
     ],
     "answer": 2
   },
   {
-    "question": "問題50 次の記述のうち，障害者のエンパワメントに関するものとして，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>50 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>障害者<rt>しょうがいしゃ</rt></ruby>のエンパワメントに<ruby>関<rt>かん</rt></ruby>するものとして，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "障害のある人が障害のない人と同等に生活し，活動する社会を目指す。",
-      "専門職が主導し，障害がある人は受動的に支援を受ける。",
-      "障害のある人が自らの能力や長所に気づき，課題に対応する。",
-      "障害のある人が，主体性や人権が守られないことに耐える。",
-      "障害のある人が，医学的リハビリテーションを受ける。"
+      "<ruby>障害<rt>しょうがい</rt></ruby>のある<ruby>人<rt>にん</rt></ruby>が<ruby>障害<rt>しょうがい</rt></ruby>のない<ruby>人<rt>にん</rt></ruby>と<ruby>同等<rt>どうとう</rt></ruby>に<ruby>生活<rt>せいかつ</rt></ruby>し，<ruby>活動<rt>かつどう</rt></ruby>する<ruby>社会<rt>しゃかい</rt></ruby>を<ruby>目指<rt>めざ</rt></ruby>す。",
+      "<ruby>専門職<rt>せんもんしょく</rt></ruby>が<ruby>主導<rt>しゅどう</rt></ruby>し，<ruby>障害<rt>しょうがい</rt></ruby>がある<ruby>人<rt>にん</rt></ruby>は<ruby>受動的<rt>じゅどうてき</rt></ruby>に<ruby>支援<rt>しえん</rt></ruby>を<ruby>受<rt>う</rt></ruby>ける。",
+      "<ruby>障害<rt>しょうがい</rt></ruby>のある<ruby>人<rt>にん</rt></ruby>が<ruby>自<rt>みずか</rt></ruby>らの<ruby>能力<rt>のうりょく</rt></ruby>や<ruby>長所<rt>ちょうしょ</rt></ruby>に<ruby>気<rt>き</rt></ruby>づき，<ruby>課題<rt>かだい</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>する。",
+      "<ruby>障害<rt>しょうがい</rt></ruby>のある<ruby>人<rt>にん</rt></ruby>が，<ruby>主体性<rt>しゅたいせい</rt></ruby>や<ruby>人権<rt>じんけん</rt></ruby>が<ruby>守<rt>まも</rt></ruby>られないことに<ruby>耐<rt>た</rt></ruby>える。",
+      "<ruby>障害<rt>しょうがい</rt></ruby>のある<ruby>人<rt>にん</rt></ruby>が，<ruby>医学的<rt>いがくてき</rt></ruby>リハビリテーションを<ruby>受<rt>う</rt></ruby>ける。"
     ],
     "answer": 2
   },
   {
-    "question": "問題51 次のうち，クローン病（Crohn disease）にみられる特徴的な症状として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>51 <ruby>次<rt>つぎ</rt></ruby>のうち，クローン<ruby>病<rt>びょう</rt></ruby>（Crohn disease）にみられる<ruby>特徴的<rt>とくちょうてき</rt></ruby>な<ruby>症状<rt>しょうじょう</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "視力低下",
-      "栄養障害",
-      "咳嗽（がいそう）",
-      "運動失調",
-      "関節痛"
+      "<ruby>視力低下<rt>しりょくていか</rt></ruby>",
+      "<ruby>栄養<rt>えいよう</rt></ruby><ruby>障害<rt>しょうがい</rt></ruby>",
+      "<ruby>咳嗽<rt>がいそう</rt></ruby>（がいそう）",
+      "<ruby>運動<rt>うんどう</rt></ruby><ruby>失調<rt>しっちょう</rt></ruby>",
+      "<ruby>関節<rt>かんせつ</rt></ruby><ruby>痛<rt>つう</rt></ruby>"
     ],
     "answer": 1
   },
   {
-    "question": "問題52 次の記述のうち，遂行機能障害の特徴として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>52 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>遂行<rt>すいこう</rt></ruby><ruby>機能障害<rt>きのうしょうがい</rt></ruby>の<ruby>特徴<rt>とくちょう</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "些細なことですぐに興奮して怒鳴る。",
-      "新しい知識を覚えることが困難である。",
-      "ぼんやりして周囲に注意を向け続けることが困難である。",
-      "行動を計画して実行することが困難である。",
-      "言葉の表出や理解が困難である。"
+      "<ruby>些細<rt>ささい</rt></ruby>なことですぐに<ruby>興奮<rt>こうふん</rt></ruby>して<ruby>怒鳴<rt>どな</rt></ruby>る。",
+      "<ruby>新<rt>あたら</rt></ruby>しい<ruby>知識<rt>ちしき</rt></ruby>を<ruby>覚<rt>おぼ</rt></ruby>えることが<ruby>困難<rt>こんなん</rt></ruby>である。",
+      "ぼんやりして<ruby>周囲<rt>しゅうい</rt></ruby>に<ruby>注意<rt>ちゅうい</rt></ruby>を<ruby>向<rt>む</rt></ruby>け<ruby>続<rt>つづ</rt></ruby>けることが<ruby>困難<rt>こんなん</rt></ruby>である。",
+      "<ruby>行動<rt>こうどう</rt></ruby>を<ruby>計画<rt>けいかく</rt></ruby>して<ruby>実行<rt>じっこう</rt></ruby>することが<ruby>困難<rt>こんなん</rt></ruby>である。",
+      "<ruby>言葉<rt>ことば</rt></ruby>の<ruby>表出<rt>ひょうしゅつ</rt></ruby>や<ruby>理解<rt>りかい</rt></ruby>が<ruby>困難<rt>こんなん</rt></ruby>である。"
     ],
     "answer": 3
   },
   {
-    "question": "問題53 視覚障害の特徴と視覚障害者の生活支援に関する次の記述のうち，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>53 <ruby>視覚障害<rt>しかくしょうがい</rt></ruby>の<ruby>特徴<rt>とくちょう</rt></ruby>と<ruby>視覚障害者<rt>しかくしょうがいしゃ</rt></ruby>の<ruby>生活<rt>せいかつ</rt></ruby><ruby>支援<rt>しえん</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "ロービジョンは，視覚情報をまったく得られない状態である。",
-      "中途視覚障害者は，先天性の障害に比べて障害を受容しやすい。",
-      "白杖（はくじょう）には，視覚に障害があることを周囲に知らせる役目がある。",
-      "視覚障害を補うために，ペットの犬と一緒に外出する。",
-      "視覚障害者は，ガイドヘルパーの利用はできない。"
+      "ロービジョンは，<ruby>視覚情報<rt>しかくじょうほう</rt></ruby>をまったく<ruby>得<rt>え</rt></ruby>られない<ruby>状態<rt>じょうたい</rt></ruby>である。",
+      "<ruby>中途<rt>ちゅうと</rt></ruby><ruby>視覚障害者<rt>しかくしょうがいしゃ</rt></ruby>は，<ruby>先天性<rt>せんてんせい</rt></ruby>の<ruby>障害<rt>しょうがい</rt></ruby>に<ruby>比<rt>くら</rt></ruby>べて<ruby>障害<rt>しょうがい</rt></ruby>を<ruby>受容<rt>じゅよう</rt></ruby>しやすい。",
+      "<ruby>白<rt>しろ</rt></ruby><ruby>杖<rt>つえ</rt></ruby>（はくじょう）には，<ruby>視覚<rt>しかく</rt></ruby>に<ruby>障害<rt>しょうがい</rt></ruby>があることを<ruby>周囲<rt>しゅうい</rt></ruby>に<ruby>知<rt>し</rt></ruby>らせる<ruby>役目<rt>やくめ</rt></ruby>がある。",
+      "<ruby>視覚障害<rt>しかくしょうがい</rt></ruby>を<ruby>補<rt>おぎな</rt></ruby>うために，ペットの<ruby>犬<rt>いぬ</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>外出<rt>がいしゅつ</rt></ruby>する。",
+      "<ruby>視覚障害者<rt>しかくしょうがいしゃ</rt></ruby>は，ガイドヘルパーの<ruby>利用<rt>りよう</rt></ruby>はできない。"
     ],
     "answer": 2
   },
   {
-    "question": "問題54 Ａさん（76歳，女性）は，パーキンソン病（Parkinson disease）と診断され，日常生活動作（Activities of Daily Living：ＡＤＬ）は，車いすやベッド上で全介助である。最近，食事に時間がかかって嫌がるようになり，かすれ声が目立つようになった。 次のうち，現在のＡさんに対して介護福祉職が留意すべきこととして，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>54 Ａさん（76<ruby>歳<rt>とし</rt></ruby>，<ruby>女性<rt>じょせい</rt></ruby>）は，パーキンソン<ruby>病<rt>びょう</rt></ruby>（Parkinson disease）と<ruby>診断<rt>しんだん</rt></ruby>され，<ruby>日常生活<rt>にちじょうせいかつ</rt></ruby><ruby>動作<rt>どうさ</rt></ruby>（Activities of Daily Living：ＡＤＬ）は，<ruby>車<rt>くるま</rt></ruby>いすやベッド<ruby>上<rt>うえ</rt></ruby>で<ruby>全<rt>ぜん</rt></ruby><ruby>介助<rt>かいじょ</rt></ruby>である。<ruby>最近<rt>さいきん</rt></ruby>，<ruby>食事<rt>しょくじ</rt></ruby>に<ruby>時間<rt>じかん</rt></ruby>がかかって<ruby>嫌<rt>いや</rt></ruby>がるようになり，かすれ<ruby>声<rt>こえ</rt></ruby>が<ruby>目立<rt>めだ</rt></ruby>つようになった。 <ruby>次<rt>つぎ</rt></ruby>のうち，<ruby>現在<rt>げんざい</rt></ruby>のＡさんに<ruby>対<rt>たい</rt></ruby>して<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>が<ruby>留意<rt>りゅうい</rt></ruby>すべきこととして，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "安静時振戦",
-      "筋固縮",
-      "仮面様顔貌",
-      "誤嚥",
-      "便秘"
+      "<ruby>安静<rt>あんせい</rt></ruby><ruby>時<rt>とき</rt></ruby><ruby>振戦<rt>しんせん</rt></ruby>",
+      "<ruby>筋<rt>すじ</rt></ruby><ruby>固縮<rt>こしゅく</rt></ruby>",
+      "<ruby>仮面<rt>かめん</rt></ruby><ruby>様<rt>さま</rt></ruby><ruby>顔貌<rt>かおかたち</rt></ruby>",
+      "<ruby>誤嚥<rt>ごえん</rt></ruby>",
+      "<ruby>便秘<rt>べんぴ</rt></ruby>"
     ],
     "answer": 3
   },
   {
-    "question": "問題55 聴覚障害者の特徴や支援の方法に関する次の記述のうち，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>55 <ruby>聴覚障害者<rt>ちょうかくしょうがいしゃ</rt></ruby>の<ruby>特徴<rt>とくちょう</rt></ruby>や<ruby>支援<rt>しえん</rt></ruby>の<ruby>方法<rt>ほうほう</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "要約筆記によって意思疎通を補う。",
-      "軽度の聴覚障害を「ろう」という。",
-      "フラッシュベルは周囲の音を増幅させて伝える。",
-      "手話は意思の伝達に役立たない。",
-      "両耳の聴力レベルが40dBで身体障害者手帳が交付される。"
+      "<ruby>要約筆記<rt>ようやくひっき</rt></ruby>によって<ruby>意思疎通<rt>いしそつう</rt></ruby>を<ruby>補<rt>おぎな</rt></ruby>う。",
+      "<ruby>軽度<rt>けいど</rt></ruby>の<ruby>聴覚<rt>ちょうかく</rt></ruby><ruby>障害<rt>しょうがい</rt></ruby>を「ろう」という。",
+      "フラッシュベルは<ruby>周囲<rt>しゅうい</rt></ruby>の<ruby>音<rt>おと</rt></ruby>を<ruby>増幅<rt>ぞうふく</rt></ruby>させて<ruby>伝<rt>つた</rt></ruby>える。",
+      "<ruby>手話<rt>しゅわ</rt></ruby>は<ruby>意思<rt>いし</rt></ruby>の<ruby>伝達<rt>でんたつ</rt></ruby>に<ruby>役立<rt>やくた</rt></ruby>たない。",
+      "<ruby>両耳<rt>りょうみみ</rt></ruby>の<ruby>聴力<rt>ちょうりょく</rt></ruby>レベルが40dBで<ruby>身体障害者<rt>しんたいしょうがいしゃ</rt></ruby><ruby>手帳<rt>てちょう</rt></ruby>が<ruby>交付<rt>こうふ</rt></ruby>される。"
     ],
     "answer": 0
   },
   {
-    "question": "問題56 Ｂさん（24歳，男性）は，母親と二人暮らしで，小学生のときに注意欠陥多動性障害と疑われていた。Ｂさんは，最近になって昼夜を問わずゲームを続け，朝起きられずにアルバイトを無断で休むことが増えた。 次のうち，Ｂさんの母親が相談する機関として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>56 Ｂさん（24<ruby>歳<rt>とし</rt></ruby>，<ruby>男性<rt>だんせい</rt></ruby>）は，<ruby>母親<rt>ははおや</rt></ruby>と<ruby>二人<rt>ふたり</rt></ruby><ruby>暮<rt>く</rt></ruby>らしで，<ruby>小学生<rt>しょうがくせい</rt></ruby>のときに<ruby>注意<rt>ちゅうい</rt></ruby><ruby>欠陥<rt>けっかん</rt></ruby><ruby>多動<rt>たどう</rt></ruby><ruby>性<rt>せい</rt></ruby><ruby>障害<rt>しょうがい</rt></ruby>と<ruby>疑<rt>うたが</rt></ruby>われていた。Ｂさんは，<ruby>最近<rt>さいきん</rt></ruby>になって<ruby>昼夜<rt>ちゅうや</rt></ruby>を<ruby>問<rt>と</rt></ruby>わずゲームを<ruby>続<rt>つづ</rt></ruby>け，<ruby>朝起<rt>あさお</rt></ruby>きられずにアルバイトを<ruby>無断<rt>むだん</rt></ruby>で<ruby>休<rt>やす</rt></ruby>むことが<ruby>増<rt>ふ</rt></ruby>えた。 <ruby>次<rt>つぎ</rt></ruby>のうち，Ｂさんの<ruby>母親<rt>ははおや</rt></ruby>が<ruby>相談<rt>そうだん</rt></ruby>する<ruby>機関<rt>きかん</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "ハローワーク（公共職業安定所）",
-      "難病情報センター",
-      "認知症カフェ",
-      "放課後等デイサービス",
-      "発達障害者支援センター"
+      "ハローワーク（<ruby>公共<rt>こうきょう</rt></ruby><ruby>職業<rt>しょくぎょう</rt></ruby><ruby>安定<rt>あんてい</rt></ruby><ruby>所<rt>ところ</rt></ruby>）",
+      "<ruby>難病<rt>なんびょう</rt></ruby><ruby>情報<rt>じょうほう</rt></ruby>センター",
+      "<ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby>カフェ",
+      "<ruby>放課後<rt>ほうかご</rt></ruby><ruby>等<rt>など</rt></ruby>デイサービス",
+      "<ruby>発達<rt>はったつ</rt></ruby><ruby>障害者<rt>しょうがいしゃ</rt></ruby><ruby>支援<rt>しえん</rt></ruby>センター"
     ],
     "answer": 4
   },
   {
-    "question": "問題57 次の記述のうち，「障害者差別解消法」の合理的配慮に沿った対応として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>57 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，「<ruby>障害者差別<rt>しょうがいしゃさべつ</rt></ruby><ruby>解消法<rt>かいしょうほう</rt></ruby>」の<ruby>合理的<rt>ごうりてき</rt></ruby><ruby>配慮<rt>はいりょ</rt></ruby>に<ruby>沿<rt>そ</rt></ruby>った<ruby>対応<rt>たいおう</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "車いすの身体障害者から，陳列棚にある商品を見せてほしいと言われたが，口頭で商品を説明した。",
-      "聴覚障害者の手話による注文がわからなかったので，最も人気のあるメニューを出した。",
-      "盲導犬を連れた視覚障害者が来店したが，動物嫌いの客から苦情を言われると思い，犬は店の中に入れないように頼んだ。",
-      "役所に相談に来た精神障害者から，多くの人の中だと不安になると言われたため，帰宅してもらった。",
-      "知的障害者から申し出があったので，会議に参加するための資料をわかりやすい言葉に直して，事前に口頭で説明した。"
+      "<ruby>車<rt>くるま</rt></ruby>いすの<ruby>身体障害者<rt>しんたいしょうがいしゃ</rt></ruby>から，<ruby>陳列棚<rt>ちんれつだな</rt></ruby>にある<ruby>商品<rt>しょうひん</rt></ruby>を<ruby>見<rt>み</rt></ruby>せてほしいと<ruby>言<rt>い</rt></ruby>われたが，<ruby>口頭<rt>こうとう</rt></ruby>で<ruby>商品<rt>しょうひん</rt></ruby>を<ruby>説明<rt>せつめい</rt></ruby>した。",
+      "<ruby>聴覚障害者<rt>ちょうかくしょうがいしゃ</rt></ruby>の<ruby>手話<rt>しゅわ</rt></ruby>による<ruby>注文<rt>ちゅうもん</rt></ruby>がわからなかったので，<ruby>最<rt>もっと</rt></ruby>も<ruby>人気<rt>にんき</rt></ruby>のあるメニューを<ruby>出<rt>だ</rt></ruby>した。",
+      "<ruby>盲導犬<rt>もうどうけん</rt></ruby>を<ruby>連<rt>つ</rt></ruby>れた<ruby>視覚障害者<rt>しかくしょうがいしゃ</rt></ruby>が<ruby>来店<rt>らいてん</rt></ruby>したが，<ruby>動物<rt>どうぶつ</rt></ruby><ruby>嫌<rt>きら</rt></ruby>いの<ruby>客<rt>きゃく</rt></ruby>から<ruby>苦情<rt>くじょう</rt></ruby>を<ruby>言<rt>い</rt></ruby>われると<ruby>思<rt>おも</rt></ruby>い，<ruby>犬<rt>いぬ</rt></ruby>は<ruby>店<rt>みせ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>入<rt>い</rt></ruby>れないように<ruby>頼<rt>たの</rt></ruby>んだ。",
+      "<ruby>役所<rt>やくしょ</rt></ruby>に<ruby>相談<rt>そうだん</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>精神<rt>せいしん</rt></ruby><ruby>障害者<rt>しょうがいしゃ</rt></ruby>から，<ruby>多<rt>おお</rt></ruby>くの<ruby>人<rt>にん</rt></ruby>の<ruby>中<rt>なか</rt></ruby>だと<ruby>不安<rt>ふあん</rt></ruby>になると<ruby>言<rt>い</rt></ruby>われたため，<ruby>帰宅<rt>きたく</rt></ruby>してもらった。",
+      "<ruby>知的障害<rt>ちてきしょうがい</rt></ruby><ruby>者<rt>もの</rt></ruby>から<ruby>申し出<rt>もうしで</rt></ruby>があったので，<ruby>会議<rt>かいぎ</rt></ruby>に<ruby>参加<rt>さんか</rt></ruby>するための<ruby>資料<rt>しりょう</rt></ruby>をわかりやすい<ruby>言葉<rt>ことば</rt></ruby>に<ruby>直<rt>なお</rt></ruby>して，<ruby>事前<rt>じぜん</rt></ruby>に<ruby>口頭<rt>こうとう</rt></ruby>で<ruby>説明<rt>せつめい</rt></ruby>した。"
     ],
     "answer": 4
   },
   {
-    "question": "問題58 レスパイトケアの望ましいあり方に関する記述として，最も適切なものを 1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>58 レスパイトケアの<ruby>望<rt>のぞ</rt></ruby>ましいあり<ruby>方<rt>ほう</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>記述<rt>きじゅつ</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを 1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "障害者はサービスを利用せずに生活するべきである。",
-      "利用中，家族は自宅で休まなくてはならない。",
-      "家族が障害者を預けて旅行に行くことは認められない。",
-      "家族の休息が目的なので，障害者の施設利用は宿泊に限定される。",
-      "家族が休息している間も，障害者が自分らしく過ごせるようにする。"
+      "<ruby>障害者<rt>しょうがいしゃ</rt></ruby>はサービスを<ruby>利用<rt>りよう</rt></ruby>せずに<ruby>生活<rt>せいかつ</rt></ruby>するべきである。",
+      "<ruby>利用中<rt>りようちゅう</rt></ruby>，<ruby>家族<rt>かぞく</rt></ruby>は<ruby>自宅<rt>じたく</rt></ruby>で<ruby>休<rt>やす</rt></ruby>まなくてはならない。",
+      "<ruby>家族<rt>かぞく</rt></ruby>が<ruby>障害者<rt>しょうがいしゃ</rt></ruby>を<ruby>預<rt>あず</rt></ruby>けて<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>行<rt>い</rt></ruby>くことは<ruby>認<rt>みと</rt></ruby>められない。",
+      "<ruby>家族<rt>かぞく</rt></ruby>の<ruby>休息<rt>きゅうそく</rt></ruby>が<ruby>目的<rt>もくてき</rt></ruby>なので，<ruby>障害者<rt>しょうがいしゃ</rt></ruby>の<ruby>施設<rt>しせつ</rt></ruby><ruby>利用<rt>りよう</rt></ruby>は<ruby>宿泊<rt>しゅくはく</rt></ruby>に<ruby>限定<rt>げんてい</rt></ruby>される。",
+      "<ruby>家族<rt>かぞく</rt></ruby>が<ruby>休息<rt>きゅうそく</rt></ruby>している<ruby>間<rt>かん</rt></ruby>も，<ruby>障害者<rt>しょうがいしゃ</rt></ruby>が<ruby>自分<rt>じぶん</rt></ruby>らしく<ruby>過<rt>す</rt></ruby>ごせるようにする。"
     ],
     "answer": 4
   },
   {
-    "question": "問題59 次の記述のうち，成人に対する救急蘇生法での胸骨圧迫の方法として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>59 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>成人<rt>せいじん</rt></ruby>に<ruby>対<rt>たい</rt></ruby>する<ruby>救急蘇生法<rt>きゅうきゅうそせいほう</rt></ruby>での<ruby>胸骨<rt>きょうこつ</rt></ruby><ruby>圧迫<rt>あっぱく</rt></ruby>の<ruby>方法<rt>ほうほう</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "呼吸が確認できない場合は，すぐに圧迫を始める。",
-      "圧迫する部位は，胸骨の左側である。",
-      "実施者の両手を重ねて，指先で圧迫する。",
-      "圧迫の深さは，胸が10cm沈むようにする。",
-      "1 分間に60回を目安に圧迫する。"
+      "<ruby>呼吸<rt>こきゅう</rt></ruby>が<ruby>確認<rt>かくにん</rt></ruby>できない<ruby>場合<rt>ばあい</rt></ruby>は，すぐに<ruby>圧迫<rt>あっぱく</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>める。",
+      "<ruby>圧迫<rt>あっぱく</rt></ruby>する<ruby>部位<rt>ぶい</rt></ruby>は，<ruby>胸骨<rt>きょうこつ</rt></ruby>の<ruby>左側<rt>ひだりがわ</rt></ruby>である。",
+      "<ruby>実施者<rt>じっししゃ</rt></ruby>の<ruby>両手<rt>りょうて</rt></ruby>を<ruby>重<rt>おも</rt></ruby>ねて，<ruby>指先<rt>ゆびさき</rt></ruby>で<ruby>圧迫<rt>あっぱく</rt></ruby>する。",
+      "<ruby>圧迫<rt>あっぱく</rt></ruby>の<ruby>深<rt>ふか</rt></ruby>さは，<ruby>胸<rt>むね</rt></ruby>が10cm<ruby>沈<rt>しず</rt></ruby>むようにする。",
+      "1 <ruby>分間<rt>ふんかん</rt></ruby>に60<ruby>回<rt>かい</rt></ruby>を<ruby>目安<rt>めやす</rt></ruby>に<ruby>圧迫<rt>あっぱく</rt></ruby>する。"
     ],
     "answer": 0
   },
   {
-    "question": "問題60 次の記述のうち，痰（たん）を喀出（かくしゅつ）する仕組みに関するものとして，正しいものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>60 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>痰<rt>たん</rt></ruby>（たん）を<ruby>喀出<rt>かくしゅつ</rt></ruby>（かくしゅつ）する<ruby>仕組<rt>しく</rt></ruby>みに<ruby>関<rt>かん</rt></ruby>するものとして，<ruby>正<rt>ただ</rt></ruby>しいものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "呼吸器官の内部は乾燥した状態になっている。",
-      "気管の内部の表面には絨毛（じゅうもう）があり，分泌物の侵入を防いでいる。",
-      "分泌物は，咽頭で吸収される。",
-      "痰は，咳や咳払いによって排出される。",
-      "咳は，下垂体にある咳中枢によっておこる反射運動である。"
+      "<ruby>呼吸器官<rt>こきゅうきかん</rt></ruby>の<ruby>内部<rt>ないぶ</rt></ruby>は<ruby>乾燥<rt>かんそう</rt></ruby>した<ruby>状態<rt>じょうたい</rt></ruby>になっている。",
+      "<ruby>気管<rt>きかん</rt></ruby>の<ruby>内部<rt>ないぶ</rt></ruby>の<ruby>表面<rt>ひょうめん</rt></ruby>には<ruby>絨毛<rt>じゅうもう</rt></ruby>（じゅうもう）があり，<ruby>分泌物<rt>ぶんぴぶつ</rt></ruby>の<ruby>侵入<rt>しんにゅう</rt></ruby>を<ruby>防<rt>ふせ</rt></ruby>いでいる。",
+      "<ruby>分泌物<rt>ぶんぴぶつ</rt></ruby>は，<ruby>咽頭<rt>いんとう</rt></ruby>で<ruby>吸収<rt>きゅうしゅう</rt></ruby>される。",
+      "<ruby>痰<rt>たん</rt></ruby>は，<ruby>咳<rt>せき</rt></ruby>や<ruby>咳<rt>せき</rt></ruby><ruby>払<rt>はら</rt></ruby>いによって<ruby>排出<rt>はいしゅつ</rt></ruby>される。",
+      "<ruby>咳<rt>せき</rt></ruby>は，<ruby>下垂体<rt>かすいたい</rt></ruby>にある<ruby>咳<rt>せき</rt></ruby><ruby>中枢<rt>ちゅうすう</rt></ruby>によっておこる<ruby>反射<rt>はんしゃ</rt></ruby><ruby>運動<rt>うんどう</rt></ruby>である。"
     ],
     "answer": 3
   },
   {
-    "question": "問題61 次の記述のうち，介護福祉士が行う口腔内の喀痰吸引（かくたんきゅういん）の方法として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>61 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>士<rt>さむらい</rt></ruby>が<ruby>行<rt>おこな</rt></ruby>う<ruby>口腔内<rt>こうくうない</rt></ruby>の<ruby>喀痰<rt>かくたん</rt></ruby><ruby>吸引<rt>きゅういん</rt></ruby>（かくたんきゅういん）の<ruby>方法<rt>ほうほう</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "吸引圧は，利用者の体調によって介護福祉士が決める。",
-      "吸引圧をかけた状態で，吸引チューブを挿入する。",
-      "口蓋垂まで吸引チューブを挿入する。",
-      "吸引チューブを回転させながら痰を吸引する。",
-      "吸引後は洗浄水を吸引し，清浄綿でチューブを拭く。"
+      "<ruby>吸引<rt>きゅういん</rt></ruby><ruby>圧<rt>あつ</rt></ruby>は，<ruby>利用者<rt>りようしゃ</rt></ruby>の<ruby>体調<rt>たいちょう</rt></ruby>によって<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>士<rt>さむらい</rt></ruby>が<ruby>決<rt>き</rt></ruby>める。",
+      "<ruby>吸引<rt>きゅういん</rt></ruby><ruby>圧<rt>あつ</rt></ruby>をかけた<ruby>状態<rt>じょうたい</rt></ruby>で，<ruby>吸引<rt>きゅういん</rt></ruby>チューブを<ruby>挿入<rt>そうにゅう</rt></ruby>する。",
+      "<ruby>口蓋<rt>こうがい</rt></ruby><ruby>垂<rt>すい</rt></ruby>まで<ruby>吸引<rt>きゅういん</rt></ruby>チューブを<ruby>挿入<rt>そうにゅう</rt></ruby>する。",
+      "<ruby>吸引<rt>きゅういん</rt></ruby>チューブを<ruby>回転<rt>かいてん</rt></ruby>させながら<ruby>痰<rt>たん</rt></ruby>を<ruby>吸引<rt>きゅういん</rt></ruby>する。",
+      "<ruby>吸引<rt>きゅういん</rt></ruby><ruby>後<rt>のち</rt></ruby>は<ruby>洗浄<rt>せんじょう</rt></ruby><ruby>水<rt>みず</rt></ruby>を<ruby>吸引<rt>きゅういん</rt></ruby>し，<ruby>清浄<rt>せいじょう</rt></ruby><ruby>綿<rt>めん</rt></ruby>でチューブを<ruby>拭<rt>ふ</rt></ruby>く。"
     ],
     "answer": 3
   },
   {
-    "question": "問題62 次の記述のうち，消化器症状の説明として，正しいものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>62 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>消化器<rt>しょうかき</rt></ruby><ruby>症状<rt>しょうじょう</rt></ruby>の<ruby>説明<rt>せつめい</rt></ruby>として，<ruby>正<rt>ただ</rt></ruby>しいものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "腹部膨満感は，腹部が張る感覚のことである。",
-      "しゃっくり（吃逆）は，胸膜の刺激で起こる現象である。",
-      "胸やけは，飲食物による食道の熱傷のことである。",
-      "げっぷ（噯気）は，咽頭にたまった空気が排出されることである。",
-      "嘔気（おうき）は，胃や腸の内容物が，食道を逆流して口外に吐き出されることである。"
+      "<ruby>腹部<rt>ふくぶ</rt></ruby><ruby>膨満<rt>ぼうまん</rt></ruby><ruby>感<rt>かん</rt></ruby>は，<ruby>腹部<rt>ふくぶ</rt></ruby>が<ruby>張<rt>は</rt></ruby>る<ruby>感覚<rt>かんかく</rt></ruby>のことである。",
+      "しゃっくり（<ruby>吃逆<rt>しゃっくり</rt></ruby>）は，<ruby>胸膜<rt>きょうまく</rt></ruby>の<ruby>刺激<rt>しげき</rt></ruby>で<ruby>起<rt>お</rt></ruby>こる<ruby>現象<rt>げんしょう</rt></ruby>である。",
+      "<ruby>胸<rt>むね</rt></ruby>やけは，<ruby>飲食物<rt>いんしょくぶつ</rt></ruby>による<ruby>食道<rt>しょくどう</rt></ruby>の<ruby>熱傷<rt>ねっしょう</rt></ruby>のことである。",
+      "げっぷ（<ruby>噯気<rt>おくび</rt></ruby>）は，<ruby>咽頭<rt>いんとう</rt></ruby>にたまった<ruby>空気<rt>くうき</rt></ruby>が<ruby>排出<rt>はいしゅつ</rt></ruby>されることである。",
+      "<ruby>嘔気<rt>おうき</rt></ruby>（おうき）は，<ruby>胃<rt>い</rt></ruby>や<ruby>腸<rt>ちょう</rt></ruby>の<ruby>内容物<rt>ないようぶつ</rt></ruby>が，<ruby>食道<rt>しょくどう</rt></ruby>を<ruby>逆流<rt>ぎゃくりゅう</rt></ruby>して<ruby>口外<rt>こうがい</rt></ruby>に<ruby>吐き出<rt>はきだ</rt></ruby>されることである。"
     ],
     "answer": 0
   },
   {
-    "question": "問題63 Ａさん（80歳，女性）は，脳梗塞（cerebral infarction）の後遺症で左片麻痺（ひだりかたまひ）があり，介護老人保健施設に入所して在宅復帰に向けた訓練をしている。嚥下障害（えんげしょうがい）もあるため，経鼻経管栄養による栄養摂取をしているが，経口摂取できないことでイライラしてチューブを抜去したことがある。医師からは一時的な治療であると説明を受けて同意していた。経管栄養中に介護福祉士が訪室すると，チューブを触りながら，「自分の口から食べたいから，このチューブを抜いてほしい。見た目も良くない」と訴えがあった。看護師に連絡し，チューブが抜けていないことを確認してもらった。 このときのＡさんへの介護福祉士の対応として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>63 Ａさん（80<ruby>歳<rt>とし</rt></ruby>，<ruby>女性<rt>じょせい</rt></ruby>）は，<ruby>脳<rt>のう</rt></ruby><ruby>梗塞<rt>こうそく</rt></ruby>（cerebral infarction）の<ruby>後遺症<rt>こういしょう</rt></ruby>で<ruby>左片<rt>さへん</rt></ruby><ruby>麻痺<rt>まひ</rt></ruby>（ひだりかたまひ）があり，<ruby>介護<rt>かいご</rt></ruby><ruby>老人<rt>ろうじん</rt></ruby><ruby>保健<rt>ほけん</rt></ruby><ruby>施設<rt>しせつ</rt></ruby>に<ruby>入所<rt>にゅうしょ</rt></ruby>して<ruby>在宅<rt>ざいたく</rt></ruby><ruby>復帰<rt>ふっき</rt></ruby>に<ruby>向<rt>む</rt></ruby>けた<ruby>訓練<rt>くんれん</rt></ruby>をしている。<ruby>嚥下<rt>えんか</rt></ruby><ruby>障害<rt>しょうがい</rt></ruby>（えんげしょうがい）もあるため，<ruby>経鼻<rt>けいび</rt></ruby><ruby>経管<rt>けいかん</rt></ruby><ruby>栄養<rt>えいよう</rt></ruby>による<ruby>栄養<rt>えいよう</rt></ruby><ruby>摂取<rt>せっしゅ</rt></ruby>をしているが，<ruby>経口<rt>けいこう</rt></ruby><ruby>摂取<rt>せっしゅ</rt></ruby>できないことでイライラしてチューブを<ruby>抜去<rt>ばっきょ</rt></ruby>したことがある。<ruby>医師<rt>いし</rt></ruby>からは<ruby>一時的<rt>いちじてき</rt></ruby>な<ruby>治療<rt>ちりょう</rt></ruby>であると<ruby>説明<rt>せつめい</rt></ruby>を<ruby>受<rt>う</rt></ruby>けて<ruby>同意<rt>どうい</rt></ruby>していた。<ruby>経管<rt>けいかん</rt></ruby><ruby>栄養<rt>えいよう</rt></ruby><ruby>中<rt>なか</rt></ruby>に<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>士<rt>さむらい</rt></ruby>が<ruby>訪室<rt>ほうしつ</rt></ruby>すると，チューブを<ruby>触<rt>ふ</rt></ruby>りながら，「<ruby>自分<rt>じぶん</rt></ruby>の<ruby>口<rt>くち</rt></ruby>から<ruby>食<rt>た</rt></ruby>べたいから，このチューブを<ruby>抜<rt>ぬ</rt></ruby>いてほしい。<ruby>見た目<rt>みため</rt></ruby>も<ruby>良<rt>よ</rt></ruby>くない」と<ruby>訴<rt>うった</rt></ruby>えがあった。<ruby>看護<rt>かんご</rt></ruby><ruby>師<rt>し</rt></ruby>に<ruby>連絡<rt>れんらく</rt></ruby>し，チューブが<ruby>抜<rt>ぬ</rt></ruby>けていないことを<ruby>確認<rt>かくにん</rt></ruby>してもらった。 このときのＡさんへの<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>士<rt>さむらい</rt></ruby>の<ruby>対応<rt>たいおう</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "チューブを抜かないようにＡさんの右手を固定する。",
-      "経管栄養が早く終わるように滴下速度を調節する。",
-      "医師や看護師にＡさんの思いを伝える。",
-      "Ａさんに胃ろうの造設を提案する。",
-      "Ａさんに経口摂取を提案する。"
+      "チューブを<ruby>抜<rt>ぬ</rt></ruby>かないようにＡさんの<ruby>右手<rt>みぎて</rt></ruby>を<ruby>固定<rt>こてい</rt></ruby>する。",
+      "<ruby>経管<rt>けいかん</rt></ruby><ruby>栄養<rt>えいよう</rt></ruby>が<ruby>早<rt>はや</rt></ruby>く<ruby>終<rt>お</rt></ruby>わるように<ruby>滴下<rt>てきか</rt></ruby><ruby>速度<rt>そくど</rt></ruby>を<ruby>調節<rt>ちょうせつ</rt></ruby>する。",
+      "<ruby>医師<rt>いし</rt></ruby>や<ruby>看護<rt>かんご</rt></ruby><ruby>師<rt>し</rt></ruby>にＡさんの<ruby>思<rt>おも</rt></ruby>いを<ruby>伝<rt>つた</rt></ruby>える。",
+      "Ａさんに<ruby>胃<rt>い</rt></ruby>ろうの<ruby>造設<rt>ぞうせつ</rt></ruby>を<ruby>提案<rt>ていあん</rt></ruby>する。",
+      "Ａさんに<ruby>経口<rt>けいこう</rt></ruby><ruby>摂取<rt>せっしゅ</rt></ruby>を<ruby>提案<rt>ていあん</rt></ruby>する。"
     ],
     "answer": 2
   },
   {
-    "question": "問題64 介護福祉に関連する法律に関する次の記述のうち，適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>64 <ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby>に<ruby>関連<rt>かんれん</rt></ruby>する<ruby>法律<rt>ほうりつ</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "「高齢者虐待防止法」は，福祉六法の1つである。",
-      "「障害者総合支援法」は，障害者基本計画の策定を義務づけている。",
-      "社会福祉法によって，社会福祉士の定義が規定されている。",
-      "介護保険法は，国民の共同連帯の理念に基づいて介護保険制度を設けている。",
-      "医師法によって，介護福祉の業務の一部として医行為が認められている。"
+      "「<ruby>高齢者<rt>こうれいしゃ</rt></ruby><ruby>虐待<rt>ぎゃくたい</rt></ruby><ruby>防止法<rt>ぼうしほう</rt></ruby>」は，<ruby>福祉<rt>ふくし</rt></ruby><ruby>六法<rt>ろっぽう</rt></ruby>の1つである。",
+      "「<ruby>障害者<rt>しょうがいしゃ</rt></ruby><ruby>総合<rt>そうごう</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>法<rt>ほう</rt></ruby>」は，<ruby>障害者<rt>しょうがいしゃ</rt></ruby><ruby>基本<rt>きほん</rt></ruby><ruby>計画<rt>けいかく</rt></ruby>の<ruby>策定<rt>さくてい</rt></ruby>を<ruby>義務<rt>ぎむ</rt></ruby>づけている。",
+      "<ruby>社会福祉<rt>しゃかいふくし</rt></ruby><ruby>法<rt>ほう</rt></ruby>によって，<ruby>社会福祉<rt>しゃかいふくし</rt></ruby><ruby>士<rt>さむらい</rt></ruby>の<ruby>定義<rt>ていぎ</rt></ruby>が<ruby>規定<rt>きてい</rt></ruby>されている。",
+      "<ruby>介護<rt>かいご</rt></ruby><ruby>保険<rt>ほけん</rt></ruby><ruby>法<rt>ほう</rt></ruby>は，<ruby>国民<rt>こくみん</rt></ruby>の<ruby>共同<rt>きょうどう</rt></ruby><ruby>連帯<rt>れんたい</rt></ruby>の<ruby>理念<rt>りねん</rt></ruby>に<ruby>基<rt>もと</rt></ruby>づいて<ruby>介護<rt>かいご</rt></ruby><ruby>保険制度<rt>ほけんせいど</rt></ruby>を<ruby>設<rt>もう</rt></ruby>けている。",
+      "<ruby>医師法<rt>いしほう</rt></ruby>によって，<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby>の<ruby>業務<rt>ぎょうむ</rt></ruby>の<ruby>一部<rt>いちぶ</rt></ruby>として<ruby>医<rt>い</rt></ruby><ruby>行為<rt>こうい</rt></ruby>が<ruby>認<rt>みと</rt></ruby>められている。"
     ],
     "answer": 3
   },
   {
-    "question": "問題65 社会福祉士及び介護福祉士法に関する次の記述のうち，適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>65 <ruby>社会福祉<rt>しゃかいふくし</rt></ruby><ruby>士<rt>さむらい</rt></ruby><ruby>及<rt>およ</rt></ruby>び<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>士<rt>さむらい</rt></ruby><ruby>法<rt>ほう</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "資質向上のために，5年に1回，資格更新研修を受けなければならない。",
-      "社会福祉士の業務を介護福祉士が行うことは禁じられている。",
-      "介護福祉士の信用を傷つける行為をしてはならない。",
-      "介護福祉士は，その業を辞した後は秘密保持義務が解除される。",
-      "介護福祉士国家試験に合格した日から，介護福祉士を名乗ることができる。"
+      "<ruby>資質<rt>ししつ</rt></ruby><ruby>向上<rt>こうじょう</rt></ruby>のために，5<ruby>年<rt>ねん</rt></ruby>に1<ruby>回<rt>かい</rt></ruby>，<ruby>資格<rt>しかく</rt></ruby><ruby>更新<rt>こうしん</rt></ruby><ruby>研修<rt>けんしゅう</rt></ruby>を<ruby>受<rt>う</rt></ruby>けなければならない。",
+      "<ruby>社会福祉<rt>しゃかいふくし</rt></ruby><ruby>士<rt>さむらい</rt></ruby>の<ruby>業務<rt>ぎょうむ</rt></ruby>を<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>士<rt>さむらい</rt></ruby>が<ruby>行<rt>おこな</rt></ruby>うことは<ruby>禁<rt>きん</rt></ruby>じられている。",
+      "<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>士<rt>さむらい</rt></ruby>の<ruby>信用<rt>しんよう</rt></ruby>を<ruby>傷<rt>きず</rt></ruby>つける<ruby>行為<rt>こうい</rt></ruby>をしてはならない。",
+      "<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>士<rt>さむらい</rt></ruby>は，その<ruby>業<rt>ぎょう</rt></ruby>を<ruby>辞<rt>じ</rt></ruby>した<ruby>後<rt>のち</rt></ruby>は<ruby>秘密<rt>ひみつ</rt></ruby><ruby>保持<rt>ほじ</rt></ruby><ruby>義務<rt>ぎむ</rt></ruby>が<ruby>解除<rt>かいじょ</rt></ruby>される。",
+      "<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>士<rt>さむらい</rt></ruby><ruby>国家試験<rt>こっかしけん</rt></ruby>に<ruby>合格<rt>ごうかく</rt></ruby>した<ruby>日<rt>にち</rt></ruby>から，<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>士<rt>さむらい</rt></ruby>を<ruby>名乗<rt>なの</rt></ruby>ることができる。"
     ],
     "answer": 2
   },
   {
-    "question": "問題66 Ａさん（75歳，女性）は，3か月前に，血管性認知症（vascular dementia）を発症し，軽度の左片麻痺（ひだりかたまひ）で杖歩行となり，要介護3と認定された。Ａさんは，料理が大好きで，娘と一緒に食事を作ることを楽しみに生活していた。1か月前から認知症（dementia）が進行し，ユニット型介護老人福祉施設に入所した。Ａさんは夕方になると，「ご飯の支度をしないといけないから帰ります」と言いながら，興奮して歩き回る様子がみられるようになった。 Ａさんへの介護福祉職の対応として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>66 Ａさん（75<ruby>歳<rt>とし</rt></ruby>，<ruby>女性<rt>じょせい</rt></ruby>）は，3か<ruby>月前<rt>げつまえ</rt></ruby>に，<ruby>血管<rt>けっかん</rt></ruby><ruby>性<rt>せい</rt></ruby><ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby>（vascular dementia）を<ruby>発症<rt>はっしょう</rt></ruby>し，<ruby>軽度<rt>けいど</rt></ruby>の<ruby>左片<rt>さへん</rt></ruby><ruby>麻痺<rt>まひ</rt></ruby>（ひだりかたまひ）で<ruby>杖<rt>つえ</rt></ruby><ruby>歩行<rt>ほこう</rt></ruby>となり，<ruby>要介<rt>ようすけ</rt></ruby><ruby>護<rt>ご</rt></ruby>3と<ruby>認定<rt>にんてい</rt></ruby>された。Ａさんは，<ruby>料理<rt>りょうり</rt></ruby>が<ruby>大好<rt>だいす</rt></ruby>きで，<ruby>娘<rt>むすめ</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>食事<rt>しょくじ</rt></ruby>を<ruby>作<rt>つく</rt></ruby>ることを<ruby>楽<rt>たの</rt></ruby>しみに<ruby>生活<rt>せいかつ</rt></ruby>していた。1か<ruby>月前<rt>げつまえ</rt></ruby>から<ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby>（dementia）が<ruby>進行<rt>しんこう</rt></ruby>し，ユニット<ruby>型<rt>かた</rt></ruby><ruby>介護<rt>かいご</rt></ruby><ruby>老人<rt>ろうじん</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>施設<rt>しせつ</rt></ruby>に<ruby>入所<rt>にゅうしょ</rt></ruby>した。Ａさんは<ruby>夕方<rt>ゆうがた</rt></ruby>になると，「ご<ruby>飯<rt>めし</rt></ruby>の<ruby>支度<rt>したく</rt></ruby>をしないといけないから<ruby>帰<rt>かえ</rt></ruby>ります」と<ruby>言<rt>い</rt></ruby>いながら，<ruby>興奮<rt>こうふん</rt></ruby>して<ruby>歩<rt>ある</rt></ruby>き<ruby>回<rt>まわ</rt></ruby>る<ruby>様子<rt>ようす</rt></ruby>がみられるようになった。 Ａさんへの<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>の<ruby>対応<rt>たいおう</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "居室に鍵をかけて，自室で過ごしてもらう。",
-      "介護福祉職と一緒に，夕食の準備をしてもらう。",
-      "杖を預かり，低めの丸椅子に座ってもらう。",
-      "介護福祉職の判断で，向精神薬を服用してもらう。",
-      "ここがＡさんの自宅であることを，理解してもらう。"
+      "<ruby>居室<rt>きょしつ</rt></ruby>に<ruby>鍵<rt>かぎ</rt></ruby>をかけて，<ruby>自室<rt>じしつ</rt></ruby>で<ruby>過<rt>す</rt></ruby>ごしてもらう。",
+      "<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に，<ruby>夕食<rt>ゆうしょく</rt></ruby>の<ruby>準備<rt>じゅんび</rt></ruby>をしてもらう。",
+      "<ruby>杖<rt>つえ</rt></ruby>を<ruby>預<rt>あず</rt></ruby>かり，<ruby>低<rt>ひく</rt></ruby>めの<ruby>丸椅子<rt>まるいす</rt></ruby>に<ruby>座<rt>すわ</rt></ruby>ってもらう。",
+      "<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>の<ruby>判断<rt>はんだん</rt></ruby>で，<ruby>向<rt>こう</rt></ruby><ruby>精神<rt>せいしん</rt></ruby><ruby>薬<rt>くすり</rt></ruby>を<ruby>服用<rt>ふくよう</rt></ruby>してもらう。",
+      "ここがＡさんの<ruby>自宅<rt>じたく</rt></ruby>であることを，<ruby>理解<rt>りかい</rt></ruby>してもらう。"
     ],
     "answer": 1
   },
   {
-    "question": "問題67 ＩＣＦ（International Classification of Functioning, Disability and Health： 国際生活機能分類）における「参加」と「活動」の2つが関連した，認知症の人の支援に関する記述として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>67 ＩＣＦ（International Classification of Functioning, Disability and Health： <ruby>国際<rt>こくさい</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby><ruby>機能<rt>きのう</rt></ruby><ruby>分類<rt>ぶんるい</rt></ruby>）における「<ruby>参加<rt>さんか</rt></ruby>」と「<ruby>活動<rt>かつどう</rt></ruby>」の2つが<ruby>関連<rt>かんれん</rt></ruby>した，<ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby>の<ruby>人<rt>にん</rt></ruby>の<ruby>支援<rt>しえん</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>記述<rt>きじゅつ</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "若年性アルツハイマー型認知症（dementia of the Alzheimer’s type with early onset）があり，治療している。",
-      "認知症カフェに通い，体操をしている。",
-      "近所に住む長男が，買物を代行している。",
-      "自宅にある広い庭を，バリアフリー化している。",
-      "見当識障害があり，ＧＰＳ装置を身に着けている。"
+      "<ruby>若年<rt>じゃくねん</rt></ruby><ruby>性<rt>せい</rt></ruby>アルツハイマー<ruby>型<rt>かた</rt></ruby><ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby>（dementia of the Alzheimer’s type with early onset）があり，<ruby>治療<rt>ちりょう</rt></ruby>している。",
+      "<ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby>カフェに<ruby>通<rt>かよ</rt></ruby>い，<ruby>体操<rt>たいそう</rt></ruby>をしている。",
+      "<ruby>近所<rt>きんじょ</rt></ruby>に<ruby>住<rt>す</rt></ruby>む<ruby>長男<rt>ちょうなん</rt></ruby>が，<ruby>買物<rt>かいもの</rt></ruby>を<ruby>代行<rt>だいこう</rt></ruby>している。",
+      "<ruby>自宅<rt>じたく</rt></ruby>にある<ruby>広<rt>ひろ</rt></ruby>い<ruby>庭<rt>にわ</rt></ruby>を，バリアフリー<ruby>化<rt>か</rt></ruby>している。",
+      "<ruby>見当<rt>けんとう</rt></ruby><ruby>識<rt>しき</rt></ruby><ruby>障害<rt>しょうがい</rt></ruby>があり，ＧＰＳ<ruby>装置<rt>そうち</rt></ruby>を<ruby>身<rt>み</rt></ruby>に<ruby>着<rt>つ</rt></ruby>けている。"
     ],
     "answer": 1
   },
   {
-    "question": "問題68 次の記述のうち，介護保険制度における訪問介護員（ホームヘルパー）が行うサービス内容として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>68 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>介護<rt>かいご</rt></ruby><ruby>保険制度<rt>ほけんせいど</rt></ruby>における<ruby>訪問<rt>ほうもん</rt></ruby><ruby>介護<rt>かいご</rt></ruby><ruby>員<rt>いん</rt></ruby>（ホームヘルパー）が<ruby>行<rt>おこな</rt></ruby>うサービス<ruby>内容<rt>ないよう</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "利用者が大切にしている庭の植木に，水やりをする。",
-      "利用者が長年飼っている猫のペットフードを，購入してくる。",
-      "掃き掃除をする習慣のある利用者と一緒に，寝室をほうきで掃除する。",
-      "利用者と一緒に，近所のラーメン屋に行く。",
-      "利用者のクレジットカードを預かって，買物を代行する。"
+      "<ruby>利用者<rt>りようしゃ</rt></ruby>が<ruby>大切<rt>たいせつ</rt></ruby>にしている<ruby>庭<rt>にわ</rt></ruby>の<ruby>植木<rt>うえき</rt></ruby>に，<ruby>水<rt>みず</rt></ruby>やりをする。",
+      "<ruby>利用者<rt>りようしゃ</rt></ruby>が<ruby>長年<rt>ながねん</rt></ruby><ruby>飼<rt>か</rt></ruby>っている<ruby>猫<rt>ねこ</rt></ruby>のペットフードを，<ruby>購入<rt>こうにゅう</rt></ruby>してくる。",
+      "<ruby>掃<rt>は</rt></ruby>き<ruby>掃除<rt>そうじ</rt></ruby>をする<ruby>習慣<rt>しゅうかん</rt></ruby>のある<ruby>利用者<rt>りようしゃ</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に，<ruby>寝室<rt>しんしつ</rt></ruby>をほうきで<ruby>掃除<rt>そうじ</rt></ruby>する。",
+      "<ruby>利用者<rt>りようしゃ</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に，<ruby>近所<rt>きんじょ</rt></ruby>のラーメン<ruby>屋<rt>や</rt></ruby>に<ruby>行<rt>い</rt></ruby>く。",
+      "<ruby>利用者<rt>りようしゃ</rt></ruby>のクレジットカードを<ruby>預<rt>あず</rt></ruby>かって，<ruby>買物<rt>かいもの</rt></ruby>を<ruby>代行<rt>だいこう</rt></ruby>する。"
     ],
     "answer": 2
   },
   {
-    "question": "問題69 次の記述のうち，介護従事者を守る法制度として，正しいものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>69 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>介護<rt>かいご</rt></ruby><ruby>従事者<rt>じゅうじしゃ</rt></ruby>を<ruby>守<rt>まも</rt></ruby>る<ruby>法制度<rt>ほうせいど</rt></ruby>として，<ruby>正<rt>ただ</rt></ruby>しいものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "労働安全衛生法では，年に1回以上の健康診断を行うことを義務づけている。",
-      "労働者災害補償保険法では，労働時間，賃金，休暇などの労働条件を定めている。",
-      "環境基本法では，快適な職場環境の形成の促進を定めている。",
-      "介護休業は，対象家族1名につき，毎年93日間を取得できる。",
-      "出生時育児休業は，子の出生後から8週間取得できる。"
+      "<ruby>労働<rt>ろうどう</rt></ruby><ruby>安全衛生<rt>あんぜんえいせい</rt></ruby><ruby>法<rt>ほう</rt></ruby>では，<ruby>年<rt>ねん</rt></ruby>に1<ruby>回<rt>かい</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>健康診断<rt>けんこうしんだん</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>うことを<ruby>義務<rt>ぎむ</rt></ruby>づけている。",
+      "<ruby>労働者<rt>ろうどうしゃ</rt></ruby><ruby>災害<rt>さいがい</rt></ruby><ruby>補償保険<rt>ほしょうほけん</rt></ruby><ruby>法<rt>ほう</rt></ruby>では，<ruby>労働時間<rt>ろうどうじかん</rt></ruby>，<ruby>賃金<rt>ちんぎん</rt></ruby>，<ruby>休暇<rt>きゅうか</rt></ruby>などの<ruby>労働条件<rt>ろうどうじょうけん</rt></ruby>を<ruby>定<rt>さだ</rt></ruby>めている。",
+      "<ruby>環境<rt>かんきょう</rt></ruby><ruby>基本法<rt>きほんほう</rt></ruby>では，<ruby>快適<rt>かいてき</rt></ruby>な<ruby>職場環境<rt>しょくばかんきょう</rt></ruby>の<ruby>形成<rt>けいせい</rt></ruby>の<ruby>促進<rt>そくしん</rt></ruby>を<ruby>定<rt>さだ</rt></ruby>めている。",
+      "<ruby>介護<rt>かいご</rt></ruby><ruby>休業<rt>きゅうぎょう</rt></ruby>は，<ruby>対象<rt>たいしょう</rt></ruby><ruby>家族<rt>かぞく</rt></ruby>1<ruby>名<rt>めい</rt></ruby>につき，<ruby>毎年<rt>まいとし</rt></ruby>93<ruby>日間<rt>にちかん</rt></ruby>を<ruby>取得<rt>しゅとく</rt></ruby>できる。",
+      "<ruby>出生<rt>しゅっしょう</rt></ruby><ruby>時<rt>とき</rt></ruby><ruby>育児<rt>いくじ</rt></ruby><ruby>休業<rt>きゅうぎょう</rt></ruby>は，<ruby>子<rt>こ</rt></ruby>の<ruby>出生<rt>しゅっしょう</rt></ruby><ruby>後<rt>のち</rt></ruby>から8<ruby>週間<rt>しゅうかん</rt></ruby><ruby>取得<rt>しゅとく</rt></ruby>できる。"
     ],
     "answer": 0
   },
   {
-    "question": "問題70 Ｂさん（68歳，女性，要介護1）は，ヨーロッパで生まれ育ち，50歳のときに日本人と結婚した。65歳で夫と共に日本で暮らすようになったが，日本語は十分に理解できない。半年前に，脳梗塞（cerebral infarction）を起こし，利き手に麻痺があり，立ち上がりも不安定である。現在は，介護老人保健施設に入所し，在宅復帰へ向けたリハビリテーションを行っている。Ｂさんはこれまでの生活様式を守り，自宅で自分のペースで食事ができるようになりたいと希望している。 次の記述のうち，Ｂさんへの介護福祉職の対応として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>70 Ｂさん（68<ruby>歳<rt>とし</rt></ruby>，<ruby>女性<rt>じょせい</rt></ruby>，<ruby>要介<rt>ようすけ</rt></ruby><ruby>護<rt>ご</rt></ruby>1）は，ヨーロッパで<ruby>生<rt>う</rt></ruby>まれ<ruby>育<rt>そだ</rt></ruby>ち，50<ruby>歳<rt>とし</rt></ruby>のときに<ruby>日本人<rt>にほんじん</rt></ruby>と<ruby>結婚<rt>けっこん</rt></ruby>した。65<ruby>歳<rt>とし</rt></ruby>で<ruby>夫<rt>おっと</rt></ruby>と<ruby>共<rt>とも</rt></ruby>に<ruby>日本<rt>にっぽん</rt></ruby>で<ruby>暮<rt>く</rt></ruby>らすようになったが，<ruby>日本語<rt>にほんご</rt></ruby>は<ruby>十分<rt>じゅうぶん</rt></ruby>に<ruby>理解<rt>りかい</rt></ruby>できない。<ruby>半年前<rt>はんとしまえ</rt></ruby>に，<ruby>脳<rt>のう</rt></ruby><ruby>梗塞<rt>こうそく</rt></ruby>（cerebral infarction）を<ruby>起<rt>お</rt></ruby>こし，<ruby>利き手<rt>ききて</rt></ruby>に<ruby>麻痺<rt>まひ</rt></ruby>があり，<ruby>立ち上<rt>たちあ</rt></ruby>がりも<ruby>不安定<rt>ふあんてい</rt></ruby>である。<ruby>現在<rt>げんざい</rt></ruby>は，<ruby>介護<rt>かいご</rt></ruby><ruby>老人<rt>ろうじん</rt></ruby><ruby>保健<rt>ほけん</rt></ruby><ruby>施設<rt>しせつ</rt></ruby>に<ruby>入所<rt>にゅうしょ</rt></ruby>し，<ruby>在宅<rt>ざいたく</rt></ruby><ruby>復帰<rt>ふっき</rt></ruby>へ<ruby>向<rt>む</rt></ruby>けたリハビリテーションを<ruby>行<rt>い</rt></ruby>っている。Ｂさんはこれまでの<ruby>生活<rt>せいかつ</rt></ruby><ruby>様式<rt>ようしき</rt></ruby>を<ruby>守<rt>まも</rt></ruby>り，<ruby>自宅<rt>じたく</rt></ruby>で<ruby>自分<rt>じぶん</rt></ruby>のペースで<ruby>食事<rt>しょくじ</rt></ruby>ができるようになりたいと<ruby>希望<rt>きぼう</rt></ruby>している。 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，Ｂさんへの<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>の<ruby>対応<rt>たいおう</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "入所中は母語を使わずに，日本語を話すように伝える。",
-      "居室の床に布団を敷いて，寝起きができるようにする。",
-      "自分で食事ができるように，自助具の使用状況を確認する。",
-      "ほかの利用者と同じ時間に食べ終えるように伝える。",
-      "日本の生活に合わせるように，余暇活動の内容は介護福祉職が判断する。"
+      "<ruby>入所<rt>にゅうしょ</rt></ruby><ruby>中<rt>なか</rt></ruby>は<ruby>母語<rt>ぼご</rt></ruby>を<ruby>使<rt>つか</rt></ruby>わずに，<ruby>日本語<rt>にほんご</rt></ruby>を<ruby>話<rt>はな</rt></ruby>すように<ruby>伝<rt>つた</rt></ruby>える。",
+      "<ruby>居室<rt>きょしつ</rt></ruby>の<ruby>床<rt>とこ</rt></ruby>に<ruby>布団<rt>ふとん</rt></ruby>を<ruby>敷<rt>し</rt></ruby>いて，<ruby>寝起<rt>ねお</rt></ruby>きができるようにする。",
+      "<ruby>自分<rt>じぶん</rt></ruby>で<ruby>食事<rt>しょくじ</rt></ruby>ができるように，<ruby>自助<rt>じじょ</rt></ruby><ruby>具<rt>ぐ</rt></ruby>の<ruby>使用状況<rt>しようじょうきょう</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>する。",
+      "ほかの<ruby>利用者<rt>りようしゃ</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じ<ruby>時間<rt>じかん</rt></ruby>に<ruby>食<rt>た</rt></ruby>べ<ruby>終<rt>お</rt></ruby>えるように<ruby>伝<rt>つた</rt></ruby>える。",
+      "<ruby>日本<rt>にっぽん</rt></ruby>の<ruby>生活<rt>せいかつ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わせるように，<ruby>余暇活動<rt>よかかつどう</rt></ruby>の<ruby>内容<rt>ないよう</rt></ruby>は<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>が<ruby>判断<rt>はんだん</rt></ruby>する。"
     ],
     "answer": 2
   },
   {
-    "question": "問題71 次の記述のうち，チームアプローチに関するものとして，適切なものを1 つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>71 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，チームアプローチに<ruby>関<rt>かん</rt></ruby>するものとして，<ruby>適切<rt>てきせつ</rt></ruby>なものを1 つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "介護福祉職が利用者のところに行って，相談，支援を行う。",
-      "障害者が，地域の資源を活用して，共生社会の実現を目指す。",
-      "複数の専門職が共通の目標に向かって協働し，課題解決に取り組む。",
-      "利用者に代わって，専門職がサービスを決定する。",
-      "当事者が集まって体験談を話し，共に支えあう。"
+      "<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>が<ruby>利用者<rt>りようしゃ</rt></ruby>のところに<ruby>行<rt>い</rt></ruby>って，<ruby>相談<rt>そうだん</rt></ruby>，<ruby>支援<rt>しえん</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う。",
+      "<ruby>障害者<rt>しょうがいしゃ</rt></ruby>が，<ruby>地域<rt>ちいき</rt></ruby>の<ruby>資源<rt>しげん</rt></ruby>を<ruby>活用<rt>かつよう</rt></ruby>して，<ruby>共生<rt>きょうせい</rt></ruby><ruby>社会<rt>しゃかい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>を<ruby>目指<rt>めざ</rt></ruby>す。",
+      "<ruby>複数<rt>ふくすう</rt></ruby>の<ruby>専門職<rt>せんもんしょく</rt></ruby>が<ruby>共通<rt>きょうつう</rt></ruby>の<ruby>目標<rt>もくひょう</rt></ruby>に<ruby>向<rt>む</rt></ruby>かって<ruby>協働<rt>きょうどう</rt></ruby>し，<ruby>課題<rt>かだい</rt></ruby><ruby>解決<rt>かいけつ</rt></ruby>に<ruby>取り組<rt>とりく</rt></ruby>む。",
+      "<ruby>利用者<rt>りようしゃ</rt></ruby>に<ruby>代<rt>か</rt></ruby>わって，<ruby>専門職<rt>せんもんしょく</rt></ruby>がサービスを<ruby>決定<rt>けってい</rt></ruby>する。",
+      "<ruby>当事者<rt>とうじしゃ</rt></ruby>が<ruby>集<rt>あつ</rt></ruby>まって<ruby>体験談<rt>たいけんだん</rt></ruby>を<ruby>話<rt>はな</rt></ruby>し，<ruby>共<rt>とも</rt></ruby>に<ruby>支<rt>ささ</rt></ruby>えあう。"
     ],
     "answer": 2
   },
   {
-    "question": "問題72 介護保険施設における防災対策に関する次の記述のうち，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>72 <ruby>介護<rt>かいご</rt></ruby><ruby>保険<rt>ほけん</rt></ruby><ruby>施設<rt>しせつ</rt></ruby>における<ruby>防災<rt>ぼうさい</rt></ruby><ruby>対策<rt>たいさく</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "介護福祉士は，災害派遣福祉チームで活動することが義務づけられている。",
-      "介護福祉士は，防災スキル向上のために，防災士の資格取得が義務づけられている。",
-      "災害対策基本法に基づき，個別避難計画の作成が施設長に義務づけられている。",
-      "一般的に，飲料水と非常食は1日分の備蓄が義務づけられている。",
-      "災害時等に備えて，業務継続計画（ＢＣＰ：Business Continuity Plan）の策定が義務づけられている。"
+      "<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>士<rt>さむらい</rt></ruby>は，<ruby>災害<rt>さいがい</rt></ruby><ruby>派遣<rt>はけん</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby>チームで<ruby>活動<rt>かつどう</rt></ruby>することが<ruby>義務<rt>ぎむ</rt></ruby>づけられている。",
+      "<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>士<rt>さむらい</rt></ruby>は，<ruby>防災<rt>ぼうさい</rt></ruby>スキル<ruby>向上<rt>こうじょう</rt></ruby>のために，<ruby>防災<rt>ぼうさい</rt></ruby><ruby>士<rt>さむらい</rt></ruby>の<ruby>資格<rt>しかく</rt></ruby><ruby>取得<rt>しゅとく</rt></ruby>が<ruby>義務<rt>ぎむ</rt></ruby>づけられている。",
+      "<ruby>災害<rt>さいがい</rt></ruby><ruby>対策<rt>たいさく</rt></ruby><ruby>基本法<rt>きほんほう</rt></ruby>に<ruby>基<rt>もと</rt></ruby>づき，<ruby>個別<rt>こべつ</rt></ruby><ruby>避難<rt>ひなん</rt></ruby><ruby>計画<rt>けいかく</rt></ruby>の<ruby>作成<rt>さくせい</rt></ruby>が<ruby>施設長<rt>しせつちょう</rt></ruby>に<ruby>義務<rt>ぎむ</rt></ruby>づけられている。",
+      "<ruby>一般的<rt>いっぱんてき</rt></ruby>に，<ruby>飲料水<rt>いんりょうすい</rt></ruby>と<ruby>非常<rt>ひじょう</rt></ruby><ruby>食<rt>く</rt></ruby>は1<ruby>日分<rt>にちぶん</rt></ruby>の<ruby>備蓄<rt>びちく</rt></ruby>が<ruby>義務<rt>ぎむ</rt></ruby>づけられている。",
+      "<ruby>災害時<rt>さいがいじ</rt></ruby><ruby>等<rt>など</rt></ruby>に<ruby>備<rt>そな</rt></ruby>えて，<ruby>業務<rt>ぎょうむ</rt></ruby><ruby>継続<rt>けいぞく</rt></ruby><ruby>計画<rt>けいかく</rt></ruby>（ＢＣＰ：Business Continuity Plan）の<ruby>策定<rt>さくてい</rt></ruby>が<ruby>義務<rt>ぎむ</rt></ruby>づけられている。"
     ],
     "answer": 4
   },
   {
-    "question": "問題73 次のうち，結核（tuberculosis）の予防対策に該当するものとして，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>73 <ruby>次<rt>つぎ</rt></ruby>のうち，<ruby>結核<rt>けっかく</rt></ruby>（tuberculosis）の<ruby>予防<rt>よぼう</rt></ruby><ruby>対策<rt>たいさく</rt></ruby>に<ruby>該当<rt>がいとう</rt></ruby>するものとして，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "便座のアルコール消毒",
-      "肺炎球菌ワクチンの接種",
-      "紫外線を避けた生活",
-      "年に1回の胸部Ｘ線検査",
-      "50℃以上の温水によるリネン類の洗濯"
+      "<ruby>便座<rt>べんざ</rt></ruby>のアルコール<ruby>消毒<rt>しょうどく</rt></ruby>",
+      "<ruby>肺炎<rt>はいえん</rt></ruby><ruby>球菌<rt>きゅうきん</rt></ruby>ワクチンの<ruby>接種<rt>せっしゅ</rt></ruby>",
+      "<ruby>紫外線<rt>しがいせん</rt></ruby>を<ruby>避<rt>さ</rt></ruby>けた<ruby>生活<rt>せいかつ</rt></ruby>",
+      "<ruby>年<rt>ねん</rt></ruby>に1<ruby>回<rt>かい</rt></ruby>の<ruby>胸部<rt>きょうぶ</rt></ruby>Ｘ<ruby>線<rt>せん</rt></ruby><ruby>検査<rt>けんさ</rt></ruby>",
+      "50℃<ruby>以上<rt>いじょう</rt></ruby>の<ruby>温水<rt>おんすい</rt></ruby>によるリネン<ruby>類<rt>るい</rt></ruby>の<ruby>洗濯<rt>せんたく</rt></ruby>"
     ],
     "answer": 3
   },
   {
-    "question": "問題74 次の記述のうち，利用者とのコミュニケーションの場面で用いる要約の技法として，適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>74 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>利用者<rt>りようしゃ</rt></ruby>とのコミュニケーションの<ruby>場面<rt>ばめん</rt></ruby>で<ruby>用<rt>もち</rt></ruby>いる<ruby>要約<rt>ようやく</rt></ruby>の<ruby>技法<rt>ぎほう</rt></ruby>として，<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "開かれた質問をして，利用者の気持ちを明らかにした。",
-      "共感しながら話を聞き，利用者の気持ちを受け止めた。",
-      "話の途中でうなずき，利用者の気持ちに同意した。",
-      "話の内容を総合的にまとめて返し，利用者の気持ちを整理した。",
-      "自己覚知を図り，利用者との人間関係の形成に努めた。"
+      "<ruby>開<rt>ひら</rt></ruby>かれた<ruby>質問<rt>しつもん</rt></ruby>をして，<ruby>利用者<rt>りようしゃ</rt></ruby>の<ruby>気持<rt>きも</rt></ruby>ちを<ruby>明<rt>あき</rt></ruby>らかにした。",
+      "<ruby>共感<rt>きょうかん</rt></ruby>しながら<ruby>話<rt>はなし</rt></ruby>を<ruby>聞<rt>き</rt></ruby>き，<ruby>利用者<rt>りようしゃ</rt></ruby>の<ruby>気持<rt>きも</rt></ruby>ちを<ruby>受<rt>う</rt></ruby>け<ruby>止<rt>と</rt></ruby>めた。",
+      "<ruby>話<rt>はなし</rt></ruby>の<ruby>途中<rt>とちゅう</rt></ruby>でうなずき，<ruby>利用者<rt>りようしゃ</rt></ruby>の<ruby>気持<rt>きも</rt></ruby>ちに<ruby>同意<rt>どうい</rt></ruby>した。",
+      "<ruby>話<rt>はなし</rt></ruby>の<ruby>内容<rt>ないよう</rt></ruby>を<ruby>総合的<rt>そうごうてき</rt></ruby>にまとめて<ruby>返<rt>かえ</rt></ruby>し，<ruby>利用者<rt>りようしゃ</rt></ruby>の<ruby>気持<rt>きも</rt></ruby>ちを<ruby>整理<rt>せいり</rt></ruby>した。",
+      "<ruby>自己<rt>じこ</rt></ruby><ruby>覚<rt>かく</rt></ruby><ruby>知<rt>ち</rt></ruby>を<ruby>図<rt>はか</rt></ruby>り，<ruby>利用者<rt>りようしゃ</rt></ruby>との<ruby>人間関係<rt>にんげんかんけい</rt></ruby>の<ruby>形成<rt>けいせい</rt></ruby>に<ruby>努<rt>つと</rt></ruby>めた。"
     ],
     "answer": 3
   },
   {
-    "question": "問題75 次の記述のうち，利用者と家族の意向が異なるとき，家族とのコミュニケーションにおいて介護福祉職が留意すべき点として，適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>75 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>利用者<rt>りようしゃ</rt></ruby>と<ruby>家族<rt>かぞく</rt></ruby>の<ruby>意向<rt>いこう</rt></ruby>が<ruby>異<rt>こと</rt></ruby>なるとき，<ruby>家族<rt>かぞく</rt></ruby>とのコミュニケーションにおいて<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>が<ruby>留意<rt>りゅうい</rt></ruby>すべき<ruby>点<rt>てん</rt></ruby>として，<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "家族に支援方針を決めてもらう。",
-      "家族を通して利用者の意向を聴き取る。",
-      "家族と話す機会を別に設ける。",
-      "家族にカウンセリングを行うことを意識する。",
-      "家族を説得する。"
+      "<ruby>家族<rt>かぞく</rt></ruby>に<ruby>支援<rt>しえん</rt></ruby><ruby>方針<rt>ほうしん</rt></ruby>を<ruby>決<rt>き</rt></ruby>めてもらう。",
+      "<ruby>家族<rt>かぞく</rt></ruby>を<ruby>通<rt>とう</rt></ruby>して<ruby>利用者<rt>りようしゃ</rt></ruby>の<ruby>意向<rt>いこう</rt></ruby>を<ruby>聴<rt>き</rt></ruby>き<ruby>取<rt>と</rt></ruby>る。",
+      "<ruby>家族<rt>かぞく</rt></ruby>と<ruby>話<rt>はな</rt></ruby>す<ruby>機会<rt>きかい</rt></ruby>を<ruby>別<rt>べつ</rt></ruby>に<ruby>設<rt>もう</rt></ruby>ける。",
+      "<ruby>家族<rt>かぞく</rt></ruby>にカウンセリングを<ruby>行<rt>おこな</rt></ruby>うことを<ruby>意識<rt>いしき</rt></ruby>する。",
+      "<ruby>家族<rt>かぞく</rt></ruby>を<ruby>説得<rt>せっとく</rt></ruby>する。"
     ],
     "answer": 2
   },
   {
-    "question": "問題76 Ａさん（80歳，男性，要介護3）は，介護老人福祉施設に入所している。アルツハイマー型認知症（dementia of the Alzheimer’s type）が進行している。ある日の昼食時，介護福祉職がＡさんに配膳すると，「お金はこれしかありません。足りますか」と小さくたたまれたティッシュペーパーを渡してきた。 このときのＡさんに対する介護福祉職の対応として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>76 Ａさん（80<ruby>歳<rt>とし</rt></ruby>，<ruby>男性<rt>だんせい</rt></ruby>，<ruby>要介<rt>ようすけ</rt></ruby><ruby>護<rt>ご</rt></ruby>3）は，<ruby>介護<rt>かいご</rt></ruby><ruby>老人<rt>ろうじん</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>施設<rt>しせつ</rt></ruby>に<ruby>入所<rt>にゅうしょ</rt></ruby>している。アルツハイマー<ruby>型<rt>かた</rt></ruby><ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby>（dementia of the Alzheimer’s type）が<ruby>進行<rt>しんこう</rt></ruby>している。ある<ruby>日<rt>にち</rt></ruby>の<ruby>昼食時<rt>ちゅうしょくじ</rt></ruby>，<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>がＡさんに<ruby>配膳<rt>はいぜん</rt></ruby>すると，「お<ruby>金<rt>きん</rt></ruby>はこれしかありません。<ruby>足<rt>た</rt></ruby>りますか」と<ruby>小<rt>ちー</rt></ruby>さくたたまれたティッシュペーパーを<ruby>渡<rt>わた</rt></ruby>してきた。 このときのＡさんに<ruby>対<rt>たい</rt></ruby>する<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>の<ruby>対応<rt>たいおう</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "ティッシュペーパーは，口の周りが汚れたら拭くものだと伝える。",
-      "ティッシュペーパーが不足しているサインとして受け止める。",
-      "飲食店での会計の場面であると認識して対応する。",
-      "食事に集中するように促す。",
-      "小遣いの増額を家族に相談する。"
+      "ティッシュペーパーは，<ruby>口<rt>くち</rt></ruby>の<ruby>周<rt>まわ</rt></ruby>りが<ruby>汚<rt>よご</rt></ruby>れたら<ruby>拭<rt>ふ</rt></ruby>くものだと<ruby>伝<rt>つた</rt></ruby>える。",
+      "ティッシュペーパーが<ruby>不足<rt>ふそく</rt></ruby>しているサインとして<ruby>受<rt>う</rt></ruby>け<ruby>止<rt>や</rt></ruby>める。",
+      "<ruby>飲食店<rt>いんしょくてん</rt></ruby>での<ruby>会計<rt>かいけい</rt></ruby>の<ruby>場面<rt>ばめん</rt></ruby>であると<ruby>認識<rt>にんしき</rt></ruby>して<ruby>対応<rt>たいおう</rt></ruby>する。",
+      "<ruby>食事<rt>しょくじ</rt></ruby>に<ruby>集中<rt>しゅうちゅう</rt></ruby>するように<ruby>促<rt>うなが</rt></ruby>す。",
+      "<ruby>小遣<rt>こづか</rt></ruby>いの<ruby>増額<rt>ぞうがく</rt></ruby>を<ruby>家族<rt>かぞく</rt></ruby>に<ruby>相談<rt>そうだん</rt></ruby>する。"
     ],
     "answer": 2
   },
   {
-    "question": "問題77 構音障害のあるＢさんは，現在発語訓練を実施中である。ある日，介護福祉職に対して，「おあんで，あつがおごれた」と訴えた。介護福祉職は，Ｂさんの発語をうまく聞き取れず，「もう一度，言ってください」と伝えた。Ｂさんは，自身の発語で会話を続けようとしているが，介護福祉職には，その内容を十分に理解することができなかった。 このときの，Ｂさんに対する介護福祉職の判断として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>77 <ruby>構音<rt>こうおん</rt></ruby><ruby>障害<rt>しょうがい</rt></ruby>のあるＢさんは，<ruby>現在<rt>げんざい</rt></ruby><ruby>発語<rt>はつご</rt></ruby><ruby>訓練<rt>くんれん</rt></ruby>を<ruby>実施中<rt>じっしちゅう</rt></ruby>である。ある<ruby>日<rt>にち</rt></ruby>，<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>に<ruby>対<rt>たい</rt></ruby>して，「おあんで，あつがおごれた」と<ruby>訴<rt>うった</rt></ruby>えた。<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>は，Ｂさんの<ruby>発語<rt>はつご</rt></ruby>をうまく<ruby>聞<rt>き</rt></ruby>き<ruby>取<rt>と</rt></ruby>れず，「もう<ruby>一度<rt>いちど</rt></ruby>，<ruby>言<rt>い</rt></ruby>ってください」と<ruby>伝<rt>つた</rt></ruby>えた。Ｂさんは，<ruby>自身<rt>じしん</rt></ruby>の<ruby>発語<rt>はつご</rt></ruby>で<ruby>会話<rt>かいわ</rt></ruby>を<ruby>続<rt>つづ</rt></ruby>けようとしているが，<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>には，その<ruby>内容<rt>ないよう</rt></ruby>を<ruby>十分<rt>じゅうぶん</rt></ruby>に<ruby>理解<rt>りかい</rt></ruby>することができなかった。 このときの，Ｂさんに<ruby>対<rt>たい</rt></ruby>する<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>の<ruby>判断<rt>はんだん</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "Ｂさんは言葉の意味の理解に支障があるため，会話の継続は困難である。",
-      "発音が苦手なため，短い言葉でゆっくり話してもらう必要がある。",
-      "話す意欲があるため，開かれた質問が有効である。",
-      "発語訓練の効果がみられないため，訓練を中止する必要がある。",
-      "Ｂさんの言葉が聞き取れないため，会話を中断する必要がある。"
+      "Ｂさんは<ruby>言葉<rt>ことば</rt></ruby>の<ruby>意味<rt>いみ</rt></ruby>の<ruby>理解<rt>りかい</rt></ruby>に<ruby>支障<rt>ししょう</rt></ruby>があるため，<ruby>会話<rt>かいわ</rt></ruby>の<ruby>継続<rt>けいぞく</rt></ruby>は<ruby>困難<rt>こんなん</rt></ruby>である。",
+      "<ruby>発音<rt>はつおん</rt></ruby>が<ruby>苦手<rt>にがて</rt></ruby>なため，<ruby>短<rt>みじか</rt></ruby>い<ruby>言葉<rt>ことば</rt></ruby>でゆっくり<ruby>話<rt>はな</rt></ruby>してもらう<ruby>必要<rt>ひつよう</rt></ruby>がある。",
+      "<ruby>話<rt>はな</rt></ruby>す<ruby>意欲<rt>いよく</rt></ruby>があるため，<ruby>開<rt>ひら</rt></ruby>かれた<ruby>質問<rt>しつもん</rt></ruby>が<ruby>有効<rt>ゆうこう</rt></ruby>である。",
+      "<ruby>発語<rt>はつご</rt></ruby><ruby>訓練<rt>くんれん</rt></ruby>の<ruby>効果<rt>こうか</rt></ruby>がみられないため，<ruby>訓練<rt>くんれん</rt></ruby>を<ruby>中止<rt>ちゅうし</rt></ruby>する<ruby>必要<rt>ひつよう</rt></ruby>がある。",
+      "Ｂさんの<ruby>言葉<rt>ことば</rt></ruby>が<ruby>聞<rt>き</rt></ruby>き<ruby>取<rt>と</rt></ruby>れないため，<ruby>会話<rt>かいわ</rt></ruby>を<ruby>中断<rt>ちゅうだん</rt></ruby>する<ruby>必要<rt>ひつよう</rt></ruby>がある。"
     ],
     "answer": 1
   },
   {
-    "question": "問題78 Ｃさん（55歳，男性）は，知的障害がある。3か月前に，施設から居宅での一人暮らしに移行し，現在は，居宅介護（ホームヘルプサービス）を利用しながら生活している。ある日，Ｃさんが，「ゴミ，分けて捨てるの，難しいよ」と言うので，室内に分別収集の説明書を貼って，カレンダーに収集日を書くことにした。そして，介護福祉職は，「この説明書とカレンダーを見て，捨てるといいですよ」とＣさんに伝えた。その後，Ｃさんは努力していたが，分別できなかったゴミが少しずつ増えていった。 次のうち，Ｃさんにかける介護福祉職の最初の言葉として，最も適切なものを1 つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>78 Ｃさん（55<ruby>歳<rt>とし</rt></ruby>，<ruby>男性<rt>だんせい</rt></ruby>）は，<ruby>知的障害<rt>ちてきしょうがい</rt></ruby>がある。3か<ruby>月前<rt>げつまえ</rt></ruby>に，<ruby>施設<rt>しせつ</rt></ruby>から<ruby>居宅<rt>きょたく</rt></ruby>での<ruby>一人暮<rt>ひとりぐ</rt></ruby>らしに<ruby>移行<rt>いこう</rt></ruby>し，<ruby>現在<rt>げんざい</rt></ruby>は，<ruby>居宅<rt>きょたく</rt></ruby><ruby>介護<rt>かいご</rt></ruby>（ホームヘルプサービス）を<ruby>利用<rt>りよう</rt></ruby>しながら<ruby>生活<rt>せいかつ</rt></ruby>している。ある<ruby>日<rt>にち</rt></ruby>，Ｃさんが，「ゴミ，<ruby>分<rt>わ</rt></ruby>けて<ruby>捨<rt>す</rt></ruby>てるの，<ruby>難<rt>むずか</rt></ruby>しいよ」と<ruby>言<rt>い</rt></ruby>うので，<ruby>室内<rt>しつない</rt></ruby>に<ruby>分別<rt>ふんべつ</rt></ruby><ruby>収集<rt>しゅうしゅう</rt></ruby>の<ruby>説明書<rt>せつめいしょ</rt></ruby>を<ruby>貼<rt>は</rt></ruby>って，カレンダーに<ruby>収集<rt>しゅうしゅう</rt></ruby><ruby>日<rt>にち</rt></ruby>を<ruby>書<rt>か</rt></ruby>くことにした。そして，<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>は，「この<ruby>説明書<rt>せつめいしょ</rt></ruby>とカレンダーを<ruby>見<rt>み</rt></ruby>て，<ruby>捨<rt>す</rt></ruby>てるといいですよ」とＣさんに<ruby>伝<rt>つた</rt></ruby>えた。その<ruby>後<rt>のち</rt></ruby>，Ｃさんは<ruby>努力<rt>どりょく</rt></ruby>していたが，<ruby>分別<rt>ふんべつ</rt></ruby>できなかったゴミが<ruby>少<rt>すこ</rt></ruby>しずつ<ruby>増<rt>ふ</rt></ruby>えていった。 <ruby>次<rt>つぎ</rt></ruby>のうち，Ｃさんにかける<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>の<ruby>最初<rt>さいしょ</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1 つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "「ゴミでいっぱいになる前に，適切に捨てられるようになりましょう」",
-      "「説明書とカレンダーをよく見てください」",
-      "「ゴミが増えてきて，気持ち悪いですね」",
-      "「がんばっていれば，上手にできるようになりますよ」",
-      "「ゴミ捨ては難しいですよね。できることをいっしょに考えましょう」"
+      "「ゴミでいっぱいになる<ruby>前<rt>まえ</rt></ruby>に，<ruby>適切<rt>てきせつ</rt></ruby>に<ruby>捨<rt>す</rt></ruby>てられるようになりましょう」",
+      "「<ruby>説明書<rt>せつめいしょ</rt></ruby>とカレンダーをよく<ruby>見<rt>み</rt></ruby>てください」",
+      "「ゴミが<ruby>増<rt>ふ</rt></ruby>えてきて，<ruby>気持ち悪<rt>きもちわる</rt></ruby>いですね」",
+      "「がんばっていれば，<ruby>上手<rt>じょうず</rt></ruby>にできるようになりますよ」",
+      "「ゴミ<ruby>捨<rt>す</rt></ruby>ては<ruby>難<rt>むずか</rt></ruby>しいですよね。できることをいっしょに<ruby>考<rt>かんが</rt></ruby>えましょう」"
     ],
     "answer": 4
   },
   {
-    "question": "問題79 介護保険サービスにおける記録に関する次の記述のうち，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>79 <ruby>介護<rt>かいご</rt></ruby><ruby>保険<rt>ほけん</rt></ruby>サービスにおける<ruby>記録<rt>きろく</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "記録に含まれないものとして食事チェック表がある。",
-      "介護記録は介護福祉職の意見を中心に記録する。",
-      "調査・研究目的で記録を利用することは避ける。",
-      "主観的情報と客観的事実は区別しないで記録する。",
-      "利用者は記録の閲覧を請求することができる。"
+      "<ruby>記録<rt>きろく</rt></ruby>に<ruby>含<rt>ふく</rt></ruby>まれないものとして<ruby>食事<rt>しょくじ</rt></ruby>チェック<ruby>表<rt>おもて</rt></ruby>がある。",
+      "<ruby>介護<rt>かいご</rt></ruby><ruby>記録<rt>きろく</rt></ruby>は<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>の<ruby>意見<rt>いけん</rt></ruby>を<ruby>中心<rt>ちゅうしん</rt></ruby>に<ruby>記録<rt>きろく</rt></ruby>する。",
+      "<ruby>調査<rt>ちょうさ</rt></ruby>・<ruby>研究目的<rt>けんきゅうもくてき</rt></ruby>で<ruby>記録<rt>きろく</rt></ruby>を<ruby>利用<rt>りよう</rt></ruby>することは<ruby>避<rt>さ</rt></ruby>ける。",
+      "<ruby>主観的<rt>しゅかんてき</rt></ruby><ruby>情報<rt>じょうほう</rt></ruby>と<ruby>客観的事実<rt>きゃっかんてきじじつ</rt></ruby>は<ruby>区別<rt>くべつ</rt></ruby>しないで<ruby>記録<rt>きろく</rt></ruby>する。",
+      "<ruby>利用者<rt>りようしゃ</rt></ruby>は<ruby>記録<rt>きろく</rt></ruby>の<ruby>閲覧<rt>えつらん</rt></ruby>を<ruby>請求<rt>せいきゅう</rt></ruby>することができる。"
     ],
     "answer": 4
   },
   {
-    "question": "問題80 高齢者に配慮した居室環境に関する次の記述のうち，最も適切なものを1 つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>80 <ruby>高齢者<rt>こうれいしゃ</rt></ruby>に<ruby>配慮<rt>はいりょ</rt></ruby>した<ruby>居室<rt>きょしつ</rt></ruby><ruby>環境<rt>かんきょう</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1 つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "夏は高齢者が発汗してから冷房を使用する。",
-      "暖房を使用するときは除湿機を併用する。",
-      "冷房を使用するときは換気を控える。",
-      "温度は介護福祉職の感覚で調整する。",
-      "冬はトイレの温度を居室の温度に近づける。"
+      "<ruby>夏<rt>なつ</rt></ruby>は<ruby>高齢者<rt>こうれいしゃ</rt></ruby>が<ruby>発汗<rt>はっかん</rt></ruby>してから<ruby>冷房<rt>れいぼう</rt></ruby>を<ruby>使用<rt>しよう</rt></ruby>する。",
+      "<ruby>暖房<rt>だんぼう</rt></ruby>を<ruby>使用<rt>しよう</rt></ruby>するときは<ruby>除湿機<rt>じょしつき</rt></ruby>を<ruby>併用<rt>へいよう</rt></ruby>する。",
+      "<ruby>冷房<rt>れいぼう</rt></ruby>を<ruby>使用<rt>しよう</rt></ruby>するときは<ruby>換気<rt>かんき</rt></ruby>を<ruby>控<rt>ひか</rt></ruby>える。",
+      "<ruby>温度<rt>おんど</rt></ruby>は<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>の<ruby>感覚<rt>かんかく</rt></ruby>で<ruby>調整<rt>ちょうせい</rt></ruby>する。",
+      "<ruby>冬<rt>ふゆ</rt></ruby>はトイレの<ruby>温度<rt>おんど</rt></ruby>を<ruby>居室<rt>きょしつ</rt></ruby>の<ruby>温度<rt>おんど</rt></ruby>に<ruby>近<rt>ちか</rt></ruby>づける。"
     ],
     "answer": 4
   },
   {
-    "question": "問題81 次の記述のうち，介護の現場において，レクリエーション活動で実施するアイスブレーキングの効果として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>81 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>介護<rt>かいご</rt></ruby>の<ruby>現場<rt>げんば</rt></ruby>において，レクリエーション<ruby>活動<rt>かつどう</rt></ruby>で<ruby>実施<rt>じっし</rt></ruby>するアイスブレーキングの<ruby>効果<rt>こうか</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "参加者の緊張感を軽減することができる。",
-      "活動内容を毎回固定して実施することができる。",
-      "介護福祉職の負担を軽減することができる。",
-      "利用者の参加を義務づけることができる。",
-      "勝敗を楽しむことができる。"
+      "<ruby>参加者<rt>さんかしゃ</rt></ruby>の<ruby>緊張感<rt>きんちょうかん</rt></ruby>を<ruby>軽減<rt>けいげん</rt></ruby>することができる。",
+      "<ruby>活動内容<rt>かつどうないよう</rt></ruby>を<ruby>毎回<rt>まいかい</rt></ruby><ruby>固定<rt>こてい</rt></ruby>して<ruby>実施<rt>じっし</rt></ruby>することができる。",
+      "<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>の<ruby>負担<rt>ふたん</rt></ruby>を<ruby>軽減<rt>けいげん</rt></ruby>することができる。",
+      "<ruby>利用者<rt>りようしゃ</rt></ruby>の<ruby>参加<rt>さんか</rt></ruby>を<ruby>義務<rt>ぎむ</rt></ruby>づけることができる。",
+      "<ruby>勝敗<rt>しょうはい</rt></ruby>を<ruby>楽<rt>たの</rt></ruby>しむことができる。"
     ],
     "answer": 0
   },
   {
-    "question": "問題82 次の記述のうち，介護福祉職が行う身じたく・整容の介護として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>82 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>が<ruby>行<rt>おこな</rt></ruby>う<ruby>身<rt>み</rt></ruby>じたく・<ruby>整容<rt>せいよう</rt></ruby>の<ruby>介護<rt>かいご</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "ベッド上で行う口腔ケアは，ガーグルベースンを用いる。",
-      "総義歯の洗浄は，歯みがき剤を用いる。",
-      "耳垢（じこう）の除去は，ピンセットを用いる。",
-      "ベッド上で行う洗顔は，冷水に浸して絞ったタオルを用いる。",
-      "浴室で行う洗髪は，ドライシャンプーを用いる。"
+      "ベッド<ruby>上<rt>うえ</rt></ruby>で<ruby>行<rt>おこな</rt></ruby>う<ruby>口腔<rt>こうこう</rt></ruby>ケアは，ガーグルベースンを<ruby>用<rt>もち</rt></ruby>いる。",
+      "<ruby>総<rt>そう</rt></ruby><ruby>義歯<rt>ぎし</rt></ruby>の<ruby>洗浄<rt>せんじょう</rt></ruby>は，<ruby>歯<rt>は</rt></ruby>みがき<ruby>剤<rt>ざい</rt></ruby>を<ruby>用<rt>もち</rt></ruby>いる。",
+      "<ruby>耳垢<rt>みみあか</rt></ruby>（じこう）の<ruby>除去<rt>じょきょ</rt></ruby>は，ピンセットを<ruby>用<rt>もち</rt></ruby>いる。",
+      "ベッド<ruby>上<rt>うえ</rt></ruby>で<ruby>行<rt>おこな</rt></ruby>う<ruby>洗顔<rt>せんがん</rt></ruby>は，<ruby>冷水<rt>ひやみず</rt></ruby>に<ruby>浸<rt>ひた</rt></ruby>して<ruby>絞<rt>しぼ</rt></ruby>ったタオルを<ruby>用<rt>もち</rt></ruby>いる。",
+      "<ruby>浴室<rt>よくしつ</rt></ruby>で<ruby>行<rt>おこな</rt></ruby>う<ruby>洗髪<rt>せんぱつ</rt></ruby>は，ドライシャンプーを<ruby>用<rt>もち</rt></ruby>いる。"
     ],
     "answer": 0
   },
   {
-    "question": "問題83 次の記述のうち，障害のある人への事故防止の対応として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>83 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>障害<rt>しょうがい</rt></ruby>のある<ruby>人<rt>にん</rt></ruby>への<ruby>事故防止<rt>じこぼうし</rt></ruby>の<ruby>対応<rt>たいおう</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "パーキンソン病（Parkinson disease）の人には，低めのベッドを用意する。",
-      "認知症（dementia）の人には，ガスコンロを用意する。",
-      "在宅酸素療法中の人のそばでは，喫煙しない。",
-      "視覚障害のある人には，洗体用に頭受け台を用意する。",
-      "聴覚障害のある人には，補高便座を用意する。"
+      "パーキンソン<ruby>病<rt>びょう</rt></ruby>（Parkinson disease）の<ruby>人<rt>にん</rt></ruby>には，<ruby>低<rt>ひく</rt></ruby>めのベッドを<ruby>用意<rt>ようい</rt></ruby>する。",
+      "<ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby>（dementia）の<ruby>人<rt>にん</rt></ruby>には，ガスコンロを<ruby>用意<rt>ようい</rt></ruby>する。",
+      "<ruby>在宅<rt>ざいたく</rt></ruby><ruby>酸素<rt>さんそ</rt></ruby><ruby>療法<rt>りょうほう</rt></ruby><ruby>中<rt>なか</rt></ruby>の<ruby>人<rt>にん</rt></ruby>のそばでは，<ruby>喫煙<rt>きつえん</rt></ruby>しない。",
+      "<ruby>視覚障害<rt>しかくしょうがい</rt></ruby>のある<ruby>人<rt>にん</rt></ruby>には，<ruby>洗体<rt>せんたい</rt></ruby><ruby>用<rt>よう</rt></ruby>に<ruby>頭<rt>あたま</rt></ruby><ruby>受<rt>う</rt></ruby>け<ruby>台<rt>だい</rt></ruby>を<ruby>用意<rt>ようい</rt></ruby>する。",
+      "<ruby>聴覚<rt>ちょうかく</rt></ruby><ruby>障害<rt>しょうがい</rt></ruby>のある<ruby>人<rt>にん</rt></ruby>には，<ruby>補<rt>ほ</rt></ruby><ruby>高<rt>たか</rt></ruby><ruby>便座<rt>べんざ</rt></ruby>を<ruby>用意<rt>ようい</rt></ruby>する。"
     ],
     "answer": 2
   },
   {
-    "question": "問題84 次のうち，右片麻痺（みぎかたまひ）の利用者が多点杖（たてんづえ）を使用して3動作歩行を開始するときに，介護福祉職が行う説明として，適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>84 <ruby>次<rt>つぎ</rt></ruby>のうち，<ruby>右片<rt>うへん</rt></ruby><ruby>麻痺<rt>まひ</rt></ruby>（みぎかたまひ）の<ruby>利用者<rt>りようしゃ</rt></ruby>が<ruby>多点<rt>たてん</rt></ruby><ruby>杖<rt>つえ</rt></ruby>（たてんづえ）を<ruby>使用<rt>しよう</rt></ruby>して3<ruby>動作<rt>どうさ</rt></ruby><ruby>歩行<rt>ほこう</rt></ruby>を<ruby>開始<rt>かいし</rt></ruby>するときに，<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>が<ruby>行<rt>おこな</rt></ruby>う<ruby>説明<rt>せつめい</rt></ruby>として，<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "「杖，右足，左足の順で歩きましょう」",
-      "「杖，左足，右足の順で歩きましょう」",
-      "「右足，左足，杖の順で歩きましょう」",
-      "「左足，杖，右足の順で歩きましょう」",
-      "「左足，右足，杖の順で歩きましょう」"
+      "「<ruby>杖<rt>つえ</rt></ruby>，<ruby>右足<rt>みぎあし</rt></ruby>，<ruby>左足<rt>ひだりあし</rt></ruby>の<ruby>順<rt>じゅん</rt></ruby>で<ruby>歩<rt>ある</rt></ruby>きましょう」",
+      "「<ruby>杖<rt>つえ</rt></ruby>，<ruby>左足<rt>ひだりあし</rt></ruby>，<ruby>右足<rt>みぎあし</rt></ruby>の<ruby>順<rt>じゅん</rt></ruby>で<ruby>歩<rt>ある</rt></ruby>きましょう」",
+      "「<ruby>右足<rt>みぎあし</rt></ruby>，<ruby>左足<rt>ひだりあし</rt></ruby>，<ruby>杖<rt>つえ</rt></ruby>の<ruby>順<rt>じゅん</rt></ruby>で<ruby>歩<rt>ある</rt></ruby>きましょう」",
+      "「<ruby>左足<rt>ひだりあし</rt></ruby>，<ruby>杖<rt>つえ</rt></ruby>，<ruby>右足<rt>みぎあし</rt></ruby>の<ruby>順<rt>じゅん</rt></ruby>で<ruby>歩<rt>ある</rt></ruby>きましょう」",
+      "「<ruby>左足<rt>ひだりあし</rt></ruby>，<ruby>右足<rt>みぎあし</rt></ruby>，<ruby>杖<rt>つえ</rt></ruby>の<ruby>順<rt>じゅん</rt></ruby>で<ruby>歩<rt>ある</rt></ruby>きましょう」"
     ],
     "answer": 0
   },
   {
-    "question": "問題85 ノーリフティングケアに関する次の記述のうち，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>85 ノーリフティングケアに<ruby>関<rt>かん</rt></ruby>する<ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "仰臥位（背臥位）の利用者を抱え上げて，端座位にする。",
-      "仰臥位（背臥位）の利用者を手前に引きよせて，ストレッチャーに移乗する。",
-      "端座位の利用者の体幹を抱きかかえて，車いすに移乗する。",
-      "端座位の利用者にスライディングボードを使用して，車いすに移乗する。",
-      "立位が困難な端座位の利用者に回転移動盤を使用して，車いすに移乗する。"
+      "<ruby>仰臥<rt>ぎょうが</rt></ruby><ruby>位<rt>くらい</rt></ruby>（<ruby>背<rt>せ</rt></ruby><ruby>臥位<rt>がい</rt></ruby>）の<ruby>利用者<rt>りようしゃ</rt></ruby>を<ruby>抱<rt>かか</rt></ruby>え<ruby>上<rt>あ</rt></ruby>げて，<ruby>端座<rt>たんざ</rt></ruby><ruby>位<rt>くらい</rt></ruby>にする。",
+      "<ruby>仰臥<rt>ぎょうが</rt></ruby><ruby>位<rt>くらい</rt></ruby>（<ruby>背<rt>せ</rt></ruby><ruby>臥位<rt>がい</rt></ruby>）の<ruby>利用者<rt>りようしゃ</rt></ruby>を<ruby>手前<rt>てまえ</rt></ruby>に<ruby>引<rt>ひ</rt></ruby>きよせて，ストレッチャーに<ruby>移乗<rt>いじょう</rt></ruby>する。",
+      "<ruby>端座<rt>たんざ</rt></ruby><ruby>位<rt>くらい</rt></ruby>の<ruby>利用者<rt>りようしゃ</rt></ruby>の<ruby>体幹<rt>たいかん</rt></ruby>を<ruby>抱<rt>だ</rt></ruby>きかかえて，<ruby>車<rt>くるま</rt></ruby>いすに<ruby>移乗<rt>いじょう</rt></ruby>する。",
+      "<ruby>端座<rt>たんざ</rt></ruby><ruby>位<rt>くらい</rt></ruby>の<ruby>利用者<rt>りようしゃ</rt></ruby>にスライディングボードを<ruby>使用<rt>しよう</rt></ruby>して，<ruby>車<rt>くるま</rt></ruby>いすに<ruby>移乗<rt>いじょう</rt></ruby>する。",
+      "<ruby>立位<rt>りつい</rt></ruby>が<ruby>困難<rt>こんなん</rt></ruby>な<ruby>端座<rt>たんざ</rt></ruby><ruby>位<rt>くらい</rt></ruby>の<ruby>利用者<rt>りようしゃ</rt></ruby>に<ruby>回転<rt>かいてん</rt></ruby><ruby>移動<rt>いどう</rt></ruby><ruby>盤<rt>ばん</rt></ruby>を<ruby>使用<rt>しよう</rt></ruby>して，<ruby>車<rt>くるま</rt></ruby>いすに<ruby>移乗<rt>いじょう</rt></ruby>する。"
     ],
     "answer": 3
   },
   {
-    "question": "問題86 次の記述のうち，左片麻痺（ひだりかたまひ）の利用者を右側臥位（みぎそくがい）から端座位にするときの介護として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>86 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>左片<rt>さへん</rt></ruby><ruby>麻痺<rt>まひ</rt></ruby>（ひだりかたまひ）の<ruby>利用者<rt>りようしゃ</rt></ruby>を<ruby>右側<rt>みぎがわ</rt></ruby><ruby>臥位<rt>がい</rt></ruby>（みぎそくがい）から<ruby>端座<rt>たんざ</rt></ruby><ruby>位<rt>くらい</rt></ruby>にするときの<ruby>介護<rt>かいご</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "利用者に左手でベッド柵をつかむように伝える。",
-      "利用者に右肘を支点にして上体を起こしてもらう。",
-      "利用者の右脚をベッドから下ろす。",
-      "利用者の頸部（けいぶ）を支えて上体を起こす。",
-      "端座位の利用者の右側に立って上体を支える。"
+      "<ruby>利用者<rt>りようしゃ</rt></ruby>に<ruby>左手<rt>ひだりて</rt></ruby>でベッド<ruby>柵<rt>さく</rt></ruby>をつかむように<ruby>伝<rt>つた</rt></ruby>える。",
+      "<ruby>利用者<rt>りようしゃ</rt></ruby>に<ruby>右肘<rt>みぎひじ</rt></ruby>を<ruby>支点<rt>してん</rt></ruby>にして<ruby>上体<rt>じょうたい</rt></ruby>を<ruby>起<rt>お</rt></ruby>こしてもらう。",
+      "<ruby>利用者<rt>りようしゃ</rt></ruby>の<ruby>右脚<rt>みぎあし</rt></ruby>をベッドから<ruby>下<rt>くだ</rt></ruby>ろす。",
+      "<ruby>利用者<rt>りようしゃ</rt></ruby>の<ruby>頸部<rt>けいぶ</rt></ruby>（けいぶ）を<ruby>支<rt>ささ</rt></ruby>えて<ruby>上体<rt>じょうたい</rt></ruby>を<ruby>起<rt>お</rt></ruby>こす。",
+      "<ruby>端座<rt>たんざ</rt></ruby><ruby>位<rt>くらい</rt></ruby>の<ruby>利用者<rt>りようしゃ</rt></ruby>の<ruby>右側<rt>みぎがわ</rt></ruby>に<ruby>立<rt>た</rt></ruby>って<ruby>上体<rt>じょうたい</rt></ruby>を<ruby>支<rt>ささ</rt></ruby>える。"
     ],
     "answer": 1
   },
   {
-    "question": "問題87 口腔ケアに関する次の記述のうち，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>87 <ruby>口腔<rt>こうこう</rt></ruby>ケアに<ruby>関<rt>かん</rt></ruby>する<ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "うがいは，顔貌を整える。",
-      "歯みがきは，感染予防になる。",
-      "口腔内の乾燥は，口臭を予防する。",
-      "唾液腺マッサージは，唾液の分泌を抑える。",
-      "咀嚼機能（そしゃくきのう）の向上のために，タッピングを行う。"
+      "うがいは，<ruby>顔貌<rt>かおかたち</rt></ruby>を<ruby>整<rt>ととの</rt></ruby>える。",
+      "<ruby>歯<rt>は</rt></ruby>みがきは，<ruby>感染<rt>かんせん</rt></ruby><ruby>予防<rt>よぼう</rt></ruby>になる。",
+      "<ruby>口腔内<rt>こうくうない</rt></ruby>の<ruby>乾燥<rt>かんそう</rt></ruby>は，<ruby>口臭<rt>こうしゅう</rt></ruby>を<ruby>予防<rt>よぼう</rt></ruby>する。",
+      "<ruby>唾液腺<rt>だえきせん</rt></ruby>マッサージは，<ruby>唾液<rt>だえき</rt></ruby>の<ruby>分泌<rt>ぶんぴつ</rt></ruby>を<ruby>抑<rt>おさ</rt></ruby>える。",
+      "<ruby>咀嚼<rt>そしゃく</rt></ruby><ruby>機能<rt>きのう</rt></ruby>（そしゃくきのう）の<ruby>向上<rt>こうじょう</rt></ruby>のために，タッピングを<ruby>行<rt>おこな</rt></ruby>う。"
     ],
     "answer": 1
   },
   {
-    "question": "問題88 次の記述のうち，口腔ケアを実施するときの留意点として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>88 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>口腔<rt>こうこう</rt></ruby>ケアを<ruby>実施<rt>じっし</rt></ruby>するときの<ruby>留意点<rt>りゅういてん</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "実施中は，利用者に顎を上げた姿勢をとってもらう。",
-      "総義歯は，上顎から下顎の順に外してもらう。",
-      "歯みがきの前に，うがいを行ってもらう。",
-      "歯ブラシは，大きく動かして磨いてもらう。",
-      "舌ブラシは，舌先から咽頭に向かって動かしてもらう。"
+      "<ruby>実施中<rt>じっしちゅう</rt></ruby>は，<ruby>利用者<rt>りようしゃ</rt></ruby>に<ruby>顎<rt>あご</rt></ruby>を<ruby>上<rt>あ</rt></ruby>げた<ruby>姿勢<rt>しせい</rt></ruby>をとってもらう。",
+      "<ruby>総<rt>そう</rt></ruby><ruby>義歯<rt>ぎし</rt></ruby>は，<ruby>上顎<rt>うわあご</rt></ruby>から<ruby>下顎<rt>したあご</rt></ruby>の<ruby>順<rt>じゅん</rt></ruby>に<ruby>外<rt>はず</rt></ruby>してもらう。",
+      "<ruby>歯<rt>は</rt></ruby>みがきの<ruby>前<rt>まえ</rt></ruby>に，うがいを<ruby>行<rt>い</rt></ruby>ってもらう。",
+      "<ruby>歯ブラシ<rt>はぶらし</rt></ruby>は，<ruby>大<rt>おお</rt></ruby>きく<ruby>動<rt>うご</rt></ruby>かして<ruby>磨<rt>みが</rt></ruby>いてもらう。",
+      "<ruby>舌<rt>した</rt></ruby>ブラシは，<ruby>舌先<rt>したさき</rt></ruby>から<ruby>咽頭<rt>いんとう</rt></ruby>に<ruby>向<rt>む</rt></ruby>かって<ruby>動<rt>うご</rt></ruby>かしてもらう。"
     ],
     "answer": 2
   },
   {
-    "question": "問題89 次の記述のうち，介護が必要な人への熱中症対策のために，介護福祉職が行う水分補給の対応として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>89 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>介護<rt>かいご</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>な<ruby>人<rt>にん</rt></ruby>への<ruby>熱中<rt>ねっちゅう</rt></ruby><ruby>症<rt>しょう</rt></ruby><ruby>対策<rt>たいさく</rt></ruby>のために，<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>が<ruby>行<rt>おこな</rt></ruby>う<ruby>水分<rt>すいぶん</rt></ruby><ruby>補給<rt>ほきゅう</rt></ruby>の<ruby>対応<rt>たいおう</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "のどが渇いてから，水分を取るように伝える。",
-      "水でむせるときは，ゼリーの提供を控える。",
-      "起床時は，水分摂取を控えるように伝える。",
-      "食事のときの水分は，一日の水分摂取量から除く。",
-      "汗の量が多いときは，塩分を含んだ飲み物を勧める。"
+      "のどが<ruby>渇<rt>かつ</rt></ruby>いてから，<ruby>水分<rt>すいぶん</rt></ruby>を<ruby>取<rt>と</rt></ruby>るように<ruby>伝<rt>つた</rt></ruby>える。",
+      "<ruby>水<rt>みず</rt></ruby>でむせるときは，ゼリーの<ruby>提供<rt>ていきょう</rt></ruby>を<ruby>控<rt>ひか</rt></ruby>える。",
+      "<ruby>起床<rt>きしょう</rt></ruby><ruby>時<rt>とき</rt></ruby>は，<ruby>水分<rt>すいぶん</rt></ruby><ruby>摂取<rt>せっしゅ</rt></ruby>を<ruby>控<rt>ひか</rt></ruby>えるように<ruby>伝<rt>つた</rt></ruby>える。",
+      "<ruby>食事<rt>しょくじ</rt></ruby>のときの<ruby>水分<rt>すいぶん</rt></ruby>は，<ruby>一日<rt>ついたち</rt></ruby>の<ruby>水分<rt>すいぶん</rt></ruby><ruby>摂取量<rt>せっしゅりょう</rt></ruby>から<ruby>除<rt>のぞ</rt></ruby>く。",
+      "<ruby>汗<rt>あせ</rt></ruby>の<ruby>量<rt>りょう</rt></ruby>が<ruby>多<rt>おお</rt></ruby>いときは，<ruby>塩分<rt>えんぶん</rt></ruby>を<ruby>含<rt>ふく</rt></ruby>んだ<ruby>飲み物<rt>のみもの</rt></ruby>を<ruby>勧<rt>すす</rt></ruby>める。"
     ],
     "answer": 4
   },
   {
-    "question": "問題90 Ａさん（75歳，男性）は，1年前に前頭側頭型認知症（frontotemporal dementia）と診断され，現在は，認知症対応型共同生活介護（認知症高齢者グループホーム）に入居している。若い頃から食べることが好きである。現在，咀嚼（そしゃく）や嚥下機能（えんげきのう）の低下はなく，スプーンを使い，自分で食べている。最近，飲み込む前に次々と食べ物を口に入れることが増えた。 次の記述のうち，Ａさんの現在の状態に合わせた食事の介護として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>90 Ａさん（75<ruby>歳<rt>とし</rt></ruby>，<ruby>男性<rt>だんせい</rt></ruby>）は，1<ruby>年前<rt>ねんまえ</rt></ruby>に<ruby>前頭<rt>ぜんとう</rt></ruby><ruby>側頭<rt>そくとう</rt></ruby><ruby>型<rt>かた</rt></ruby><ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby>（frontotemporal dementia）と<ruby>診断<rt>しんだん</rt></ruby>され，<ruby>現在<rt>げんざい</rt></ruby>は，<ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby><ruby>対応型<rt>たいおうがた</rt></ruby><ruby>共同生活<rt>きょうどうせいかつ</rt></ruby><ruby>介護<rt>かいご</rt></ruby>（<ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby><ruby>高齢者<rt>こうれいしゃ</rt></ruby>グループホーム）に<ruby>入居<rt>にゅうきょ</rt></ruby>している。<ruby>若<rt>わか</rt></ruby>い<ruby>頃<rt>ごろ</rt></ruby>から<ruby>食<rt>た</rt></ruby>べることが<ruby>好<rt>す</rt></ruby>きである。<ruby>現在<rt>げんざい</rt></ruby>，<ruby>咀嚼<rt>そしゃく</rt></ruby>（そしゃく）や<ruby>嚥下<rt>えんか</rt></ruby><ruby>機能<rt>きのう</rt></ruby>（えんげきのう）の<ruby>低下<rt>ていか</rt></ruby>はなく，スプーンを<ruby>使<rt>つか</rt></ruby>い，<ruby>自分<rt>じぶん</rt></ruby>で<ruby>食<rt>た</rt></ruby>べている。<ruby>最近<rt>さいきん</rt></ruby>，<ruby>飲み込<rt>のみこ</rt></ruby>む<ruby>前<rt>まえ</rt></ruby>に<ruby>次々<rt>つぎつぎ</rt></ruby>と<ruby>食べ物<rt>たべもの</rt></ruby>を<ruby>口<rt>くち</rt></ruby>に<ruby>入<rt>い</rt></ruby>れることが<ruby>増<rt>ふ</rt></ruby>えた。 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，Ａさんの<ruby>現在<rt>げんざい</rt></ruby>の<ruby>状態<rt>じょうたい</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わせた<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>介護<rt>かいご</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "取っ手つきのコップを準備する。",
-      "食器に少量ずつ盛りつけて提供する。",
-      "すべての料理をテーブルの上に並べる。",
-      "大きなスプーンに変更する。",
-      "手で持って食べられる物を準備する。"
+      "<ruby>取<rt>と</rt></ruby>っ<ruby>手<rt>て</rt></ruby>つきのコップを<ruby>準備<rt>じゅんび</rt></ruby>する。",
+      "<ruby>食器<rt>しょっき</rt></ruby>に<ruby>少量<rt>しょうりょう</rt></ruby>ずつ<ruby>盛<rt>も</rt></ruby>りつけて<ruby>提供<rt>ていきょう</rt></ruby>する。",
+      "すべての<ruby>料理<rt>りょうり</rt></ruby>をテーブルの<ruby>上<rt>うえ</rt></ruby>に<ruby>並<rt>なら</rt></ruby>べる。",
+      "<ruby>大<rt>おお</rt></ruby>きなスプーンに<ruby>変更<rt>へんこう</rt></ruby>する。",
+      "<ruby>手<rt>て</rt></ruby>で<ruby>持<rt>も</rt></ruby>って<ruby>食<rt>た</rt></ruby>べられる<ruby>物<rt>もの</rt></ruby>を<ruby>準備<rt>じゅんび</rt></ruby>する。"
     ],
     "answer": 1
   },
   {
-    "question": "問題91 次の記述のうち，パーキンソン病（Parkinson disease）で上肢の震えはあるが，自力摂取が可能な利用者の食事の介護として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>91 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，パーキンソン<ruby>病<rt>びょう</rt></ruby>（Parkinson disease）で<ruby>上肢<rt>じょうし</rt></ruby>の<ruby>震<rt>ふる</rt></ruby>えはあるが，<ruby>自力<rt>じりき</rt></ruby><ruby>摂取<rt>せっしゅ</rt></ruby>が<ruby>可能<rt>かのう</rt></ruby>な<ruby>利用者<rt>りようしゃ</rt></ruby>の<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>介護<rt>かいご</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "食事後に口腔内のアイスマッサージを行う。",
-      "片側の縁が高くなっている皿を準備する。",
-      "上半身を後ろに20度程度倒すように伝える。",
-      "食器の置いてある位置を説明する。",
-      "踵（かかと）を床から浮かすように伝える。"
+      "<ruby>食事後<rt>しょくじご</rt></ruby>に<ruby>口腔内<rt>こうくうない</rt></ruby>のアイスマッサージを<ruby>行<rt>おこな</rt></ruby>う。",
+      "<ruby>片側<rt>かたがわ</rt></ruby>の<ruby>縁<rt>へり</rt></ruby>が<ruby>高<rt>たか</rt></ruby>くなっている<ruby>皿<rt>さら</rt></ruby>を<ruby>準備<rt>じゅんび</rt></ruby>する。",
+      "<ruby>上半身<rt>じょうはんしん</rt></ruby>を<ruby>後<rt>うし</rt></ruby>ろに20<ruby>度<rt>ど</rt></ruby><ruby>程度<rt>ていど</rt></ruby><ruby>倒<rt>たお</rt></ruby>すように<ruby>伝<rt>つた</rt></ruby>える。",
+      "<ruby>食器<rt>しょっき</rt></ruby>の<ruby>置<rt>お</rt></ruby>いてある<ruby>位置<rt>いち</rt></ruby>を<ruby>説明<rt>せつめい</rt></ruby>する。",
+      "<ruby>踵<rt>かかと</rt></ruby>（かかと）を<ruby>床<rt>とこ</rt></ruby>から<ruby>浮<rt>う</rt></ruby>かすように<ruby>伝<rt>つた</rt></ruby>える。"
     ],
     "answer": 1
   },
   {
-    "question": "問題92 次の記述のうち，入浴の作用を生かした，高齢者への入浴の介護として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>92 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>入浴<rt>にゅうよく</rt></ruby>の<ruby>作用<rt>さよう</rt></ruby>を<ruby>生<rt>い</rt></ruby>かした，<ruby>高齢者<rt>こうれいしゃ</rt></ruby>への<ruby>入浴<rt>にゅうよく</rt></ruby>の<ruby>介護<rt>かいご</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "食事は，入浴直前に摂取する。",
-      "高血圧の人には，42℃以上の湯につかってもらう。",
-      "浴槽の中では，関節運動を促す。",
-      "心疾患（heart disease）のある人には，肩まで湯につかってもらう。",
-      "個浴の浴槽内では，足を浮かせてもらう。"
+      "<ruby>食事<rt>しょくじ</rt></ruby>は，<ruby>入浴<rt>にゅうよく</rt></ruby><ruby>直前<rt>ちょくぜん</rt></ruby>に<ruby>摂取<rt>せっしゅ</rt></ruby>する。",
+      "<ruby>高血圧<rt>こうけつあつ</rt></ruby>の<ruby>人<rt>にん</rt></ruby>には，42℃<ruby>以上<rt>いじょう</rt></ruby>の<ruby>湯<rt>ゆ</rt></ruby>につかってもらう。",
+      "<ruby>浴槽<rt>よくそう</rt></ruby>の<ruby>中<rt>なか</rt></ruby>では，<ruby>関節<rt>かんせつ</rt></ruby><ruby>運動<rt>うんどう</rt></ruby>を<ruby>促<rt>うなが</rt></ruby>す。",
+      "<ruby>心疾患<rt>しんしっかん</rt></ruby>（heart disease）のある<ruby>人<rt>にん</rt></ruby>には，<ruby>肩<rt>かた</rt></ruby>まで<ruby>湯<rt>ゆ</rt></ruby>につかってもらう。",
+      "<ruby>個<rt>こ</rt></ruby><ruby>浴<rt>よく</rt></ruby>の<ruby>浴槽<rt>よくそう</rt></ruby><ruby>内<rt>ない</rt></ruby>では，<ruby>足<rt>あし</rt></ruby>を<ruby>浮<rt>う</rt></ruby>かせてもらう。"
     ],
     "answer": 2
   },
   {
-    "question": "問題93 次の記述のうち，下肢筋力が低下して介護を必要とする人の入浴に適した環境として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>93 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>下肢<rt>かし</rt></ruby><ruby>筋力<rt>きんりょく</rt></ruby>が<ruby>低下<rt>ていか</rt></ruby>して<ruby>介護<rt>かいご</rt></ruby>を<ruby>必要<rt>ひつよう</rt></ruby>とする<ruby>人<rt>にん</rt></ruby>の<ruby>入浴<rt>にゅうよく</rt></ruby>に<ruby>適<rt>てき</rt></ruby>した<ruby>環境<rt>かんきょう</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "浴室の入口は開き戸にする。",
-      "床から浴槽の縁までの高さは20cmにする。",
-      "縦に長く，浅めの洋式の浴槽にする。",
-      "浴槽の縁の幅は20cmにする。",
-      "浴槽への出入りのために，水平および垂直の手すりを設置する。"
+      "<ruby>浴室<rt>よくしつ</rt></ruby>の<ruby>入口<rt>いりぐち</rt></ruby>は<ruby>開き戸<rt>ひらきど</rt></ruby>にする。",
+      "<ruby>床<rt>とこ</rt></ruby>から<ruby>浴槽<rt>よくそう</rt></ruby>の<ruby>縁<rt>へり</rt></ruby>までの<ruby>高<rt>たか</rt></ruby>さは20cmにする。",
+      "<ruby>縦<rt>たて</rt></ruby>に<ruby>長<rt>なが</rt></ruby>く，<ruby>浅<rt>せん</rt></ruby>めの<ruby>洋式<rt>ようしき</rt></ruby>の<ruby>浴槽<rt>よくそう</rt></ruby>にする。",
+      "<ruby>浴槽<rt>よくそう</rt></ruby>の<ruby>縁<rt>へり</rt></ruby>の<ruby>幅<rt>はば</rt></ruby>は20cmにする。",
+      "<ruby>浴槽<rt>よくそう</rt></ruby>への<ruby>出入<rt>でい</rt></ruby>りのために，<ruby>水平<rt>すいへい</rt></ruby>および<ruby>垂直<rt>すいちょく</rt></ruby>の<ruby>手<rt>て</rt></ruby>すりを<ruby>設置<rt>せっち</rt></ruby>する。"
     ],
     "answer": 4
   },
   {
-    "question": "問題94 次の記述のうち，体調不良で入浴できない片麻痺（かたまひ）の利用者に対して，ベッド上で行う全身清拭の方法として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>94 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>体調不良<rt>たいちょうふりょう</rt></ruby>で<ruby>入浴<rt>にゅうよく</rt></ruby>できない<ruby>片麻<rt>へんま</rt></ruby><ruby>痺<rt>ひ</rt></ruby>（かたまひ）の<ruby>利用者<rt>りようしゃ</rt></ruby>に<ruby>対<rt>たい</rt></ruby>して，ベッド<ruby>上<rt>うえ</rt></ruby>で<ruby>行<rt>おこな</rt></ruby>う<ruby>全身<rt>ぜんしん</rt></ruby><ruby>清拭<rt>せいしき</rt></ruby>の<ruby>方法<rt>ほうほう</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "清拭時は，窓を開けて行う。",
-      "洗面器には，40℃程度のお湯を準備する。",
-      "最初に，腹部から清拭する。",
-      "背部は，患側を下にした側臥位（そくがい）にして拭く。",
-      "蒸しタオルで拭いた後は，乾いたタオルで水分を拭き取る。"
+      "<ruby>清拭<rt>せいしき</rt></ruby><ruby>時<rt>とき</rt></ruby>は，<ruby>窓<rt>まど</rt></ruby>を<ruby>開<rt>ひら</rt></ruby>けて<ruby>行<rt>おこな</rt></ruby>う。",
+      "<ruby>洗面器<rt>せんめんき</rt></ruby>には，40℃<ruby>程度<rt>ていど</rt></ruby>のお<ruby>湯<rt>ゆ</rt></ruby>を<ruby>準備<rt>じゅんび</rt></ruby>する。",
+      "<ruby>最初<rt>さいしょ</rt></ruby>に，<ruby>腹部<rt>ふくぶ</rt></ruby>から<ruby>清拭<rt>せいしき</rt></ruby>する。",
+      "<ruby>背部<rt>はいぶ</rt></ruby>は，<ruby>患側<rt>かんそく</rt></ruby>を<ruby>下<rt>した</rt></ruby>にした<ruby>側臥<rt>そくが</rt></ruby><ruby>位<rt>くらい</rt></ruby>（そくがい）にして<ruby>拭<rt>ふ</rt></ruby>く。",
+      "<ruby>蒸<rt>む</rt></ruby>しタオルで<ruby>拭<rt>ぬぐ</rt></ruby>いた<ruby>後<rt>のち</rt></ruby>は，<ruby>乾<rt>かわ</rt></ruby>いたタオルで<ruby>水分<rt>すいぶん</rt></ruby>を<ruby>拭<rt>ふ</rt></ruby>き<ruby>取<rt>と</rt></ruby>る。"
     ],
     "answer": 4
   },
   {
-    "question": "問題95 次のうち，同居の高齢者におむつを使用する家族介護者に対する，介護福祉職の説明として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>95 <ruby>次<rt>つぎ</rt></ruby>のうち，<ruby>同居<rt>どうきょ</rt></ruby>の<ruby>高齢者<rt>こうれいしゃ</rt></ruby>におむつを<ruby>使用<rt>しよう</rt></ruby>する<ruby>家族<rt>かぞく</rt></ruby><ruby>介護<rt>かいご</rt></ruby><ruby>者<rt>もの</rt></ruby>に<ruby>対<rt>たい</rt></ruby>する，<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>の<ruby>説明<rt>せつめい</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "「使用する本人の羞恥心に気を配りましょう」",
-      "「尿失禁を防ぐことができます」",
-      "「尿量を気にせずに，1日中同じおむつを使うことができます」",
-      "「おむつを着けると，安心して排泄（はいせつ）ができます」",
-      "「家族の都合に合わせて，おむつを使いましょう」"
+      "「<ruby>使用<rt>しよう</rt></ruby>する<ruby>本人<rt>ほんにん</rt></ruby>の<ruby>羞恥心<rt>しゅうちしん</rt></ruby>に<ruby>気<rt>き</rt></ruby>を<ruby>配<rt>くば</rt></ruby>りましょう」",
+      "「<ruby>尿<rt>にょう</rt></ruby><ruby>失禁<rt>しっきん</rt></ruby>を<ruby>防<rt>ふせ</rt></ruby>ぐことができます」",
+      "「<ruby>尿量<rt>にょうりょう</rt></ruby>を<ruby>気<rt>き</rt></ruby>にせずに，1<ruby>日中<rt>にっちゅう</rt></ruby><ruby>同<rt>おな</rt></ruby>じおむつを<ruby>使<rt>つか</rt></ruby>うことができます」",
+      "「おむつを<ruby>着<rt>つ</rt></ruby>けると，<ruby>安心<rt>あんしん</rt></ruby>して<ruby>排泄<rt>はいせつ</rt></ruby>（はいせつ）ができます」",
+      "「<ruby>家族<rt>かぞく</rt></ruby>の<ruby>都合<rt>つごう</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わせて，おむつを<ruby>使<rt>つか</rt></ruby>いましょう」"
     ],
     "answer": 0
   },
   {
-    "question": "問題96 次の記述のうち，ポータブルトイレを使用するときの排泄（はいせつ）の介護として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>96 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，ポータブルトイレを<ruby>使用<rt>しよう</rt></ruby>するときの<ruby>排泄<rt>はいせつ</rt></ruby>（はいせつ）の<ruby>介護<rt>かいご</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "ポータブルトイレの下に新聞紙を敷く。",
-      "ベッドで臥床（がしょう）している状態で，ズボンや下着をおろす。",
-      "ポータブルトイレには，前かがみになって座ってもらう。",
-      "排泄が終わるまで，ポータブルトイレの後ろに立って待つ。",
-      "排泄後の陰部の清拭は，ベッドの上で行う。"
+      "ポータブルトイレの<ruby>下<rt>した</rt></ruby>に<ruby>新聞紙<rt>しんぶんし</rt></ruby>を<ruby>敷<rt>し</rt></ruby>く。",
+      "ベッドで<ruby>臥床<rt>がしょう</rt></ruby>（がしょう）している<ruby>状態<rt>じょうたい</rt></ruby>で，ズボンや<ruby>下着<rt>したぎ</rt></ruby>をおろす。",
+      "ポータブルトイレには，<ruby>前<rt>ぜん</rt></ruby>かがみになって<ruby>座<rt>すわ</rt></ruby>ってもらう。",
+      "<ruby>排泄<rt>はいせつ</rt></ruby>が<ruby>終<rt>お</rt></ruby>わるまで，ポータブルトイレの<ruby>後<rt>うし</rt></ruby>ろに<ruby>立<rt>た</rt></ruby>って<ruby>待<rt>ま</rt></ruby>つ。",
+      "<ruby>排泄<rt>はいせつ</rt></ruby><ruby>後<rt>のち</rt></ruby>の<ruby>陰部<rt>いんぶ</rt></ruby>の<ruby>清拭<rt>せいしき</rt></ruby>は，ベッドの<ruby>上<rt>うえ</rt></ruby>で<ruby>行<rt>おこな</rt></ruby>う。"
     ],
     "answer": 2
   },
   {
-    "question": "問題97 次の記述のうち，介護福祉職が行うことのできる，坐薬（座薬）を用いた介護として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>97 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>が<ruby>行<rt>おこな</rt></ruby>うことのできる，<ruby>坐薬<rt>ざやく</rt></ruby>（<ruby>座薬<rt>ざやく</rt></ruby>）を<ruby>用<rt>もち</rt></ruby>いた<ruby>介護<rt>かいご</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "膣（ちつ）から挿入する坐薬（座薬）が扱える。",
-      "坐薬（座薬）は，あたたかな場所で保管する。",
-      "坐薬（座薬）は，とがっていない方から挿入する。",
-      "腹部に力を入れるよう促しながら，坐薬（座薬）を挿入する。",
-      "下剤以外の坐薬（座薬）挿入は，先に排泄（はいせつ）を済ませてから行う。"
+      "<ruby>膣<rt>ちつ</rt></ruby>（ちつ）から<ruby>挿入<rt>そうにゅう</rt></ruby>する<ruby>坐薬<rt>ざやく</rt></ruby>（<ruby>座薬<rt>ざやく</rt></ruby>）が<ruby>扱<rt>あつか</rt></ruby>える。",
+      "<ruby>坐薬<rt>ざやく</rt></ruby>（<ruby>座薬<rt>ざやく</rt></ruby>）は，あたたかな<ruby>場所<rt>ばしょ</rt></ruby>で<ruby>保管<rt>ほかん</rt></ruby>する。",
+      "<ruby>坐薬<rt>ざやく</rt></ruby>（<ruby>座薬<rt>ざやく</rt></ruby>）は，とがっていない<ruby>方<rt>ほう</rt></ruby>から<ruby>挿入<rt>そうにゅう</rt></ruby>する。",
+      "<ruby>腹部<rt>ふくぶ</rt></ruby>に<ruby>力<rt>ちから</rt></ruby>を<ruby>入<rt>い</rt></ruby>れるよう<ruby>促<rt>うなが</rt></ruby>しながら，<ruby>坐薬<rt>ざやく</rt></ruby>（<ruby>座薬<rt>ざやく</rt></ruby>）を<ruby>挿入<rt>そうにゅう</rt></ruby>する。",
+      "<ruby>下剤<rt>げざい</rt></ruby><ruby>以外<rt>いがい</rt></ruby>の<ruby>坐薬<rt>ざやく</rt></ruby>（<ruby>座薬<rt>ざやく</rt></ruby>）<ruby>挿入<rt>そうにゅう</rt></ruby>は，<ruby>先<rt>さき</rt></ruby>に<ruby>排泄<rt>はいせつ</rt></ruby>（はいせつ）を<ruby>済<rt>す</rt></ruby>ませてから<ruby>行<rt>おこな</rt></ruby>う。"
     ],
     "answer": 4
   },
   {
-    "question": "問題98 次の記述のうち，調理における基本調味料の効果や使い方として，適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>98 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>調理<rt>ちょうり</rt></ruby>における<ruby>基本<rt>きほん</rt></ruby><ruby>調味料<rt>ちょうみりょう</rt></ruby>の<ruby>効果<rt>こうか</rt></ruby>や<ruby>使い方<rt>つかいかた</rt></ruby>として，<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "砂糖は，塩より先に入れると，食物に甘みが浸透しやすくなる。",
-      "塩は，食物のうま味を増し，照りを出す。",
-      "酢は，食物の水分を引き出し，保存性を高める。",
-      "しょうゆは，食物のくさみを抜き，肉を柔らかくする。",
-      "みそは，味付けの最初に入れると，特有の香りが逃げない。"
+      "<ruby>砂糖<rt>さとう</rt></ruby>は，<ruby>塩<rt>しお</rt></ruby>より<ruby>先<rt>さき</rt></ruby>に<ruby>入<rt>い</rt></ruby>れると，<ruby>食物<rt>たべもの</rt></ruby>に<ruby>甘<rt>かん</rt></ruby>みが<ruby>浸透<rt>しんとう</rt></ruby>しやすくなる。",
+      "<ruby>塩<rt>しお</rt></ruby>は，<ruby>食物<rt>たべもの</rt></ruby>のうま<ruby>味<rt>あじ</rt></ruby>を<ruby>増<rt>ま</rt></ruby>し，<ruby>照<rt>て</rt></ruby>りを<ruby>出<rt>だ</rt></ruby>す。",
+      "<ruby>酢<rt>す</rt></ruby>は，<ruby>食物<rt>たべもの</rt></ruby>の<ruby>水分<rt>すいぶん</rt></ruby>を<ruby>引き出<rt>ひきだ</rt></ruby>し，<ruby>保存性<rt>ほぞんせい</rt></ruby>を<ruby>高<rt>たか</rt></ruby>める。",
+      "しょうゆは，<ruby>食物<rt>たべもの</rt></ruby>のくさみを<ruby>抜<rt>ぬ</rt></ruby>き，<ruby>肉<rt>にく</rt></ruby>を<ruby>柔<rt>やわ</rt></ruby>らかくする。",
+      "みそは，<ruby>味付<rt>あじつ</rt></ruby>けの<ruby>最初<rt>さいしょ</rt></ruby>に<ruby>入<rt>い</rt></ruby>れると，<ruby>特有<rt>とくゆう</rt></ruby>の<ruby>香<rt>かお</rt></ruby>りが<ruby>逃<rt>に</rt></ruby>げない。"
     ],
     "answer": 0
   },
   {
-    "question": "問題99 食品の保存に関する次の記述のうち，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>99 <ruby>食品<rt>しょくひん</rt></ruby>の<ruby>保存<rt>ほぞん</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "賞味期限の切れた未開封の缶詰は，すぐに廃棄する。",
-      "ウインナーには，消費期限が記載されている。",
-      "前日調理して常温保存した肉入りカレーは，再加熱する。",
-      "りんごを冷蔵庫で保存するときは，ビニール袋に入れて密封する。",
-      "冷凍食品は，一度解凍しても再冷凍すれば長期間の保存が可能である。"
+      "<ruby>賞味期限<rt>しょうみきげん</rt></ruby>の<ruby>切<rt>き</rt></ruby>れた<ruby>未開封<rt>みかいふう</rt></ruby>の<ruby>缶詰<rt>かんづめ</rt></ruby>は，すぐに<ruby>廃棄<rt>はいき</rt></ruby>する。",
+      "ウインナーには，<ruby>消費<rt>しょうひ</rt></ruby><ruby>期限<rt>きげん</rt></ruby>が<ruby>記載<rt>きさい</rt></ruby>されている。",
+      "<ruby>前日<rt>ぜんじつ</rt></ruby><ruby>調理<rt>ちょうり</rt></ruby>して<ruby>常温<rt>じょうおん</rt></ruby><ruby>保存<rt>ほぞん</rt></ruby>した<ruby>肉入<rt>にくいれ</rt></ruby>りカレーは，<ruby>再加熱<rt>さいかねつ</rt></ruby>する。",
+      "りんごを<ruby>冷蔵庫<rt>れいぞうこ</rt></ruby>で<ruby>保存<rt>ほぞん</rt></ruby>するときは，ビニール<ruby>袋<rt>ふくろ</rt></ruby>に<ruby>入<rt>い</rt></ruby>れて<ruby>密封<rt>みっぷう</rt></ruby>する。",
+      "<ruby>冷凍食品<rt>れいとうしょくひん</rt></ruby>は，<ruby>一度<rt>いちど</rt></ruby><ruby>解凍<rt>かいとう</rt></ruby>しても<ruby>再<rt>さい</rt></ruby><ruby>冷凍<rt>れいとう</rt></ruby>すれば<ruby>長期間<rt>ちょうきかん</rt></ruby>の<ruby>保存<rt>ほぞん</rt></ruby>が<ruby>可能<rt>かのう</rt></ruby>である。"
     ],
     "answer": 3
   },
   {
-    "question": "問題100 次の記述のうち，衣類の保管方法として，適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>100 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>衣類<rt>いるい</rt></ruby>の<ruby>保管<rt>ほかん</rt></ruby><ruby>方法<rt>ほうほう</rt></ruby>として，<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "衣装ケースで保管するときは，たたんだ衣類の下に防虫剤を入れる。",
-      "ドライクリーニング後の衣類は，ビニールを外さずに保管する。",
-      "汚れのひどい衣類は，介護福祉職の判断で廃棄する。",
-      "湿気を含んだ衣類は，たたんで引き出しに保管する。",
-      "絹製品は，タンスの上部に保管する。"
+      "<ruby>衣装<rt>いしょう</rt></ruby>ケースで<ruby>保管<rt>ほかん</rt></ruby>するときは，たたんだ<ruby>衣類<rt>いるい</rt></ruby>の<ruby>下<rt>した</rt></ruby>に<ruby>防虫剤<rt>ぼうちゅうざい</rt></ruby>を<ruby>入<rt>い</rt></ruby>れる。",
+      "ドライクリーニング<ruby>後<rt>のち</rt></ruby>の<ruby>衣類<rt>いるい</rt></ruby>は，ビニールを<ruby>外<rt>はず</rt></ruby>さずに<ruby>保管<rt>ほかん</rt></ruby>する。",
+      "<ruby>汚<rt>よご</rt></ruby>れのひどい<ruby>衣類<rt>いるい</rt></ruby>は，<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>の<ruby>判断<rt>はんだん</rt></ruby>で<ruby>廃棄<rt>はいき</rt></ruby>する。",
+      "<ruby>湿気<rt>しっけ</rt></ruby>を<ruby>含<rt>ふく</rt></ruby>んだ<ruby>衣類<rt>いるい</rt></ruby>は，たたんで<ruby>引き出<rt>ひきだ</rt></ruby>しに<ruby>保管<rt>ほかん</rt></ruby>する。",
+      "<ruby>絹製<rt>きぬせい</rt></ruby><ruby>品<rt>ひん</rt></ruby>は，タンスの<ruby>上部<rt>じょうぶ</rt></ruby>に<ruby>保管<rt>ほかん</rt></ruby>する。"
     ],
     "answer": 4
   },
   {
-    "question": "問題101 次の記述のうち，介護の現場で行うベッドメイキングとして，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>101 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>介護<rt>かいご</rt></ruby>の<ruby>現場<rt>げんば</rt></ruby>で<ruby>行<rt>おこな</rt></ruby>うベッドメイキングとして，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "居室の窓は，閉めて行う。",
-      "キャスターのあるベッドは，ストッパーを外す。",
-      "シーツの中心線を，マットレスの端に合わせる。",
-      "シーツをマットレスの下に入れるときは，手掌を下にする。",
-      "シーツ交換は，両膝を伸ばしたままで行う。"
+      "<ruby>居室<rt>きょしつ</rt></ruby>の<ruby>窓<rt>まど</rt></ruby>は，<ruby>閉<rt>し</rt></ruby>めて<ruby>行<rt>おこな</rt></ruby>う。",
+      "キャスターのあるベッドは，ストッパーを<ruby>外<rt>はず</rt></ruby>す。",
+      "シーツの<ruby>中心線<rt>ちゅうしんせん</rt></ruby>を，マットレスの<ruby>端<rt>はじ</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わせる。",
+      "シーツをマットレスの<ruby>下<rt>した</rt></ruby>に<ruby>入<rt>い</rt></ruby>れるときは，<ruby>手掌<rt>しゅしょう</rt></ruby>を<ruby>下<rt>した</rt></ruby>にする。",
+      "シーツ<ruby>交換<rt>こうかん</rt></ruby>は，<ruby>両膝<rt>りょうひざ</rt></ruby>を<ruby>伸<rt>の</rt></ruby>ばしたままで<ruby>行<rt>おこな</rt></ruby>う。"
     ],
     "answer": 3
   },
   {
-    "question": "問題102 Ｂさん（90歳，女性，要介護3）は，アルツハイマー型認知症（dementia of the Alzheimer’s type）があり，介護老人福祉施設に入所している。テレビを見ることが好きで，日中はお茶を飲みながら，テレビを見て過ごすことが日課である。 1 週間前からＢさんは，夜中に目が覚めたり，3時ごろに起きたりと，不眠が続いている。2時間ほどしか寝ていない日もある。ある日，Ｂさんは，「昼間，眠くてしかたがない。からだがだるい」と介護福祉職に話した。 次の記述のうち，Ｂさんに安眠を促すための介護福祉職の対応として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>102 Ｂさん（90<ruby>歳<rt>とし</rt></ruby>，<ruby>女性<rt>じょせい</rt></ruby>，<ruby>要介<rt>ようすけ</rt></ruby><ruby>護<rt>ご</rt></ruby>3）は，アルツハイマー<ruby>型<rt>かた</rt></ruby><ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby>（dementia of the Alzheimer’s type）があり，<ruby>介護<rt>かいご</rt></ruby><ruby>老人<rt>ろうじん</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>施設<rt>しせつ</rt></ruby>に<ruby>入所<rt>にゅうしょ</rt></ruby>している。テレビを<ruby>見<rt>み</rt></ruby>ることが<ruby>好<rt>す</rt></ruby>きで，<ruby>日中<rt>にっちゅう</rt></ruby>はお<ruby>茶<rt>ちゃ</rt></ruby>を<ruby>飲<rt>の</rt></ruby>みながら，テレビを<ruby>見<rt>み</rt></ruby>て<ruby>過<rt>す</rt></ruby>ごすことが<ruby>日課<rt>にっか</rt></ruby>である。 1 <ruby>週間前<rt>しゅうかんまえ</rt></ruby>からＢさんは，<ruby>夜中<rt>よなか</rt></ruby>に<ruby>目<rt>め</rt></ruby>が<ruby>覚<rt>さ</rt></ruby>めたり，3<ruby>時<rt>とき</rt></ruby>ごろに<ruby>起<rt>お</rt></ruby>きたりと，<ruby>不眠<rt>ふみん</rt></ruby>が<ruby>続<rt>つづ</rt></ruby>いている。2<ruby>時間<rt>じかん</rt></ruby>ほどしか<ruby>寝<rt>ね</rt></ruby>ていない<ruby>日<rt>にち</rt></ruby>もある。ある<ruby>日<rt>にち</rt></ruby>，Ｂさんは，「<ruby>昼間<rt>ひるま</rt></ruby>，<ruby>眠<rt>ねむ</rt></ruby>くてしかたがない。からだがだるい」と<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>に<ruby>話<rt>はな</rt></ruby>した。 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，Ｂさんに<ruby>安眠<rt>あんみん</rt></ruby>を<ruby>促<rt>うなが</rt></ruby>すための<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>の<ruby>対応<rt>たいおう</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "午前中，太陽の光を浴びることを勧める。",
-      "昼間眠いときは，1時間以上の昼寝を勧める。",
-      "夕食後，すぐに寝ることを勧める。",
-      "寝る前に，介護福祉職の判断で睡眠薬を勧める。",
-      "夜眠れないときは，居室でテレビを見ることを勧める。"
+      "<ruby>午前中<rt>ごぜんちゅう</rt></ruby>，<ruby>太陽<rt>たいよう</rt></ruby>の<ruby>光<rt>ひかり</rt></ruby>を<ruby>浴<rt>あ</rt></ruby>びることを<ruby>勧<rt>すす</rt></ruby>める。",
+      "<ruby>昼間<rt>ひるま</rt></ruby><ruby>眠<rt>ねむ</rt></ruby>いときは，1<ruby>時間<rt>じかん</rt></ruby><ruby>以上<rt>いじょう</rt></ruby>の<ruby>昼寝<rt>ひるね</rt></ruby>を<ruby>勧<rt>すす</rt></ruby>める。",
+      "<ruby>夕食<rt>ゆうしょく</rt></ruby><ruby>後<rt>のち</rt></ruby>，すぐに<ruby>寝<rt>ね</rt></ruby>ることを<ruby>勧<rt>すす</rt></ruby>める。",
+      "<ruby>寝<rt>ね</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に，<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>の<ruby>判断<rt>はんだん</rt></ruby>で<ruby>睡眠薬<rt>すいみんやく</rt></ruby>を<ruby>勧<rt>すす</rt></ruby>める。",
+      "<ruby>夜<rt>よる</rt></ruby><ruby>眠<rt>ねむ</rt></ruby>れないときは，<ruby>居室<rt>きょしつ</rt></ruby>でテレビを<ruby>見<rt>み</rt></ruby>ることを<ruby>勧<rt>すす</rt></ruby>める。"
     ],
     "answer": 0
   },
   {
-    "question": "問題103 終末期の介護に関する次の記述のうち，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>103 <ruby>終末<rt>しゅうまつ</rt></ruby><ruby>期<rt>き</rt></ruby>の<ruby>介護<rt>かいご</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "決まった時間に食事を提供する。",
-      "部屋の換気は控えるようにする。",
-      "無反応のときは無言で静かに介護を行う。",
-      "呼吸困難時は，顎を下げて頭部を前屈させた仰臥位（背臥位）にする。",
-      "せん妄によって話のつじつまが合わないときは，否定せずに受け止める。"
+      "<ruby>決<rt>き</rt></ruby>まった<ruby>時間<rt>じかん</rt></ruby>に<ruby>食事<rt>しょくじ</rt></ruby>を<ruby>提供<rt>ていきょう</rt></ruby>する。",
+      "<ruby>部屋<rt>へや</rt></ruby>の<ruby>換気<rt>かんき</rt></ruby>は<ruby>控<rt>ひか</rt></ruby>えるようにする。",
+      "<ruby>無反応<rt>むはんのう</rt></ruby>のときは<ruby>無言<rt>むごん</rt></ruby>で<ruby>静<rt>しず</rt></ruby>かに<ruby>介護<rt>かいご</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う。",
+      "<ruby>呼吸困難<rt>こきゅうこんなん</rt></ruby><ruby>時<rt>とき</rt></ruby>は，<ruby>顎<rt>あご</rt></ruby>を<ruby>下<rt>さ</rt></ruby>げて<ruby>頭部<rt>とうぶ</rt></ruby>を<ruby>前屈<rt>ぜんくつ</rt></ruby>させた<ruby>仰臥<rt>ぎょうが</rt></ruby><ruby>位<rt>くらい</rt></ruby>（<ruby>背<rt>せ</rt></ruby><ruby>臥位<rt>がい</rt></ruby>）にする。",
+      "せん<ruby>妄<rt>もう</rt></ruby>によって<ruby>話<rt>はなし</rt></ruby>のつじつまが<ruby>合<rt>あ</rt></ruby>わないときは，<ruby>否定<rt>ひてい</rt></ruby>せずに<ruby>受<rt>う</rt></ruby>け<ruby>止<rt>や</rt></ruby>める。"
     ],
     "answer": 4
   },
   {
-    "question": "問題104 次のうち，キューブラー・ロス（Kubler-Ross, E.）が提唱した終末期にある人の死の受容過程のうち，「死は避けられないと知り，さまざまな喪失感を抱く段階」に該当するものとして，適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>104 <ruby>次<rt>つぎ</rt></ruby>のうち，キューブラー・ロス（Kubler-Ross, E.）が<ruby>提唱<rt>ていしょう</rt></ruby>した<ruby>終末<rt>しゅうまつ</rt></ruby><ruby>期<rt>き</rt></ruby>にある<ruby>人<rt>にん</rt></ruby>の<ruby>死<rt>し</rt></ruby>の<ruby>受容<rt>じゅよう</rt></ruby><ruby>過程<rt>かてい</rt></ruby>のうち，「<ruby>死<rt>し</rt></ruby>は<ruby>避<rt>さ</rt></ruby>けられないと<ruby>知<rt>し</rt></ruby>り，さまざまな<ruby>喪失<rt>そうしつ</rt></ruby><ruby>感<rt>かん</rt></ruby>を<ruby>抱<rt>だ</rt></ruby>く<ruby>段階<rt>だんかい</rt></ruby>」に<ruby>該当<rt>がいとう</rt></ruby>するものとして，<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "否認",
-      "怒り",
-      "取り引き",
-      "抑うつ",
-      "受容"
+      "<ruby>否認<rt>ひにん</rt></ruby>",
+      "<ruby>怒<rt>いか</rt></ruby>り",
+      "<ruby>取り引<rt>とりひ</rt></ruby>き",
+      "<ruby>抑<rt>よく</rt></ruby>うつ",
+      "<ruby>受容<rt>じゅよう</rt></ruby>"
     ],
     "answer": 3
   },
   {
-    "question": "問題105 Ｃさん（58歳，男性）は，アテトーゼ型（athetosis）の脳性麻痺（cerebral palsy）がある。腕，脚，体幹の筋肉は不随意的にゆっくりと動くことが多く，手指を細かく動かすことは難しい。言葉をはっきり発音することが困難であるが，音の聞き取りはできる。 次のうち，Ｃさんが使用している情報・意思疎通支援用具として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>105 Ｃさん（58<ruby>歳<rt>とし</rt></ruby>，<ruby>男性<rt>だんせい</rt></ruby>）は，アテトーゼ<ruby>型<rt>かた</rt></ruby>（athetosis）の<ruby>脳性<rt>のうせい</rt></ruby><ruby>麻痺<rt>まひ</rt></ruby>（cerebral palsy）がある。<ruby>腕<rt>うで</rt></ruby>，<ruby>脚<rt>あし</rt></ruby>，<ruby>体幹<rt>たいかん</rt></ruby>の<ruby>筋肉<rt>きんにく</rt></ruby>は<ruby>不随意<rt>ふずいい</rt></ruby><ruby>的<rt>てき</rt></ruby>にゆっくりと<ruby>動<rt>うご</rt></ruby>くことが<ruby>多<rt>おお</rt></ruby>く，<ruby>手指<rt>てゆび</rt></ruby>を<ruby>細<rt>こま</rt></ruby>かく<ruby>動<rt>うご</rt></ruby>かすことは<ruby>難<rt>むずか</rt></ruby>しい。<ruby>言葉<rt>ことば</rt></ruby>をはっきり<ruby>発音<rt>はつおん</rt></ruby>することが<ruby>困難<rt>こんなん</rt></ruby>であるが，<ruby>音<rt>おと</rt></ruby>の<ruby>聞<rt>き</rt></ruby>き<ruby>取<rt>と</rt></ruby>りはできる。 <ruby>次<rt>つぎ</rt></ruby>のうち，Ｃさんが<ruby>使用<rt>しよう</rt></ruby>している<ruby>情報<rt>じょうほう</rt></ruby>・<ruby>意思疎通<rt>いしそつう</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>用具<rt>ようぐ</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "福祉電話",
-      "携帯用会話補助装置",
-      "人工喉頭",
-      "助聴器",
-      "点字器"
+      "<ruby>福祉<rt>ふくし</rt></ruby><ruby>電話<rt>でんわ</rt></ruby>",
+      "<ruby>携帯用<rt>けいたいよう</rt></ruby><ruby>会話<rt>かいわ</rt></ruby><ruby>補助<rt>ほじょ</rt></ruby><ruby>装置<rt>そうち</rt></ruby>",
+      "<ruby>人工<rt>じんこう</rt></ruby><ruby>喉頭<rt>こうとう</rt></ruby>",
+      "<ruby>助<rt>じょ</rt></ruby><ruby>聴器<rt>ちょうき</rt></ruby>",
+      "<ruby>点字<rt>てんじ</rt></ruby><ruby>器<rt>うつわ</rt></ruby>"
     ],
     "answer": 1
   },
   {
-    "question": "問題106 次の記述のうち，介護過程を展開する目的として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>106 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>介護<rt>かいご</rt></ruby><ruby>過程<rt>かてい</rt></ruby>を<ruby>展開<rt>てんかい</rt></ruby>する<ruby>目的<rt>もくてき</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "家族が抱える生活課題の解決",
-      "個別ケアに基づく利用者の自立支援",
-      "介護福祉職の職業倫理の向上",
-      "利用者と家族の信頼関係の構築",
-      "介護福祉職と他職種の連携の促進"
+      "<ruby>家族<rt>かぞく</rt></ruby>が<ruby>抱<rt>かか</rt></ruby>える<ruby>生活<rt>せいかつ</rt></ruby><ruby>課題<rt>かだい</rt></ruby>の<ruby>解決<rt>かいけつ</rt></ruby>",
+      "<ruby>個別<rt>こべつ</rt></ruby>ケアに<ruby>基<rt>もと</rt></ruby>づく<ruby>利用者<rt>りようしゃ</rt></ruby>の<ruby>自立<rt>じりつ</rt></ruby><ruby>支援<rt>しえん</rt></ruby>",
+      "<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>の<ruby>職業<rt>しょくぎょう</rt></ruby><ruby>倫理<rt>りんり</rt></ruby>の<ruby>向上<rt>こうじょう</rt></ruby>",
+      "<ruby>利用者<rt>りようしゃ</rt></ruby>と<ruby>家族<rt>かぞく</rt></ruby>の<ruby>信頼関係<rt>しんらいかんけい</rt></ruby>の<ruby>構築<rt>こうちく</rt></ruby>",
+      "<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>と<ruby>他<rt>ほか</rt></ruby><ruby>職種<rt>しょくしゅ</rt></ruby>の<ruby>連携<rt>れんけい</rt></ruby>の<ruby>促進<rt>そくしん</rt></ruby>"
     ],
     "answer": 1
   },
   {
-    "question": "問題107 生活課題に関する記述として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>107 <ruby>生活<rt>せいかつ</rt></ruby><ruby>課題<rt>かだい</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>記述<rt>きじゅつ</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "家族の立場から検討する。",
-      "利用者のニーズを判断の基盤にする。",
-      "利用者の要望を1つに集約する。",
-      "介護福祉職の主観を尊重する。",
-      "生命の危機よりも利用者の意向を優先する。"
+      "<ruby>家族<rt>かぞく</rt></ruby>の<ruby>立場<rt>たちば</rt></ruby>から<ruby>検討<rt>けんとう</rt></ruby>する。",
+      "<ruby>利用者<rt>りようしゃ</rt></ruby>のニーズを<ruby>判断<rt>はんだん</rt></ruby>の<ruby>基盤<rt>きばん</rt></ruby>にする。",
+      "<ruby>利用者<rt>りようしゃ</rt></ruby>の<ruby>要望<rt>ようぼう</rt></ruby>を1つに<ruby>集約<rt>しゅうやく</rt></ruby>する。",
+      "<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>の<ruby>主観<rt>しゅかん</rt></ruby>を<ruby>尊重<rt>そんちょう</rt></ruby>する。",
+      "<ruby>生命<rt>せいめい</rt></ruby>の<ruby>危機<rt>きき</rt></ruby>よりも<ruby>利用者<rt>りようしゃ</rt></ruby>の<ruby>意向<rt>いこう</rt></ruby>を<ruby>優先<rt>ゆうせん</rt></ruby>する。"
     ],
     "answer": 1
   },
   {
-    "question": "問題108 次の記述のうち，介護過程の展開における評価の説明として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>108 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>介護<rt>かいご</rt></ruby><ruby>過程<rt>かてい</rt></ruby>の<ruby>展開<rt>てんかい</rt></ruby>における<ruby>評価<rt>ひょうか</rt></ruby>の<ruby>説明<rt>せつめい</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "他の利用者と比較して評価する。",
-      "短期目標の評価によって，介護過程の展開を終了する。",
-      "目標の達成状況を評価する。",
-      "介護計画の実施後に評価日を検討する。",
-      "介護計画を修正した場合は，評価を省略する。"
+      "<ruby>他<rt>ほか</rt></ruby>の<ruby>利用者<rt>りようしゃ</rt></ruby>と<ruby>比較<rt>ひかく</rt></ruby>して<ruby>評価<rt>ひょうか</rt></ruby>する。",
+      "<ruby>短期<rt>たんき</rt></ruby><ruby>目標<rt>もくひょう</rt></ruby>の<ruby>評価<rt>ひょうか</rt></ruby>によって，<ruby>介護<rt>かいご</rt></ruby><ruby>過程<rt>かてい</rt></ruby>の<ruby>展開<rt>てんかい</rt></ruby>を<ruby>終了<rt>しゅうりょう</rt></ruby>する。",
+      "<ruby>目標<rt>もくひょう</rt></ruby>の<ruby>達成<rt>たっせい</rt></ruby><ruby>状況<rt>じょうきょう</rt></ruby>を<ruby>評価<rt>ひょうか</rt></ruby>する。",
+      "<ruby>介護<rt>かいご</rt></ruby><ruby>計画<rt>けいかく</rt></ruby>の<ruby>実施後<rt>じっしご</rt></ruby>に<ruby>評価<rt>ひょうか</rt></ruby><ruby>日<rt>にち</rt></ruby>を<ruby>検討<rt>けんとう</rt></ruby>する。",
+      "<ruby>介護<rt>かいご</rt></ruby><ruby>計画<rt>けいかく</rt></ruby>を<ruby>修正<rt>しゅうせい</rt></ruby>した<ruby>場合<rt>ばあい</rt></ruby>は，<ruby>評価<rt>ひょうか</rt></ruby>を<ruby>省略<rt>しょうりゃく</rt></ruby>する。"
     ],
     "answer": 2
   },
   {
-    "question": "問題109 次のうち，介護保険制度のサービス担当者会議におけるサービス提供責任者の役割として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>109 <ruby>次<rt>つぎ</rt></ruby>のうち，<ruby>介護<rt>かいご</rt></ruby><ruby>保険制度<rt>ほけんせいど</rt></ruby>のサービス<ruby>担当者<rt>たんとうしゃ</rt></ruby><ruby>会議<rt>かいぎ</rt></ruby>におけるサービス<ruby>提供<rt>ていきょう</rt></ruby><ruby>責任者<rt>せきにんしゃ</rt></ruby>の<ruby>役割<rt>やくわり</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "会議の主催",
-      "居宅サービス計画の原案の説明",
-      "他職種が実施したサービス内容の評価",
-      "訪問介護計画の作成に要した時間の報告",
-      "訪問介護計画の作成に必要な情報の確認"
+      "<ruby>会議<rt>かいぎ</rt></ruby>の<ruby>主催<rt>しゅさい</rt></ruby>",
+      "<ruby>居宅<rt>きょたく</rt></ruby>サービス<ruby>計画<rt>けいかく</rt></ruby>の<ruby>原案<rt>げんあん</rt></ruby>の<ruby>説明<rt>せつめい</rt></ruby>",
+      "<ruby>他<rt>ほか</rt></ruby><ruby>職種<rt>しょくしゅ</rt></ruby>が<ruby>実施<rt>じっし</rt></ruby>したサービス<ruby>内容<rt>ないよう</rt></ruby>の<ruby>評価<rt>ひょうか</rt></ruby>",
+      "<ruby>訪問<rt>ほうもん</rt></ruby><ruby>介護<rt>かいご</rt></ruby><ruby>計画<rt>けいかく</rt></ruby>の<ruby>作成<rt>さくせい</rt></ruby>に<ruby>要<rt>よう</rt></ruby>した<ruby>時間<rt>じかん</rt></ruby>の<ruby>報告<rt>ほうこく</rt></ruby>",
+      "<ruby>訪問<rt>ほうもん</rt></ruby><ruby>介護<rt>かいご</rt></ruby><ruby>計画<rt>けいかく</rt></ruby>の<ruby>作成<rt>さくせい</rt></ruby>に<ruby>必要<rt>ひつよう</rt></ruby>な<ruby>情報<rt>じょうほう</rt></ruby>の<ruby>確認<rt>かくにん</rt></ruby>"
     ],
     "answer": 4
   },
   {
-    "question": "問題110 調理中にＡさんが包丁を置き，部屋で横になってしまった行動に対する解釈として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>110 <ruby>調理中<rt>ちょうりちゅう</rt></ruby>にＡさんが<ruby>包丁<rt>ほうちょう</rt></ruby>を<ruby>置<rt>お</rt></ruby>き，<ruby>部屋<rt>へや</rt></ruby>で<ruby>横<rt>よこ</rt></ruby>になってしまった<ruby>行動<rt>こうどう</rt></ruby>に<ruby>対<rt>たい</rt></ruby>する<ruby>解釈<rt>かいしゃく</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "体調不良による休憩",
-      "食材に対する不満",
-      "調理に対する興味の喪失",
-      "包丁に対する不満",
-      "調理がうまくできないことに対する苛立ち"
+      "<ruby>体調不良<rt>たいちょうふりょう</rt></ruby>による<ruby>休憩<rt>きゅうけい</rt></ruby>",
+      "<ruby>食材<rt>しょくざい</rt></ruby>に<ruby>対<rt>たい</rt></ruby>する<ruby>不満<rt>ふまん</rt></ruby>",
+      "<ruby>調理<rt>ちょうり</rt></ruby>に<ruby>対<rt>たい</rt></ruby>する<ruby>興味<rt>きょうみ</rt></ruby>の<ruby>喪失<rt>そうしつ</rt></ruby>",
+      "<ruby>包丁<rt>ほうちょう</rt></ruby>に<ruby>対<rt>たい</rt></ruby>する<ruby>不満<rt>ふまん</rt></ruby>",
+      "<ruby>調理<rt>ちょうり</rt></ruby>がうまくできないことに<ruby>対<rt>たい</rt></ruby>する<ruby>苛立<rt>いらだ</rt></ruby>ち"
     ],
     "answer": 4
   },
   {
-    "question": "問題111 訪問介護計画の修正を目的としたカンファレンスで，訪問介護員（ホームヘルパー）が提案する内容として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>111 <ruby>訪問<rt>ほうもん</rt></ruby><ruby>介護<rt>かいご</rt></ruby><ruby>計画<rt>けいかく</rt></ruby>の<ruby>修正<rt>しゅうせい</rt></ruby>を<ruby>目的<rt>もくてき</rt></ruby>としたカンファレンスで，<ruby>訪問<rt>ほうもん</rt></ruby><ruby>介護<rt>かいご</rt></ruby><ruby>員<rt>いん</rt></ruby>（ホームヘルパー）が<ruby>提案<rt>ていあん</rt></ruby>する<ruby>内容<rt>ないよう</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "訪問介護員（ホームヘルパー）による調理の代行",
-      "担当する訪問介護員（ホームヘルパー）の交代",
-      "配食サービスの利用",
-      "調理に関する福祉用具の活用",
-      "訪問回数の削減"
+      "<ruby>訪問<rt>ほうもん</rt></ruby><ruby>介護<rt>かいご</rt></ruby><ruby>員<rt>いん</rt></ruby>（ホームヘルパー）による<ruby>調理<rt>ちょうり</rt></ruby>の<ruby>代行<rt>だいこう</rt></ruby>",
+      "<ruby>担当<rt>たんとう</rt></ruby>する<ruby>訪問<rt>ほうもん</rt></ruby><ruby>介護<rt>かいご</rt></ruby><ruby>員<rt>いん</rt></ruby>（ホームヘルパー）の<ruby>交代<rt>こうたい</rt></ruby>",
+      "<ruby>配食<rt>はいしょく</rt></ruby>サービスの<ruby>利用<rt>りよう</rt></ruby>",
+      "<ruby>調理<rt>ちょうり</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>福祉<rt>ふくし</rt></ruby><ruby>用具<rt>ようぐ</rt></ruby>の<ruby>活用<rt>かつよう</rt></ruby>",
+      "<ruby>訪問<rt>ほうもん</rt></ruby><ruby>回数<rt>かいすう</rt></ruby>の<ruby>削減<rt>さくげん</rt></ruby>"
     ],
     "answer": 3
   },
   {
-    "question": "問題112 次のうち，Ｂさんがしばらく一人でいた様子を理解するために必要な情報として，最も優先すべきものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>112 <ruby>次<rt>つぎ</rt></ruby>のうち，Ｂさんがしばらく<ruby>一人<rt>ひとり</rt></ruby>でいた<ruby>様子<rt>ようす</rt></ruby>を<ruby>理解<rt>りかい</rt></ruby>するために<ruby>必要<rt>ひつよう</rt></ruby>な<ruby>情報<rt>じょうほう</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>優先<rt>ゆうせん</rt></ruby>すべきものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "サービス管理責任者との関係",
-      "生活支援員との関係",
-      "事業所長との関係",
-      "ほかの利用者との関係",
-      "母親との関係"
+      "サービス<ruby>管理責任者<rt>かんりせきにんしゃ</rt></ruby>との<ruby>関係<rt>かんけい</rt></ruby>",
+      "<ruby>生活<rt>せいかつ</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>員<rt>いん</rt></ruby>との<ruby>関係<rt>かんけい</rt></ruby>",
+      "<ruby>事業所<rt>じぎょうしょ</rt></ruby><ruby>長<rt>ちょう</rt></ruby>との<ruby>関係<rt>かんけい</rt></ruby>",
+      "ほかの<ruby>利用者<rt>りようしゃ</rt></ruby>との<ruby>関係<rt>かんけい</rt></ruby>",
+      "<ruby>母親<rt>ははおや</rt></ruby>との<ruby>関係<rt>かんけい</rt></ruby>"
     ],
     "answer": 3
   },
   {
-    "question": "問題113 Ｂさんについて，個別支援会議が開催され，短期目標を，「排泄の自立（下着を汚さずに排泄する）（3か月）」とした。 次の記述のうち，Ｂさんの短期目標を実現するために生活支援員がとる対応として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>113 Ｂさんについて，<ruby>個別<rt>こべつ</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>会議<rt>かいぎ</rt></ruby>が<ruby>開催<rt>かいさい</rt></ruby>され，<ruby>短期<rt>たんき</rt></ruby><ruby>目標<rt>もくひょう</rt></ruby>を，「<ruby>排泄<rt>はいせつ</rt></ruby>の<ruby>自立<rt>じりつ</rt></ruby>（<ruby>下着<rt>したぎ</rt></ruby>を<ruby>汚<rt>よご</rt></ruby>さずに<ruby>排泄<rt>はいせつ</rt></ruby>する）（3か<ruby>月<rt>がつ</rt></ruby>）」とした。 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，Ｂさんの<ruby>短期<rt>たんき</rt></ruby><ruby>目標<rt>もくひょう</rt></ruby>を<ruby>実現<rt>じつげん</rt></ruby>するために<ruby>生活<rt>せいかつ</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>員<rt>いん</rt></ruby>がとる<ruby>対応<rt>たいおう</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "定期的に，手順を理解できているか一緒に確認する。",
-      "自宅で排泄を済ませ，事業所で排泄しないように助言する。",
-      "母親の要望であると伝え，紙おむつを使うように助言する。",
-      "ポータブルトイレを設置し，そこで排泄をするように誘導する。",
-      "排泄に関する行為を，全介助にする。"
+      "<ruby>定期的<rt>ていきてき</rt></ruby>に，<ruby>手順<rt>てじゅん</rt></ruby>を<ruby>理解<rt>りかい</rt></ruby>できているか<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>確認<rt>かくにん</rt></ruby>する。",
+      "<ruby>自宅<rt>じたく</rt></ruby>で<ruby>排泄<rt>はいせつ</rt></ruby>を<ruby>済<rt>す</rt></ruby>ませ，<ruby>事業所<rt>じぎょうしょ</rt></ruby>で<ruby>排泄<rt>はいせつ</rt></ruby>しないように<ruby>助言<rt>じょげん</rt></ruby>する。",
+      "<ruby>母親<rt>ははおや</rt></ruby>の<ruby>要望<rt>ようぼう</rt></ruby>であると<ruby>伝<rt>つた</rt></ruby>え，<ruby>紙<rt>かみ</rt></ruby>おむつを<ruby>使<rt>つか</rt></ruby>うように<ruby>助言<rt>じょげん</rt></ruby>する。",
+      "ポータブルトイレを<ruby>設置<rt>せっち</rt></ruby>し，そこで<ruby>排泄<rt>はいせつ</rt></ruby>をするように<ruby>誘導<rt>ゆうどう</rt></ruby>する。",
+      "<ruby>排泄<rt>はいせつ</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>行為<rt>こうい</rt></ruby>を，<ruby>全<rt>ぜん</rt></ruby><ruby>介助<rt>かいじょ</rt></ruby>にする。"
     ],
     "answer": 0
   },
   {
-    "question": "問題114 現在のＡさんの症状に該当するホーエン・ヤール重症度分類として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>114 <ruby>現在<rt>げんざい</rt></ruby>のＡさんの<ruby>症状<rt>しょうじょう</rt></ruby>に<ruby>該当<rt>がいとう</rt></ruby>するホーエン・ヤール<ruby>重症<rt>じゅうしょう</rt></ruby><ruby>度<rt>ど</rt></ruby><ruby>分類<rt>ぶんるい</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
       "ステージⅠ",
       "ステージⅡ",
@@ -2633,84 +2633,84 @@ const examSets = {
     "answer": 2
   },
   {
-    "question": "問題115 要介護認定を申請してから2週間が経過した。Ａさんは要介護認定の認定結果が届かないことが気になった。そこで，以前に対応してくれたＢ主任介護支援専門員に電話で相談した。 次のうち，Ｂ主任介護支援専門員の応答として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>115 <ruby>要介<rt>ようすけ</rt></ruby><ruby>護<rt>ご</rt></ruby><ruby>認定<rt>にんてい</rt></ruby>を<ruby>申請<rt>しんせい</rt></ruby>してから2<ruby>週間<rt>しゅうかん</rt></ruby>が<ruby>経過<rt>けいか</rt></ruby>した。Ａさんは<ruby>要介<rt>ようすけ</rt></ruby><ruby>護<rt>ご</rt></ruby><ruby>認定<rt>にんてい</rt></ruby>の<ruby>認定<rt>にんてい</rt></ruby><ruby>結果<rt>けっか</rt></ruby>が<ruby>届<rt>とど</rt></ruby>かないことが<ruby>気<rt>き</rt></ruby>になった。そこで，<ruby>以前<rt>いぜん</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>してくれたＢ<ruby>主任<rt>しゅにん</rt></ruby><ruby>介護<rt>かいご</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>専門<rt>せんもん</rt></ruby><ruby>員<rt>いん</rt></ruby>に<ruby>電話<rt>でんわ</rt></ruby>で<ruby>相談<rt>そうだん</rt></ruby>した。 <ruby>次<rt>つぎ</rt></ruby>のうち，Ｂ<ruby>主任<rt>しゅにん</rt></ruby><ruby>介護<rt>かいご</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>専門<rt>せんもん</rt></ruby><ruby>員<rt>いん</rt></ruby>の<ruby>応答<rt>おうとう</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "「次の受診時に主治医に相談しましょう」",
-      "「通常1か月程度かかるので，あと2週間くらい待ってみましょう」",
-      "「以前に自宅に来てくれた認定調査員に相談しましょう」",
-      "「念のためにもう一度要介護認定を申請してください」",
-      "「通常であれば認定結果は出ていると思います」"
+      "「<ruby>次<rt>つぎ</rt></ruby>の<ruby>受診<rt>じゅしん</rt></ruby><ruby>時<rt>とき</rt></ruby>に<ruby>主治医<rt>しゅじい</rt></ruby>に<ruby>相談<rt>そうだん</rt></ruby>しましょう」",
+      "「<ruby>通常<rt>つうじょう</rt></ruby>1か<ruby>月程度<rt>つきていど</rt></ruby>かかるので，あと2<ruby>週間<rt>しゅうかん</rt></ruby>くらい<ruby>待<rt>ま</rt></ruby>ってみましょう」",
+      "「<ruby>以前<rt>いぜん</rt></ruby>に<ruby>自宅<rt>じたく</rt></ruby>に<ruby>来<rt>き</rt></ruby>てくれた<ruby>認定<rt>にんてい</rt></ruby><ruby>調査員<rt>ちょうさいん</rt></ruby>に<ruby>相談<rt>そうだん</rt></ruby>しましょう」",
+      "「<ruby>念<rt>ねん</rt></ruby>のためにもう<ruby>一度<rt>いちど</rt></ruby><ruby>要介<rt>ようすけ</rt></ruby><ruby>護<rt>ご</rt></ruby><ruby>認定<rt>にんてい</rt></ruby>を<ruby>申請<rt>しんせい</rt></ruby>してください」",
+      "「<ruby>通常<rt>つうじょう</rt></ruby>であれば<ruby>認定<rt>にんてい</rt></ruby><ruby>結果<rt>けっか</rt></ruby>は<ruby>出<rt>で</rt></ruby>ていると<ruby>思<rt>おも</rt></ruby>います」"
     ],
     "answer": 1
   },
   {
-    "question": "問題116 最近，Ａさんは急に体の動きが悪くなる時間帯があり，不安を感じた。そこでＡさんは，週に2回利用している訪問介護員（ホームヘルパー）に相談した。相談を受けた訪問介護員（ホームヘルパー）はＡさんに，日々の症状の変化とその時間，さらにもう一点をメモして，医師に伝えるようにと助言した。 日々の症状の変化とその時間に加えて，Ａさんが医師に伝える内容として，最も優先度の高いものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>116 <ruby>最近<rt>さいきん</rt></ruby>，Ａさんは<ruby>急<rt>きゅう</rt></ruby>に<ruby>体<rt>からだ</rt></ruby>の<ruby>動<rt>うご</rt></ruby>きが<ruby>悪<rt>わる</rt></ruby>くなる<ruby>時間帯<rt>じかんたい</rt></ruby>があり，<ruby>不安<rt>ふあん</rt></ruby>を<ruby>感<rt>かん</rt></ruby>じた。そこでＡさんは，<ruby>週<rt>しゅう</rt></ruby>に2<ruby>回<rt>かい</rt></ruby><ruby>利用<rt>りよう</rt></ruby>している<ruby>訪問<rt>ほうもん</rt></ruby><ruby>介護<rt>かいご</rt></ruby><ruby>員<rt>いん</rt></ruby>（ホームヘルパー）に<ruby>相談<rt>そうだん</rt></ruby>した。<ruby>相談<rt>そうだん</rt></ruby>を<ruby>受<rt>う</rt></ruby>けた<ruby>訪問<rt>ほうもん</rt></ruby><ruby>介護<rt>かいご</rt></ruby><ruby>員<rt>いん</rt></ruby>（ホームヘルパー）はＡさんに，<ruby>日々<rt>ひび</rt></ruby>の<ruby>症状<rt>しょうじょう</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>とその<ruby>時間<rt>じかん</rt></ruby>，さらにもう<ruby>一点<rt>いってん</rt></ruby>をメモして，<ruby>医師<rt>いし</rt></ruby>に<ruby>伝<rt>つた</rt></ruby>えるようにと<ruby>助言<rt>じょげん</rt></ruby>した。 <ruby>日々<rt>ひび</rt></ruby>の<ruby>症状<rt>しょうじょう</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>とその<ruby>時間<rt>じかん</rt></ruby>に<ruby>加<rt>くわ</rt></ruby>えて，Ａさんが<ruby>医師<rt>いし</rt></ruby>に<ruby>伝<rt>つた</rt></ruby>える<ruby>内容<rt>ないよう</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>優先度<rt>ゆうせんど</rt></ruby>の<ruby>高<rt>たか</rt></ruby>いものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "服薬の時間",
-      "起床の時間",
-      "食事の時間",
-      "排便の時間",
-      "入浴の時間"
+      "<ruby>服薬<rt>ふくやく</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>",
+      "<ruby>起床<rt>きしょう</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>",
+      "<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>",
+      "<ruby>排便<rt>はいべん</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>",
+      "<ruby>入浴<rt>にゅうよく</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>"
     ],
     "answer": 0
   },
   {
-    "question": "問題117 次のうち，最近のＣさんの症状に該当するものとして，最も適切なものを 1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>117 <ruby>次<rt>つぎ</rt></ruby>のうち，<ruby>最近<rt>さいきん</rt></ruby>のＣさんの<ruby>症状<rt>しょうじょう</rt></ruby>に<ruby>該当<rt>がいとう</rt></ruby>するものとして，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを 1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "妄想",
-      "見当識障害",
-      "失語",
-      "遂行機能障害",
-      "観念失行"
+      "<ruby>妄想<rt>もうそう</rt></ruby>",
+      "<ruby>見当<rt>けんとう</rt></ruby><ruby>識<rt>しき</rt></ruby><ruby>障害<rt>しょうがい</rt></ruby>",
+      "<ruby>失語<rt>しつご</rt></ruby>",
+      "<ruby>遂行<rt>すいこう</rt></ruby><ruby>機能障害<rt>きのうしょうがい</rt></ruby>",
+      "<ruby>観念<rt>かんねん</rt></ruby><ruby>失行<rt>しっこう</rt></ruby>"
     ],
     "answer": 1
   },
   {
-    "question": "問題118 娘はＣさんの病状を心配して，「お父さんが残してくれた貯金があるから，もっとお母さんのお世話をしてくれる施設に移ろう」と提案した。Ｃさんは，「ペットと一緒に暮らせなくなるのは嫌だ」とつぶやき，うつむいた。困った娘は健康型有料老人ホームの介護福祉士に相談した。 次のうち，娘への介護福祉士の応答として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>118 <ruby>娘<rt>むすめ</rt></ruby>はＣさんの<ruby>病状<rt>びょうじょう</rt></ruby>を<ruby>心配<rt>しんぱい</rt></ruby>して，「お<ruby>父<rt>とう</rt></ruby>さんが<ruby>残<rt>のこ</rt></ruby>してくれた<ruby>貯金<rt>ちょきん</rt></ruby>があるから，もっとお<ruby>母<rt>かあ</rt></ruby>さんのお<ruby>世話<rt>せわ</rt></ruby>をしてくれる<ruby>施設<rt>しせつ</rt></ruby>に<ruby>移<rt>うつ</rt></ruby>ろう」と<ruby>提案<rt>ていあん</rt></ruby>した。Ｃさんは，「ペットと<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>暮<rt>く</rt></ruby>らせなくなるのは<ruby>嫌<rt>いや</rt></ruby>だ」とつぶやき，うつむいた。<ruby>困<rt>こま</rt></ruby>った<ruby>娘<rt>むすめ</rt></ruby>は<ruby>健康<rt>けんこう</rt></ruby><ruby>型<rt>かた</rt></ruby><ruby>有料<rt>ゆうりょう</rt></ruby><ruby>老人<rt>ろうじん</rt></ruby>ホームの<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>士<rt>さむらい</rt></ruby>に<ruby>相談<rt>そうだん</rt></ruby>した。 <ruby>次<rt>つぎ</rt></ruby>のうち，<ruby>娘<rt>むすめ</rt></ruby>への<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>士<rt>さむらい</rt></ruby>の<ruby>応答<rt>おうとう</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "「Ｃさんがペットを大事にしている意思を尊重してはいかがですか」",
-      "「Ｃさんが新しい施設に行くことが最優先です」",
-      "「あなたの意向を優先してはいかがですか」",
-      "「Ｃさんがペットを飼うことは優先度の高いニーズとは言えません」",
-      "「Ｃさんが新しい施設に行くことを受け入れるように説得してください」"
+      "「Ｃさんがペットを<ruby>大事<rt>だいじ</rt></ruby>にしている<ruby>意思<rt>いし</rt></ruby>を<ruby>尊重<rt>そんちょう</rt></ruby>してはいかがですか」",
+      "「Ｃさんが<ruby>新<rt>あたら</rt></ruby>しい<ruby>施設<rt>しせつ</rt></ruby>に<ruby>行<rt>い</rt></ruby>くことが<ruby>最優先<rt>さいゆうせん</rt></ruby>です」",
+      "「あなたの<ruby>意向<rt>いこう</rt></ruby>を<ruby>優先<rt>ゆうせん</rt></ruby>してはいかがですか」",
+      "「Ｃさんがペットを<ruby>飼<rt>か</rt></ruby>うことは<ruby>優先度<rt>ゆうせんど</rt></ruby>の<ruby>高<rt>たか</rt></ruby>いニーズとは<ruby>言<rt>い</rt></ruby>えません」",
+      "「Ｃさんが<ruby>新<rt>あたら</rt></ruby>しい<ruby>施設<rt>しせつ</rt></ruby>に<ruby>行<rt>い</rt></ruby>くことを<ruby>受け入<rt>うけい</rt></ruby>れるように<ruby>説得<rt>せっとく</rt></ruby>してください」"
     ],
     "answer": 0
   },
   {
-    "question": "問題119 Ｃさんと娘は介護福祉士と相談し，希望に沿った施設を見つけることができた。 次のうち，Ｃさんが入所する施設として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>119 Ｃさんと<ruby>娘<rt>むすめ</rt></ruby>は<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>士<rt>さむらい</rt></ruby>と<ruby>相談<rt>そうだん</rt></ruby>し，<ruby>希望<rt>きぼう</rt></ruby>に<ruby>沿<rt>そ</rt></ruby>った<ruby>施設<rt>しせつ</rt></ruby>を<ruby>見<rt>み</rt></ruby>つけることができた。 <ruby>次<rt>つぎ</rt></ruby>のうち，Ｃさんが<ruby>入所<rt>にゅうしょ</rt></ruby>する<ruby>施設<rt>しせつ</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "経過的軽費老人ホーム（Ｂ型）",
-      "介護医療院",
-      "介護老人保健施設",
-      "養護老人ホーム",
-      "介護付有料老人ホーム"
+      "<ruby>経過<rt>けいか</rt></ruby><ruby>的<rt>てき</rt></ruby><ruby>軽費<rt>けいひ</rt></ruby><ruby>老人<rt>ろうじん</rt></ruby>ホーム（Ｂ<ruby>型<rt>かた</rt></ruby>）",
+      "<ruby>介護<rt>かいご</rt></ruby><ruby>医療<rt>いりょう</rt></ruby><ruby>院<rt>いん</rt></ruby>",
+      "<ruby>介護<rt>かいご</rt></ruby><ruby>老人<rt>ろうじん</rt></ruby><ruby>保健<rt>ほけん</rt></ruby><ruby>施設<rt>しせつ</rt></ruby>",
+      "<ruby>養護<rt>ようご</rt></ruby><ruby>老人<rt>ろうじん</rt></ruby>ホーム",
+      "<ruby>介護<rt>かいご</rt></ruby><ruby>付<rt>つき</rt></ruby><ruby>有料<rt>ゆうりょう</rt></ruby><ruby>老人<rt>ろうじん</rt></ruby>ホーム"
     ],
     "answer": 4
   },
   {
-    "question": "問題120 Ｄさんの疾患で生じる病態として，適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>120 Ｄさんの<ruby>疾患<rt>しっかん</rt></ruby>で<ruby>生<rt>しょう</rt></ruby>じる<ruby>病態<rt>びょうたい</rt></ruby>として，<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "筋線維の変性",
-      "運動神経の変性",
-      "網膜の変性",
-      "自己免疫の低下",
-      "脳細胞の変性"
+      "<ruby>筋<rt>すじ</rt></ruby><ruby>線維<rt>せんい</rt></ruby>の<ruby>変性<rt>へんせい</rt></ruby>",
+      "<ruby>運動神経<rt>うんどうしんけい</rt></ruby>の<ruby>変性<rt>へんせい</rt></ruby>",
+      "<ruby>網膜<rt>もうまく</rt></ruby>の<ruby>変性<rt>へんせい</rt></ruby>",
+      "<ruby>自己<rt>じこ</rt></ruby><ruby>免疫<rt>めんえき</rt></ruby>の<ruby>低下<rt>ていか</rt></ruby>",
+      "<ruby>脳細胞<rt>のうさいぼう</rt></ruby>の<ruby>変性<rt>へんせい</rt></ruby>"
     ],
     "answer": 0
   },
   {
-    "question": "問題121 Ｅ居宅介護事業所に勤務するＦ介護福祉職は，Ｄさん宅を初回訪問するにあたりフェイスシートのジェノグラムを確認した。 以下のジェノグラムからＦ介護福祉職が把握した内容として，適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>121 Ｅ<ruby>居宅<rt>きょたく</rt></ruby><ruby>介護<rt>かいご</rt></ruby><ruby>事業所<rt>じぎょうしょ</rt></ruby>に<ruby>勤務<rt>きんむ</rt></ruby>するＦ<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>は，Ｄさん<ruby>宅<rt>たく</rt></ruby>を<ruby>初回<rt>しょかい</rt></ruby><ruby>訪問<rt>ほうもん</rt></ruby>するにあたりフェイスシートのジェノグラムを<ruby>確認<rt>かくにん</rt></ruby>した。 <ruby>以下<rt>いか</rt></ruby>のジェノグラムからＦ<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>が<ruby>把握<rt>はあく</rt></ruby>した<ruby>内容<rt>ないよう</rt></ruby>として，<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "Ｄさんは，Ｄさんの母親と同居している。",
-      "Ｄさんには息子がいる。",
-      "Ｄさんの兄は結婚している。",
-      "Ｄさんの父親は生存している。",
-      "Ｄさんの妻には兄弟姉妹がいる。"
+      "Ｄさんは，Ｄさんの<ruby>母親<rt>ははおや</rt></ruby>と<ruby>同居<rt>どうきょ</rt></ruby>している。",
+      "Ｄさんには<ruby>息子<rt>むすこ</rt></ruby>がいる。",
+      "Ｄさんの<ruby>兄<rt>あに</rt></ruby>は<ruby>結婚<rt>けっこん</rt></ruby>している。",
+      "Ｄさんの<ruby>父親<rt>ちちおや</rt></ruby>は<ruby>生存<rt>せいぞん</rt></ruby>している。",
+      "Ｄさんの<ruby>妻<rt>つま</rt></ruby>には<ruby>兄弟姉妹<rt>きょうだいしまい</rt></ruby>がいる。"
     ],
     "answer": 1
   },
   {
-    "question": "問題122 Ｄさんが居宅介護を利用してから数年が経過し，Ｄさんの身体機能は徐々に低下して，着替えに時間がかかるようになった。Ｄさんは自分のことはできるだけ自分で行いたいという思いがあり，時間がかかっても自分で着替えをしていた。ある日，ＤさんはＦ介護福祉職に，「着替えをすると疲れてしまい，絵を描くことができない」とつぶやいた。Ｆ介護福祉職は，「着替えは私たちや家族の介護を利用して，Ｄさんは好きな絵を描いたらいいのではないですか」と伝えた。その後，Ｄさんは介護福祉職と家族の介護を利用して，短時間で着替えを済ませ，絵を描くことに専念できるようになった。 Ｆ介護福祉職が発言した自立観を示した人物として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>122 Ｄさんが<ruby>居宅<rt>きょたく</rt></ruby><ruby>介護<rt>かいご</rt></ruby>を<ruby>利用<rt>りよう</rt></ruby>してから<ruby>数年<rt>すうねん</rt></ruby>が<ruby>経過<rt>けいか</rt></ruby>し，Ｄさんの<ruby>身体<rt>しんたい</rt></ruby><ruby>機能<rt>きのう</rt></ruby>は<ruby>徐々<rt>じょじょ</rt></ruby>に<ruby>低下<rt>ていか</rt></ruby>して，<ruby>着替<rt>きが</rt></ruby>えに<ruby>時間<rt>じかん</rt></ruby>がかかるようになった。Ｄさんは<ruby>自分<rt>じぶん</rt></ruby>のことはできるだけ<ruby>自分<rt>じぶん</rt></ruby>で<ruby>行<rt>おこな</rt></ruby>いたいという<ruby>思<rt>おも</rt></ruby>いがあり，<ruby>時間<rt>じかん</rt></ruby>がかかっても<ruby>自分<rt>じぶん</rt></ruby>で<ruby>着替<rt>きが</rt></ruby>えをしていた。ある<ruby>日<rt>にち</rt></ruby>，ＤさんはＦ<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>に，「<ruby>着替<rt>きが</rt></ruby>えをすると<ruby>疲<rt>つか</rt></ruby>れてしまい，<ruby>絵<rt>え</rt></ruby>を<ruby>描<rt>えが</rt></ruby>くことができない」とつぶやいた。Ｆ<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>は，「<ruby>着替<rt>きが</rt></ruby>えは<ruby>私<rt>わたし</rt></ruby>たちや<ruby>家族<rt>かぞく</rt></ruby>の<ruby>介護<rt>かいご</rt></ruby>を<ruby>利用<rt>りよう</rt></ruby>して，Ｄさんは<ruby>好<rt>す</rt></ruby>きな<ruby>絵<rt>え</rt></ruby>を<ruby>描<rt>えが</rt></ruby>いたらいいのではないですか」と<ruby>伝<rt>つた</rt></ruby>えた。その<ruby>後<rt>のち</rt></ruby>，Ｄさんは<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>と<ruby>家族<rt>かぞく</rt></ruby>の<ruby>介護<rt>かいご</rt></ruby>を<ruby>利用<rt>りよう</rt></ruby>して，<ruby>短時間<rt>たんじかん</rt></ruby>で<ruby>着替<rt>きが</rt></ruby>えを<ruby>済<rt>す</rt></ruby>ませ，<ruby>絵<rt>え</rt></ruby>を<ruby>描<rt>えが</rt></ruby>くことに<ruby>専念<rt>せんねん</rt></ruby>できるようになった。 Ｆ<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>が<ruby>発言<rt>はつげん</rt></ruby>した<ruby>自立<rt>じりつ</rt></ruby><ruby>観<rt>かん</rt></ruby>を<ruby>示<rt>しめ</rt></ruby>した<ruby>人物<rt>じんぶつ</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
       "ヴィクトール・フランクル（Frankl, V.）",
       "バンク－ミケルセン（Bank-Mikkelsen, N.）",
@@ -2721,537 +2721,537 @@ const examSets = {
     "answer": 2
   },
   {
-    "question": "問題123 次のうち，Ｇさんが施設入所支援と同時に利用している障害福祉サービスとして，適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>123 <ruby>次<rt>つぎ</rt></ruby>のうち，Ｇさんが<ruby>施設<rt>しせつ</rt></ruby><ruby>入所<rt>にゅうしょ</rt></ruby><ruby>支援<rt>しえん</rt></ruby>と<ruby>同時<rt>どうじ</rt></ruby>に<ruby>利用<rt>りよう</rt></ruby>している<ruby>障害<rt>しょうがい</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby>サービスとして，<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "自立生活援助",
-      "療養介護",
-      "短期入所",
-      "生活介護",
-      "居宅介護"
+      "<ruby>自立<rt>じりつ</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby><ruby>援助<rt>えんじょ</rt></ruby>",
+      "<ruby>療養<rt>りょうよう</rt></ruby><ruby>介護<rt>かいご</rt></ruby>",
+      "<ruby>短期<rt>たんき</rt></ruby><ruby>入所<rt>にゅうしょ</rt></ruby>",
+      "<ruby>生活<rt>せいかつ</rt></ruby><ruby>介護<rt>かいご</rt></ruby>",
+      "<ruby>居宅<rt>きょたく</rt></ruby><ruby>介護<rt>かいご</rt></ruby>"
     ],
     "answer": 3
   },
   {
-    "question": "問題124 次のうち，Ｇさんの難聴の原因となっている損傷部位に該当するものとして，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>124 <ruby>次<rt>つぎ</rt></ruby>のうち，Ｇさんの<ruby>難聴<rt>なんちょう</rt></ruby>の<ruby>原因<rt>げんいん</rt></ruby>となっている<ruby>損傷<rt>そんしょう</rt></ruby><ruby>部位<rt>ぶい</rt></ruby>に<ruby>該当<rt>がいとう</rt></ruby>するものとして，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "内耳から聴神経",
-      "外耳道から中耳",
-      "耳介から中耳",
-      "耳介から外耳道",
-      "耳介"
+      "<ruby>内耳<rt>ないじ</rt></ruby>から<ruby>聴神経<rt>ちょうしんけい</rt></ruby>",
+      "<ruby>外耳道<rt>がいじどう</rt></ruby>から<ruby>中耳<rt>ちゅうじ</rt></ruby>",
+      "<ruby>耳介<rt>じかい</rt></ruby>から<ruby>中耳<rt>ちゅうじ</rt></ruby>",
+      "<ruby>耳介<rt>じかい</rt></ruby>から<ruby>外耳道<rt>がいじどう</rt></ruby>",
+      "<ruby>耳介<rt>じかい</rt></ruby>"
     ],
     "answer": 0
   },
   {
-    "question": "問題125 次の記述のうち，Ｇさんに介護福祉職がアルバムの作り方を説明するときに配慮することとして，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>125 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，Ｇさんに<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>がアルバムの<ruby>作り方<rt>つくりかた</rt></ruby>を<ruby>説明<rt>せつめい</rt></ruby>するときに<ruby>配慮<rt>はいりょ</rt></ruby>することとして，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "Ｇさんの左側に座る。",
-      "閉じられた質問を用いる。",
-      "小さな声で話す。",
-      "Ｇさんの好きな音楽を流す。",
-      "1対1で向かい合って話す。"
+      "Ｇさんの<ruby>左側<rt>ひだりがわ</rt></ruby>に<ruby>座<rt>すわ</rt></ruby>る。",
+      "<ruby>閉<rt>と</rt></ruby>じられた<ruby>質問<rt>しつもん</rt></ruby>を<ruby>用<rt>もち</rt></ruby>いる。",
+      "<ruby>小<rt>ちい</rt></ruby>さな<ruby>声<rt>こえ</rt></ruby>で<ruby>話<rt>はな</rt></ruby>す。",
+      "Ｇさんの<ruby>好<rt>す</rt></ruby>きな<ruby>音楽<rt>おんがく</rt></ruby>を<ruby>流<rt>なが</rt></ruby>す。",
+      "1<ruby>対<rt>つい</rt></ruby>1で<ruby>向<rt>む</rt></ruby>かい<ruby>合<rt>あ</rt></ruby>って<ruby>話<rt>はな</rt></ruby>す。"
     ],
     "answer": 4
   }
 ],
   "36": [
   {
-    "question": "問題1 Ａさん（76歳，女性，要支援1）は，一人暮らしである。週1回介護予防通所リハビリテーションを利用しながら，近所の友人たちとの麻雀（まーじゃん）を楽しみに生活している。 最近，膝に痛みを感じ，変形性膝関節症（knee osteoarthritis）と診断された。同時期に友人が入院し，楽しみにしていた麻雀（まーじゃん）ができなくなった。Ａさんは徐々に今後の生活に不安を感じるようになった。ある日，「自宅で暮らし続けたいけど，心配なの…」と介護福祉職に話した。 Ａさんに対する介護福祉職の対応として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>1 Ａさん（76<ruby>歳<rt>とし</rt></ruby>，<ruby>女性<rt>じょせい</rt></ruby>，<ruby>要<rt>よう</rt></ruby><ruby>支援<rt>しえん</rt></ruby>1）は，<ruby>一人暮<rt>ひとりぐ</rt></ruby>らしである。<ruby>週<rt>しゅう</rt></ruby>1<ruby>回<rt>かい</rt></ruby><ruby>介護<rt>かいご</rt></ruby><ruby>予防<rt>よぼう</rt></ruby><ruby>通所<rt>つうしょ</rt></ruby>リハビリテーションを<ruby>利用<rt>りよう</rt></ruby>しながら，<ruby>近所<rt>きんじょ</rt></ruby>の<ruby>友人<rt>ゆうじん</rt></ruby>たちとの<ruby>麻雀<rt>まーじゃん</rt></ruby>（まーじゃん）を<ruby>楽<rt>たの</rt></ruby>しみに<ruby>生活<rt>せいかつ</rt></ruby>している。 <ruby>最近<rt>さいきん</rt></ruby>，<ruby>膝<rt>ひざ</rt></ruby>に<ruby>痛<rt>いた</rt></ruby>みを<ruby>感<rt>かん</rt></ruby>じ，<ruby>変形<rt>へんけい</rt></ruby><ruby>性<rt>せい</rt></ruby><ruby>膝関節<rt>ひざかんせつ</rt></ruby><ruby>症<rt>しょう</rt></ruby>（knee osteoarthritis）と<ruby>診断<rt>しんだん</rt></ruby>された。<ruby>同時期<rt>どうじき</rt></ruby>に<ruby>友人<rt>ゆうじん</rt></ruby>が<ruby>入院<rt>にゅういん</rt></ruby>し，<ruby>楽<rt>たの</rt></ruby>しみにしていた<ruby>麻雀<rt>まーじゃん</rt></ruby>（まーじゃん）ができなくなった。Ａさんは<ruby>徐々<rt>じょじょ</rt></ruby>に<ruby>今後<rt>こんご</rt></ruby>の<ruby>生活<rt>せいかつ</rt></ruby>に<ruby>不安<rt>ふあん</rt></ruby>を<ruby>感<rt>かん</rt></ruby>じるようになった。ある<ruby>日<rt>にち</rt></ruby>，「<ruby>自宅<rt>じたく</rt></ruby>で<ruby>暮<rt>く</rt></ruby>らし<ruby>続<rt>つづ</rt></ruby>けたいけど，<ruby>心配<rt>しんぱい</rt></ruby>なの…」と<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>に<ruby>話<rt>はな</rt></ruby>した。 Ａさんに<ruby>対<rt>たい</rt></ruby>する<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>の<ruby>対応<rt>たいおう</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "要介護認定の申請を勧める。",
-      "友人のお見舞いを勧める。",
-      "膝の精密検査を勧める。",
-      "別の趣味活動の希望を聞く。",
-      "生活に対する思いを聞く。"
+      "<ruby>要介<rt>ようすけ</rt></ruby><ruby>護<rt>ご</rt></ruby><ruby>認定<rt>にんてい</rt></ruby>の<ruby>申請<rt>しんせい</rt></ruby>を<ruby>勧<rt>すす</rt></ruby>める。",
+      "<ruby>友人<rt>ゆうじん</rt></ruby>のお<ruby>見舞<rt>みま</rt></ruby>いを<ruby>勧<rt>すす</rt></ruby>める。",
+      "<ruby>膝<rt>ひざ</rt></ruby>の<ruby>精密検査<rt>せいみつけんさ</rt></ruby>を<ruby>勧<rt>すす</rt></ruby>める。",
+      "<ruby>別<rt>べつ</rt></ruby>の<ruby>趣味<rt>しゅみ</rt></ruby><ruby>活動<rt>かつどう</rt></ruby>の<ruby>希望<rt>きぼう</rt></ruby>を<ruby>聞<rt>き</rt></ruby>く。",
+      "<ruby>生活<rt>せいかつ</rt></ruby>に<ruby>対<rt>たい</rt></ruby>する<ruby>思<rt>おも</rt></ruby>いを<ruby>聞<rt>き</rt></ruby>く。"
     ],
     "answer": 4
   },
   {
-    "question": "問題2 次の記述のうち，介護を必要とする人の自立についての考え方として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>2 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>介護<rt>かいご</rt></ruby>を<ruby>必要<rt>ひつよう</rt></ruby>とする<ruby>人<rt>にん</rt></ruby>の<ruby>自立<rt>じりつ</rt></ruby>についての<ruby>考え方<rt>かんがえかた</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "自立は，他者の支援を受けないことである。",
-      "精神的自立は，生活の目標をもち，自らが主体となって物事を進めていくことである。",
-      "社会的自立は，社会的な役割から離れて自由になることである。",
-      "身体的自立は，介護者の身体的負担を軽減することである。",
-      "経済的自立は，経済活動や社会活動に参加せずに，生活を営むことである。"
+      "<ruby>自立<rt>じりつ</rt></ruby>は，<ruby>他者<rt>たしゃ</rt></ruby>の<ruby>支援<rt>しえん</rt></ruby>を<ruby>受<rt>う</rt></ruby>けないことである。",
+      "<ruby>精神的<rt>せいしんてき</rt></ruby><ruby>自立<rt>じりつ</rt></ruby>は，<ruby>生活<rt>せいかつ</rt></ruby>の<ruby>目標<rt>もくひょう</rt></ruby>をもち，<ruby>自<rt>みずか</rt></ruby>らが<ruby>主体<rt>しゅたい</rt></ruby>となって<ruby>物事<rt>ものごと</rt></ruby>を<ruby>進<rt>すす</rt></ruby>めていくことである。",
+      "<ruby>社会的<rt>しゃかいてき</rt></ruby><ruby>自立<rt>じりつ</rt></ruby>は，<ruby>社会的<rt>しゃかいてき</rt></ruby>な<ruby>役割<rt>やくわり</rt></ruby>から<ruby>離<rt>はな</rt></ruby>れて<ruby>自由<rt>じゆう</rt></ruby>になることである。",
+      "<ruby>身体的<rt>しんたいてき</rt></ruby><ruby>自立<rt>じりつ</rt></ruby>は，<ruby>介護<rt>かいご</rt></ruby><ruby>者<rt>もの</rt></ruby>の<ruby>身体的<rt>しんたいてき</rt></ruby><ruby>負担<rt>ふたん</rt></ruby>を<ruby>軽減<rt>けいげん</rt></ruby>することである。",
+      "<ruby>経済的自立<rt>けいざいてきじりつ</rt></ruby>は，<ruby>経済活動<rt>けいざいかつどう</rt></ruby>や<ruby>社会<rt>しゃかい</rt></ruby><ruby>活動<rt>かつどう</rt></ruby>に<ruby>参加<rt>さんか</rt></ruby>せずに，<ruby>生活<rt>せいかつ</rt></ruby>を<ruby>営<rt>いとな</rt></ruby>むことである。"
     ],
     "answer": 1
   },
   {
-    "question": "問題3 Ｕ介護老人福祉施設では，利用者の介護計画を担当の介護福祉職が作成している。このため，利用者の個別の介護目標を，介護福祉職のチーム全員で共有することが課題になっている。 この課題を解決するための取り組みとして，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>3 Ｕ<ruby>介護<rt>かいご</rt></ruby><ruby>老人<rt>ろうじん</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>施設<rt>しせつ</rt></ruby>では，<ruby>利用者<rt>りようしゃ</rt></ruby>の<ruby>介護<rt>かいご</rt></ruby><ruby>計画<rt>けいかく</rt></ruby>を<ruby>担当<rt>たんとう</rt></ruby>の<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>が<ruby>作成<rt>さくせい</rt></ruby>している。このため，<ruby>利用者<rt>りようしゃ</rt></ruby>の<ruby>個別<rt>こべつ</rt></ruby>の<ruby>介護<rt>かいご</rt></ruby><ruby>目標<rt>もくひょう</rt></ruby>を，<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>のチーム<ruby>全員<rt>ぜんいん</rt></ruby>で<ruby>共有<rt>きょうゆう</rt></ruby>することが<ruby>課題<rt>かだい</rt></ruby>になっている。 この<ruby>課題<rt>かだい</rt></ruby>を<ruby>解決<rt>かいけつ</rt></ruby>するための<ruby>取り組<rt>とりく</rt></ruby>みとして，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "管理職がチーム全体に注意喚起して，集団規範を形成する。",
-      "現場経験の長い介護福祉職の意見を優先して，同調行動を促す。",
-      "チームメンバーの懇談会を実施して，内集団バイアスを強化する。",
-      "チームメンバー間の集団圧力を利用して，多数派の意見に統一する。",
-      "担当以外のチームメンバーもカンファレンス（conference）に参加して，集団凝集性を高める。"
+      "<ruby>管理職<rt>かんりしょく</rt></ruby>がチーム<ruby>全体<rt>ぜんたい</rt></ruby>に<ruby>注意喚起<rt>ちゅういかんき</rt></ruby>して，<ruby>集団<rt>しゅうだん</rt></ruby><ruby>規範<rt>きはん</rt></ruby>を<ruby>形成<rt>けいせい</rt></ruby>する。",
+      "<ruby>現場<rt>げんば</rt></ruby><ruby>経験<rt>けいけん</rt></ruby>の<ruby>長<rt>なが</rt></ruby>い<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>の<ruby>意見<rt>いけん</rt></ruby>を<ruby>優先<rt>ゆうせん</rt></ruby>して，<ruby>同調<rt>どうちょう</rt></ruby><ruby>行動<rt>こうどう</rt></ruby>を<ruby>促<rt>うなが</rt></ruby>す。",
+      "チームメンバーの<ruby>懇談会<rt>こんだんかい</rt></ruby>を<ruby>実施<rt>じっし</rt></ruby>して，<ruby>内<rt>ない</rt></ruby><ruby>集団<rt>しゅうだん</rt></ruby>バイアスを<ruby>強化<rt>きょうか</rt></ruby>する。",
+      "チームメンバー<ruby>間<rt>ま</rt></ruby>の<ruby>集団<rt>しゅうだん</rt></ruby><ruby>圧力<rt>あつりょく</rt></ruby>を<ruby>利用<rt>りよう</rt></ruby>して，<ruby>多数派<rt>たすうは</rt></ruby>の<ruby>意見<rt>いけん</rt></ruby>に<ruby>統一<rt>とういつ</rt></ruby>する。",
+      "<ruby>担当<rt>たんとう</rt></ruby><ruby>以外<rt>いがい</rt></ruby>のチームメンバーもカンファレンス（conference）に<ruby>参加<rt>さんか</rt></ruby>して，<ruby>集団<rt>しゅうだん</rt></ruby><ruby>凝集<rt>ぎょうしゅう</rt></ruby><ruby>性<rt>せい</rt></ruby>を<ruby>高<rt>たか</rt></ruby>める。"
     ],
     "answer": 4
   },
   {
-    "question": "問題4 Ｂさん（90 歳，女性，要介護 3 ）は，介護老人福祉施設に入所している。 入浴日に，担当の介護福祉職が居室を訪問し，「Ｂさん，今日はお風呂の日です。 時間は午後3 時からです」と伝えた。しかし，Ｂさんは言っていることがわからなかったようで，「はい，何ですか」と困った様子で言った。 このときの，介護福祉職の準言語を活用した対応として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>4 Ｂさん（90 <ruby>歳<rt>とし</rt></ruby>，<ruby>女性<rt>じょせい</rt></ruby>，<ruby>要介<rt>ようすけ</rt></ruby><ruby>護<rt>ご</rt></ruby> 3 ）は，<ruby>介護<rt>かいご</rt></ruby><ruby>老人<rt>ろうじん</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>施設<rt>しせつ</rt></ruby>に<ruby>入所<rt>にゅうしょ</rt></ruby>している。 <ruby>入浴<rt>にゅうよく</rt></ruby><ruby>日<rt>にち</rt></ruby>に，<ruby>担当<rt>たんとう</rt></ruby>の<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>が<ruby>居室<rt>きょしつ</rt></ruby>を<ruby>訪問<rt>ほうもん</rt></ruby>し，「Ｂさん，<ruby>今日<rt>こんにち</rt></ruby>はお<ruby>風呂<rt>ふろ</rt></ruby>の<ruby>日<rt>にち</rt></ruby>です。 <ruby>時間<rt>じかん</rt></ruby>は<ruby>午後<rt>ごご</rt></ruby>3 <ruby>時<rt>とき</rt></ruby>からです」と<ruby>伝<rt>つた</rt></ruby>えた。しかし，Ｂさんは<ruby>言<rt>い</rt></ruby>っていることがわからなかったようで，「はい，<ruby>何<rt>なん</rt></ruby>ですか」と<ruby>困<rt>こま</rt></ruby>った<ruby>様子<rt>ようす</rt></ruby>で<ruby>言<rt>い</rt></ruby>った。 このときの，<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>の<ruby>準<rt>じゅん</rt></ruby><ruby>言語<rt>げんご</rt></ruby>を<ruby>活用<rt>かつよう</rt></ruby>した<ruby>対応<rt>たいおう</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "強い口調で伝えた。",
-      "抑揚をつけずに伝えた。",
-      "大きな声でゆっくり伝えた。",
-      "急かすように伝えた。",
-      "早口で伝えた。"
+      "<ruby>強<rt>つよ</rt></ruby>い<ruby>口調<rt>くちょう</rt></ruby>で<ruby>伝<rt>つた</rt></ruby>えた。",
+      "<ruby>抑揚<rt>よくよう</rt></ruby>をつけずに<ruby>伝<rt>つた</rt></ruby>えた。",
+      "<ruby>大<rt>おお</rt></ruby>きな<ruby>声<rt>こえ</rt></ruby>でゆっくり<ruby>伝<rt>つた</rt></ruby>えた。",
+      "<ruby>急<rt>せ</rt></ruby>かすように<ruby>伝<rt>つた</rt></ruby>えた。",
+      "<ruby>早口<rt>はやくち</rt></ruby>で<ruby>伝<rt>つた</rt></ruby>えた。"
     ],
     "answer": 2
   },
   {
-    "question": "問題5 Ｖ介護老人福祉施設では，感染症が流行したために，緊急的な介護体制で事業を継続することになった。さらに労務管理を担当する職員からは，介護福祉職の精神的健康を守ることを目的とした組織的なマネジメントに取り組む必要性について提案があった。 次の記述のうち，このマネジメントに該当するものとして，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>5 Ｖ<ruby>介護<rt>かいご</rt></ruby><ruby>老人<rt>ろうじん</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>施設<rt>しせつ</rt></ruby>では，<ruby>感染症<rt>かんせんしょう</rt></ruby>が<ruby>流行<rt>りゅうこう</rt></ruby>したために，<ruby>緊急<rt>きんきゅう</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>介護<rt>かいご</rt></ruby><ruby>体制<rt>たいせい</rt></ruby>で<ruby>事業<rt>じぎょう</rt></ruby>を<ruby>継続<rt>けいぞく</rt></ruby>することになった。さらに<ruby>労務<rt>ろうむ</rt></ruby><ruby>管理<rt>かんり</rt></ruby>を<ruby>担当<rt>たんとう</rt></ruby>する<ruby>職員<rt>しょくいん</rt></ruby>からは，<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>の<ruby>精神的健康<rt>せいしんてきけんこう</rt></ruby>を<ruby>守<rt>まも</rt></ruby>ることを<ruby>目的<rt>もくてき</rt></ruby>とした<ruby>組織的<rt>そしきてき</rt></ruby>なマネジメントに<ruby>取り組<rt>とりく</rt></ruby>む<ruby>必要性<rt>ひつようせい</rt></ruby>について<ruby>提案<rt>ていあん</rt></ruby>があった。 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，このマネジメントに<ruby>該当<rt>がいとう</rt></ruby>するものとして，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "感染防止対策を強化する。",
-      "多職種チームでの連携を強化する。",
-      "利用者のストレスをコントロールする。",
-      "介護福祉職の燃え尽き症候群（バーンアウト（burnout））を防止する。",
-      "利用者家族の面会方法を見直す。"
+      "<ruby>感染<rt>かんせん</rt></ruby><ruby>防止対策<rt>ぼうしたいさく</rt></ruby>を<ruby>強化<rt>きょうか</rt></ruby>する。",
+      "<ruby>多<rt>た</rt></ruby><ruby>職種<rt>しょくしゅ</rt></ruby>チームでの<ruby>連携<rt>れんけい</rt></ruby>を<ruby>強化<rt>きょうか</rt></ruby>する。",
+      "<ruby>利用者<rt>りようしゃ</rt></ruby>のストレスをコントロールする。",
+      "<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>の<ruby>燃<rt>も</rt></ruby>え<ruby>尽<rt>ことごと</rt></ruby>き<ruby>症候群<rt>しょうこうぐん</rt></ruby>（バーンアウト（burnout））を<ruby>防止<rt>ぼうし</rt></ruby>する。",
+      "<ruby>利用者<rt>りようしゃ</rt></ruby><ruby>家族<rt>かぞく</rt></ruby>の<ruby>面会<rt>めんかい</rt></ruby><ruby>方法<rt>ほうほう</rt></ruby>を<ruby>見直<rt>みなお</rt></ruby>す。"
     ],
     "answer": 3
   },
   {
-    "question": "問題6 次のうち，介護老人福祉施設における全体の指揮命令系統を把握するため に必要なものとして，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>6 <ruby>次<rt>つぎ</rt></ruby>のうち，<ruby>介護<rt>かいご</rt></ruby><ruby>老人<rt>ろうじん</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>施設<rt>しせつ</rt></ruby>における<ruby>全体<rt>ぜんたい</rt></ruby>の<ruby>指揮<rt>しき</rt></ruby><ruby>命令<rt>めいれい</rt></ruby><ruby>系統<rt>けいとう</rt></ruby>を<ruby>把握<rt>はあく</rt></ruby>するため に<ruby>必要<rt>ひつよう</rt></ruby>なものとして，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "組織図",
-      "勤務表",
-      "経営理念",
-      "施設の歴史",
-      "資格保有者数"
+      "<ruby>組織図<rt>そしきず</rt></ruby>",
+      "<ruby>勤務<rt>きんむ</rt></ruby><ruby>表<rt>おもて</rt></ruby>",
+      "<ruby>経営<rt>けいえい</rt></ruby><ruby>理念<rt>りねん</rt></ruby>",
+      "<ruby>施設<rt>しせつ</rt></ruby>の<ruby>歴史<rt>れきし</rt></ruby>",
+      "<ruby>資格<rt>しかく</rt></ruby><ruby>保有者<rt>ほゆうしゃ</rt></ruby><ruby>数<rt>かず</rt></ruby>"
     ],
     "answer": 0
   },
   {
-    "question": "問題7 次のうち，セルフヘルプグループ（self-help group）の活動に該当するものとして，最も適切なものを 1 つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>7 <ruby>次<rt>つぎ</rt></ruby>のうち，セルフヘルプグループ（self-help group）の<ruby>活動<rt>かつどう</rt></ruby>に<ruby>該当<rt>がいとう</rt></ruby>するものとして，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを 1 つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "断酒会",
-      "施設の社会貢献活動",
-      "子ども食堂の運営",
-      "傾聴ボランティア",
-      "地域の町内会"
+      "<ruby>断酒<rt>だんしゅ</rt></ruby><ruby>会<rt>かい</rt></ruby>",
+      "<ruby>施設<rt>しせつ</rt></ruby>の<ruby>社会<rt>しゃかい</rt></ruby><ruby>貢献<rt>こうけん</rt></ruby><ruby>活動<rt>かつどう</rt></ruby>",
+      "<ruby>子<rt>こ</rt></ruby>ども<ruby>食堂<rt>しょくどう</rt></ruby>の<ruby>運営<rt>うんえい</rt></ruby>",
+      "<ruby>傾聴<rt>けいちょう</rt></ruby>ボランティア",
+      "<ruby>地域<rt>ちいき</rt></ruby>の<ruby>町内会<rt>ちょうないかい</rt></ruby>"
     ],
     "answer": 0
   },
   {
-    "question": "問題8 特定非営利活動法人（NPO法人）に関する次の記述のうち，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>8 <ruby>特定<rt>とくてい</rt></ruby><ruby>非営利<rt>ひえいり</rt></ruby><ruby>活動<rt>かつどう</rt></ruby><ruby>法人<rt>ほうじん</rt></ruby>（NPO<ruby>法人<rt>ほうじん</rt></ruby>）に<ruby>関<rt>かん</rt></ruby>する<ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "社会福祉法に基づいて設置される。",
-      "市町村が認証する。",
-      "保健，医療又は福祉の増進を図る活動が最も多い。",
-      "収益活動は禁じられている。",
-      "宗教活動を主たる目的とする団体もある。"
+      "<ruby>社会福祉<rt>しゃかいふくし</rt></ruby><ruby>法<rt>ほう</rt></ruby>に<ruby>基<rt>もと</rt></ruby>づいて<ruby>設置<rt>せっち</rt></ruby>される。",
+      "<ruby>市町村<rt>しちょうそん</rt></ruby>が<ruby>認証<rt>にんしょう</rt></ruby>する。",
+      "<ruby>保健<rt>ほけん</rt></ruby>，<ruby>医療<rt>いりょう</rt></ruby><ruby>又<rt>また</rt></ruby>は<ruby>福祉<rt>ふくし</rt></ruby>の<ruby>増進<rt>ぞうしん</rt></ruby>を<ruby>図<rt>はか</rt></ruby>る<ruby>活動<rt>かつどう</rt></ruby>が<ruby>最<rt>もっと</rt></ruby>も<ruby>多<rt>おお</rt></ruby>い。",
+      "<ruby>収益<rt>しゅうえき</rt></ruby><ruby>活動<rt>かつどう</rt></ruby>は<ruby>禁<rt>きん</rt></ruby>じられている。",
+      "<ruby>宗教<rt>しゅうきょう</rt></ruby><ruby>活動<rt>かつどう</rt></ruby>を<ruby>主<rt>しゅ</rt></ruby>たる<ruby>目的<rt>もくてき</rt></ruby>とする<ruby>団体<rt>だんたい</rt></ruby>もある。"
     ],
     "answer": 2
   },
   {
-    "question": "問題9 地域福祉において，19 世紀後半に始まった，貧困地域に住み込んで実態調査を行いながら住民への教育や生活上の援助を行ったものとして，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>9 <ruby>地域<rt>ちいき</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby>において，19 <ruby>世紀後半<rt>せいきこうはん</rt></ruby>に<ruby>始<rt>はじ</rt></ruby>まった，<ruby>貧困<rt>ひんこん</rt></ruby><ruby>地域<rt>ちいき</rt></ruby>に<ruby>住<rt>す</rt></ruby>み<ruby>込<rt>こ</rt></ruby>んで<ruby>実態調査<rt>じったいちょうさ</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>いながら<ruby>住民<rt>じゅうみん</rt></ruby>への<ruby>教育<rt>きょういく</rt></ruby>や<ruby>生活上<rt>せいかつじょう</rt></ruby>の<ruby>援助<rt>えんじょ</rt></ruby>を<ruby>行<rt>い</rt></ruby>ったものとして，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "世界保健機関（WHO）",
-      "福祉事務所",
-      "地域包括支援センター",
-      "生活協同組合",
+      "<ruby>世界<rt>せかい</rt></ruby><ruby>保健<rt>ほけん</rt></ruby><ruby>機関<rt>きかん</rt></ruby>（WHO）",
+      "<ruby>福祉<rt>ふくし</rt></ruby><ruby>事務所<rt>じむしょ</rt></ruby>",
+      "<ruby>地域<rt>ちいき</rt></ruby><ruby>包括<rt>ほうかつ</rt></ruby><ruby>支援<rt>しえん</rt></ruby>センター",
+      "<ruby>生活協同組合<rt>せいきょう</rt></ruby>",
       "セツルメント"
     ],
     "answer": 4
   },
   {
-    "question": "問題10 社会福祉基礎構造改革に関する次の記述のうち，適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>10 <ruby>社会福祉<rt>しゃかいふくし</rt></ruby><ruby>基礎<rt>きそ</rt></ruby><ruby>構造<rt>こうぞう</rt></ruby><ruby>改革<rt>かいかく</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "社会福祉法が社会福祉事業法に改正された。",
-      "利用契約制度から措置制度に変更された。",
-      "サービス提供事業者は，社会福祉法人に限定された。",
-      "障害福祉分野での制度改正は見送られた。",
-      "判断能力が不十分な者に対する地域福祉権利擁護事業が創設された。"
+      "<ruby>社会福祉<rt>しゃかいふくし</rt></ruby><ruby>法<rt>ほう</rt></ruby>が<ruby>社会福祉<rt>しゃかいふくし</rt></ruby><ruby>事業<rt>じぎょう</rt></ruby><ruby>法<rt>ほう</rt></ruby>に<ruby>改正<rt>かいせい</rt></ruby>された。",
+      "<ruby>利用<rt>りよう</rt></ruby><ruby>契約制<rt>けいやくせい</rt></ruby><ruby>度<rt>ど</rt></ruby>から<ruby>措置<rt>そち</rt></ruby><ruby>制度<rt>せいど</rt></ruby>に<ruby>変更<rt>へんこう</rt></ruby>された。",
+      "サービス<ruby>提供<rt>ていきょう</rt></ruby><ruby>事業者<rt>じぎょうしゃ</rt></ruby>は，<ruby>社会福祉<rt>しゃかいふくし</rt></ruby><ruby>法人<rt>ほうじん</rt></ruby>に<ruby>限定<rt>げんてい</rt></ruby>された。",
+      "<ruby>障害<rt>しょうがい</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>分野<rt>ぶんや</rt></ruby>での<ruby>制度<rt>せいど</rt></ruby><ruby>改正<rt>かいせい</rt></ruby>は<ruby>見送<rt>みおく</rt></ruby>られた。",
+      "<ruby>判断能力<rt>はんだんのうりょく</rt></ruby>が<ruby>不十分<rt>ふじゅうぶん</rt></ruby>な<ruby>者<rt>もの</rt></ruby>に<ruby>対<rt>たい</rt></ruby>する<ruby>地域<rt>ちいき</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>権利<rt>けんり</rt></ruby><ruby>擁護<rt>ようご</rt></ruby><ruby>事業<rt>じぎょう</rt></ruby>が<ruby>創設<rt>そうせつ</rt></ruby>された。"
     ],
     "answer": 4
   },
   {
-    "question": "問題11 Ｃさん（77 歳，男性）は，60 歳で公務員を定年退職し，年金生活をしている。持病や障害はなく，退職後も趣味のゴルフを楽しみながら健康に過ごしている。 ある日，Ｃさんはゴルフ中にけがをして医療機関を受診した。 このとき，Ｃさんに適用される公的医療制度として，正しいものを1つ選びなさ い。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>11 Ｃさん（77 <ruby>歳<rt>とし</rt></ruby>，<ruby>男性<rt>だんせい</rt></ruby>）は，60 <ruby>歳<rt>とし</rt></ruby>で<ruby>公務員<rt>こうむいん</rt></ruby>を<ruby>定年退職<rt>ていねんたいしょく</rt></ruby>し，<ruby>年金生活<rt>ねんきんせいかつ</rt></ruby>をしている。<ruby>持病<rt>じびょう</rt></ruby>や<ruby>障害<rt>しょうがい</rt></ruby>はなく，<ruby>退職後<rt>たいしょくご</rt></ruby>も<ruby>趣味<rt>しゅみ</rt></ruby>のゴルフを<ruby>楽<rt>たの</rt></ruby>しみながら<ruby>健康<rt>けんこう</rt></ruby>に<ruby>過<rt>す</rt></ruby>ごしている。 ある<ruby>日<rt>にち</rt></ruby>，Ｃさんはゴルフ<ruby>中<rt>なか</rt></ruby>にけがをして<ruby>医療機関<rt>いりょうきかん</rt></ruby>を<ruby>受診<rt>じゅしん</rt></ruby>した。 このとき，Ｃさんに<ruby>適用<rt>てきよう</rt></ruby>される<ruby>公的<rt>こうてき</rt></ruby><ruby>医療制度<rt>いりょうせいど</rt></ruby>として，<ruby>正<rt>ただ</rt></ruby>しいものを1つ<ruby>選<rt>えら</rt></ruby>びなさ い。",
     "choices": [
-      "国民健康保険",
-      "後期高齢者医療制度",
-      "共済組合保険",
-      "育成医療",
-      "更生医療"
+      "<ruby>国民健康保険<rt>こくみんけんこうほけん</rt></ruby>",
+      "<ruby>後期<rt>こうき</rt></ruby><ruby>高齢者<rt>こうれいしゃ</rt></ruby><ruby>医療制度<rt>いりょうせいど</rt></ruby>",
+      "<ruby>共済<rt>きょうさい</rt></ruby><ruby>組合<rt>くみあい</rt></ruby><ruby>保険<rt>ほけん</rt></ruby>",
+      "<ruby>育成<rt>いくせい</rt></ruby><ruby>医療<rt>いりょう</rt></ruby>",
+      "<ruby>更生<rt>こうせい</rt></ruby><ruby>医療<rt>いりょう</rt></ruby>"
     ],
     "answer": 1
   },
   {
-    "question": "問題12 次のうち，介護保険法に基づき，都道府県・指定都市・中核市が指定（許可），監督を行うサービスとして，正しいものを 1 つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>12 <ruby>次<rt>つぎ</rt></ruby>のうち，<ruby>介護<rt>かいご</rt></ruby><ruby>保険<rt>ほけん</rt></ruby><ruby>法<rt>ほう</rt></ruby>に<ruby>基<rt>もと</rt></ruby>づき，<ruby>都道府県<rt>とどうふけん</rt></ruby>・<ruby>指定<rt>してい</rt></ruby><ruby>都市<rt>とし</rt></ruby>・<ruby>中核<rt>ちゅうかく</rt></ruby><ruby>市<rt>し</rt></ruby>が<ruby>指定<rt>してい</rt></ruby>（<ruby>許可<rt>きょか</rt></ruby>），<ruby>監督<rt>かんとく</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>うサービスとして，<ruby>正<rt>ただ</rt></ruby>しいものを 1 つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "地域密着型介護サービス",
-      "居宅介護支援",
-      "施設サービス",
-      "夜間対応型訪問介護",
-      "介護予防支援"
+      "<ruby>地域密着<rt>ちいきみっちゃく</rt></ruby><ruby>型<rt>かた</rt></ruby><ruby>介護<rt>かいご</rt></ruby>サービス",
+      "<ruby>居宅<rt>きょたく</rt></ruby><ruby>介護<rt>かいご</rt></ruby><ruby>支援<rt>しえん</rt></ruby>",
+      "<ruby>施設<rt>しせつ</rt></ruby>サービス",
+      "<ruby>夜間<rt>やかん</rt></ruby><ruby>対応型<rt>たいおうがた</rt></ruby><ruby>訪問<rt>ほうもん</rt></ruby><ruby>介護<rt>かいご</rt></ruby>",
+      "<ruby>介護<rt>かいご</rt></ruby><ruby>予防<rt>よぼう</rt></ruby><ruby>支援<rt>しえん</rt></ruby>"
     ],
     "answer": 2
   },
   {
-    "question": "問題13 「障害者差別解消法」に関する次の記述のうち，適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>13 「<ruby>障害者差別<rt>しょうがいしゃさべつ</rt></ruby><ruby>解消法<rt>かいしょうほう</rt></ruby>」に<ruby>関<rt>かん</rt></ruby>する<ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "法の対象者は，身体障害者手帳を交付された者に限定されている。",
-      "合理的配慮は，実施するときの負担の大小に関係なく提供する。",
-      "個人による差別行為への罰則規定がある。",
-      "雇用分野での，障害を理由とした使用者による虐待の禁止が目的である。",
-      "障害者基本法の基本的な理念を具体的に実施するために制定された。"
+      "<ruby>法<rt>ほう</rt></ruby>の<ruby>対象者<rt>たいしょうしゃ</rt></ruby>は，<ruby>身体障害者<rt>しんたいしょうがいしゃ</rt></ruby><ruby>手帳<rt>てちょう</rt></ruby>を<ruby>交付<rt>こうふ</rt></ruby>された<ruby>者<rt>もの</rt></ruby>に<ruby>限定<rt>げんてい</rt></ruby>されている。",
+      "<ruby>合理的<rt>ごうりてき</rt></ruby><ruby>配慮<rt>はいりょ</rt></ruby>は，<ruby>実施<rt>じっし</rt></ruby>するときの<ruby>負担<rt>ふたん</rt></ruby>の<ruby>大小<rt>だいしょう</rt></ruby>に<ruby>関係<rt>かんけい</rt></ruby>なく<ruby>提供<rt>ていきょう</rt></ruby>する。",
+      "<ruby>個人<rt>こじん</rt></ruby>による<ruby>差別行為<rt>さべつこうい</rt></ruby>への<ruby>罰則規定<rt>ばっそくきてい</rt></ruby>がある。",
+      "<ruby>雇用<rt>こよう</rt></ruby><ruby>分野<rt>ぶんや</rt></ruby>での，<ruby>障害<rt>しょうがい</rt></ruby>を<ruby>理由<rt>りゆう</rt></ruby>とした<ruby>使用者<rt>しようしゃ</rt></ruby>による<ruby>虐待<rt>ぎゃくたい</rt></ruby>の<ruby>禁止<rt>きんし</rt></ruby>が<ruby>目的<rt>もくてき</rt></ruby>である。",
+      "<ruby>障害者<rt>しょうがいしゃ</rt></ruby><ruby>基本法<rt>きほんほう</rt></ruby>の<ruby>基本的<rt>きほんてき</rt></ruby>な<ruby>理念<rt>りねん</rt></ruby>を<ruby>具体的<rt>ぐたいてき</rt></ruby>に<ruby>実施<rt>じっし</rt></ruby>するために<ruby>制定<rt>せいてい</rt></ruby>された。"
     ],
     "answer": 4
   },
   {
-    "question": "問題14 「障害者総合支援法」に規定された移動に関する支援の説明として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>14 「<ruby>障害者<rt>しょうがいしゃ</rt></ruby><ruby>総合<rt>そうごう</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>法<rt>ほう</rt></ruby>」に<ruby>規定<rt>きてい</rt></ruby>された<ruby>移動<rt>いどう</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>支援<rt>しえん</rt></ruby>の<ruby>説明<rt>せつめい</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "移動支援については，介護給付費が支給される。",
-      "行動援護は，周囲の状況把握ができない視覚障害者が利用する。",
-      "同行援護は，危険を回避できない知的障害者が利用する。",
-      "重度訪問介護は，重度障害者の外出支援も行う。",
-      "共同生活援助（グループホーム）は，地域で生活する障害者の外出支援を行う。"
+      "<ruby>移動<rt>いどう</rt></ruby><ruby>支援<rt>しえん</rt></ruby>については，<ruby>介護<rt>かいご</rt></ruby><ruby>給付<rt>きゅうふ</rt></ruby><ruby>費<rt>ひ</rt></ruby>が<ruby>支給<rt>しきゅう</rt></ruby>される。",
+      "<ruby>行動<rt>こうどう</rt></ruby><ruby>援護<rt>えんご</rt></ruby>は，<ruby>周囲<rt>しゅうい</rt></ruby>の<ruby>状況<rt>じょうきょう</rt></ruby><ruby>把握<rt>はあく</rt></ruby>ができない<ruby>視覚障害者<rt>しかくしょうがいしゃ</rt></ruby>が<ruby>利用<rt>りよう</rt></ruby>する。",
+      "<ruby>同行<rt>どうこう</rt></ruby><ruby>援護<rt>えんご</rt></ruby>は，<ruby>危険<rt>きけん</rt></ruby>を<ruby>回避<rt>かいひ</rt></ruby>できない<ruby>知的障害<rt>ちてきしょうがい</rt></ruby><ruby>者<rt>もの</rt></ruby>が<ruby>利用<rt>りよう</rt></ruby>する。",
+      "<ruby>重度<rt>じゅうど</rt></ruby><ruby>訪問<rt>ほうもん</rt></ruby><ruby>介護<rt>かいご</rt></ruby>は，<ruby>重度<rt>じゅうど</rt></ruby><ruby>障害者<rt>しょうがいしゃ</rt></ruby>の<ruby>外出<rt>がいしゅつ</rt></ruby><ruby>支援<rt>しえん</rt></ruby>も<ruby>行<rt>おこな</rt></ruby>う。",
+      "<ruby>共同生活<rt>きょうどうせいかつ</rt></ruby><ruby>援助<rt>えんじょ</rt></ruby>（グループホーム）は，<ruby>地域<rt>ちいき</rt></ruby>で<ruby>生活<rt>せいかつ</rt></ruby>する<ruby>障害者<rt>しょうがいしゃ</rt></ruby>の<ruby>外出<rt>がいしゅつ</rt></ruby><ruby>支援<rt>しえん</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う。"
     ],
     "answer": 3
   },
   {
-    "question": "問題15 Ｄさん（80 歳，男性，要介護 2 ）は，認知症（dementia）がある。訪問介護 （ホームヘルプサービス）を利用しながら一人暮らしをしている。 ある日，訪問介護員（ホームヘルパー）がＤさんの自宅を訪問すると，近所に住むＤさんの長女から，「父が，高額な投資信託の電話勧誘を受けて，契約しようかどうか悩んでいるようで心配だ」と相談された。 訪問介護員（ホームヘルパー）が長女に助言する相談先として，最も適切なものを 1 つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>15 Ｄさん（80 <ruby>歳<rt>とし</rt></ruby>，<ruby>男性<rt>だんせい</rt></ruby>，<ruby>要介<rt>ようすけ</rt></ruby><ruby>護<rt>ご</rt></ruby> 2 ）は，<ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby>（dementia）がある。<ruby>訪問<rt>ほうもん</rt></ruby><ruby>介護<rt>かいご</rt></ruby> （ホームヘルプサービス）を<ruby>利用<rt>りよう</rt></ruby>しながら<ruby>一人暮<rt>ひとりぐ</rt></ruby>らしをしている。 ある<ruby>日<rt>にち</rt></ruby>，<ruby>訪問<rt>ほうもん</rt></ruby><ruby>介護<rt>かいご</rt></ruby><ruby>員<rt>いん</rt></ruby>（ホームヘルパー）がＤさんの<ruby>自宅<rt>じたく</rt></ruby>を<ruby>訪問<rt>ほうもん</rt></ruby>すると，<ruby>近所<rt>きんじょ</rt></ruby>に<ruby>住<rt>す</rt></ruby>むＤさんの<ruby>長女<rt>ちょうじょ</rt></ruby>から，「<ruby>父<rt>ちち</rt></ruby>が，<ruby>高額<rt>こうがく</rt></ruby>な<ruby>投資信託<rt>とうししんたく</rt></ruby>の<ruby>電話<rt>でんわ</rt></ruby><ruby>勧誘<rt>かんゆう</rt></ruby>を<ruby>受<rt>う</rt></ruby>けて，<ruby>契約<rt>けいやく</rt></ruby>しようかどうか<ruby>悩<rt>なや</rt></ruby>んでいるようで<ruby>心配<rt>しんぱい</rt></ruby>だ」と<ruby>相談<rt>そうだん</rt></ruby>された。 <ruby>訪問<rt>ほうもん</rt></ruby><ruby>介護<rt>かいご</rt></ruby><ruby>員<rt>いん</rt></ruby>（ホームヘルパー）が<ruby>長女<rt>ちょうじょ</rt></ruby>に<ruby>助言<rt>じょげん</rt></ruby>する<ruby>相談<rt>そうだん</rt></ruby><ruby>先<rt>さき</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを 1 つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "公正取引委員会",
-      "都道府県障害者権利擁護センター",
-      "運営適正化委員会",
-      "消費生活センター",
-      "市町村保健センター"
+      "<ruby>公正取引<rt>こうせいとりひき</rt></ruby><ruby>委員会<rt>いいんかい</rt></ruby>",
+      "<ruby>都道府県<rt>とどうふけん</rt></ruby><ruby>障害者<rt>しょうがいしゃ</rt></ruby><ruby>権利<rt>けんり</rt></ruby><ruby>擁護<rt>ようご</rt></ruby>センター",
+      "<ruby>運営<rt>うんえい</rt></ruby><ruby>適正化<rt>てきせいか</rt></ruby><ruby>委員会<rt>いいんかい</rt></ruby>",
+      "<ruby>消費生活<rt>しょうひせいかつ</rt></ruby>センター",
+      "<ruby>市町村<rt>しちょうそん</rt></ruby><ruby>保健<rt>ほけん</rt></ruby>センター"
     ],
     "answer": 3
   },
   {
-    "question": "問題16 災害時の福祉避難所に関する次の記述のうち，適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>16 <ruby>災害時<rt>さいがいじ</rt></ruby>の<ruby>福祉<rt>ふくし</rt></ruby><ruby>避難所<rt>ひなんじょ</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "介護老人福祉施設の入所者は，原則として福祉避難所の対象外である。",
-      "介護保険法に基づいて指定される避難所である。",
-      "医療的ケアを必要とする者は対象にならない。",
-      "訪問介護員（ホームヘルパー）が，災害対策基本法に基づいて派遣される。",
-      "同行援護のヘルパーが，災害救助法に基づいて派遣される。"
+      "<ruby>介護<rt>かいご</rt></ruby><ruby>老人<rt>ろうじん</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>施設<rt>しせつ</rt></ruby>の<ruby>入所<rt>にゅうしょ</rt></ruby><ruby>者<rt>もの</rt></ruby>は，<ruby>原則<rt>げんそく</rt></ruby>として<ruby>福祉<rt>ふくし</rt></ruby><ruby>避難所<rt>ひなんじょ</rt></ruby>の<ruby>対象外<rt>たいしょうがい</rt></ruby>である。",
+      "<ruby>介護<rt>かいご</rt></ruby><ruby>保険<rt>ほけん</rt></ruby><ruby>法<rt>ほう</rt></ruby>に<ruby>基<rt>もと</rt></ruby>づいて<ruby>指定<rt>してい</rt></ruby>される<ruby>避難所<rt>ひなんじょ</rt></ruby>である。",
+      "<ruby>医療<rt>いりょう</rt></ruby><ruby>的<rt>てき</rt></ruby>ケアを<ruby>必要<rt>ひつよう</rt></ruby>とする<ruby>者<rt>もの</rt></ruby>は<ruby>対象<rt>たいしょう</rt></ruby>にならない。",
+      "<ruby>訪問<rt>ほうもん</rt></ruby><ruby>介護<rt>かいご</rt></ruby><ruby>員<rt>いん</rt></ruby>（ホームヘルパー）が，<ruby>災害<rt>さいがい</rt></ruby><ruby>対策<rt>たいさく</rt></ruby><ruby>基本法<rt>きほんほう</rt></ruby>に<ruby>基<rt>もと</rt></ruby>づいて<ruby>派遣<rt>はけん</rt></ruby>される。",
+      "<ruby>同行<rt>どうこう</rt></ruby><ruby>援護<rt>えんご</rt></ruby>のヘルパーが，<ruby>災害<rt>さいがい</rt></ruby><ruby>救助法<rt>きゅうじょほう</rt></ruby>に<ruby>基<rt>もと</rt></ruby>づいて<ruby>派遣<rt>はけん</rt></ruby>される。"
     ],
     "answer": 0
   },
   {
-    "question": "問題17 「感染症法」に基づいて，結核（tuberculosis）を発症した在宅の高齢者に， 医療費の公費負担の申請業務や家庭訪問指導などを行う機関として，適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>17 「<ruby>感染症<rt>かんせんしょう</rt></ruby><ruby>法<rt>ほう</rt></ruby>」に<ruby>基<rt>もと</rt></ruby>づいて，<ruby>結核<rt>けっかく</rt></ruby>（tuberculosis）を<ruby>発症<rt>はっしょう</rt></ruby>した<ruby>在宅<rt>ざいたく</rt></ruby>の<ruby>高齢者<rt>こうれいしゃ</rt></ruby>に， <ruby>医療費<rt>いりょうひ</rt></ruby>の<ruby>公費<rt>こうひ</rt></ruby><ruby>負担<rt>ふたん</rt></ruby>の<ruby>申請<rt>しんせい</rt></ruby><ruby>業務<rt>ぎょうむ</rt></ruby>や<ruby>家庭訪問<rt>かていほうもん</rt></ruby><ruby>指導<rt>しどう</rt></ruby>などを<ruby>行<rt>おこな</rt></ruby>う<ruby>機関<rt>きかん</rt></ruby>として，<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "基幹相談支援センター",
-      "地域活動支援センター",
-      "保健所",
-      "老人福祉センター",
-      "医療保護施設"
+      "<ruby>基幹<rt>きかん</rt></ruby><ruby>相談<rt>そうだん</rt></ruby><ruby>支援<rt>しえん</rt></ruby>センター",
+      "<ruby>地域<rt>ちいき</rt></ruby><ruby>活動<rt>かつどう</rt></ruby><ruby>支援<rt>しえん</rt></ruby>センター",
+      "<ruby>保健所<rt>ほけんしょ</rt></ruby>",
+      "<ruby>老人<rt>ろうじん</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby>センター",
+      "<ruby>医療<rt>いりょう</rt></ruby><ruby>保護<rt>ほご</rt></ruby><ruby>施設<rt>しせつ</rt></ruby>"
     ],
     "answer": 2
   },
   {
-    "question": "問題18 Ｅさん（55 歳，女性，障害の有無は不明）は，ひきこもりの状態にあり， 就労していない。父親の年金で父親とアパートで暮らしていたが，父親が亡くなり， 一人暮らしになった。遠方に住む弟は，姉が家賃を滞納していて，生活に困っているようだと，家主から連絡を受けた。 心配した弟が相談する機関として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>18 Ｅさん（55 <ruby>歳<rt>とし</rt></ruby>，<ruby>女性<rt>じょせい</rt></ruby>，<ruby>障害<rt>しょうがい</rt></ruby>の<ruby>有無<rt>うむ</rt></ruby>は<ruby>不明<rt>ふめい</rt></ruby>）は，ひきこもりの<ruby>状態<rt>じょうたい</rt></ruby>にあり， <ruby>就労<rt>しゅうろう</rt></ruby>していない。<ruby>父親<rt>ちちおや</rt></ruby>の<ruby>年金<rt>ねんきん</rt></ruby>で<ruby>父親<rt>ちちおや</rt></ruby>とアパートで<ruby>暮<rt>く</rt></ruby>らしていたが，<ruby>父親<rt>ちちおや</rt></ruby>が<ruby>亡<rt>な</rt></ruby>くなり， <ruby>一人暮<rt>ひとりぐ</rt></ruby>らしになった。<ruby>遠方<rt>えんぽう</rt></ruby>に<ruby>住<rt>す</rt></ruby>む<ruby>弟<rt>おとうと</rt></ruby>は，<ruby>姉<rt>あね</rt></ruby>が<ruby>家賃<rt>やちん</rt></ruby>を<ruby>滞納<rt>たいのう</rt></ruby>していて，<ruby>生活<rt>せいかつ</rt></ruby>に<ruby>困<rt>こま</rt></ruby>っているようだと，<ruby>家主<rt>やぬし</rt></ruby>から<ruby>連絡<rt>れんらく</rt></ruby>を<ruby>受<rt>う</rt></ruby>けた。 <ruby>心配<rt>しんぱい</rt></ruby>した<ruby>弟<rt>おとうと</rt></ruby>が<ruby>相談<rt>そうだん</rt></ruby>する<ruby>機関<rt>きかん</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "地域包括支援センター",
-      "福祉事務所",
-      "精神保健福祉センター",
-      "公共職業安定所（ハローワーク）",
-      "年金事務所"
+      "<ruby>地域<rt>ちいき</rt></ruby><ruby>包括<rt>ほうかつ</rt></ruby><ruby>支援<rt>しえん</rt></ruby>センター",
+      "<ruby>福祉<rt>ふくし</rt></ruby><ruby>事務所<rt>じむしょ</rt></ruby>",
+      "<ruby>精神<rt>せいしん</rt></ruby><ruby>保健<rt>ほけん</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby>センター",
+      "<ruby>公共<rt>こうきょう</rt></ruby><ruby>職業<rt>しょくぎょう</rt></ruby><ruby>安定<rt>あんてい</rt></ruby><ruby>所<rt>ところ</rt></ruby>（ハローワーク）",
+      "<ruby>年金<rt>ねんきん</rt></ruby><ruby>事務所<rt>じむしょ</rt></ruby>"
     ],
     "answer": 1
   },
   {
-    "question": "問題19 次のうち，マズロー（Maslow, A.H.）の欲求階層説で成長欲求に該当するものとして，正しいものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>19 <ruby>次<rt>つぎ</rt></ruby>のうち，マズロー（Maslow, A.H.）の<ruby>欲求<rt>よっきゅう</rt></ruby><ruby>階層<rt>かいそう</rt></ruby><ruby>説<rt>せつ</rt></ruby>で<ruby>成長<rt>せいちょう</rt></ruby><ruby>欲求<rt>よっきゅう</rt></ruby>に<ruby>該当<rt>がいとう</rt></ruby>するものとして，<ruby>正<rt>ただ</rt></ruby>しいものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "承認欲求",
-      "安全欲求",
-      "自己実現欲求",
-      "生理的欲求",
-      "所属・愛情欲求"
+      "<ruby>承認<rt>しょうにん</rt></ruby><ruby>欲求<rt>よっきゅう</rt></ruby>",
+      "<ruby>安全<rt>あんぜん</rt></ruby><ruby>欲求<rt>よっきゅう</rt></ruby>",
+      "<ruby>自己実現<rt>じこじつげん</rt></ruby><ruby>欲求<rt>よっきゅう</rt></ruby>",
+      "<ruby>生理的<rt>せいりてき</rt></ruby><ruby>欲求<rt>よっきゅう</rt></ruby>",
+      "<ruby>所属<rt>しょぞく</rt></ruby>・<ruby>愛情<rt>あいじょう</rt></ruby><ruby>欲求<rt>よっきゅう</rt></ruby>"
     ],
     "answer": 2
   },
   {
-    "question": "問題20 次のうち，交感神経の作用に該当するものとして，正しいものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>20 <ruby>次<rt>つぎ</rt></ruby>のうち，<ruby>交感神経<rt>こうかんしんけい</rt></ruby>の<ruby>作用<rt>さよう</rt></ruby>に<ruby>該当<rt>がいとう</rt></ruby>するものとして，<ruby>正<rt>ただ</rt></ruby>しいものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "血管収縮",
-      "心拍数減少",
-      "気道収縮",
-      "消化促進",
-      "瞳孔収縮"
+      "<ruby>血管<rt>けっかん</rt></ruby><ruby>収縮<rt>しゅうしゅく</rt></ruby>",
+      "<ruby>心拍数<rt>しんぱくすう</rt></ruby><ruby>減少<rt>げんしょう</rt></ruby>",
+      "<ruby>気道<rt>きどう</rt></ruby><ruby>収縮<rt>しゅうしゅく</rt></ruby>",
+      "<ruby>消化<rt>しょうか</rt></ruby><ruby>促進<rt>そくしん</rt></ruby>",
+      "<ruby>瞳孔<rt>どうこう</rt></ruby><ruby>収縮<rt>しゅうしゅく</rt></ruby>"
     ],
     "answer": 0
   },
   {
-    "question": "問題21 Ｆさん（82 歳，女性）は，健康診断で骨粗鬆症（こつそしょうしょう　osteoporosis）と診断され， 内服治療が開始された。杖歩行（つえほこう）で時々ふらつくが，ゆっくりと自立歩行することができる。昼間は自室にこもり，ベッドで横になっていることが多い。リハビリテーションとして週 3 日歩行訓練を行い，食事は普通食を毎食 8 割以上摂取している。 Ｆさんの骨粗鬆症（osteoporosis）の進行を予防するための支援として，最も適切なものを 1 つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>21 Ｆさん（82 <ruby>歳<rt>とし</rt></ruby>，<ruby>女性<rt>じょせい</rt></ruby>）は，<ruby>健康診断<rt>けんこうしんだん</rt></ruby>で<ruby>骨粗鬆症<rt>こつそしょうしょう</rt></ruby>（こつそしょうしょう　osteoporosis）と<ruby>診断<rt>しんだん</rt></ruby>され， <ruby>内服<rt>ないふく</rt></ruby><ruby>治療<rt>ちりょう</rt></ruby>が<ruby>開始<rt>かいし</rt></ruby>された。<ruby>杖<rt>つえ</rt></ruby><ruby>歩行<rt>ほこう</rt></ruby>（つえほこう）で<ruby>時々<rt>ときどき</rt></ruby>ふらつくが，ゆっくりと<ruby>自立<rt>じりつ</rt></ruby><ruby>歩行<rt>ほこう</rt></ruby>することができる。<ruby>昼間<rt>ひるま</rt></ruby>は<ruby>自室<rt>じしつ</rt></ruby>にこもり，ベッドで<ruby>横<rt>よこ</rt></ruby>になっていることが<ruby>多<rt>おお</rt></ruby>い。リハビリテーションとして<ruby>週<rt>しゅう</rt></ruby> 3 <ruby>日歩<rt>ひぶ</rt></ruby><ruby>行<rt>ぎょう</rt></ruby><ruby>訓練<rt>くんれん</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>い，<ruby>食事<rt>しょくじ</rt></ruby>は<ruby>普通<rt>ふつう</rt></ruby><ruby>食<rt>く</rt></ruby>を<ruby>毎食<rt>まいしょく</rt></ruby> 8 <ruby>割<rt>わり</rt></ruby><ruby>以上<rt>いじょう</rt></ruby><ruby>摂取<rt>せっしゅ</rt></ruby>している。 Ｆさんの<ruby>骨粗鬆症<rt>こつそしょうしょう</rt></ruby>（osteoporosis）の<ruby>進行<rt>しんこう</rt></ruby>を<ruby>予防<rt>よぼう</rt></ruby>するための<ruby>支援<rt>しえん</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを 1 つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "リハビリテーションを週 1 日に変更する。",
-      "繊維質の多い食事を勧める。",
-      "日光浴を日課に取り入れる。",
-      "車いすでの移動に変更する。",
-      "ビタミンＡ（vitamin A）の摂取を勧める。"
+      "リハビリテーションを<ruby>週<rt>しゅう</rt></ruby> 1 <ruby>日<rt>にち</rt></ruby>に<ruby>変更<rt>へんこう</rt></ruby>する。",
+      "<ruby>繊維質<rt>せんいしつ</rt></ruby>の<ruby>多<rt>おお</rt></ruby>い<ruby>食事<rt>しょくじ</rt></ruby>を<ruby>勧<rt>すす</rt></ruby>める。",
+      "<ruby>日光浴<rt>にっこうよく</rt></ruby>を<ruby>日課<rt>にっか</rt></ruby>に<ruby>取り入<rt>とりい</rt></ruby>れる。",
+      "<ruby>車<rt>くるま</rt></ruby>いすでの<ruby>移動<rt>いどう</rt></ruby>に<ruby>変更<rt>へんこう</rt></ruby>する。",
+      "ビタミンＡ（vitamin A）の<ruby>摂取<rt>せっしゅ</rt></ruby>を<ruby>勧<rt>すす</rt></ruby>める。"
     ],
     "answer": 2
   },
   {
-    "question": "問題22 中耳にある耳小骨として，正しいものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>22 <ruby>中耳<rt>ちゅうじ</rt></ruby>にある<ruby>耳<rt>みみ</rt></ruby><ruby>小骨<rt>こぼね</rt></ruby>として，<ruby>正<rt>ただ</rt></ruby>しいものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "ツチ骨",
-      "蝶形骨（ちょうけいこつ）",
-      "前頭骨",
-      "頬骨（きょうこつ）",
-      "上顎骨"
+      "ツチ<ruby>骨<rt>ほね</rt></ruby>",
+      "<ruby>蝶形<rt>ちょうけい</rt></ruby><ruby>骨<rt>ほね</rt></ruby>（ちょうけいこつ）",
+      "<ruby>前頭<rt>ぜんとう</rt></ruby><ruby>骨<rt>ほね</rt></ruby>",
+      "<ruby>頬骨<rt>ほおぼね</rt></ruby>（きょうこつ）",
+      "<ruby>上顎<rt>うわあご</rt></ruby><ruby>骨<rt>ほね</rt></ruby>"
     ],
     "answer": 0
   },
   {
-    "question": "問題23 成人の爪に関する次の記述のうち，正しいものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>23 <ruby>成人<rt>せいじん</rt></ruby>の<ruby>爪<rt>つめ</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>正<rt>ただ</rt></ruby>しいものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "主成分はタンパク質である。",
-      "1 日に 1 mm 程度伸びる。",
-      "爪の外表面には爪床がある。",
-      "正常な爪は全体が白色である。",
-      "爪半月は角質化が進んでいる。"
+      "<ruby>主成分<rt>しゅせいぶん</rt></ruby>はタンパク<ruby>質<rt>しつ</rt></ruby>である。",
+      "1 <ruby>日<rt>にち</rt></ruby>に 1 mm <ruby>程度<rt>ていど</rt></ruby><ruby>伸<rt>の</rt></ruby>びる。",
+      "<ruby>爪<rt>つめ</rt></ruby>の<ruby>外表<rt>そとおもて</rt></ruby><ruby>面<rt>めん</rt></ruby>には<ruby>爪床<rt>そうしょう</rt></ruby>がある。",
+      "<ruby>正常<rt>せいじょう</rt></ruby>な<ruby>爪<rt>つめ</rt></ruby>は<ruby>全体<rt>ぜんたい</rt></ruby>が<ruby>白色<rt>はくしょく</rt></ruby>である。",
+      "<ruby>爪<rt>つめ</rt></ruby><ruby>半月<rt>はんつき</rt></ruby>は<ruby>角質<rt>かくしつ</rt></ruby><ruby>化<rt>か</rt></ruby>が<ruby>進<rt>すす</rt></ruby>んでいる。"
     ],
     "answer": 0
   },
   {
-    "question": "問題24 食物が入り誤嚥（ごえん）が生じる部位として，適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>24 <ruby>食物<rt>たべもの</rt></ruby>が<ruby>入<rt>い</rt></ruby>り<ruby>誤嚥<rt>ごえん</rt></ruby>（ごえん）が<ruby>生<rt>しょう</rt></ruby>じる<ruby>部位<rt>ぶい</rt></ruby>として，<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "扁桃（へんとう）",
-      "食道",
-      "耳管",
-      "気管",
-      "咽頭"
+      "<ruby>扁桃<rt>へんとう</rt></ruby>（へんとう）",
+      "<ruby>食道<rt>しょくどう</rt></ruby>",
+      "<ruby>耳管<rt>じかん</rt></ruby>",
+      "<ruby>気管<rt>きかん</rt></ruby>",
+      "<ruby>咽頭<rt>いんとう</rt></ruby>"
     ],
     "answer": 3
   },
   {
-    "question": "問題25 Ｇさん（79 歳，男性）は，介護老人保健施設に入所している。Ｇさんは普段から食べ物をかきこむように食べる様子がみられ，最近はむせることが多くなっ た。義歯は使用していない。食事は普通食を摂取している。ある日の昼食時，唐揚げを口の中に入れたあと，喉をつかむようなしぐさをし，苦しそうな表情になった。 Ｇさんに起きていることとして，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>25 Ｇさん（79 <ruby>歳<rt>とし</rt></ruby>，<ruby>男性<rt>だんせい</rt></ruby>）は，<ruby>介護<rt>かいご</rt></ruby><ruby>老人<rt>ろうじん</rt></ruby><ruby>保健<rt>ほけん</rt></ruby><ruby>施設<rt>しせつ</rt></ruby>に<ruby>入所<rt>にゅうしょ</rt></ruby>している。Ｇさんは<ruby>普段<rt>ふだん</rt></ruby>から<ruby>食べ物<rt>たべもの</rt></ruby>をかきこむように<ruby>食<rt>た</rt></ruby>べる<ruby>様子<rt>ようす</rt></ruby>がみられ，<ruby>最近<rt>さいきん</rt></ruby>はむせることが<ruby>多<rt>おお</rt></ruby>くなっ た。<ruby>義歯<rt>ぎし</rt></ruby>は<ruby>使用<rt>しよう</rt></ruby>していない。<ruby>食事<rt>しょくじ</rt></ruby>は<ruby>普通<rt>ふつう</rt></ruby><ruby>食<rt>く</rt></ruby>を<ruby>摂取<rt>せっしゅ</rt></ruby>している。ある<ruby>日<rt>にち</rt></ruby>の<ruby>昼食時<rt>ちゅうしょくじ</rt></ruby>，<ruby>唐揚<rt>からあ</rt></ruby>げを<ruby>口<rt>くち</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>入<rt>い</rt></ruby>れたあと，<ruby>喉<rt>のど</rt></ruby>をつかむようなしぐさをし，<ruby>苦<rt>くる</rt></ruby>しそうな<ruby>表情<rt>ひょうじょう</rt></ruby>になった。 Ｇさんに<ruby>起<rt>お</rt></ruby>きていることとして，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "心筋梗塞（myocardial infarction）",
-      "蕁麻疹（じんましん　urticaria）",
-      "誤嚥性肺炎（ごえんせいはいえん　aspiration pneumonia）",
-      "食中毒（foodborne disease）",
-      "窒息（choking）"
+      "<ruby>心筋梗塞<rt>しんきんこうそく</rt></ruby>（myocardial infarction）",
+      "<ruby>蕁麻疹<rt>じんましん</rt></ruby>（じんましん　urticaria）",
+      "<ruby>誤嚥<rt>ごえん</rt></ruby><ruby>性<rt>せい</rt></ruby><ruby>肺炎<rt>はいえん</rt></ruby>（ごえんせいはいえん　aspiration pneumonia）",
+      "<ruby>食中毒<rt>しょくちゅうどく</rt></ruby>（foodborne disease）",
+      "<ruby>窒息<rt>ちっそく</rt></ruby>（choking）"
     ],
     "answer": 4
   },
   {
-    "question": "問題26 Ｈさん（60 歳，男性）は，身長170 cm，体重120 kg である。Ｈさんは浴槽で入浴しているときに毎回，「お風呂につかると，からだが軽く感じて楽になります」と話す。胸が苦しいなど，ほかの訴えはない。 Ｈさんが話している内容に関連する入浴の作用として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>26 Ｈさん（60 <ruby>歳<rt>とし</rt></ruby>，<ruby>男性<rt>だんせい</rt></ruby>）は，<ruby>身長<rt>しんちょう</rt></ruby>170 cm，<ruby>体重<rt>たいじゅう</rt></ruby>120 kg である。Ｈさんは<ruby>浴槽<rt>よくそう</rt></ruby>で<ruby>入浴<rt>にゅうよく</rt></ruby>しているときに<ruby>毎回<rt>まいかい</rt></ruby>，「お<ruby>風呂<rt>ふろ</rt></ruby>につかると，からだが<ruby>軽<rt>かる</rt></ruby>く<ruby>感<rt>かん</rt></ruby>じて<ruby>楽<rt>らく</rt></ruby>になります」と<ruby>話<rt>はな</rt></ruby>す。<ruby>胸<rt>むね</rt></ruby>が<ruby>苦<rt>くる</rt></ruby>しいなど，ほかの<ruby>訴<rt>うった</rt></ruby>えはない。 Ｈさんが<ruby>話<rt>はな</rt></ruby>している<ruby>内容<rt>ないよう</rt></ruby>に<ruby>関連<rt>かんれん</rt></ruby>する<ruby>入浴<rt>にゅうよく</rt></ruby>の<ruby>作用<rt>さよう</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "静水圧作用",
-      "温熱作用",
-      "清潔作用",
-      "浮力作用",
-      "代謝作用"
+      "<ruby>静水<rt>せいすい</rt></ruby><ruby>圧<rt>あつ</rt></ruby><ruby>作用<rt>さよう</rt></ruby>",
+      "<ruby>温熱<rt>おんねつ</rt></ruby><ruby>作用<rt>さよう</rt></ruby>",
+      "<ruby>清潔<rt>せいけつ</rt></ruby><ruby>作用<rt>さよう</rt></ruby>",
+      "<ruby>浮力<rt>ふりょく</rt></ruby><ruby>作用<rt>さよう</rt></ruby>",
+      "<ruby>代謝<rt>たいしゃ</rt></ruby><ruby>作用<rt>さよう</rt></ruby>"
     ],
     "answer": 3
   },
   {
-    "question": "問題27 男性に比べて女性に尿路感染症（urinary tract infection）が起こりやすい要因として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>27 <ruby>男性<rt>だんせい</rt></ruby>に<ruby>比<rt>くら</rt></ruby>べて<ruby>女性<rt>じょせい</rt></ruby>に<ruby>尿路<rt>にょうろ</rt></ruby><ruby>感染症<rt>かんせんしょう</rt></ruby>（urinary tract infection）が<ruby>起<rt>お</rt></ruby>こりやすい<ruby>要因<rt>よういん</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "子宮の圧迫がある。",
-      "尿道が短く直線的である。",
-      "腹部の筋力が弱い。",
-      "女性ホルモンの作用がある。",
-      "尿道括約筋が弛緩（しかん）している。"
+      "<ruby>子宮<rt>しきゅう</rt></ruby>の<ruby>圧迫<rt>あっぱく</rt></ruby>がある。",
+      "<ruby>尿道<rt>にょうどう</rt></ruby>が<ruby>短<rt>みじか</rt></ruby>く<ruby>直線的<rt>ちょくせんてき</rt></ruby>である。",
+      "<ruby>腹部<rt>ふくぶ</rt></ruby>の<ruby>筋力<rt>きんりょく</rt></ruby>が<ruby>弱<rt>よわ</rt></ruby>い。",
+      "<ruby>女性<rt>じょせい</rt></ruby>ホルモンの<ruby>作用<rt>さよう</rt></ruby>がある。",
+      "<ruby>尿道<rt>にょうどう</rt></ruby><ruby>括約筋<rt>かつやくきん</rt></ruby>が<ruby>弛緩<rt>しかん</rt></ruby>（しかん）している。"
     ],
     "answer": 1
   },
   {
-    "question": "問題28 次のうち，眠りが浅くなる原因として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>28 <ruby>次<rt>つぎ</rt></ruby>のうち，<ruby>眠<rt>ねむ</rt></ruby>りが<ruby>浅<rt>あさ</rt></ruby>くなる<ruby>原因<rt>げんいん</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "抗不安薬",
-      "就寝前の飲酒",
-      "抗アレルギー薬",
-      "抗うつ薬",
-      "足浴"
+      "<ruby>抗<rt>こう</rt></ruby><ruby>不安<rt>ふあん</rt></ruby><ruby>薬<rt>くすり</rt></ruby>",
+      "<ruby>就寝前<rt>しゅうしんまえ</rt></ruby>の<ruby>飲酒<rt>いんしゅ</rt></ruby>",
+      "<ruby>抗<rt>こう</rt></ruby>アレルギー<ruby>薬<rt>くすり</rt></ruby>",
+      "<ruby>抗<rt>あらが</rt></ruby>うつ<ruby>薬<rt>くすり</rt></ruby>",
+      "<ruby>足浴<rt>そくよく</rt></ruby>"
     ],
     "answer": 1
   },
   {
-    "question": "問題29 概日リズム睡眠障害（circadian rhythm sleep disorder）に関する次の記述のうち，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>29 <ruby>概日<rt>がいじつ</rt></ruby>リズム<ruby>睡眠障害<rt>すいみんしょうがい</rt></ruby>（circadian rhythm sleep disorder）に<ruby>関<rt>かん</rt></ruby>する<ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "早朝に目が覚める。",
-      "睡眠中に下肢が勝手にピクピクと動いてしまう。",
-      "睡眠中に呼吸が止まる。",
-      "睡眠中に突然大声を出したり身体を動かしたりする。",
-      "夕方に強い眠気を感じて就寝し，深夜に覚醒してしまう。"
+      "<ruby>早朝<rt>そうちょう</rt></ruby>に<ruby>目<rt>め</rt></ruby>が<ruby>覚<rt>さ</rt></ruby>める。",
+      "<ruby>睡眠中<rt>すいみんちゅう</rt></ruby>に<ruby>下肢<rt>かし</rt></ruby>が<ruby>勝手<rt>かって</rt></ruby>にピクピクと<ruby>動<rt>うご</rt></ruby>いてしまう。",
+      "<ruby>睡眠中<rt>すいみんちゅう</rt></ruby>に<ruby>呼吸<rt>こきゅう</rt></ruby>が<ruby>止<rt>と</rt></ruby>まる。",
+      "<ruby>睡眠中<rt>すいみんちゅう</rt></ruby>に<ruby>突然<rt>とつぜん</rt></ruby><ruby>大声<rt>おおごえ</rt></ruby>を<ruby>出<rt>だ</rt></ruby>したり<ruby>身体<rt>しんたい</rt></ruby>を<ruby>動<rt>うご</rt></ruby>かしたりする。",
+      "<ruby>夕方<rt>ゆうがた</rt></ruby>に<ruby>強<rt>つよ</rt></ruby>い<ruby>眠気<rt>ねむけ</rt></ruby>を<ruby>感<rt>かん</rt></ruby>じて<ruby>就寝<rt>しゅうしん</rt></ruby>し，<ruby>深夜<rt>しんや</rt></ruby>に<ruby>覚醒<rt>かくせい</rt></ruby>してしまう。"
     ],
     "answer": 4
   },
   {
-    "question": "問題30 鎮痛薬としてモルヒネを使用している利用者に，医療職と連携した介護を実践するときに留意すべき観察点として，最も適切なものを1つ選びなさい",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>30 <ruby>鎮痛薬<rt>ちんつうやく</rt></ruby>としてモルヒネを<ruby>使用<rt>しよう</rt></ruby>している<ruby>利用者<rt>りようしゃ</rt></ruby>に，<ruby>医療<rt>いりょう</rt></ruby><ruby>職<rt>しょく</rt></ruby>と<ruby>連携<rt>れんけい</rt></ruby>した<ruby>介護<rt>かいご</rt></ruby>を<ruby>実践<rt>じっせん</rt></ruby>するときに<ruby>留意<rt>りゅうい</rt></ruby>すべき<ruby>観察<rt>かんさつ</rt></ruby><ruby>点<rt>てん</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい",
     "choices": [
-      "不眠",
-      "下痢",
-      "脈拍",
-      "呼吸",
-      "体温"
+      "<ruby>不眠<rt>ふみん</rt></ruby>",
+      "<ruby>下痢<rt>げり</rt></ruby>",
+      "<ruby>脈拍<rt>みゃくはく</rt></ruby>",
+      "<ruby>呼吸<rt>こきゅう</rt></ruby>",
+      "<ruby>体温<rt>たいおん</rt></ruby>"
     ],
     "answer": 3
   },
   {
-    "question": "問題31 スキャモン（Scammon, R.E.）の発達曲線に関する次の記述のうち，適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>31 スキャモン（Scammon, R.E.）の<ruby>発達<rt>はったつ</rt></ruby><ruby>曲線<rt>きょくせん</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "神経系の組織は， 4 歳ごろから急速に発達する。",
-      "筋骨格系の組織は， 4 歳ごろから急速に発達する。",
-      "生殖器系の組織は，12 歳ごろから急速に発達する。",
-      "循環器系の組織は，20 歳ごろから急速に発達する。",
-      "リンパ系の組織は，20 歳ごろから急速に発達する。"
+      "<ruby>神経系<rt>しんけいけい</rt></ruby>の<ruby>組織<rt>そしき</rt></ruby>は， 4 <ruby>歳<rt>とし</rt></ruby>ごろから<ruby>急速<rt>きゅうそく</rt></ruby>に<ruby>発達<rt>はったつ</rt></ruby>する。",
+      "<ruby>筋骨<rt>きんこつ</rt></ruby><ruby>格<rt>かく</rt></ruby><ruby>系<rt>けい</rt></ruby>の<ruby>組織<rt>そしき</rt></ruby>は， 4 <ruby>歳<rt>とし</rt></ruby>ごろから<ruby>急速<rt>きゅうそく</rt></ruby>に<ruby>発達<rt>はったつ</rt></ruby>する。",
+      "<ruby>生殖器<rt>せいしょくき</rt></ruby><ruby>系<rt>けい</rt></ruby>の<ruby>組織<rt>そしき</rt></ruby>は，12 <ruby>歳<rt>とし</rt></ruby>ごろから<ruby>急速<rt>きゅうそく</rt></ruby>に<ruby>発達<rt>はったつ</rt></ruby>する。",
+      "<ruby>循環器系<rt>じゅんかんきけい</rt></ruby>の<ruby>組織<rt>そしき</rt></ruby>は，20 <ruby>歳<rt>とし</rt></ruby>ごろから<ruby>急速<rt>きゅうそく</rt></ruby>に<ruby>発達<rt>はったつ</rt></ruby>する。",
+      "リンパ<ruby>系<rt>けい</rt></ruby>の<ruby>組織<rt>そしき</rt></ruby>は，20 <ruby>歳<rt>とし</rt></ruby>ごろから<ruby>急速<rt>きゅうそく</rt></ruby>に<ruby>発達<rt>はったつ</rt></ruby>する。"
     ],
     "answer": 2
   },
   {
-    "question": "問題32 幼稚園児のＪさん（ 6歳， 男性 ）に は， 広汎性発達障害（pervasive developmental disorder）がある。砂場で砂だんごを作り，きれいに並べることが 好きで，毎日，一人で砂だんごを作り続けている。 ある日，園児が帰宅した後に，担任が台風に備えて砂場に青いシートをかけておいた。翌朝，登園したＪさんが，いつものように砂場に行くと，青いシートがかかっていた。Ｊさんはパニックになり，その場で泣き続け，なかなか落ち着くことができなかった。 担任は，Ｊさんにどのように対応すればよかったのか，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>32 <ruby>幼稚園児<rt>ようちえんじ</rt></ruby>のＪさん（ 6<ruby>歳<rt>とし</rt></ruby>， <ruby>男性<rt>だんせい</rt></ruby> ）に は， <ruby>広汎<rt>こうはん</rt></ruby><ruby>性<rt>せい</rt></ruby><ruby>発達<rt>はったつ</rt></ruby><ruby>障害<rt>しょうがい</rt></ruby>（pervasive developmental disorder）がある。<ruby>砂場<rt>すなば</rt></ruby>で<ruby>砂<rt>すな</rt></ruby>だんごを<ruby>作<rt>つく</rt></ruby>り，きれいに<ruby>並<rt>なら</rt></ruby>べることが <ruby>好<rt>す</rt></ruby>きで，<ruby>毎日<rt>まいにち</rt></ruby>，<ruby>一人<rt>ひとり</rt></ruby>で<ruby>砂<rt>すな</rt></ruby>だんごを<ruby>作<rt>つく</rt></ruby>り<ruby>続<rt>つづ</rt></ruby>けている。 ある<ruby>日<rt>にち</rt></ruby>，<ruby>園児<rt>えんじ</rt></ruby>が<ruby>帰宅<rt>きたく</rt></ruby>した<ruby>後<rt>のち</rt></ruby>に，<ruby>担任<rt>たんにん</rt></ruby>が<ruby>台風<rt>たいふう</rt></ruby>に<ruby>備<rt>そな</rt></ruby>えて<ruby>砂場<rt>すなば</rt></ruby>に<ruby>青<rt>あお</rt></ruby>いシートをかけておいた。<ruby>翌朝<rt>よくちょう</rt></ruby>，<ruby>登園<rt>とうえん</rt></ruby>したＪさんが，いつものように<ruby>砂場<rt>すなば</rt></ruby>に<ruby>行<rt>い</rt></ruby>くと，<ruby>青<rt>あお</rt></ruby>いシートがかかっていた。Ｊさんはパニックになり，その<ruby>場<rt>ば</rt></ruby>で<ruby>泣<rt>な</rt></ruby>き<ruby>続<rt>つづ</rt></ruby>け，なかなか<ruby>落ち着<rt>おちつ</rt></ruby>くことができなかった。 <ruby>担任<rt>たんにん</rt></ruby>は，Ｊさんにどのように<ruby>対応<rt>たいおう</rt></ruby>すればよかったのか，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "前日に，「あしたは，台風が来るよ」と伝える。",
-      "前日に，「あしたは，台風が来るので砂場は使えないよ」と伝える。",
-      "前日に，「あしたは，おだんご屋さんは閉店です」と伝える。",
-      "その場で，「今日は，砂場は使えないよ」と伝える。",
-      "その場で，「今日は，おだんご屋さんは閉店です」と伝える。"
+      "<ruby>前日<rt>ぜんじつ</rt></ruby>に，「あしたは，<ruby>台風<rt>たいふう</rt></ruby>が<ruby>来<rt>く</rt></ruby>るよ」と<ruby>伝<rt>つた</rt></ruby>える。",
+      "<ruby>前日<rt>ぜんじつ</rt></ruby>に，「あしたは，<ruby>台風<rt>たいふう</rt></ruby>が<ruby>来<rt>く</rt></ruby>るので<ruby>砂場<rt>すなば</rt></ruby>は<ruby>使<rt>つか</rt></ruby>えないよ」と<ruby>伝<rt>つた</rt></ruby>える。",
+      "<ruby>前日<rt>ぜんじつ</rt></ruby>に，「あしたは，おだんご<ruby>屋<rt>や</rt></ruby>さんは<ruby>閉店<rt>へいてん</rt></ruby>です」と<ruby>伝<rt>つた</rt></ruby>える。",
+      "その<ruby>場<rt>ば</rt></ruby>で，「<ruby>今日<rt>こんにち</rt></ruby>は，<ruby>砂場<rt>すなば</rt></ruby>は<ruby>使<rt>つか</rt></ruby>えないよ」と<ruby>伝<rt>つた</rt></ruby>える。",
+      "その<ruby>場<rt>ば</rt></ruby>で，「<ruby>今日<rt>こんにち</rt></ruby>は，おだんご<ruby>屋<rt>や</rt></ruby>さんは<ruby>閉店<rt>へいてん</rt></ruby>です」と<ruby>伝<rt>つた</rt></ruby>える。"
     ],
     "answer": 1
   },
   {
-    "question": "問題33 生理的老化に関する次の記述のうち，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>33 <ruby>生理的<rt>せいりてき</rt></ruby><ruby>老化<rt>ろうか</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "環境によって起こる現象である。",
-      "訓練によって回復できる現象である。",
-      "個体の生命活動に有利にはたらく現象である。",
-      "人間固有の現象である。",
-      "遺伝的にプログラムされた現象である。"
+      "<ruby>環境<rt>かんきょう</rt></ruby>によって<ruby>起<rt>お</rt></ruby>こる<ruby>現象<rt>げんしょう</rt></ruby>である。",
+      "<ruby>訓練<rt>くんれん</rt></ruby>によって<ruby>回復<rt>かいふく</rt></ruby>できる<ruby>現象<rt>げんしょう</rt></ruby>である。",
+      "<ruby>個体<rt>こたい</rt></ruby>の<ruby>生命活動<rt>せいめいかつどう</rt></ruby>に<ruby>有利<rt>ゆうり</rt></ruby>にはたらく<ruby>現象<rt>げんしょう</rt></ruby>である。",
+      "<ruby>人間<rt>にんげん</rt></ruby><ruby>固有<rt>こゆう</rt></ruby>の<ruby>現象<rt>げんしょう</rt></ruby>である。",
+      "<ruby>遺伝的<rt>いでんてき</rt></ruby>にプログラムされた<ruby>現象<rt>げんしょう</rt></ruby>である。"
     ],
     "answer": 4
   },
   {
-    "question": "問題34 エイジズム（ageism）に関する次の記述のうち，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>34 エイジズム（ageism）に<ruby>関<rt>かん</rt></ruby>する<ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "高齢を理由にして，偏見をもったり差別したりすることである。",
-      "高齢になっても生産的な活動を行うことである。",
-      "高齢になることを嫌悪する心理のことである。",
-      "加齢に抵抗して，健康的に生きようとすることである。",
-      "加齢を受容して，活動的に生きようとすることである。"
+      "<ruby>高齢<rt>こうれい</rt></ruby>を<ruby>理由<rt>りゆう</rt></ruby>にして，<ruby>偏見<rt>へんけん</rt></ruby>をもったり<ruby>差別<rt>さべつ</rt></ruby>したりすることである。",
+      "<ruby>高齢<rt>こうれい</rt></ruby>になっても<ruby>生産的<rt>せいさんてき</rt></ruby>な<ruby>活動<rt>かつどう</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>うことである。",
+      "<ruby>高齢<rt>こうれい</rt></ruby>になることを<ruby>嫌悪<rt>けんお</rt></ruby>する<ruby>心理<rt>しんり</rt></ruby>のことである。",
+      "<ruby>加齢<rt>かれい</rt></ruby>に<ruby>抵抗<rt>ていこう</rt></ruby>して，<ruby>健康的<rt>けんこうてき</rt></ruby>に<ruby>生<rt>い</rt></ruby>きようとすることである。",
+      "<ruby>加齢<rt>かれい</rt></ruby>を<ruby>受容<rt>じゅよう</rt></ruby>して，<ruby>活動的<rt>かつどうてき</rt></ruby>に<ruby>生<rt>い</rt></ruby>きようとすることである。"
     ],
     "answer": 0
   },
   {
-    "question": "問題35 Ｋさん（80 歳，男性）は，40歳ごろから職場の健康診査で高血圧と高コレステロール血症（hypercholesterolemia）を指摘されていた。最近，階段を上るときに胸の痛みを感じていたが，しばらく休むと軽快していた。喉の違和感や嚥下痛はない。今朝，朝食後から冷や汗を伴う激しい胸痛が起こり，30 分しても軽快しないので，救急車を呼んだ。 \r\nＫさんに考えられる状況として，最も適切なものを 1 つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>35 Ｋさん（80 <ruby>歳<rt>とし</rt></ruby>，<ruby>男性<rt>だんせい</rt></ruby>）は，40<ruby>歳<rt>とし</rt></ruby>ごろから<ruby>職場<rt>しょくば</rt></ruby>の<ruby>健康<rt>けんこう</rt></ruby><ruby>診査<rt>しんさ</rt></ruby>で<ruby>高血圧<rt>こうけつあつ</rt></ruby>と<ruby>高<rt>たか</rt></ruby>コレステロール<ruby>血症<rt>けっしょう</rt></ruby>（hypercholesterolemia）を<ruby>指摘<rt>してき</rt></ruby>されていた。<ruby>最近<rt>さいきん</rt></ruby>，<ruby>階段<rt>かいだん</rt></ruby>を<ruby>上<rt>のぼ</rt></ruby>るときに<ruby>胸<rt>むね</rt></ruby>の<ruby>痛<rt>いた</rt></ruby>みを<ruby>感<rt>かん</rt></ruby>じていたが，しばらく<ruby>休<rt>やす</rt></ruby>むと<ruby>軽快<rt>けいかい</rt></ruby>していた。<ruby>喉<rt>のど</rt></ruby>の<ruby>違和感<rt>いわかん</rt></ruby>や<ruby>嚥下<rt>えんか</rt></ruby><ruby>痛<rt>つう</rt></ruby>はない。<ruby>今朝<rt>けさ</rt></ruby>，<ruby>朝食<rt>ちょうしょく</rt></ruby><ruby>後<rt>のち</rt></ruby>から<ruby>冷<rt>ひ</rt></ruby>や<ruby>汗<rt>あせ</rt></ruby>を<ruby>伴<rt>ともな</rt></ruby>う<ruby>激<rt>はげ</rt></ruby>しい<ruby>胸痛<rt>きょうつう</rt></ruby>が<ruby>起<rt>お</rt></ruby>こり，30 <ruby>分<rt>ふん</rt></ruby>しても<ruby>軽快<rt>けいかい</rt></ruby>しないので，<ruby>救急車<rt>きゅうきゅうしゃ</rt></ruby>を<ruby>呼<rt>よ</rt></ruby>んだ。 \r\nＫさんに<ruby>考<rt>かんが</rt></ruby>えられる<ruby>状況<rt>じょうきょう</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを 1 つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "喘息（ぜんそく　bronchial asthma）",
-      "肺炎（pneumonia）",
-      "脳梗塞（cerebral infarction）",
-      "心筋梗塞（myocardial infarction）",
-      "逆流性食道炎（reflux esophagitis）"
+      "<ruby>喘息<rt>ぜんそく</rt></ruby>（ぜんそく　bronchial asthma）",
+      "<ruby>肺炎<rt>はいえん</rt></ruby>（pneumonia）",
+      "<ruby>脳<rt>のう</rt></ruby><ruby>梗塞<rt>こうそく</rt></ruby>（cerebral infarction）",
+      "<ruby>心筋梗塞<rt>しんきんこうそく</rt></ruby>（myocardial infarction）",
+      "<ruby>逆流<rt>ぎゃくりゅう</rt></ruby><ruby>性<rt>せい</rt></ruby><ruby>食道<rt>しょくどう</rt></ruby><ruby>炎<rt>ほのお</rt></ruby>（reflux esophagitis）"
     ],
     "answer": 3
   },
   {
-    "question": "問題36 次のうち，健康寿命の説明として，適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>36 <ruby>次<rt>つぎ</rt></ruby>のうち，<ruby>健康<rt>けんこう</rt></ruby><ruby>寿命<rt>じゅみょう</rt></ruby>の<ruby>説明<rt>せつめい</rt></ruby>として，<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "0 歳児の平均余命",
-      "65 歳時の平均余命",
-      "65 歳時の平均余命から介護期間を差し引いたもの",
-      "介護状態に至らずに死亡する人の平均寿命",
-      "健康上の問題で日常生活が制限されることなく生活できる期間"
+      "0 <ruby>歳<rt>とし</rt></ruby><ruby>児<rt>じ</rt></ruby>の<ruby>平均<rt>へいきん</rt></ruby><ruby>余命<rt>よめい</rt></ruby>",
+      "65 <ruby>歳時<rt>さいじ</rt></ruby>の<ruby>平均<rt>へいきん</rt></ruby><ruby>余命<rt>よめい</rt></ruby>",
+      "65 <ruby>歳時<rt>さいじ</rt></ruby>の<ruby>平均<rt>へいきん</rt></ruby><ruby>余命<rt>よめい</rt></ruby>から<ruby>介護<rt>かいご</rt></ruby><ruby>期間<rt>きかん</rt></ruby>を<ruby>差し引<rt>さしひ</rt></ruby>いたもの",
+      "<ruby>介護<rt>かいご</rt></ruby><ruby>状態<rt>じょうたい</rt></ruby>に<ruby>至<rt>いた</rt></ruby>らずに<ruby>死亡<rt>しぼう</rt></ruby>する<ruby>人<rt>にん</rt></ruby>の<ruby>平均寿命<rt>へいきんじゅみょう</rt></ruby>",
+      "<ruby>健康上<rt>けんこうじょう</rt></ruby>の<ruby>問題<rt>もんだい</rt></ruby>で<ruby>日常生活<rt>にちじょうせいかつ</rt></ruby>が<ruby>制限<rt>せいげん</rt></ruby>されることなく<ruby>生活<rt>せいかつ</rt></ruby>できる<ruby>期間<rt>きかん</rt></ruby>"
     ],
     "answer": 4
   },
   {
-    "question": "問題37 次のうち，前立腺肥大症（prostatic hypertrophy）に関する記述として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>37 <ruby>次<rt>つぎ</rt></ruby>のうち，<ruby>前立腺<rt>ぜんりつせん</rt></ruby><ruby>肥大<rt>ひだい</rt></ruby><ruby>症<rt>しょう</rt></ruby>（prostatic hypertrophy）に<ruby>関<rt>かん</rt></ruby>する<ruby>記述<rt>きじゅつ</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "抗利尿ホルモンが関与している。",
-      "症状が進むと無尿になる。",
-      "初期には頻尿が出現する。",
-      "進行すると透析の対象になる。",
-      "骨盤底筋訓練で回復が期待できる。"
+      "<ruby>抗<rt>こう</rt></ruby><ruby>利尿<rt>りにょう</rt></ruby>ホルモンが<ruby>関与<rt>かんよ</rt></ruby>している。",
+      "<ruby>症状<rt>しょうじょう</rt></ruby>が<ruby>進<rt>すす</rt></ruby>むと<ruby>無尿<rt>むにょう</rt></ruby>になる。",
+      "<ruby>初期<rt>しょき</rt></ruby>には<ruby>頻尿<rt>ひんにょう</rt></ruby>が<ruby>出現<rt>しゅつげん</rt></ruby>する。",
+      "<ruby>進行<rt>しんこう</rt></ruby>すると<ruby>透析<rt>とうせき</rt></ruby>の<ruby>対象<rt>たいしょう</rt></ruby>になる。",
+      "<ruby>骨盤<rt>こつばん</rt></ruby><ruby>底<rt>そこ</rt></ruby><ruby>筋<rt>すじ</rt></ruby><ruby>訓練<rt>くんれん</rt></ruby>で<ruby>回復<rt>かいふく</rt></ruby>が<ruby>期待<rt>きたい</rt></ruby>できる。"
     ],
     "answer": 2
   },
   {
-    "question": "問題38 次のうち，高齢期に多い筋骨格系の疾患に関する記述として，適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>38 <ruby>次<rt>つぎ</rt></ruby>のうち，<ruby>高齢<rt>こうれい</rt></ruby><ruby>期<rt>き</rt></ruby>に<ruby>多<rt>おお</rt></ruby>い<ruby>筋骨<rt>きんこつ</rt></ruby><ruby>格<rt>かく</rt></ruby><ruby>系<rt>けい</rt></ruby>の<ruby>疾患<rt>しっかん</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>記述<rt>きじゅつ</rt></ruby>として，<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "骨粗鬆症（こつそしょうしょう　osteoporosis）は男性に多い。",
-      "変形性膝関節症（knee osteoarthritis）ではＸ脚に変形する。",
-      "関節リウマチ（rheumatoid arthritis）は軟骨の老化によって起こる。",
-      "腰部脊柱管狭窄症（ようぶせきちゅうかんきょうさくしょう）（lumbar spinal canal stenosis）では下肢のしびれがみられる。",
-      "サルコペニア（sarcopenia）は骨量の低下が特徴である。"
+      "<ruby>骨粗鬆症<rt>こつそしょうしょう</rt></ruby>（こつそしょうしょう　osteoporosis）は<ruby>男性<rt>だんせい</rt></ruby>に<ruby>多<rt>おお</rt></ruby>い。",
+      "<ruby>変形<rt>へんけい</rt></ruby><ruby>性<rt>せい</rt></ruby><ruby>膝関節<rt>ひざかんせつ</rt></ruby><ruby>症<rt>しょう</rt></ruby>（knee osteoarthritis）ではＸ<ruby>脚<rt>あし</rt></ruby>に<ruby>変形<rt>へんけい</rt></ruby>する。",
+      "<ruby>関節<rt>かんせつ</rt></ruby>リウマチ（rheumatoid arthritis）は<ruby>軟骨<rt>なんこつ</rt></ruby>の<ruby>老化<rt>ろうか</rt></ruby>によって<ruby>起<rt>お</rt></ruby>こる。",
+      "<ruby>腰部<rt>ようぶ</rt></ruby><ruby>脊柱<rt>せきちゅう</rt></ruby><ruby>管<rt>かん</rt></ruby><ruby>狭窄<rt>きょうさく</rt></ruby><ruby>症<rt>しょう</rt></ruby>（ようぶせきちゅうかんきょうさくしょう）（lumbar spinal canal stenosis）では<ruby>下肢<rt>かし</rt></ruby>のしびれがみられる。",
+      "サルコペニア（sarcopenia）は<ruby>骨量<rt>こつりょう</rt></ruby>の<ruby>低下<rt>ていか</rt></ruby>が<ruby>特徴<rt>とくちょう</rt></ruby>である。"
     ],
     "answer": 3
   },
   {
-    "question": "問題39 高齢者の自動車運転免許に関する次の記述のうち，正しいものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>39 <ruby>高齢者<rt>こうれいしゃ</rt></ruby>の<ruby>自動車<rt>じどうしゃ</rt></ruby><ruby>運転免許<rt>うんてんめんきょ</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>正<rt>ただ</rt></ruby>しいものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "75 歳から免許更新時の認知機能検査が義務づけられている。",
-      "80 歳から免許更新時の運転技能検査が義務づけられている。",
-      "軽度認知障害（mild cognitive impairment）と診断された人は運転免許取消しにな る。",
-      "認知症（dementia）の人はサポートカー限定免許であれば運転が可能である。",
-      "認知症（dementia）による運転免許取消しの後，運転経歴証明書が交付される。"
+      "75 <ruby>歳<rt>とし</rt></ruby>から<ruby>免許更新時<rt>めんきょこうしんじ</rt></ruby>の<ruby>認知機能<rt>にんちきのう</rt></ruby><ruby>検査<rt>けんさ</rt></ruby>が<ruby>義務<rt>ぎむ</rt></ruby>づけられている。",
+      "80 <ruby>歳<rt>とし</rt></ruby>から<ruby>免許更新時<rt>めんきょこうしんじ</rt></ruby>の<ruby>運転<rt>うんてん</rt></ruby><ruby>技能<rt>ぎのう</rt></ruby><ruby>検査<rt>けんさ</rt></ruby>が<ruby>義務<rt>ぎむ</rt></ruby>づけられている。",
+      "<ruby>軽度<rt>けいど</rt></ruby><ruby>認知<rt>にんち</rt></ruby><ruby>障害<rt>しょうがい</rt></ruby>（mild cognitive impairment）と<ruby>診断<rt>しんだん</rt></ruby>された<ruby>人<rt>にん</rt></ruby>は<ruby>運転免許<rt>うんてんめんきょ</rt></ruby><ruby>取消<rt>とりけ</rt></ruby>しにな る。",
+      "<ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby>（dementia）の<ruby>人<rt>にん</rt></ruby>はサポートカー<ruby>限定免許<rt>げんていめんきょ</rt></ruby>であれば<ruby>運転<rt>うんてん</rt></ruby>が<ruby>可能<rt>かのう</rt></ruby>である。",
+      "<ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby>（dementia）による<ruby>運転免許<rt>うんてんめんきょ</rt></ruby><ruby>取消<rt>とりけ</rt></ruby>しの<ruby>後<rt>のち</rt></ruby>，<ruby>運転<rt>うんてん</rt></ruby><ruby>経歴<rt>けいれき</rt></ruby><ruby>証明書<rt>しょうめいしょ</rt></ruby>が<ruby>交付<rt>こうふ</rt></ruby>される。"
     ],
     "answer": 0
   },
   {
-    "question": "問題40 認知症（dementia）の行動・心理症状（BPSD）であるアパシー（apathy） に関する次の記述のうち，適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>40 <ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby>（dementia）の<ruby>行動<rt>こうどう</rt></ruby>・<ruby>心理<rt>しんり</rt></ruby><ruby>症状<rt>しょうじょう</rt></ruby>（BPSD）であるアパシー（apathy） に<ruby>関<rt>かん</rt></ruby>する<ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "感情の起伏がみられない。",
-      "将来に希望がもてない。",
-      "気持ちが落ち込む。",
-      "理想どおりにいかず悩む。",
-      "自分を責める。"
+      "<ruby>感情<rt>かんじょう</rt></ruby>の<ruby>起伏<rt>きふく</rt></ruby>がみられない。",
+      "<ruby>将来<rt>しょうらい</rt></ruby>に<ruby>希望<rt>きぼう</rt></ruby>がもてない。",
+      "<ruby>気持<rt>きも</rt></ruby>ちが<ruby>落ち込<rt>おちこ</rt></ruby>む。",
+      "<ruby>理想<rt>りそう</rt></ruby>どおりにいかず<ruby>悩<rt>なや</rt></ruby>む。",
+      "<ruby>自分<rt>じぶん</rt></ruby>を<ruby>責<rt>せ</rt></ruby>める。"
     ],
     "answer": 0
   },
   {
-    "question": "問題41 認知症（dementia）の人にみられる，せん妄に関する次の記述のうち，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>41 <ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby>（dementia）の<ruby>人<rt>にん</rt></ruby>にみられる，せん<ruby>妄<rt>もう</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "ゆっくりと発症する。",
-      "意識は清明である。",
-      "注意機能は保たれる。",
-      "体調の変化が誘因になる。",
-      "日中に多くみられる。"
+      "ゆっくりと<ruby>発症<rt>はっしょう</rt></ruby>する。",
+      "<ruby>意識<rt>いしき</rt></ruby>は<ruby>清明<rt>せいめい</rt></ruby>である。",
+      "<ruby>注意<rt>ちゅうい</rt></ruby><ruby>機能<rt>きのう</rt></ruby>は<ruby>保<rt>たも</rt></ruby>たれる。",
+      "<ruby>体調<rt>たいちょう</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>が<ruby>誘因<rt>ゆういん</rt></ruby>になる。",
+      "<ruby>日中<rt>にっちゅう</rt></ruby>に<ruby>多<rt>おお</rt></ruby>くみられる。"
     ],
     "answer": 3
   },
   {
-    "question": "問題42 レビー小体型認知症（dementia with Lewy bodies）にみられる歩行障害として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>42 レビー<ruby>小体<rt>しょうたい</rt></ruby><ruby>型<rt>かた</rt></ruby><ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby>（dementia with Lewy bodies）にみられる<ruby>歩行<rt>ほこう</rt></ruby><ruby>障害<rt>しょうがい</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "しばらく歩くと足に痛みを感じて，休みながら歩く。",
-      "最初の一歩が踏み出しにくく，小刻みに歩く。",
-      "動きがぎこちなく，酔っぱらったように歩く。",
-      "下肢は伸展し，つま先を引きずるように歩く。",
-      "歩くごとに骨盤が傾き，腰を左右に振って歩く。"
+      "しばらく<ruby>歩<rt>ある</rt></ruby>くと<ruby>足<rt>あし</rt></ruby>に<ruby>痛<rt>いた</rt></ruby>みを<ruby>感<rt>かん</rt></ruby>じて，<ruby>休<rt>やす</rt></ruby>みながら<ruby>歩<rt>ある</rt></ruby>く。",
+      "<ruby>最初<rt>さいしょ</rt></ruby>の<ruby>一歩<rt>いっぽ</rt></ruby>が<ruby>踏<rt>ふ</rt></ruby>み<ruby>出<rt>だ</rt></ruby>しにくく，<ruby>小刻<rt>こきざ</rt></ruby>みに<ruby>歩<rt>ある</rt></ruby>く。",
+      "<ruby>動<rt>うご</rt></ruby>きがぎこちなく，<ruby>酔<rt>よ</rt></ruby>っぱらったように<ruby>歩<rt>ある</rt></ruby>く。",
+      "<ruby>下肢<rt>かし</rt></ruby>は<ruby>伸展<rt>しんてん</rt></ruby>し，つま<ruby>先<rt>さき</rt></ruby>を<ruby>引<rt>ひ</rt></ruby>きずるように<ruby>歩<rt>ある</rt></ruby>く。",
+      "<ruby>歩<rt>ある</rt></ruby>くごとに<ruby>骨盤<rt>こつばん</rt></ruby>が<ruby>傾<rt>かたむ</rt></ruby>き，<ruby>腰<rt>こし</rt></ruby>を<ruby>左右<rt>さゆう</rt></ruby>に<ruby>振<rt>ふ</rt></ruby>って<ruby>歩<rt>ある</rt></ruby>く。"
     ],
     "answer": 1
   },
   {
-    "question": "問題43 次の記述のうち，若年性認知症（dementia with early onset）の特徴として， 最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>43 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>若年<rt>じゃくねん</rt></ruby><ruby>性<rt>せい</rt></ruby><ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby>（dementia with early onset）の<ruby>特徴<rt>とくちょう</rt></ruby>として， <ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "高齢の認知症（dementia）に比べて，症状の進行速度は緩やかなことが多い。",
-      "男性よりも女性の発症者が多い。",
-      "50 歳代よりも 30 歳代の有病率が高い。",
-      "特定健康診査で発見されることが多い。",
-      "高齢の認知症（dementia）に比べて，就労支援が必要になることが多い。"
+      "<ruby>高齢<rt>こうれい</rt></ruby>の<ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby>（dementia）に<ruby>比<rt>くら</rt></ruby>べて，<ruby>症状<rt>しょうじょう</rt></ruby>の<ruby>進行速度<rt>しんこうそくど</rt></ruby>は<ruby>緩<rt>ゆる</rt></ruby>やかなことが<ruby>多<rt>おお</rt></ruby>い。",
+      "<ruby>男性<rt>だんせい</rt></ruby>よりも<ruby>女性<rt>じょせい</rt></ruby>の<ruby>発症<rt>はっしょう</rt></ruby><ruby>者<rt>もの</rt></ruby>が<ruby>多<rt>おお</rt></ruby>い。",
+      "50 <ruby>歳<rt>とし</rt></ruby><ruby>代<rt>だい</rt></ruby>よりも 30 <ruby>歳<rt>とし</rt></ruby><ruby>代<rt>だい</rt></ruby>の<ruby>有病<rt>ゆうびょう</rt></ruby><ruby>率<rt>りつ</rt></ruby>が<ruby>高<rt>たか</rt></ruby>い。",
+      "<ruby>特定<rt>とくてい</rt></ruby><ruby>健康<rt>けんこう</rt></ruby><ruby>診査<rt>しんさ</rt></ruby>で<ruby>発見<rt>はっけん</rt></ruby>されることが<ruby>多<rt>おお</rt></ruby>い。",
+      "<ruby>高齢<rt>こうれい</rt></ruby>の<ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby>（dementia）に<ruby>比<rt>くら</rt></ruby>べて，<ruby>就労<rt>しゅうろう</rt></ruby><ruby>支援<rt>しえん</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>になることが<ruby>多<rt>おお</rt></ruby>い。"
     ],
     "answer": 4
   },
   {
-    "question": "問題44 Ｌさん（78 歳，女性，要介護1 ）は， 3年前にアルツハイマー型認知症 （dementia of the Alzheimerʼs type）と診断された。訪問介護（ホームヘルプサービ ス）を利用し，夫の介護を受けながら二人で暮らしている。ある日，訪問介護員 （ホームヘルパー）が訪問すると夫から，「用事で外出しようとすると『外で女性に会っている』と言って興奮することが増えて困っている」と相談を受けた。 Ｌさんの症状に該当するものとして，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>44 Ｌさん（78 <ruby>歳<rt>とし</rt></ruby>，<ruby>女性<rt>じょせい</rt></ruby>，<ruby>要介<rt>ようすけ</rt></ruby><ruby>護<rt>ご</rt></ruby>1 ）は， 3<ruby>年前<rt>ねんまえ</rt></ruby>にアルツハイマー<ruby>型<rt>かた</rt></ruby><ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby> （dementia of the Alzheimerʼdementia of the Alzheimers type）と<ruby>診断<rt>しんだん</rt></ruby>された。<ruby>訪問<rt>ほうもん</rt></ruby><ruby>介護<rt>かいご</rt></ruby>（ホームヘルプサービ ス）を<ruby>利用<rt>りよう</rt></ruby>し，<ruby>夫<rt>おっと</rt></ruby>の<ruby>介護<rt>かいご</rt></ruby>を<ruby>受<rt>う</rt></ruby>けながら<ruby>二人<rt>ふたり</rt></ruby>で<ruby>暮<rt>く</rt></ruby>らしている。ある<ruby>日<rt>にち</rt></ruby>，<ruby>訪問<rt>ほうもん</rt></ruby><ruby>介護<rt>かいご</rt></ruby><ruby>員<rt>いん</rt></ruby> （ホームヘルパー）が<ruby>訪問<rt>ほうもん</rt></ruby>すると<ruby>夫<rt>おっと</rt></ruby>から，「<ruby>用事<rt>ようじ</rt></ruby>で<ruby>外出<rt>がいしゅつ</rt></ruby>しようとすると『<ruby>外<rt>そと</rt></ruby>で<ruby>女性<rt>じょせい</rt></ruby>に<ruby>会<rt>あ</rt></ruby>っている』と<ruby>言<rt>い</rt></ruby>って<ruby>興奮<rt>こうふん</rt></ruby>することが<ruby>増<rt>ふ</rt></ruby>えて<ruby>困<rt>こま</rt></ruby>っている」と<ruby>相談<rt>そうだん</rt></ruby>を<ruby>受<rt>う</rt></ruby>けた。 Ｌさんの<ruby>症状<rt>しょうじょう</rt></ruby>に<ruby>該当<rt>がいとう</rt></ruby>するものとして，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "誤認",
-      "観念失行",
-      "嫉妬妄想",
-      "視覚失認",
-      "幻視"
+      "<ruby>誤認<rt>ごにん</rt></ruby>",
+      "<ruby>観念<rt>かんねん</rt></ruby><ruby>失行<rt>しっこう</rt></ruby>",
+      "<ruby>嫉妬<rt>しっと</rt></ruby><ruby>妄想<rt>もうそう</rt></ruby>",
+      "<ruby>視覚<rt>しかく</rt></ruby><ruby>失認<rt>しつにん</rt></ruby>",
+      "<ruby>幻視<rt>げんし</rt></ruby>"
     ],
     "answer": 2
   },
   {
-    "question": "問題45 認知機能障害による生活への影響に関する記述として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>45 <ruby>認知機能<rt>にんちきのう</rt></ruby><ruby>障害<rt>しょうがい</rt></ruby>による<ruby>生活<rt>せいかつ</rt></ruby>への<ruby>影響<rt>えいきょう</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>記述<rt>きじゅつ</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "遂行機能障害により，自宅がわからない。",
-      "記憶障害により，出された食事を食べない。",
-      "相貌失認により，目の前の家族がわからない。",
-      "視空間認知障害により，今日の日付がわからない。",
-      "病識低下により，うつ状態になりやすい。"
+      "<ruby>遂行<rt>すいこう</rt></ruby><ruby>機能障害<rt>きのうしょうがい</rt></ruby>により，<ruby>自宅<rt>じたく</rt></ruby>がわからない。",
+      "<ruby>記憶<rt>きおく</rt></ruby><ruby>障害<rt>しょうがい</rt></ruby>により，<ruby>出<rt>だ</rt></ruby>された<ruby>食事<rt>しょくじ</rt></ruby>を<ruby>食<rt>た</rt></ruby>べない。",
+      "<ruby>相貌<rt>そうぼう</rt></ruby><ruby>失認<rt>しつにん</rt></ruby>により，<ruby>目の前<rt>めのまえ</rt></ruby>の<ruby>家族<rt>かぞく</rt></ruby>がわからない。",
+      "<ruby>視空間<rt>しくうかん</rt></ruby><ruby>認知<rt>にんち</rt></ruby><ruby>障害<rt>しょうがい</rt></ruby>により，<ruby>今日<rt>きょう</rt></ruby>の<ruby>日付<rt>ひづけ</rt></ruby>がわからない。",
+      "<ruby>病識<rt>びょうしき</rt></ruby><ruby>低下<rt>ていか</rt></ruby>により，うつ<ruby>状態<rt>じょうたい</rt></ruby>になりやすい。"
     ],
     "answer": 2
   },
   {
-    "question": "問題46 バリデーション（validation）に基づく，認知症（dementia）の人の動きや感情に合わせるコミュニケーション技法として，正しいものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>46 バリデーション（validation）に<ruby>基<rt>もと</rt></ruby>づく，<ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby>（dementia）の<ruby>人<rt>にん</rt></ruby>の<ruby>動<rt>うご</rt></ruby>きや<ruby>感情<rt>かんじょう</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わせるコミュニケーション<ruby>技法<rt>ぎほう</rt></ruby>として，<ruby>正<rt>ただ</rt></ruby>しいものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
       "センタリング（centering）",
       "リフレージング（rephrasing）",
@@ -3262,29 +3262,29 @@ const examSets = {
     "answer": 44
   },
   {
-    "question": "問題47 Ｍさん（80 歳，女性，要介護1 ）は，アルツハイマー型認知症（dementia of the Alzheimerʼs type）であり， 3 日前に認知症対応型共同生活介護（認知症高齢者グループホーム）に入居した。主治医から向精神薬が処方されている。居室では 穏やかに過ごしていた。夕食後，表情が険しくなり，「こんなところにはいられま せん。私は家に帰ります」と大声を上げ，ほかの利用者にも，「あなたも一緒に帰り ましょう」と声をかけて皆が落ち着かなくなることがあった。 Ｍさんの介護を検討するときに優先することとして，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>47 Ｍさん（80 <ruby>歳<rt>とし</rt></ruby>，<ruby>女性<rt>じょせい</rt></ruby>，<ruby>要介<rt>ようすけ</rt></ruby><ruby>護<rt>ご</rt></ruby>1 ）は，アルツハイマー<ruby>型<rt>かた</rt></ruby><ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby>（dementia of the Alzheimerʼdementia of the Alzheimers type）であり， 3 <ruby>日前<rt>にちまえ</rt></ruby>に<ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby><ruby>対応型<rt>たいおうがた</rt></ruby><ruby>共同生活<rt>きょうどうせいかつ</rt></ruby><ruby>介護<rt>かいご</rt></ruby>（<ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby><ruby>高齢者<rt>こうれいしゃ</rt></ruby>グループホーム）に<ruby>入居<rt>にゅうきょ</rt></ruby>した。<ruby>主治医<rt>しゅじい</rt></ruby>から<ruby>向<rt>こう</rt></ruby><ruby>精神<rt>せいしん</rt></ruby><ruby>薬<rt>くすり</rt></ruby>が<ruby>処方<rt>しょほう</rt></ruby>されている。<ruby>居室<rt>きょしつ</rt></ruby>では <ruby>穏<rt>おだ</rt></ruby>やかに<ruby>過<rt>す</rt></ruby>ごしていた。<ruby>夕食<rt>ゆうしょく</rt></ruby><ruby>後<rt>のち</rt></ruby>，<ruby>表情<rt>ひょうじょう</rt></ruby>が<ruby>険<rt>けわ</rt></ruby>しくなり，「こんなところにはいられま せん。<ruby>私<rt>わたし</rt></ruby>は<ruby>家<rt>いえ</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>ります」と<ruby>大声<rt>おおごえ</rt></ruby>を<ruby>上<rt>あ</rt></ruby>げ，ほかの<ruby>利用者<rt>りようしゃ</rt></ruby>にも，「あなたも<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>り ましょう」と<ruby>声<rt>こえ</rt></ruby>をかけて<ruby>皆<rt>みな</rt></ruby>が<ruby>落ち着<rt>おちつ</rt></ruby>かなくなることがあった。 Ｍさんの<ruby>介護<rt>かいご</rt></ruby>を<ruby>検討<rt>けんとう</rt></ruby>するときに<ruby>優先<rt>ゆうせん</rt></ruby>することとして，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "Ｍさんが訴えている内容",
-      "Ｍさんの日中の過ごし方",
-      "ほかの利用者が落ち着かなくなったこと",
-      "対応に困ったこと",
-      "薬が効かなかったこと"
+      "Ｍさんが<ruby>訴<rt>うった</rt></ruby>えている<ruby>内容<rt>ないよう</rt></ruby>",
+      "Ｍさんの<ruby>日中<rt>にっちゅう</rt></ruby>の<ruby>過ごし方<rt>すごしかた</rt></ruby>",
+      "ほかの<ruby>利用者<rt>りようしゃ</rt></ruby>が<ruby>落ち着<rt>おちつ</rt></ruby>かなくなったこと",
+      "<ruby>対応<rt>たいおう</rt></ruby>に<ruby>困<rt>こま</rt></ruby>ったこと",
+      "<ruby>薬<rt>くすり</rt></ruby>が<ruby>効<rt>き</rt></ruby>かなかったこと"
     ],
     "answer": 0
   },
   {
-    "question": "問題48 Ａさん（80 歳，男性，要介護 1 ）は，認知症（dementia）で，妻の介護を受けながら二人で暮らしている。「夫は昼夜逆転がある。在宅介護を続けたいが，私が体調を崩し数日間の入院が必要になった」と言う妻に提案する，Ａさんへの介護サービスとして，最も適切なものを1 つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>48 Ａさん（80 <ruby>歳<rt>とし</rt></ruby>，<ruby>男性<rt>だんせい</rt></ruby>，<ruby>要介<rt>ようすけ</rt></ruby><ruby>護<rt>ご</rt></ruby> 1 ）は，<ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby>（dementia）で，<ruby>妻<rt>つま</rt></ruby>の<ruby>介護<rt>かいご</rt></ruby>を<ruby>受<rt>う</rt></ruby>けながら<ruby>二人<rt>ふたり</rt></ruby>で<ruby>暮<rt>く</rt></ruby>らしている。「<ruby>夫<rt>おっと</rt></ruby>は<ruby>昼夜<rt>ちゅうや</rt></ruby><ruby>逆転<rt>ぎゃくてん</rt></ruby>がある。<ruby>在宅<rt>ざいたく</rt></ruby><ruby>介護<rt>かいご</rt></ruby>を<ruby>続<rt>つづ</rt></ruby>けたいが，<ruby>私<rt>わたし</rt></ruby>が<ruby>体調<rt>たいちょう</rt></ruby>を<ruby>崩<rt>くず</rt></ruby>し<ruby>数日間<rt>すうじつかん</rt></ruby>の<ruby>入院<rt>にゅういん</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>になった」と<ruby>言<rt>い</rt></ruby>う<ruby>妻<rt>つま</rt></ruby>に<ruby>提案<rt>ていあん</rt></ruby>する，Ａさんへの<ruby>介護<rt>かいご</rt></ruby>サービスとして，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1 つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "認知症対応型通所介護（認知症対応型デイサービス）",
-      "短期入所生活介護（ショートステイ）",
-      "認知症対応型共同生活介護（認知症高齢者グループホーム）",
-      "特定施設入居者生活介護",
-      "介護老人福祉施設"
+      "<ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby><ruby>対応型<rt>たいおうがた</rt></ruby><ruby>通所<rt>つうしょ</rt></ruby><ruby>介護<rt>かいご</rt></ruby>（<ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby><ruby>対応型<rt>たいおうがた</rt></ruby>デイサービス）",
+      "<ruby>短期<rt>たんき</rt></ruby><ruby>入所<rt>にゅうしょ</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby><ruby>介護<rt>かいご</rt></ruby>（ショートステイ）",
+      "<ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby><ruby>対応型<rt>たいおうがた</rt></ruby><ruby>共同生活<rt>きょうどうせいかつ</rt></ruby><ruby>介護<rt>かいご</rt></ruby>（<ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby><ruby>高齢者<rt>こうれいしゃ</rt></ruby>グループホーム）",
+      "<ruby>特定<rt>とくてい</rt></ruby><ruby>施設<rt>しせつ</rt></ruby><ruby>入居者<rt>にゅうきょしゃ</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby><ruby>介護<rt>かいご</rt></ruby>",
+      "<ruby>介護<rt>かいご</rt></ruby><ruby>老人<rt>ろうじん</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>施設<rt>しせつ</rt></ruby>"
     ],
     "answer": 1
   },
   {
-    "question": "問題49 次のうち，ノーマライゼーション（normalization）の原理を盛り込んだ法律（いわゆる「1959 年法」）を制定した最初の国として，正しいものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>49 <ruby>次<rt>つぎ</rt></ruby>のうち，ノーマライゼーション（normalization）の<ruby>原理<rt>げんり</rt></ruby>を<ruby>盛<rt>も</rt></ruby>り<ruby>込<rt>こ</rt></ruby>んだ<ruby>法律<rt>ほうりつ</rt></ruby>（いわゆる「1959 <ruby>年<rt>ねん</rt></ruby><ruby>法<rt>ほう</rt></ruby>」）を<ruby>制定<rt>せいてい</rt></ruby>した<ruby>最初<rt>さいしょ</rt></ruby>の<ruby>国<rt>くに</rt></ruby>として，<ruby>正<rt>ただ</rt></ruby>しいものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
       "デンマーク",
       "イギリス",
@@ -3295,612 +3295,612 @@ const examSets = {
     "answer": 0
   },
   {
-    "question": "問題50 法定後見制度において，成年後見人等を選任する機関等として，正しいも のを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>50 <ruby>法定<rt>ほうてい</rt></ruby><ruby>後見<rt>こうけん</rt></ruby><ruby>制度<rt>せいど</rt></ruby>において，<ruby>成年<rt>せいねん</rt></ruby><ruby>後見人<rt>こうけんにん</rt></ruby><ruby>等<rt>など</rt></ruby>を<ruby>選任<rt>せんにん</rt></ruby>する<ruby>機関<rt>きかん</rt></ruby><ruby>等<rt>など</rt></ruby>として，<ruby>正<rt>ただ</rt></ruby>しいも のを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "法務局",
-      "家庭裁判所",
-      "都道府県知事",
-      "市町村長",
-      "福祉事務所"
+      "<ruby>法務局<rt>ほうむきょく</rt></ruby>",
+      "<ruby>家庭裁判所<rt>かていさいばんしょ</rt></ruby>",
+      "<ruby>都道府県知事<rt>とどうふけんちじ</rt></ruby>",
+      "<ruby>市町村長<rt>しちょうそんちょう</rt></ruby>",
+      "<ruby>福祉<rt>ふくし</rt></ruby><ruby>事務所<rt>じむしょ</rt></ruby>"
     ],
     "answer": 1
   },
   {
-    "question": "問題51 次の記述のうち，障害を受容した心理的段階にみられる言動として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>51 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>障害<rt>しょうがい</rt></ruby>を<ruby>受容<rt>じゅよう</rt></ruby>した<ruby>心理的<rt>しんりてき</rt></ruby><ruby>段階<rt>だんかい</rt></ruby>にみられる<ruby>言動<rt>げんどう</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "障害があるという自覚がない。",
-      "周囲に不満をぶつける。",
-      "自分が悪いと悲観する。",
-      "価値観が転換し始める。",
-      "できることに目を向けて行動する。"
+      "<ruby>障害<rt>しょうがい</rt></ruby>があるという<ruby>自覚<rt>じかく</rt></ruby>がない。",
+      "<ruby>周囲<rt>しゅうい</rt></ruby>に<ruby>不満<rt>ふまん</rt></ruby>をぶつける。",
+      "<ruby>自分<rt>じぶん</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>いと<ruby>悲観<rt>ひかん</rt></ruby>する。",
+      "<ruby>価値観<rt>かちかん</rt></ruby>が<ruby>転換<rt>てんかん</rt></ruby>し<ruby>始<rt>はじ</rt></ruby>める。",
+      "できることに<ruby>目<rt>め</rt></ruby>を<ruby>向<rt>む</rt></ruby>けて<ruby>行動<rt>こうどう</rt></ruby>する。"
     ],
     "answer": 4
   },
   {
-    "question": "問題52 統合失調症（schizophrenia）の特徴的な症状として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>52 <ruby>統合<rt>とうごう</rt></ruby><ruby>失調<rt>しっちょう</rt></ruby><ruby>症<rt>しょう</rt></ruby>（schizophrenia）の<ruby>特徴的<rt>とくちょうてき</rt></ruby>な<ruby>症状<rt>しょうじょう</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "振戦せん妄",
-      "妄想",
-      "強迫性障害",
-      "抑うつ気分",
-      "健忘"
+      "<ruby>振戦<rt>しんせん</rt></ruby>せん<ruby>妄<rt>もう</rt></ruby>",
+      "<ruby>妄想<rt>もうそう</rt></ruby>",
+      "<ruby>強迫<rt>きょうはく</rt></ruby><ruby>性<rt>せい</rt></ruby><ruby>障害<rt>しょうがい</rt></ruby>",
+      "<ruby>抑<rt>よく</rt></ruby>うつ<ruby>気分<rt>きぶん</rt></ruby>",
+      "<ruby>健忘<rt>けんぼう</rt></ruby>"
     ],
     "answer": 1
   },
   {
-    "question": "問題53 Ｂさん（60 歳，男性）は，一人暮らしをしている。糖尿病性網膜症（diabetic retinopathy）による視覚障害（身体障害者手帳1級）があり，末梢神経障害（まっしょうしんけいしょうがい）の症状がでている。Ｂさんの日常生活において，介護福祉職が留意すべき点として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>53 Ｂさん（60 <ruby>歳<rt>とし</rt></ruby>，<ruby>男性<rt>だんせい</rt></ruby>）は，<ruby>一人暮<rt>ひとりぐ</rt></ruby>らしをしている。<ruby>糖尿病<rt>とうにょうびょう</rt></ruby><ruby>性<rt>せい</rt></ruby><ruby>網膜症<rt>もうまくしょう</rt></ruby>（diabetic retinopathy）による<ruby>視覚障害<rt>しかくしょうがい</rt></ruby>（<ruby>身体障害者<rt>しんたいしょうがいしゃ</rt></ruby><ruby>手帳<rt>てちょう</rt></ruby>1<ruby>級<rt>きゅう</rt></ruby>）があり，<ruby>末梢神経<rt>まっしょうしんけい</rt></ruby><ruby>障害<rt>しょうがい</rt></ruby>（まっしょうしんけいしょうがい）の<ruby>症状<rt>しょうじょう</rt></ruby>がでている。Ｂさんの<ruby>日常生活<rt>にちじょうせいかつ</rt></ruby>において，<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>が<ruby>留意<rt>りゅうい</rt></ruby>すべき<ruby>点<rt>てん</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "水晶体の白濁",
-      "口腔粘膜（こうくうねんまく）や外陰部の潰瘍",
-      "振戦や筋固縮",
-      "足先の傷や壊疽（えそ）などの病変",
-      "感音性の難聴"
+      "<ruby>水晶体<rt>すいしょうたい</rt></ruby>の<ruby>白濁<rt>はくだく</rt></ruby>",
+      "<ruby>口腔<rt>こうこう</rt></ruby><ruby>粘膜<rt>ねんまく</rt></ruby>（こうくうねんまく）や<ruby>外陰<rt>がいいん</rt></ruby><ruby>部<rt>ぶ</rt></ruby>の<ruby>潰瘍<rt>かいよう</rt></ruby>",
+      "<ruby>振戦<rt>しんせん</rt></ruby>や<ruby>筋<rt>すじ</rt></ruby><ruby>固縮<rt>こしゅく</rt></ruby>",
+      "<ruby>足先<rt>あしさき</rt></ruby>の<ruby>傷<rt>きず</rt></ruby>や<ruby>壊疽<rt>えそ</rt></ruby>（えそ）などの<ruby>病変<rt>びょうへん</rt></ruby>",
+      "<ruby>感音<rt>かんおん</rt></ruby><ruby>性<rt>せい</rt></ruby>の<ruby>難聴<rt>なんちょう</rt></ruby>"
     ],
     "answer": 3
   },
   {
-    "question": "問題54 Ｃさん（55 歳，男性）は， 5 年前に筋萎縮性側索硬化症（amyotrophic lateral sclerosis：ALS）と診断された。現在は症状が進行して，日常生活動作に介護が必要で，自宅では電動車いすと特殊寝台を使用している。 次の記述のうち，Ｃさんの現在の状態として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>54 Ｃさん（55 <ruby>歳<rt>とし</rt></ruby>，<ruby>男性<rt>だんせい</rt></ruby>）は， 5 <ruby>年前<rt>ねんまえ</rt></ruby>に<ruby>筋<rt>すじ</rt></ruby><ruby>萎縮<rt>いしゅく</rt></ruby><ruby>性<rt>せい</rt></ruby><ruby>側索<rt>そくさく</rt></ruby><ruby>硬化<rt>こうか</rt></ruby><ruby>症<rt>しょう</rt></ruby>（amyotrophic lateral sclerosis：ALS）と<ruby>診断<rt>しんだん</rt></ruby>された。<ruby>現在<rt>げんざい</rt></ruby>は<ruby>症状<rt>しょうじょう</rt></ruby>が<ruby>進行<rt>しんこう</rt></ruby>して，<ruby>日常生活<rt>にちじょうせいかつ</rt></ruby><ruby>動作<rt>どうさ</rt></ruby>に<ruby>介護<rt>かいご</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>で，<ruby>自宅<rt>じたく</rt></ruby>では<ruby>電動車<rt>でんどうしゃ</rt></ruby>いすと<ruby>特殊<rt>とくしゅ</rt></ruby><ruby>寝台<rt>しんだい</rt></ruby>を<ruby>使用<rt>しよう</rt></ruby>している。 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，Ｃさんの<ruby>現在<rt>げんざい</rt></ruby>の<ruby>状態<rt>じょうたい</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "誤嚥（ごえん）せずに食事することが可能である。",
-      "明瞭に話すことができる。",
-      "身体の痛みがわかる。",
-      "自力で痰（たん）を排出できる。",
-      "箸を上手に使える。"
+      "<ruby>誤嚥<rt>ごえん</rt></ruby>（ごえん）せずに<ruby>食事<rt>しょくじ</rt></ruby>することが<ruby>可能<rt>かのう</rt></ruby>である。",
+      "<ruby>明瞭<rt>めいりょう</rt></ruby>に<ruby>話<rt>はな</rt></ruby>すことができる。",
+      "<ruby>身体<rt>しんたい</rt></ruby>の<ruby>痛<rt>いた</rt></ruby>みがわかる。",
+      "<ruby>自力<rt>じりき</rt></ruby>で<ruby>痰<rt>たん</rt></ruby>（たん）を<ruby>排出<rt>はいしゅつ</rt></ruby>できる。",
+      "<ruby>箸<rt>はし</rt></ruby>を<ruby>上手<rt>じょうず</rt></ruby>に<ruby>使<rt>つか</rt></ruby>える。"
     ],
     "answer": 2
   },
   {
-    "question": "問題55 Ｄさん（36 歳，女性，療育手帳所持）は，一人暮らしをしながら地域の作業所に通っている。身の回りのことはほとんど自分でできるが，お金の計算，特に計画的にお金を使うのが苦手だった。そこで，社会福祉協議会の生活支援員と一緒に銀行へ行って， 1 週間ごとにお金をおろして生活するようになった。小遣い帳に記録をするようにアドバイスを受けて，お金を計画的に使うことができるようになった。 次のうち，Ｄさんが活用した支援を実施する事業として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>55 Ｄさん（36 <ruby>歳<rt>とし</rt></ruby>，<ruby>女性<rt>じょせい</rt></ruby>，<ruby>療育<rt>りょういく</rt></ruby><ruby>手帳<rt>てちょう</rt></ruby><ruby>所持<rt>しょじ</rt></ruby>）は，<ruby>一人暮<rt>ひとりぐ</rt></ruby>らしをしながら<ruby>地域<rt>ちいき</rt></ruby>の<ruby>作業所<rt>さぎょうしょ</rt></ruby>に<ruby>通<rt>とお</rt></ruby>っている。<ruby>身の回<rt>みのまわ</rt></ruby>りのことはほとんど<ruby>自分<rt>じぶん</rt></ruby>でできるが，お<ruby>金<rt>きん</rt></ruby>の<ruby>計算<rt>けいさん</rt></ruby>，<ruby>特<rt>とく</rt></ruby>に<ruby>計画的<rt>けいかくてき</rt></ruby>にお<ruby>金<rt>きん</rt></ruby>を<ruby>使<rt>つか</rt></ruby>うのが<ruby>苦手<rt>にがて</rt></ruby>だった。そこで，<ruby>社会福祉<rt>しゃかいふくし</rt></ruby><ruby>協議会<rt>きょうぎかい</rt></ruby>の<ruby>生活<rt>せいかつ</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>員<rt>いん</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>銀行<rt>ぎんこう</rt></ruby>へ<ruby>行<rt>い</rt></ruby>って， 1 <ruby>週間<rt>しゅうかん</rt></ruby>ごとにお<ruby>金<rt>きん</rt></ruby>をおろして<ruby>生活<rt>せいかつ</rt></ruby>するようになった。<ruby>小遣<rt>こづか</rt></ruby>い<ruby>帳<rt>ちょう</rt></ruby>に<ruby>記録<rt>きろく</rt></ruby>をするようにアドバイスを<ruby>受<rt>う</rt></ruby>けて，お<ruby>金<rt>きん</rt></ruby>を<ruby>計画的<rt>けいかくてき</rt></ruby>に<ruby>使<rt>つか</rt></ruby>うことができるようになった。 <ruby>次<rt>つぎ</rt></ruby>のうち，Ｄさんが<ruby>活用<rt>かつよう</rt></ruby>した<ruby>支援<rt>しえん</rt></ruby>を<ruby>実施<rt>じっし</rt></ruby>する<ruby>事業<rt>じぎょう</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "障害者相談支援事業",
-      "自立生活援助事業",
-      "日常生活自立支援事業",
-      "成年後見制度利用支援事業",
-      "日常生活用具給付等事業"
+      "<ruby>障害者<rt>しょうがいしゃ</rt></ruby><ruby>相談<rt>そうだん</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>事業<rt>じぎょう</rt></ruby>",
+      "<ruby>自立<rt>じりつ</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby><ruby>援助<rt>えんじょ</rt></ruby><ruby>事業<rt>じぎょう</rt></ruby>",
+      "<ruby>日常生活<rt>にちじょうせいかつ</rt></ruby><ruby>自立<rt>じりつ</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>事業<rt>じぎょう</rt></ruby>",
+      "<ruby>成年<rt>せいねん</rt></ruby><ruby>後見<rt>こうけん</rt></ruby><ruby>制度<rt>せいど</rt></ruby><ruby>利用<rt>りよう</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>事業<rt>じぎょう</rt></ruby>",
+      "<ruby>日常生活<rt>にちじょうせいかつ</rt></ruby><ruby>用具<rt>ようぐ</rt></ruby><ruby>給付<rt>きゅうふ</rt></ruby><ruby>等<rt>など</rt></ruby><ruby>事業<rt>じぎょう</rt></ruby>"
     ],
     "answer": 2
   },
   {
-    "question": "問題56 次のうち，障害の特性に応じた休憩時間の調整など，柔軟に対応することで障害者の権利を確保する考え方を示すものとして，最も適切なものを 1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>56 <ruby>次<rt>つぎ</rt></ruby>のうち，<ruby>障害<rt>しょうがい</rt></ruby>の<ruby>特性<rt>とくせい</rt></ruby>に<ruby>応<rt>おう</rt></ruby>じた<ruby>休憩時間<rt>きゅうけいじかん</rt></ruby>の<ruby>調整<rt>ちょうせい</rt></ruby>など，<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>することで<ruby>障害者<rt>しょうがいしゃ</rt></ruby>の<ruby>権利<rt>けんり</rt></ruby>を<ruby>確保<rt>かくほ</rt></ruby>する<ruby>考え方<rt>かんがえかた</rt></ruby>を<ruby>示<rt>しめ</rt></ruby>すものとして，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを 1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "全人間的復権",
-      "合理的配慮",
-      "自立生活運動",
-      "意思決定支援",
-      "共同生活援助"
+      "<ruby>全人<rt>ぜんじん</rt></ruby><ruby>間<rt>かん</rt></ruby><ruby>的<rt>てき</rt></ruby><ruby>復権<rt>ふっけん</rt></ruby>",
+      "<ruby>合理的<rt>ごうりてき</rt></ruby><ruby>配慮<rt>はいりょ</rt></ruby>",
+      "<ruby>自立<rt>じりつ</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby><ruby>運動<rt>うんどう</rt></ruby>",
+      "<ruby>意思決定<rt>いしけってい</rt></ruby><ruby>支援<rt>しえん</rt></ruby>",
+      "<ruby>共同生活<rt>きょうどうせいかつ</rt></ruby><ruby>援助<rt>えんじょ</rt></ruby>"
     ],
     "answer": 1
   },
   {
-    "question": "問題57 「障害者総合支援法」において，障害福祉サービスを利用する人の意向のもとにサービス等利用計画案を作成する事業所に置かなければならない専門職として， 最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>57 「<ruby>障害者<rt>しょうがいしゃ</rt></ruby><ruby>総合<rt>そうごう</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>法<rt>ほう</rt></ruby>」において，<ruby>障害<rt>しょうがい</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby>サービスを<ruby>利用<rt>りよう</rt></ruby>する<ruby>人<rt>にん</rt></ruby>の<ruby>意向<rt>いこう</rt></ruby>のもとにサービス<ruby>等<rt>など</rt></ruby><ruby>利用<rt>りよう</rt></ruby><ruby>計画<rt>けいかく</rt></ruby><ruby>案<rt>あん</rt></ruby>を<ruby>作成<rt>さくせい</rt></ruby>する<ruby>事業所<rt>じぎょうしょ</rt></ruby>に<ruby>置<rt>お</rt></ruby>かなければならない<ruby>専門職<rt>せんもんしょく</rt></ruby>として， <ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "介護支援専門員（ケアマネジャー）",
-      "社会福祉士",
-      "介護福祉士",
-      "民生委員",
-      "相談支援専門員"
+      "<ruby>介護<rt>かいご</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>専門<rt>せんもん</rt></ruby><ruby>員<rt>いん</rt></ruby>（ケアマネジャー）",
+      "<ruby>社会福祉<rt>しゃかいふくし</rt></ruby><ruby>士<rt>さむらい</rt></ruby>",
+      "<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>士<rt>さむらい</rt></ruby>",
+      "<ruby>民生<rt>みんせい</rt></ruby><ruby>委員<rt>いいん</rt></ruby>",
+      "<ruby>相談<rt>そうだん</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>専門<rt>せんもん</rt></ruby><ruby>員<rt>いん</rt></ruby>"
     ],
     "answer": 4
   },
   {
-    "question": "問題58 家族の介護力をアセスメントするときの視点に関する記述として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>58 <ruby>家族<rt>かぞく</rt></ruby>の<ruby>介護<rt>かいご</rt></ruby><ruby>力<rt>ちから</rt></ruby>をアセスメントするときの<ruby>視点<rt>してん</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>記述<rt>きじゅつ</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "障害者個人のニーズを重視する。",
-      "家族のニーズを重視する。",
-      "家族構成員の主観の共通部分を重視する。",
-      "家族を構成する個人と家族全体の生活を見る。",
-      "支援者の視点や価値観を基準にする。"
+      "<ruby>障害者<rt>しょうがいしゃ</rt></ruby><ruby>個人<rt>こじん</rt></ruby>のニーズを<ruby>重視<rt>じゅうし</rt></ruby>する。",
+      "<ruby>家族<rt>かぞく</rt></ruby>のニーズを<ruby>重視<rt>じゅうし</rt></ruby>する。",
+      "<ruby>家族構成<rt>かぞくこうせい</rt></ruby><ruby>員<rt>いん</rt></ruby>の<ruby>主観<rt>しゅかん</rt></ruby>の<ruby>共通部分<rt>きょうつうぶぶん</rt></ruby>を<ruby>重視<rt>じゅうし</rt></ruby>する。",
+      "<ruby>家族<rt>かぞく</rt></ruby>を<ruby>構成<rt>こうせい</rt></ruby>する<ruby>個人<rt>こじん</rt></ruby>と<ruby>家族<rt>かぞく</rt></ruby><ruby>全体<rt>ぜんたい</rt></ruby>の<ruby>生活<rt>せいかつ</rt></ruby>を<ruby>見<rt>み</rt></ruby>る。",
+      "<ruby>支援<rt>しえん</rt></ruby><ruby>者<rt>もの</rt></ruby>の<ruby>視点<rt>してん</rt></ruby>や<ruby>価値観<rt>かちかん</rt></ruby>を<ruby>基準<rt>きじゅん</rt></ruby>にする。"
     ],
     "answer": 3
   },
   {
-    "question": "問題59 次の記述のうち，喀痰吸引等（かくたんきゅういんとう）を実施する訪問介護事業所として登録するときに，事業所が行うべき事項として，正しいものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>59 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>喀痰<rt>かくたん</rt></ruby><ruby>吸引<rt>きゅういん</rt></ruby><ruby>等<rt>など</rt></ruby>（かくたんきゅういんとう）を<ruby>実施<rt>じっし</rt></ruby>する<ruby>訪問<rt>ほうもん</rt></ruby><ruby>介護<rt>かいご</rt></ruby><ruby>事業所<rt>じぎょうしょ</rt></ruby>として<ruby>登録<rt>とうろく</rt></ruby>するときに，<ruby>事業所<rt>じぎょうしょ</rt></ruby>が<ruby>行<rt>おこな</rt></ruby>うべき<ruby>事項<rt>じこう</rt></ruby>として，<ruby>正<rt>ただ</rt></ruby>しいものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "登録研修機関になる。",
-      "医師が設置する安全委員会に参加する。",
-      "喀痰吸引等計画書（かくたんきゅういんとうけいかくしょ）の作成を看護師に依頼する。",
-      "介護支援専門員（ケアマネジャー）の文書による指示を受ける。",
-      "医療関係者との連携体制を確保する。"
+      "<ruby>登録<rt>とうろく</rt></ruby><ruby>研修<rt>けんしゅう</rt></ruby><ruby>機関<rt>きかん</rt></ruby>になる。",
+      "<ruby>医師<rt>いし</rt></ruby>が<ruby>設置<rt>せっち</rt></ruby>する<ruby>安全<rt>あんぜん</rt></ruby><ruby>委員会<rt>いいんかい</rt></ruby>に<ruby>参加<rt>さんか</rt></ruby>する。",
+      "<ruby>喀痰<rt>かくたん</rt></ruby><ruby>吸引<rt>きゅういん</rt></ruby><ruby>等<rt>など</rt></ruby><ruby>計画書<rt>けいかくしょ</rt></ruby>（かくたんきゅういんとうけいかくしょ）の<ruby>作成<rt>さくせい</rt></ruby>を<ruby>看護<rt>かんご</rt></ruby><ruby>師<rt>し</rt></ruby>に<ruby>依頼<rt>いらい</rt></ruby>する。",
+      "<ruby>介護<rt>かいご</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>専門<rt>せんもん</rt></ruby><ruby>員<rt>いん</rt></ruby>（ケアマネジャー）の<ruby>文書<rt>ぶんしょ</rt></ruby>による<ruby>指示<rt>しじ</rt></ruby>を<ruby>受<rt>う</rt></ruby>ける。",
+      "<ruby>医療関係者<rt>いりょうかんけいしゃ</rt></ruby>との<ruby>連携<rt>れんけい</rt></ruby><ruby>体制<rt>たいせい</rt></ruby>を<ruby>確保<rt>かくほ</rt></ruby>する。"
     ],
     "answer": 4
   },
   {
-    "question": "問題60 次のうち，呼吸器官の部位の説明に関する記述として，正しいものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>60 <ruby>次<rt>つぎ</rt></ruby>のうち，<ruby>呼吸器官<rt>こきゅうきかん</rt></ruby>の<ruby>部位<rt>ぶい</rt></ruby>の<ruby>説明<rt>せつめい</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>記述<rt>きじゅつ</rt></ruby>として，<ruby>正<rt>ただ</rt></ruby>しいものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "鼻腔（びくう）は，上葉・中葉・下葉に分かれている。",
-      "咽頭は，左右に分岐している。",
-      "喉頭は，食べ物の通り道である。",
-      "気管は，空気の通り道である。",
-      "肺は，腹腔内（ふくくうない）にある。"
+      "<ruby>鼻腔<rt>びこう</rt></ruby>（びくう）は，<ruby>上葉<rt>じょうよう</rt></ruby>・<ruby>中葉<rt>ちゅうよう</rt></ruby>・<ruby>下葉<rt>したば</rt></ruby>に<ruby>分<rt>わ</rt></ruby>かれている。",
+      "<ruby>咽頭<rt>いんとう</rt></ruby>は，<ruby>左右<rt>さゆう</rt></ruby>に<ruby>分岐<rt>ぶんき</rt></ruby>している。",
+      "<ruby>喉頭<rt>こうとう</rt></ruby>は，<ruby>食べ物<rt>たべもの</rt></ruby>の<ruby>通り道<rt>とおりみち</rt></ruby>である。",
+      "<ruby>気管<rt>きかん</rt></ruby>は，<ruby>空気<rt>くうき</rt></ruby>の<ruby>通り道<rt>とおりみち</rt></ruby>である。",
+      "<ruby>肺<rt>はい</rt></ruby>は，<ruby>腹腔<rt>ふっこう</rt></ruby><ruby>内<rt>ない</rt></ruby>（ふくくうない）にある。"
     ],
     "answer": 3
   },
   {
-    "question": "問題61 次のうち，痰（たん）の吸引の準備に関する記述として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>61 <ruby>次<rt>つぎ</rt></ruby>のうち，<ruby>痰<rt>たん</rt></ruby>（たん）の<ruby>吸引<rt>きゅういん</rt></ruby>の<ruby>準備<rt>じゅんび</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>記述<rt>きじゅつ</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "吸引器は，陰圧になることを確認する。",
-      "吸引びんは，滅菌したものを用意する。",
-      "吸引チューブのサイズは，痰の量に応じたものにする。",
-      "洗浄水は，決められた消毒薬を入れておく。",
-      "清浄綿は，次亜塩素酸ナトリウムに浸しておく。"
+      "<ruby>吸引<rt>きゅういん</rt></ruby><ruby>器<rt>うつわ</rt></ruby>は，<ruby>陰圧<rt>いんあつ</rt></ruby>になることを<ruby>確認<rt>かくにん</rt></ruby>する。",
+      "<ruby>吸引<rt>きゅういん</rt></ruby>びんは，<ruby>滅菌<rt>めっきん</rt></ruby>したものを<ruby>用意<rt>ようい</rt></ruby>する。",
+      "<ruby>吸引<rt>きゅういん</rt></ruby>チューブのサイズは，<ruby>痰<rt>たん</rt></ruby>の<ruby>量<rt>りょう</rt></ruby>に<ruby>応<rt>おう</rt></ruby>じたものにする。",
+      "<ruby>洗浄<rt>せんじょう</rt></ruby><ruby>水<rt>みず</rt></ruby>は，<ruby>決<rt>き</rt></ruby>められた<ruby>消毒薬<rt>しょうどくやく</rt></ruby>を<ruby>入<rt>い</rt></ruby>れておく。",
+      "<ruby>清浄<rt>せいじょう</rt></ruby><ruby>綿<rt>めん</rt></ruby>は，<ruby>次亜塩素酸<rt>じあえんそさん</rt></ruby>ナトリウムに<ruby>浸<rt>ひた</rt></ruby>しておく。"
     ],
     "answer": 0
   },
   {
-    "question": "問題62 次のうち，経管栄養で起こるトラブルに関する記述として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>62 <ruby>次<rt>つぎ</rt></ruby>のうち，<ruby>経管<rt>けいかん</rt></ruby><ruby>栄養<rt>えいよう</rt></ruby>で<ruby>起<rt>お</rt></ruby>こるトラブルに<ruby>関<rt>かん</rt></ruby>する<ruby>記述<rt>きじゅつ</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "チューブの誤挿入は，下痢を起こす可能性がある。",
-      "注入速度が速いときは，嘔吐（おうと）を起こす可能性がある。",
-      "注入物の温度の調整不良は，脱水を起こす可能性がある。",
-      "注入物の濃度の間違いは，感染を起こす可能性がある。",
-      "注入中の姿勢の不良は，便秘を起こす可能性がある。"
+      "チューブの<ruby>誤挿入<rt>ごそうにゅう</rt></ruby>は，<ruby>下痢<rt>げり</rt></ruby>を<ruby>起<rt>お</rt></ruby>こす<ruby>可能性<rt>かのうせい</rt></ruby>がある。",
+      "<ruby>注入<rt>ちゅうにゅう</rt></ruby><ruby>速度<rt>そくど</rt></ruby>が<ruby>速<rt>はや</rt></ruby>いときは，<ruby>嘔吐<rt>おうと</rt></ruby>（おうと）を<ruby>起<rt>お</rt></ruby>こす<ruby>可能性<rt>かのうせい</rt></ruby>がある。",
+      "<ruby>注入<rt>ちゅうにゅう</rt></ruby><ruby>物<rt>もの</rt></ruby>の<ruby>温度<rt>おんど</rt></ruby>の<ruby>調整<rt>ちょうせい</rt></ruby><ruby>不良<rt>ふりょう</rt></ruby>は，<ruby>脱水<rt>だっすい</rt></ruby>を<ruby>起<rt>お</rt></ruby>こす<ruby>可能性<rt>かのうせい</rt></ruby>がある。",
+      "<ruby>注入<rt>ちゅうにゅう</rt></ruby><ruby>物<rt>もの</rt></ruby>の<ruby>濃度<rt>のうど</rt></ruby>の<ruby>間違<rt>まちが</rt></ruby>いは，<ruby>感染<rt>かんせん</rt></ruby>を<ruby>起<rt>お</rt></ruby>こす<ruby>可能性<rt>かのうせい</rt></ruby>がある。",
+      "<ruby>注入<rt>ちゅうにゅう</rt></ruby><ruby>中<rt>なか</rt></ruby>の<ruby>姿勢<rt>しせい</rt></ruby>の<ruby>不良<rt>ふりょう</rt></ruby>は，<ruby>便秘<rt>べんぴ</rt></ruby>を<ruby>起<rt>お</rt></ruby>こす<ruby>可能性<rt>かのうせい</rt></ruby>がある。"
     ],
     "answer": 1
   },
   {
-    "question": "問題63 Ｅさん（75 歳，女性）は，介護老人福祉施設に入所している。脳梗塞（cerebral infarction）の後遺症があり，介護福祉士が胃ろうによる経管栄養を行っている。 ある日，半座位で栄養剤の注入を開始し，半分程度を順調に注入したところで， 体調に変わりがないかを聞くと，「少しお腹が張ってきたような気がする」とＥさんは答えた。意識レベルや顔色に変化はなく，腹痛や嘔気（おうき）はない。 次のうち，介護福祉士が看護職員に相談する前に行う対応として，最も適切なものを 1 つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>63 Ｅさん（75 <ruby>歳<rt>とし</rt></ruby>，<ruby>女性<rt>じょせい</rt></ruby>）は，<ruby>介護<rt>かいご</rt></ruby><ruby>老人<rt>ろうじん</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>施設<rt>しせつ</rt></ruby>に<ruby>入所<rt>にゅうしょ</rt></ruby>している。<ruby>脳<rt>のう</rt></ruby><ruby>梗塞<rt>こうそく</rt></ruby>（cerebral infarction）の<ruby>後遺症<rt>こういしょう</rt></ruby>があり，<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>士<rt>さむらい</rt></ruby>が<ruby>胃<rt>い</rt></ruby>ろうによる<ruby>経管<rt>けいかん</rt></ruby><ruby>栄養<rt>えいよう</rt></ruby>を<ruby>行<rt>い</rt></ruby>っている。 ある<ruby>日<rt>にち</rt></ruby>，<ruby>半座<rt>はんざ</rt></ruby><ruby>位<rt>くらい</rt></ruby>で<ruby>栄養剤<rt>えいようざい</rt></ruby>の<ruby>注入<rt>ちゅうにゅう</rt></ruby>を<ruby>開始<rt>かいし</rt></ruby>し，<ruby>半分程度<rt>はんぶんていど</rt></ruby>を<ruby>順調<rt>じゅんちょう</rt></ruby>に<ruby>注入<rt>ちゅうにゅう</rt></ruby>したところで， <ruby>体調<rt>たいちょう</rt></ruby>に<ruby>変<rt>か</rt></ruby>わりがないかを<ruby>聞<rt>き</rt></ruby>くと，「<ruby>少<rt>すこ</rt></ruby>しお<ruby>腹<rt>はら</rt></ruby>が<ruby>張<rt>は</rt></ruby>ってきたような<ruby>気<rt>き</rt></ruby>がする」とＥさんは<ruby>答<rt>こた</rt></ruby>えた。<ruby>意識<rt>いしき</rt></ruby>レベルや<ruby>顔色<rt>かおいろ</rt></ruby>に<ruby>変化<rt>へんか</rt></ruby>はなく，<ruby>腹痛<rt>ふくつう</rt></ruby>や<ruby>嘔気<rt>おうき</rt></ruby>（おうき）はない。 <ruby>次<rt>つぎ</rt></ruby>のうち，<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>士<rt>さむらい</rt></ruby>が<ruby>看護<rt>かんご</rt></ruby><ruby>職員<rt>しょくいん</rt></ruby>に<ruby>相談<rt>そうだん</rt></ruby>する<ruby>前<rt>まえ</rt></ruby>に<ruby>行<rt>おこな</rt></ruby>う<ruby>対応<rt>たいおう</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを 1 つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "嘔吐（おうと）していないので，そのまま様子をみる。",
-      "仰臥位（ぎょうがい）（背臥位（はいがい））にする。",
-      "腹部が圧迫されていないかを確認する。",
-      "注入速度を速める。",
-      "栄養剤の注入を終了する。"
+      "<ruby>嘔吐<rt>おうと</rt></ruby>（おうと）していないので，そのまま<ruby>様子<rt>ようす</rt></ruby>をみる。",
+      "<ruby>仰臥<rt>ぎょうが</rt></ruby><ruby>位<rt>くらい</rt></ruby>（ぎょうがい）（<ruby>背<rt>せ</rt></ruby><ruby>臥位<rt>がい</rt></ruby>（はいがい））にする。",
+      "<ruby>腹部<rt>ふくぶ</rt></ruby>が<ruby>圧迫<rt>あっぱく</rt></ruby>されていないかを<ruby>確認<rt>かくにん</rt></ruby>する。",
+      "<ruby>注入<rt>ちゅうにゅう</rt></ruby><ruby>速度<rt>そくど</rt></ruby>を<ruby>速<rt>はや</rt></ruby>める。",
+      "<ruby>栄養剤<rt>えいようざい</rt></ruby>の<ruby>注入<rt>ちゅうにゅう</rt></ruby>を<ruby>終了<rt>しゅうりょう</rt></ruby>する。"
     ],
     "answer": 2
   },
   {
-    "question": "問題64 介護を取り巻く状況に関する次の記述のうち，最も適切なものを1つ選び なさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>64 <ruby>介護<rt>かいご</rt></ruby>を<ruby>取<rt>と</rt></ruby>り<ruby>巻<rt>ま</rt></ruby>く<ruby>状況<rt>じょうきょう</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>び なさい。",
     "choices": [
-      "ダブルケアとは，夫婦が助け合って子育てをすることである。",
-      "要介護・要支援の認定者数は，介護保険制度の導入時から年々減少している。",
-      "家族介護を支えていた家制度は，地域包括ケアシステムによって廃止された。",
-      "要介護・要支援の認定者のいる三世代世帯の構成割合は，介護保険制度の導入時から年々増加している。",
-      "家族が担っていた介護の役割は，家族機能の低下によって社会で代替する必要が生じた。"
+      "ダブルケアとは，<ruby>夫婦<rt>ふうふ</rt></ruby>が<ruby>助<rt>たす</rt></ruby>け<ruby>合<rt>あ</rt></ruby>って<ruby>子育<rt>こそだ</rt></ruby>てをすることである。",
+      "<ruby>要介<rt>ようすけ</rt></ruby><ruby>護<rt>ご</rt></ruby>・<ruby>要<rt>よう</rt></ruby><ruby>支援<rt>しえん</rt></ruby>の<ruby>認定<rt>にんてい</rt></ruby><ruby>者<rt>もの</rt></ruby><ruby>数<rt>かず</rt></ruby>は，<ruby>介護<rt>かいご</rt></ruby><ruby>保険制度<rt>ほけんせいど</rt></ruby>の<ruby>導入時<rt>どうにゅうじ</rt></ruby>から<ruby>年々<rt>ねんねん</rt></ruby><ruby>減少<rt>げんしょう</rt></ruby>している。",
+      "<ruby>家族<rt>かぞく</rt></ruby><ruby>介護<rt>かいご</rt></ruby>を<ruby>支<rt>ささ</rt></ruby>えていた<ruby>家<rt>いえ</rt></ruby><ruby>制度<rt>せいど</rt></ruby>は，<ruby>地域<rt>ちいき</rt></ruby><ruby>包括<rt>ほうかつ</rt></ruby>ケアシステムによって<ruby>廃止<rt>はいし</rt></ruby>された。",
+      "<ruby>要介<rt>ようすけ</rt></ruby><ruby>護<rt>ご</rt></ruby>・<ruby>要<rt>よう</rt></ruby><ruby>支援<rt>しえん</rt></ruby>の<ruby>認定<rt>にんてい</rt></ruby><ruby>者<rt>もの</rt></ruby>のいる<ruby>三世<rt>さんせい</rt></ruby><ruby>代<rt>だい</rt></ruby><ruby>世帯<rt>せたい</rt></ruby>の<ruby>構成<rt>こうせい</rt></ruby><ruby>割合<rt>わりあい</rt></ruby>は，<ruby>介護<rt>かいご</rt></ruby><ruby>保険制度<rt>ほけんせいど</rt></ruby>の<ruby>導入時<rt>どうにゅうじ</rt></ruby>から<ruby>年々<rt>ねんねん</rt></ruby><ruby>増加<rt>ぞうか</rt></ruby>している。",
+      "<ruby>家族<rt>かぞく</rt></ruby>が<ruby>担<rt>にな</rt></ruby>っていた<ruby>介護<rt>かいご</rt></ruby>の<ruby>役割<rt>やくわり</rt></ruby>は，<ruby>家族<rt>かぞく</rt></ruby><ruby>機能<rt>きのう</rt></ruby>の<ruby>低下<rt>ていか</rt></ruby>によって<ruby>社会<rt>しゃかい</rt></ruby>で<ruby>代替<rt>だいたい</rt></ruby>する<ruby>必要<rt>ひつよう</rt></ruby>が<ruby>生<rt>しょう</rt></ruby>じた。"
     ],
     "answer": 4
   },
   {
-    "question": "問題65 介護福祉士に関する次の記述のうち，適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>65 <ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>士<rt>さむらい</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "傷病者に対する療養上の世話又は診療の補助を業とする。",
-      "喀痰吸引（かくたんきゅういん）を行うときは市町村の窓口に申請する。",
-      "業務独占の資格である。",
-      "資格を更新するために5年ごとに研修を受講する。",
-      "信用を傷つけるような行為は禁止されている。"
+      "<ruby>傷病<rt>しょうびょう</rt></ruby><ruby>者<rt>もの</rt></ruby>に<ruby>対<rt>たい</rt></ruby>する<ruby>療養<rt>りょうよう</rt></ruby><ruby>上<rt>うえ</rt></ruby>の<ruby>世話<rt>せわ</rt></ruby><ruby>又<rt>また</rt></ruby>は<ruby>診療<rt>しんりょう</rt></ruby>の<ruby>補助<rt>ほじょ</rt></ruby>を<ruby>業<rt>ぎょう</rt></ruby>とする。",
+      "<ruby>喀痰<rt>かくたん</rt></ruby><ruby>吸引<rt>きゅういん</rt></ruby>（かくたんきゅういん）を<ruby>行<rt>おこな</rt></ruby>うときは<ruby>市町村<rt>しちょうそん</rt></ruby>の<ruby>窓口<rt>まどぐち</rt></ruby>に<ruby>申請<rt>しんせい</rt></ruby>する。",
+      "<ruby>業務<rt>ぎょうむ</rt></ruby><ruby>独占<rt>どくせん</rt></ruby>の<ruby>資格<rt>しかく</rt></ruby>である。",
+      "<ruby>資格<rt>しかく</rt></ruby>を<ruby>更新<rt>こうしん</rt></ruby>するために5<ruby>年<rt>ねん</rt></ruby>ごとに<ruby>研修<rt>けんしゅう</rt></ruby>を<ruby>受講<rt>じゅこう</rt></ruby>する。",
+      "<ruby>信用<rt>しんよう</rt></ruby>を<ruby>傷<rt>きず</rt></ruby>つけるような<ruby>行為<rt>こうい</rt></ruby>は<ruby>禁止<rt>きんし</rt></ruby>されている。"
     ],
     "answer": 4
   },
   {
-    "question": "問題66 施設利用者の個人情報の保護に関する次の記述のうち，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>66 <ruby>施設<rt>しせつ</rt></ruby><ruby>利用者<rt>りようしゃ</rt></ruby>の<ruby>個人情報<rt>こじんじょうほう</rt></ruby>の<ruby>保護<rt>ほご</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "職員がすべての個人情報を自由に閲覧できるように，パスワードを共有する。",
-      "個人情報を記載した書類は，そのまま新聞紙と一緒に捨てる。",
-      "個人情報保護に関する研修会を定期的に開催し，意識の向上を図る。",
-      "職員への守秘義務の提示は，採用時ではなく退職時に書面で行う。",
-      "利用者の音声情報は，同意を得ずに使用できる。"
+      "<ruby>職員<rt>しょくいん</rt></ruby>がすべての<ruby>個人情報<rt>こじんじょうほう</rt></ruby>を<ruby>自由<rt>じゆう</rt></ruby>に<ruby>閲覧<rt>えつらん</rt></ruby>できるように，パスワードを<ruby>共有<rt>きょうゆう</rt></ruby>する。",
+      "<ruby>個人情報<rt>こじんじょうほう</rt></ruby>を<ruby>記載<rt>きさい</rt></ruby>した<ruby>書類<rt>しょるい</rt></ruby>は，そのまま<ruby>新聞紙<rt>しんぶんし</rt></ruby>と<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>捨<rt>す</rt></ruby>てる。",
+      "<ruby>個人情報<rt>こじんじょうほう</rt></ruby><ruby>保護<rt>ほご</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>研修会<rt>けんしゅうかい</rt></ruby>を<ruby>定期的<rt>ていきてき</rt></ruby>に<ruby>開催<rt>かいさい</rt></ruby>し，<ruby>意識<rt>いしき</rt></ruby>の<ruby>向上<rt>こうじょう</rt></ruby>を<ruby>図<rt>はか</rt></ruby>る。",
+      "<ruby>職員<rt>しょくいん</rt></ruby>への<ruby>守秘義務<rt>しゅひぎむ</rt></ruby>の<ruby>提示<rt>ていじ</rt></ruby>は，<ruby>採用<rt>さいよう</rt></ruby><ruby>時<rt>とき</rt></ruby>ではなく<ruby>退職<rt>たいしょく</rt></ruby><ruby>時<rt>とき</rt></ruby>に<ruby>書面<rt>しょめん</rt></ruby>で<ruby>行<rt>おこな</rt></ruby>う。",
+      "<ruby>利用者<rt>りようしゃ</rt></ruby>の<ruby>音声<rt>おんせい</rt></ruby><ruby>情報<rt>じょうほう</rt></ruby>は，<ruby>同意<rt>どうい</rt></ruby>を<ruby>得<rt>え</rt></ruby>ずに<ruby>使用<rt>しよう</rt></ruby>できる。"
     ],
     "answer": 2
   },
   {
-    "question": "問題67 個別性や多様性を踏まえた介護に関する次の記述のうち，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>67 <ruby>個別<rt>こべつ</rt></ruby><ruby>性<rt>せい</rt></ruby>や<ruby>多様性<rt>たようせい</rt></ruby>を<ruby>踏<rt>ふ</rt></ruby>まえた<ruby>介護<rt>かいご</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "その人らしさは，障害特性から判断する。",
-      "生活習慣は，生活してきた環境から理解する。",
-      "生活歴は，成人期以降の情報から収集する。",
-      "生活様式は，同居する家族と同一にする。",
-      "衣服は，施設の方針によって統一する。"
+      "その<ruby>人<rt>にん</rt></ruby>らしさは，<ruby>障害<rt>しょうがい</rt></ruby><ruby>特性<rt>とくせい</rt></ruby>から<ruby>判断<rt>はんだん</rt></ruby>する。",
+      "<ruby>生活習慣<rt>せいかつしゅうかん</rt></ruby>は，<ruby>生活<rt>せいかつ</rt></ruby>してきた<ruby>環境<rt>かんきょう</rt></ruby>から<ruby>理解<rt>りかい</rt></ruby>する。",
+      "<ruby>生活<rt>せいかつ</rt></ruby><ruby>歴<rt>れき</rt></ruby>は，<ruby>成人<rt>せいじん</rt></ruby><ruby>期<rt>き</rt></ruby><ruby>以降<rt>いこう</rt></ruby>の<ruby>情報<rt>じょうほう</rt></ruby>から<ruby>収集<rt>しゅうしゅう</rt></ruby>する。",
+      "<ruby>生活<rt>せいかつ</rt></ruby><ruby>様式<rt>ようしき</rt></ruby>は，<ruby>同居<rt>どうきょ</rt></ruby>する<ruby>家族<rt>かぞく</rt></ruby>と<ruby>同一<rt>どういつ</rt></ruby>にする。",
+      "<ruby>衣服<rt>いふく</rt></ruby>は，<ruby>施設<rt>しせつ</rt></ruby>の<ruby>方針<rt>ほうしん</rt></ruby>によって<ruby>統一<rt>とういつ</rt></ruby>する。"
     ],
     "answer": 1
   },
   {
-    "question": "問題68 Ａさん（48 歳，女性，要介護1）は，若年性認知症（dementia with early onset）で，夫，長女（高校 1 年生）と同居している。Ａさんは家族と過ごすことを希望し，小規模多機能型居宅介護で通いを中心に利用を始めた。Ａさんのことが心配な長女は，部活動を諦めて学校が終わるとすぐに帰宅していた。 ある日，夫が，「長女が，学校の先生たちにも相談しているが，今の状況をわ かってくれる人がいないと涙を流すことがある」と介護福祉職に相談をした。 夫の話を聞いた介護福祉職の対応として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>68 Ａさん（48 <ruby>歳<rt>とし</rt></ruby>，<ruby>女性<rt>じょせい</rt></ruby>，<ruby>要介<rt>ようすけ</rt></ruby><ruby>護<rt>ご</rt></ruby>1）は，<ruby>若年<rt>じゃくねん</rt></ruby><ruby>性<rt>せい</rt></ruby><ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby>（dementia with early onset）で，<ruby>夫<rt>おっと</rt></ruby>，<ruby>長女<rt>ちょうじょ</rt></ruby>（<ruby>高校<rt>こうこう</rt></ruby> 1 <ruby>年生<rt>ねんせい</rt></ruby>）と<ruby>同居<rt>どうきょ</rt></ruby>している。Ａさんは<ruby>家族<rt>かぞく</rt></ruby>と<ruby>過<rt>す</rt></ruby>ごすことを<ruby>希望<rt>きぼう</rt></ruby>し，<ruby>小規模<rt>しょうきぼ</rt></ruby><ruby>多機能<rt>たきのう</rt></ruby><ruby>型<rt>かた</rt></ruby><ruby>居宅<rt>きょたく</rt></ruby><ruby>介護<rt>かいご</rt></ruby>で<ruby>通<rt>かよ</rt></ruby>いを<ruby>中心<rt>ちゅうしん</rt></ruby>に<ruby>利用<rt>りよう</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>めた。Ａさんのことが<ruby>心配<rt>しんぱい</rt></ruby>な<ruby>長女<rt>ちょうじょ</rt></ruby>は，<ruby>部活動<rt>ぶかつどう</rt></ruby>を<ruby>諦<rt>あきら</rt></ruby>めて<ruby>学校<rt>がっこう</rt></ruby>が<ruby>終<rt>お</rt></ruby>わるとすぐに<ruby>帰宅<rt>きたく</rt></ruby>していた。 ある<ruby>日<rt>にち</rt></ruby>，<ruby>夫<rt>おっと</rt></ruby>が，「<ruby>長女<rt>ちょうじょ</rt></ruby>が，<ruby>学校<rt>がっこう</rt></ruby>の<ruby>先生<rt>せんせい</rt></ruby>たちにも<ruby>相談<rt>そうだん</rt></ruby>しているが，<ruby>今<rt>いま</rt></ruby>の<ruby>状況<rt>じょうきょう</rt></ruby>をわ かってくれる<ruby>人<rt>にん</rt></ruby>がいないと<ruby>涙<rt>なみだ</rt></ruby>を<ruby>流<rt>なが</rt></ruby>すことがある」と<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>に<ruby>相談<rt>そうだん</rt></ruby>をした。 <ruby>夫<rt>おっと</rt></ruby>の<ruby>話<rt>はなし</rt></ruby>を<ruby>聞<rt>き</rt></ruby>いた<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>の<ruby>対応<rt>たいおう</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "長女に，掃除や洗濯の方法を教える。",
-      "家族でもっと頑張るように，夫を励ます。",
-      "同じような体験をしている人と交流できる場について情報を提供する。",
-      "介護老人福祉施設への入所の申込みを勧める。",
-      "介護支援専門員（ケアマネジャー）に介護サービスの変更を提案する。"
+      "<ruby>長女<rt>ちょうじょ</rt></ruby>に，<ruby>掃除<rt>そうじ</rt></ruby>や<ruby>洗濯<rt>せんたく</rt></ruby>の<ruby>方法<rt>ほうほう</rt></ruby>を<ruby>教<rt>おし</rt></ruby>える。",
+      "<ruby>家族<rt>かぞく</rt></ruby>でもっと<ruby>頑張<rt>がんば</rt></ruby>るように，<ruby>夫<rt>おっと</rt></ruby>を<ruby>励<rt>はげ</rt></ruby>ます。",
+      "<ruby>同<rt>おな</rt></ruby>じような<ruby>体験<rt>たいけん</rt></ruby>をしている<ruby>人<rt>にん</rt></ruby>と<ruby>交流<rt>こうりゅう</rt></ruby>できる<ruby>場<rt>ば</rt></ruby>について<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>提供<rt>ていきょう</rt></ruby>する。",
+      "<ruby>介護<rt>かいご</rt></ruby><ruby>老人<rt>ろうじん</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>施設<rt>しせつ</rt></ruby>への<ruby>入所<rt>にゅうしょ</rt></ruby>の<ruby>申込<rt>もうしこみ</rt></ruby>みを<ruby>勧<rt>すす</rt></ruby>める。",
+      "<ruby>介護<rt>かいご</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>専門<rt>せんもん</rt></ruby><ruby>員<rt>いん</rt></ruby>（ケアマネジャー）に<ruby>介護<rt>かいご</rt></ruby>サービスの<ruby>変更<rt>へんこう</rt></ruby>を<ruby>提案<rt>ていあん</rt></ruby>する。"
     ],
     "answer": 2
   },
   {
-    "question": "問題69 Ｂさん（61 歳，男性，要介護 3 ）は，脳梗塞（cerebral infarction）による左片麻痺（ひだりかたまひ）がある。週 2 回訪問介護（ホームヘルプサービス）を利用し，妻（58 歳）と 二人暮らしである。自宅での入浴が好きで，妻の介助を受けながら，毎日入浴している。サービス提供責任者に，Ｂさんから，「浴槽から立ち上がるのがつらくなってきた。何かいい方法はないですか」と相談があった。 Ｂさんへのサービス提供責任者の対応として，最も適切なものを 1 つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>69 Ｂさん（61 <ruby>歳<rt>とし</rt></ruby>，<ruby>男性<rt>だんせい</rt></ruby>，<ruby>要介<rt>ようすけ</rt></ruby><ruby>護<rt>ご</rt></ruby> 3 ）は，<ruby>脳<rt>のう</rt></ruby><ruby>梗塞<rt>こうそく</rt></ruby>（cerebral infarction）による<ruby>左片<rt>さへん</rt></ruby><ruby>麻痺<rt>まひ</rt></ruby>（ひだりかたまひ）がある。<ruby>週<rt>しゅう</rt></ruby> 2 <ruby>回<rt>かい</rt></ruby><ruby>訪問<rt>ほうもん</rt></ruby><ruby>介護<rt>かいご</rt></ruby>（ホームヘルプサービス）を<ruby>利用<rt>りよう</rt></ruby>し，<ruby>妻<rt>つま</rt></ruby>（58 <ruby>歳<rt>とし</rt></ruby>）と <ruby>二人<rt>ふたり</rt></ruby><ruby>暮<rt>く</rt></ruby>らしである。<ruby>自宅<rt>じたく</rt></ruby>での<ruby>入浴<rt>にゅうよく</rt></ruby>が<ruby>好<rt>す</rt></ruby>きで，<ruby>妻<rt>つま</rt></ruby>の<ruby>介助<rt>かいじょ</rt></ruby>を<ruby>受<rt>う</rt></ruby>けながら，<ruby>毎日<rt>まいにち</rt></ruby><ruby>入浴<rt>にゅうよく</rt></ruby>している。サービス<ruby>提供<rt>ていきょう</rt></ruby><ruby>責任者<rt>せきにんしゃ</rt></ruby>に，Ｂさんから，「<ruby>浴槽<rt>よくそう</rt></ruby>から<ruby>立ち上<rt>たちあ</rt></ruby>がるのがつらくなってきた。<ruby>何<rt>なに</rt></ruby>かいい<ruby>方法<rt>ほうほう</rt></ruby>はないですか」と<ruby>相談<rt>そうだん</rt></ruby>があった。 Ｂさんへのサービス<ruby>提供<rt>ていきょう</rt></ruby><ruby>責任者<rt>せきにんしゃ</rt></ruby>の<ruby>対応<rt>たいおう</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを 1 つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "Ｂさんがひとりで入浴できるように，自立生活援助の利用を勧める。",
-      "浴室を広くするために，居宅介護住宅改修費を利用した改築を勧める。",
-      "妻の入浴介助の負担が軽くなるように，行動援護の利用を勧める。",
-      "入浴補助用具で本人の力を生かせるように，特定福祉用具販売の利用を勧める。",
-      "Ｂさんが入浴を継続できるように，通所介護（デイサービス）の利用を勧める。"
+      "Ｂさんがひとりで<ruby>入浴<rt>にゅうよく</rt></ruby>できるように，<ruby>自立<rt>じりつ</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby><ruby>援助<rt>えんじょ</rt></ruby>の<ruby>利用<rt>りよう</rt></ruby>を<ruby>勧<rt>すす</rt></ruby>める。",
+      "<ruby>浴室<rt>よくしつ</rt></ruby>を<ruby>広<rt>ひろ</rt></ruby>くするために，<ruby>居宅<rt>きょたく</rt></ruby><ruby>介護<rt>かいご</rt></ruby><ruby>住宅<rt>じゅうたく</rt></ruby><ruby>改修<rt>かいしゅう</rt></ruby><ruby>費<rt>ひ</rt></ruby>を<ruby>利用<rt>りよう</rt></ruby>した<ruby>改築<rt>かいちく</rt></ruby>を<ruby>勧<rt>すす</rt></ruby>める。",
+      "<ruby>妻<rt>つま</rt></ruby>の<ruby>入浴<rt>にゅうよく</rt></ruby><ruby>介助<rt>かいじょ</rt></ruby>の<ruby>負担<rt>ふたん</rt></ruby>が<ruby>軽<rt>かる</rt></ruby>くなるように，<ruby>行動<rt>こうどう</rt></ruby><ruby>援護<rt>えんご</rt></ruby>の<ruby>利用<rt>りよう</rt></ruby>を<ruby>勧<rt>すす</rt></ruby>める。",
+      "<ruby>入浴<rt>にゅうよく</rt></ruby><ruby>補助用<rt>ほじょよう</rt></ruby><ruby>具<rt>ぐ</rt></ruby>で<ruby>本人<rt>ほんにん</rt></ruby>の<ruby>力<rt>ちから</rt></ruby>を<ruby>生<rt>い</rt></ruby>かせるように，<ruby>特定<rt>とくてい</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>用具<rt>ようぐ</rt></ruby><ruby>販売<rt>はんばい</rt></ruby>の<ruby>利用<rt>りよう</rt></ruby>を<ruby>勧<rt>すす</rt></ruby>める。",
+      "Ｂさんが<ruby>入浴<rt>にゅうよく</rt></ruby>を<ruby>継続<rt>けいぞく</rt></ruby>できるように，<ruby>通所<rt>つうしょ</rt></ruby><ruby>介護<rt>かいご</rt></ruby>（デイサービス）の<ruby>利用<rt>りよう</rt></ruby>を<ruby>勧<rt>すす</rt></ruby>める。"
     ],
     "answer": 3
   },
   {
-    "question": "問題70 社会奉仕の精神をもって，住民の立場に立って相談に応じ，必要な援助を行い，社会福祉の増進に努める者として，適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>70 <ruby>社会奉仕<rt>しゃかいほうし</rt></ruby>の<ruby>精神<rt>せいしん</rt></ruby>をもって，<ruby>住民<rt>じゅうみん</rt></ruby>の<ruby>立場<rt>たちば</rt></ruby>に<ruby>立<rt>た</rt></ruby>って<ruby>相談<rt>そうだん</rt></ruby>に<ruby>応<rt>おう</rt></ruby>じ，<ruby>必要<rt>ひつよう</rt></ruby>な<ruby>援助<rt>えんじょ</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>い，<ruby>社会福祉<rt>しゃかいふくし</rt></ruby>の<ruby>増進<rt>ぞうしん</rt></ruby>に<ruby>努<rt>つと</rt></ruby>める<ruby>者<rt>もの</rt></ruby>として，<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "民生委員",
-      "生活相談員",
-      "訪問介護員（ホームヘルパー）",
-      "通所介護職員",
-      "介護支援専門員（ケアマネジャー）"
+      "<ruby>民生<rt>みんせい</rt></ruby><ruby>委員<rt>いいん</rt></ruby>",
+      "<ruby>生活<rt>せいかつ</rt></ruby><ruby>相談員<rt>そうだんいん</rt></ruby>",
+      "<ruby>訪問<rt>ほうもん</rt></ruby><ruby>介護<rt>かいご</rt></ruby><ruby>員<rt>いん</rt></ruby>（ホームヘルパー）",
+      "<ruby>通所<rt>つうしょ</rt></ruby><ruby>介護<rt>かいご</rt></ruby><ruby>職員<rt>しょくいん</rt></ruby>",
+      "<ruby>介護<rt>かいご</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>専門<rt>せんもん</rt></ruby><ruby>員<rt>いん</rt></ruby>（ケアマネジャー）"
     ],
     "answer": 0
   },
   {
-    "question": "問題71 3階建て介護老人福祉施設がある住宅地に，下記の図記号に関連した警戒レベル3が発令された。介護福祉職がとるべき行動として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>71 3<ruby>階建<rt>かいだて</rt></ruby>て<ruby>介護<rt>かいご</rt></ruby><ruby>老人<rt>ろうじん</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>施設<rt>しせつ</rt></ruby>がある<ruby>住宅地<rt>じゅうたくち</rt></ruby>に，<ruby>下記<rt>かき</rt></ruby>の<ruby>図記<rt>ずき</rt></ruby><ruby>号<rt>ごう</rt></ruby>に<ruby>関連<rt>かんれん</rt></ruby>した<ruby>警戒<rt>けいかい</rt></ruby>レベル3が<ruby>発令<rt>はつれい</rt></ruby>された。<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>がとるべき<ruby>行動<rt>こうどう</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "玄関のドアを開けたままにする。",
-      "消火器で，初期消火する。",
-      "垂直避難誘導をする。",
-      "利用者家族に安否情報を連絡する。",
-      "転倒の危険性があるものを固定する。"
+      "<ruby>玄関<rt>げんかん</rt></ruby>のドアを<ruby>開<rt>ひら</rt></ruby>けたままにする。",
+      "<ruby>消火器<rt>しょうかき</rt></ruby>で，<ruby>初期<rt>しょき</rt></ruby><ruby>消火<rt>しょうか</rt></ruby>する。",
+      "<ruby>垂直<rt>すいちょく</rt></ruby><ruby>避難<rt>ひなん</rt></ruby><ruby>誘導<rt>ゆうどう</rt></ruby>をする。",
+      "<ruby>利用者<rt>りようしゃ</rt></ruby><ruby>家族<rt>かぞく</rt></ruby>に<ruby>安否<rt>あんぴ</rt></ruby><ruby>情報<rt>じょうほう</rt></ruby>を<ruby>連絡<rt>れんらく</rt></ruby>する。",
+      "<ruby>転倒<rt>てんとう</rt></ruby>の<ruby>危険性<rt>きけんせい</rt></ruby>があるものを<ruby>固定<rt>こてい</rt></ruby>する。"
     ],
     "answer": 2
   },
   {
-    "question": "問題72 次の記述のうち，介護における感染症対策として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>72 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>介護<rt>かいご</rt></ruby>における<ruby>感染症<rt>かんせんしょう</rt></ruby><ruby>対策<rt>たいさく</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "手洗いは，液体石鹸（えきたいせっけん）よりも固形石鹸（こけいせっけん）を使用する。",
-      "配膳時にくしゃみが出たときは，口元をおさえた手でそのまま行う。",
-      "嘔吐物（おうとぶつ）の処理は，素手で行う。",
-      "排泄（はいせつ）の介護は，利用者ごとに手袋を交換する。",
-      "うがい用のコップは，共用にする。"
+      "<ruby>手洗<rt>てあら</rt></ruby>いは，<ruby>液体<rt>えきたい</rt></ruby><ruby>石鹸<rt>せっけん</rt></ruby>（えきたいせっけん）よりも<ruby>固形<rt>こけい</rt></ruby><ruby>石鹸<rt>せっけん</rt></ruby>（こけいせっけん）を<ruby>使用<rt>しよう</rt></ruby>する。",
+      "<ruby>配膳<rt>はいぜん</rt></ruby><ruby>時<rt>とき</rt></ruby>にくしゃみが<ruby>出<rt>で</rt></ruby>たときは，<ruby>口元<rt>くちもと</rt></ruby>をおさえた<ruby>手<rt>て</rt></ruby>でそのまま<ruby>行<rt>おこな</rt></ruby>う。",
+      "<ruby>嘔吐<rt>おうと</rt></ruby><ruby>物<rt>もの</rt></ruby>（おうとぶつ）の<ruby>処理<rt>しょり</rt></ruby>は，<ruby>素手<rt>すで</rt></ruby>で<ruby>行<rt>おこな</rt></ruby>う。",
+      "<ruby>排泄<rt>はいせつ</rt></ruby>（はいせつ）の<ruby>介護<rt>かいご</rt></ruby>は，<ruby>利用者<rt>りようしゃ</rt></ruby>ごとに<ruby>手袋<rt>てぶくろ</rt></ruby>を<ruby>交換<rt>こうかん</rt></ruby>する。",
+      "うがい<ruby>用<rt>よう</rt></ruby>のコップは，<ruby>共用<rt>きょうよう</rt></ruby>にする。"
     ],
     "answer": 3
   },
   {
-    "question": "問題73 介護福祉士が行う服薬の介護に関する次の記述のうち，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>73 <ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>士<rt>さむらい</rt></ruby>が<ruby>行<rt>おこな</rt></ruby>う<ruby>服薬<rt>ふくやく</rt></ruby>の<ruby>介護<rt>かいご</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "服薬時間は，食後に統一する。",
-      "服用できずに残った薬は，介護福祉士の判断で処分する。",
-      "多種類の薬を処方された場合は，介護福祉士が一包化する。",
-      "内服薬の用量は，利用者のその日の体調で決める。",
-      "副作用の知識をもって，服薬の介護を行う。"
+      "<ruby>服薬<rt>ふくやく</rt></ruby><ruby>時間<rt>じかん</rt></ruby>は，<ruby>食後<rt>しょくご</rt></ruby>に<ruby>統一<rt>とういつ</rt></ruby>する。",
+      "<ruby>服用<rt>ふくよう</rt></ruby>できずに<ruby>残<rt>のこ</rt></ruby>った<ruby>薬<rt>くすり</rt></ruby>は，<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>士<rt>さむらい</rt></ruby>の<ruby>判断<rt>はんだん</rt></ruby>で<ruby>処分<rt>しょぶん</rt></ruby>する。",
+      "<ruby>多種類<rt>たしゅるい</rt></ruby>の<ruby>薬<rt>くすり</rt></ruby>を<ruby>処方<rt>しょほう</rt></ruby>された<ruby>場合<rt>ばあい</rt></ruby>は，<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>士<rt>さむらい</rt></ruby>が<ruby>一<rt>いち</rt></ruby><ruby>包<rt>つつみ</rt></ruby><ruby>化<rt>か</rt></ruby>する。",
+      "<ruby>内服薬<rt>ないふくやく</rt></ruby>の<ruby>用量<rt>ようりょう</rt></ruby>は，<ruby>利用者<rt>りようしゃ</rt></ruby>のその<ruby>日<rt>にち</rt></ruby>の<ruby>体調<rt>たいちょう</rt></ruby>で<ruby>決<rt>き</rt></ruby>める。",
+      "<ruby>副作用<rt>ふくさよう</rt></ruby>の<ruby>知識<rt>ちしき</rt></ruby>をもって，<ruby>服薬<rt>ふくやく</rt></ruby>の<ruby>介護<rt>かいご</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う。"
     ],
     "answer": 4
   },
   {
-    "question": "問題74 Ｃさん（85 歳，女性，要介護 3 ）は，介護老人保健施設に入所しており， 軽度の難聴がある。数日前から，職員は感染症対策として日常的にマスクを着用して勤務することになった。 ある日，Ｄ介護福祉職がＣさんの居室を訪問すると，「孫が絵を描いて送ってくれたの」と笑いながら絵を見せてくれた。Ｄ介護福祉職はＣさんの言動に共感的理解を示すために，意図的に非言語コミュニケーションを用いて対応した。 このときのＤ介護福祉職のＣさんへの対応として，最も適切なものを1つ選びな さい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>74 Ｃさん（85 <ruby>歳<rt>とし</rt></ruby>，<ruby>女性<rt>じょせい</rt></ruby>，<ruby>要介<rt>ようすけ</rt></ruby><ruby>護<rt>ご</rt></ruby> 3 ）は，<ruby>介護<rt>かいご</rt></ruby><ruby>老人<rt>ろうじん</rt></ruby><ruby>保健<rt>ほけん</rt></ruby><ruby>施設<rt>しせつ</rt></ruby>に<ruby>入所<rt>にゅうしょ</rt></ruby>しており， <ruby>軽度<rt>けいど</rt></ruby>の<ruby>難聴<rt>なんちょう</rt></ruby>がある。<ruby>数日前<rt>すうじつまえ</rt></ruby>から，<ruby>職員<rt>しょくいん</rt></ruby>は<ruby>感染症<rt>かんせんしょう</rt></ruby><ruby>対策<rt>たいさく</rt></ruby>として<ruby>日常的<rt>にちじょうてき</rt></ruby>にマスクを<ruby>着用<rt>ちゃくよう</rt></ruby>して<ruby>勤務<rt>きんむ</rt></ruby>することになった。 ある<ruby>日<rt>にち</rt></ruby>，Ｄ<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>がＣさんの<ruby>居室<rt>きょしつ</rt></ruby>を<ruby>訪問<rt>ほうもん</rt></ruby>すると，「<ruby>孫<rt>まご</rt></ruby>が<ruby>絵<rt>え</rt></ruby>を<ruby>描<rt>えが</rt></ruby>いて<ruby>送<rt>おく</rt></ruby>ってくれたの」と<ruby>笑<rt>わら</rt></ruby>いながら<ruby>絵<rt>え</rt></ruby>を<ruby>見<rt>み</rt></ruby>せてくれた。Ｄ<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>はＣさんの<ruby>言動<rt>げんどう</rt></ruby>に<ruby>共感<rt>きょうかん</rt></ruby><ruby>的<rt>てき</rt></ruby><ruby>理解<rt>りかい</rt></ruby>を<ruby>示<rt>しめ</rt></ruby>すために，<ruby>意図的<rt>いとてき</rt></ruby>に<ruby>非<rt>ひ</rt></ruby><ruby>言語<rt>げんご</rt></ruby>コミュニケーションを<ruby>用<rt>もち</rt></ruby>いて<ruby>対応<rt>たいおう</rt></ruby>した。 このときのＤ<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>のＣさんへの<ruby>対応<rt>たいおう</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びな さい。",
     "choices": [
-      "「よかったですね」と紙に書いて渡した。",
-      "目元を意識した笑顔を作り，大きくうなずいた。",
-      "「お孫さんの絵が届いて，うれしかったですね」と耳元で話した。",
-      "「私もうれしいです」と，ゆっくり話した。",
-      "「えがとてもじょうずです」と五十音表を用いて伝えた。"
+      "「よかったですね」と<ruby>紙<rt>かみ</rt></ruby>に<ruby>書<rt>か</rt></ruby>いて<ruby>渡<rt>わた</rt></ruby>した。",
+      "<ruby>目元<rt>めもと</rt></ruby>を<ruby>意識<rt>いしき</rt></ruby>した<ruby>笑顔<rt>えがお</rt></ruby>を<ruby>作<rt>つく</rt></ruby>り，<ruby>大<rt>おお</rt></ruby>きくうなずいた。",
+      "「お<ruby>孫<rt>まご</rt></ruby>さんの<ruby>絵<rt>え</rt></ruby>が<ruby>届<rt>とど</rt></ruby>いて，うれしかったですね」と<ruby>耳元<rt>みみもと</rt></ruby>で<ruby>話<rt>はな</rt></ruby>した。",
+      "「<ruby>私<rt>わたし</rt></ruby>もうれしいです」と，ゆっくり<ruby>話<rt>はな</rt></ruby>した。",
+      "「えがとてもじょうずです」と<ruby>五十音<rt>ごじゅうおん</rt></ruby><ruby>表<rt>あら</rt></ruby>を<ruby>用<rt>もち</rt></ruby>いて<ruby>伝<rt>つた</rt></ruby>えた。"
     ],
     "answer": 1
   },
   {
-    "question": "問題75 利用者の家族との信頼関係の構築を目的としたコミュニケーションとして， 最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>75 <ruby>利用者<rt>りようしゃ</rt></ruby>の<ruby>家族<rt>かぞく</rt></ruby>との<ruby>信頼関係<rt>しんらいかんけい</rt></ruby>の<ruby>構築<rt>こうちく</rt></ruby>を<ruby>目的<rt>もくてき</rt></ruby>としたコミュニケーションとして， <ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "家族に介護技術を教える。",
-      "家族に介護をしている当事者の会に参加することを提案する。",
-      "家族から介護の体験を共感的に聴く。",
-      "家族に介護を続ける強い気持ちがあるかを質問する。",
-      "家族に介護保険が使える範囲を説明する。"
+      "<ruby>家族<rt>かぞく</rt></ruby>に<ruby>介護<rt>かいご</rt></ruby><ruby>技術<rt>ぎじゅつ</rt></ruby>を<ruby>教<rt>おし</rt></ruby>える。",
+      "<ruby>家族<rt>かぞく</rt></ruby>に<ruby>介護<rt>かいご</rt></ruby>をしている<ruby>当事者<rt>とうじしゃ</rt></ruby>の<ruby>会<rt>かい</rt></ruby>に<ruby>参加<rt>さんか</rt></ruby>することを<ruby>提案<rt>ていあん</rt></ruby>する。",
+      "<ruby>家族<rt>かぞく</rt></ruby>から<ruby>介護<rt>かいご</rt></ruby>の<ruby>体験<rt>たいけん</rt></ruby>を<ruby>共感<rt>きょうかん</rt></ruby><ruby>的<rt>てき</rt></ruby>に<ruby>聴<rt>き</rt></ruby>く。",
+      "<ruby>家族<rt>かぞく</rt></ruby>に<ruby>介護<rt>かいご</rt></ruby>を<ruby>続<rt>つづ</rt></ruby>ける<ruby>強<rt>つよ</rt></ruby>い<ruby>気持<rt>きも</rt></ruby>ちがあるかを<ruby>質問<rt>しつもん</rt></ruby>する。",
+      "<ruby>家族<rt>かぞく</rt></ruby>に<ruby>介護<rt>かいご</rt></ruby><ruby>保険<rt>ほけん</rt></ruby>が<ruby>使<rt>つか</rt></ruby>える<ruby>範囲<rt>はんい</rt></ruby>を<ruby>説明<rt>せつめい</rt></ruby>する。"
     ],
     "answer": 2
   },
   {
-    "question": "問題76 Ｅさん（70 歳，女性）は，脳梗塞（cerebral infarction）の後遺症で言語に障害がある。発語はできるが，話したいことをうまく言葉に言い表せない。聴覚機能に問題はなく，日常会話で使用する単語はだいたい理解できるが，単語がつながる文章になるとうまく理解できない。ある日，Ｅさんに介護福祉職が，「お風呂は，今日ではなくあしたですよ」と伝えると，Ｅさんはしばらく黙って考え，理解できない様子だった。 このとき，Ｅさんへの介護福祉職の対応として，最も適切なものを1つ選びなさ い。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>76 Ｅさん（70 <ruby>歳<rt>とし</rt></ruby>，<ruby>女性<rt>じょせい</rt></ruby>）は，<ruby>脳<rt>のう</rt></ruby><ruby>梗塞<rt>こうそく</rt></ruby>（cerebral infarction）の<ruby>後遺症<rt>こういしょう</rt></ruby>で<ruby>言語<rt>げんご</rt></ruby>に<ruby>障害<rt>しょうがい</rt></ruby>がある。<ruby>発語<rt>はつご</rt></ruby>はできるが，<ruby>話<rt>はな</rt></ruby>したいことをうまく<ruby>言葉<rt>ことば</rt></ruby>に<ruby>言<rt>い</rt></ruby>い<ruby>表<rt>あらわ</rt></ruby>せない。<ruby>聴覚<rt>ちょうかく</rt></ruby><ruby>機能<rt>きのう</rt></ruby>に<ruby>問題<rt>もんだい</rt></ruby>はなく，<ruby>日常会話<rt>にちじょうかいわ</rt></ruby>で<ruby>使用<rt>しよう</rt></ruby>する<ruby>単語<rt>たんご</rt></ruby>はだいたい<ruby>理解<rt>りかい</rt></ruby>できるが，<ruby>単語<rt>たんご</rt></ruby>がつながる<ruby>文章<rt>ぶんしょう</rt></ruby>になるとうまく<ruby>理解<rt>りかい</rt></ruby>できない。ある<ruby>日<rt>にち</rt></ruby>，Ｅさんに<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>が，「お<ruby>風呂<rt>ふろ</rt></ruby>は，<ruby>今日<rt>きょう</rt></ruby>ではなくあしたですよ」と<ruby>伝<rt>つた</rt></ruby>えると，Ｅさんはしばらく<ruby>黙<rt>だま</rt></ruby>って<ruby>考<rt>かんが</rt></ruby>え，<ruby>理解<rt>りかい</rt></ruby>できない<ruby>様子<rt>ようす</rt></ruby>だった。 このとき，Ｅさんへの<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>の<ruby>対応<rt>たいおう</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさ い。",
     "choices": [
-      "「何がわからないのか教えてください」と質問する。",
-      "「お風呂，あした」と短い言葉で伝える。",
-      "「今日，お風呂に入りたいのですね」と確かめる。",
-      "「あしたがお風呂の日で，今日は違いますよ」と言い換える。",
-      "「お・ふ・ろ・は・あ・し・た」と 1 音ずつ言葉を区切って伝える。"
+      "「<ruby>何<rt>なに</rt></ruby>がわからないのか<ruby>教<rt>おし</rt></ruby>えてください」と<ruby>質問<rt>しつもん</rt></ruby>する。",
+      "「お<ruby>風呂<rt>ふろ</rt></ruby>，あした」と<ruby>短<rt>みじか</rt></ruby>い<ruby>言葉<rt>ことば</rt></ruby>で<ruby>伝<rt>つた</rt></ruby>える。",
+      "「<ruby>今日<rt>きょう</rt></ruby>，お<ruby>風呂<rt>ふろ</rt></ruby>に<ruby>入<rt>い</rt></ruby>りたいのですね」と<ruby>確<rt>たし</rt></ruby>かめる。",
+      "「あしたがお<ruby>風呂<rt>ふろ</rt></ruby>の<ruby>日<rt>にち</rt></ruby>で，<ruby>今日<rt>こんにち</rt></ruby>は<ruby>違<rt>ちが</rt></ruby>いますよ」と<ruby>言い換<rt>いいか</rt></ruby>える。",
+      "「お・ふ・ろ・は・あ・し・た」と 1 <ruby>音<rt>おと</rt></ruby>ずつ<ruby>言葉<rt>ことば</rt></ruby>を<ruby>区切<rt>くぎ</rt></ruby>って<ruby>伝<rt>つた</rt></ruby>える。"
     ],
     "answer": 1
   },
   {
-    "question": "問題77 Ｆさん（70 歳，女性）は，最近，抑うつ状態（depressive state）にあり， ベッドに寝ていることが多く，「もう死んでしまいたい」とつぶやいていた。 Ｆさんの発言に対する，介護福祉職の言葉かけとして，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>77 Ｆさん（70 <ruby>歳<rt>とし</rt></ruby>，<ruby>女性<rt>じょせい</rt></ruby>）は，<ruby>最近<rt>さいきん</rt></ruby>，<ruby>抑<rt>よく</rt></ruby>うつ<ruby>状態<rt>じょうたい</rt></ruby>（depressive state）にあり， ベッドに<ruby>寝<rt>ね</rt></ruby>ていることが<ruby>多<rt>おお</rt></ruby>く，「もう<ruby>死<rt>し</rt></ruby>んでしまいたい」とつぶやいていた。 Ｆさんの<ruby>発言<rt>はつげん</rt></ruby>に<ruby>対<rt>たい</rt></ruby>する，<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>かけとして，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "「落ちこんだらだめですよ」",
+      "「<ruby>落<rt>お</rt></ruby>ちこんだらだめですよ」",
       "「とてもつらいのですね」",
-      "「どうしてそんなに寝てばかりいるのですか」",
-      "「食堂へおしゃべりに行きましょう」",
-      "「元気を出して，頑張ってください」"
+      "「どうしてそんなに<ruby>寝<rt>ね</rt></ruby>てばかりいるのですか」",
+      "「<ruby>食堂<rt>しょくどう</rt></ruby>へおしゃべりに<ruby>行<rt>い</rt></ruby>きましょう」",
+      "「<ruby>元気<rt>げんき</rt></ruby>を<ruby>出<rt>だ</rt></ruby>して，<ruby>頑張<rt>がんば</rt></ruby>ってください」"
     ],
     "answer": 1
   },
   {
-    "question": "問題78 Ｇさん（70 歳，女性，要介護 1 ）は，有料老人ホームに入居していて，網膜色素変性症（retinitis pigmentosa）による夜盲がある。ある日の夕方，Ｇさんがうす暗い廊下を歩いているのをＨ介護福祉職が発見し，「Ｈです。大丈夫ですか」と声をかけた。Ｇさんは，「びっくりした。見えにくくて，わからなかった…」と暗い表情で返事をした。 このときのＧさんに対するＨ介護福祉職の受容的な対応として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>78 Ｇさん（70 <ruby>歳<rt>とし</rt></ruby>，<ruby>女性<rt>じょせい</rt></ruby>，<ruby>要介<rt>ようすけ</rt></ruby><ruby>護<rt>ご</rt></ruby> 1 ）は，<ruby>有料<rt>ゆうりょう</rt></ruby><ruby>老人<rt>ろうじん</rt></ruby>ホームに<ruby>入居<rt>にゅうきょ</rt></ruby>していて，<ruby>網膜<rt>もうまく</rt></ruby><ruby>色素<rt>しきそ</rt></ruby><ruby>変性<rt>へんせい</rt></ruby><ruby>症<rt>しょう</rt></ruby>（retinitis pigmentosa）による<ruby>夜盲<rt>やもう</rt></ruby>がある。ある<ruby>日<rt>にち</rt></ruby>の<ruby>夕方<rt>ゆうがた</rt></ruby>，Ｇさんがうす<ruby>暗<rt>くら</rt></ruby>い<ruby>廊下<rt>ろうか</rt></ruby>を<ruby>歩<rt>ある</rt></ruby>いているのをＨ<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>が<ruby>発見<rt>はっけん</rt></ruby>し，「Ｈです。<ruby>大丈夫<rt>だいじょうぶ</rt></ruby>ですか」と<ruby>声<rt>こえ</rt></ruby>をかけた。Ｇさんは，「びっくりした。<ruby>見<rt>み</rt></ruby>えにくくて，わからなかった…」と<ruby>暗<rt>くら</rt></ruby>い<ruby>表情<rt>ひょうじょう</rt></ruby>で<ruby>返事<rt>へんじ</rt></ruby>をした。 このときのＧさんに<ruby>対<rt>たい</rt></ruby>するＨ<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>の<ruby>受容<rt>じゅよう</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>対応<rt>たいおう</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "「驚かせてしまいましたね。一緒に歩きましょうか」",
-      "「明るいところを歩きましょう。電気をつけたほうがいいですよ」",
-      "「見えにくくなってきたのですね。一緒に点字の練習を始めましょう」",
-      "「白杖（はくじょう）があるかを確認しておきます。白杖（はくじょう）を使うようにしましょう」",
-      "「暗い顔をしないでください。頑張りましょう」"
+      "「<ruby>驚<rt>おどろ</rt></ruby>かせてしまいましたね。<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>歩<rt>ある</rt></ruby>きましょうか」",
+      "「<ruby>明<rt>あか</rt></ruby>るいところを<ruby>歩<rt>ある</rt></ruby>きましょう。<ruby>電気<rt>でんき</rt></ruby>をつけたほうがいいですよ」",
+      "「<ruby>見<rt>み</rt></ruby>えにくくなってきたのですね。<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>点字<rt>てんじ</rt></ruby>の<ruby>練習<rt>れんしゅう</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>めましょう」",
+      "「<ruby>白<rt>しろ</rt></ruby><ruby>杖<rt>つえ</rt></ruby>（はくじょう）があるかを<ruby>確認<rt>かくにん</rt></ruby>しておきます。<ruby>白<rt>しろ</rt></ruby><ruby>杖<rt>つえ</rt></ruby>（はくじょう）を<ruby>使<rt>つか</rt></ruby>うようにしましょう」",
+      "「<ruby>暗<rt>くら</rt></ruby>い<ruby>顔<rt>かお</rt></ruby>をしないでください。<ruby>頑張<rt>がんば</rt></ruby>りましょう」"
     ],
     "answer": 0
   },
   {
-    "question": "問題79 事例検討の目的に関する次の記述のうち，最も適切なものを1つ選びなさ い。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>79 <ruby>事例<rt>じれい</rt></ruby><ruby>検討<rt>けんとう</rt></ruby>の<ruby>目的<rt>もくてき</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさ い。",
     "choices": [
-      "家族に介護計画を説明し，同意を得る。",
-      "上司に利用者への対応の結果を報告し，了解を得る。",
-      "介護計画の検討をとおして，チームの交流を深める。",
-      "チームで事例の課題を共有し，解決策を見いだす。",
-      "各職種の日頃の悩みを共有する。"
+      "<ruby>家族<rt>かぞく</rt></ruby>に<ruby>介護<rt>かいご</rt></ruby><ruby>計画<rt>けいかく</rt></ruby>を<ruby>説明<rt>せつめい</rt></ruby>し，<ruby>同意<rt>どうい</rt></ruby>を<ruby>得<rt>え</rt></ruby>る。",
+      "<ruby>上司<rt>じょうし</rt></ruby>に<ruby>利用者<rt>りようしゃ</rt></ruby>への<ruby>対応<rt>たいおう</rt></ruby>の<ruby>結果<rt>けっか</rt></ruby>を<ruby>報告<rt>ほうこく</rt></ruby>し，<ruby>了解<rt>りょうかい</rt></ruby>を<ruby>得<rt>え</rt></ruby>る。",
+      "<ruby>介護<rt>かいご</rt></ruby><ruby>計画<rt>けいかく</rt></ruby>の<ruby>検討<rt>けんとう</rt></ruby>をとおして，チームの<ruby>交流<rt>こうりゅう</rt></ruby>を<ruby>深<rt>ふか</rt></ruby>める。",
+      "チームで<ruby>事例<rt>じれい</rt></ruby>の<ruby>課題<rt>かだい</rt></ruby>を<ruby>共有<rt>きょうゆう</rt></ruby>し，<ruby>解決策<rt>かいけつさく</rt></ruby>を<ruby>見<rt>み</rt></ruby>いだす。",
+      "<ruby>各<rt>かく</rt></ruby><ruby>職種<rt>しょくしゅ</rt></ruby>の<ruby>日頃<rt>ひごろ</rt></ruby>の<ruby>悩<rt>なや</rt></ruby>みを<ruby>共有<rt>きょうゆう</rt></ruby>する。"
     ],
     "answer": 3
   },
   {
-    "question": "問題80 介護老人福祉施設における，レクリエーション活動に関する次の記述のうち，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>80 <ruby>介護<rt>かいご</rt></ruby><ruby>老人<rt>ろうじん</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>施設<rt>しせつ</rt></ruby>における，レクリエーション<ruby>活動<rt>かつどう</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "利用者全員が参加することを重視する。",
-      "毎回，異なるプログラムを企画する。",
-      "プログラムに買い物や調理も取り入れる。",
-      "利用者の過去の趣味を，プログラムに取り入れることは避ける。",
-      "地域のボランティアの参加は，遠慮してもらう。"
+      "<ruby>利用者<rt>りようしゃ</rt></ruby><ruby>全員<rt>ぜんいん</rt></ruby>が<ruby>参加<rt>さんか</rt></ruby>することを<ruby>重視<rt>じゅうし</rt></ruby>する。",
+      "<ruby>毎回<rt>まいかい</rt></ruby>，<ruby>異<rt>こと</rt></ruby>なるプログラムを<ruby>企画<rt>きかく</rt></ruby>する。",
+      "プログラムに<ruby>買い物<rt>かいもの</rt></ruby>や<ruby>調理<rt>ちょうり</rt></ruby>も<ruby>取り入<rt>とりい</rt></ruby>れる。",
+      "<ruby>利用者<rt>りようしゃ</rt></ruby>の<ruby>過去<rt>かこ</rt></ruby>の<ruby>趣味<rt>しゅみ</rt></ruby>を，プログラムに<ruby>取り入<rt>とりい</rt></ruby>れることは<ruby>避<rt>さ</rt></ruby>ける。",
+      "<ruby>地域<rt>ちいき</rt></ruby>のボランティアの<ruby>参加<rt>さんか</rt></ruby>は，<ruby>遠慮<rt>えんりょ</rt></ruby>してもらう。"
     ],
     "answer": 2
   },
   {
-    "question": "問題81 関節リウマチ（rheumatoid arthritis）で，関節の変形や痛みがある人への住まいに関する介護福祉職の助言として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>81 <ruby>関節<rt>かんせつ</rt></ruby>リウマチ（rheumatoid arthritis）で，<ruby>関節<rt>かんせつ</rt></ruby>の<ruby>変形<rt>へんけい</rt></ruby>や<ruby>痛<rt>いた</rt></ruby>みがある<ruby>人<rt>にん</rt></ruby>への<ruby>住<rt>す</rt></ruby>まいに<ruby>関<rt>かん</rt></ruby>する<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>の<ruby>助言<rt>じょげん</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "手すりは，握らずに利用できる平手すりを勧める。",
-      "いすの座面の高さは，低いものを勧める。",
-      "ベッドよりも，床に布団を敷いて寝るように勧める。",
-      "部屋のドアは，開き戸を勧める。",
-      "2階建ての家の場合，居室は2階にすることを勧める。"
+      "<ruby>手<rt>て</rt></ruby>すりは，<ruby>握<rt>にぎ</rt></ruby>らずに<ruby>利用<rt>りよう</rt></ruby>できる<ruby>平手<rt>ひらて</rt></ruby>すりを<ruby>勧<rt>すす</rt></ruby>める。",
+      "いすの<ruby>座面<rt>ざめん</rt></ruby>の<ruby>高<rt>たか</rt></ruby>さは，<ruby>低<rt>ひく</rt></ruby>いものを<ruby>勧<rt>すす</rt></ruby>める。",
+      "ベッドよりも，<ruby>床<rt>とこ</rt></ruby>に<ruby>布団<rt>ふとん</rt></ruby>を<ruby>敷<rt>し</rt></ruby>いて<ruby>寝<rt>ね</rt></ruby>るように<ruby>勧<rt>すす</rt></ruby>める。",
+      "<ruby>部屋<rt>へや</rt></ruby>のドアは，<ruby>開き戸<rt>ひらきど</rt></ruby>を<ruby>勧<rt>すす</rt></ruby>める。",
+      "2<ruby>階建<rt>かいだて</rt></ruby>ての<ruby>家<rt>いえ</rt></ruby>の<ruby>場合<rt>ばあい</rt></ruby>，<ruby>居室<rt>きょしつ</rt></ruby>は2<ruby>階<rt>かい</rt></ruby>にすることを<ruby>勧<rt>すす</rt></ruby>める。"
     ],
     "answer": 0
   },
   {
-    "question": "問題82 心身機能が低下した高齢者の住環境の改善に関する次の記述のうち，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>82 <ruby>心身<rt>しんしん</rt></ruby><ruby>機能<rt>きのう</rt></ruby>が<ruby>低下<rt>ていか</rt></ruby>した<ruby>高齢者<rt>こうれいしゃ</rt></ruby>の<ruby>住環境<rt>じゅうかんきょう</rt></ruby>の<ruby>改善<rt>かいぜん</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "玄関から道路までは，コンクリートから砂利敷きにする。",
-      "扉の取っ手は，レバーハンドルから丸いドアノブにする。",
-      "階段の足が乗る板と板の先端部分は，反対色から同系色にする。",
-      "車いすを使用する居室の床は，畳から板製床材（フローリング）にする。",
-      "浴槽は，和洋折衷式から洋式にする。"
+      "<ruby>玄関<rt>げんかん</rt></ruby>から<ruby>道路<rt>どうろ</rt></ruby>までは，コンクリートから<ruby>砂利<rt>じゃり</rt></ruby><ruby>敷<rt>し</rt></ruby>きにする。",
+      "<ruby>扉<rt>とびら</rt></ruby>の<ruby>取<rt>と</rt></ruby>っ<ruby>手<rt>て</rt></ruby>は，レバーハンドルから<ruby>丸<rt>まる</rt></ruby>いドアノブにする。",
+      "<ruby>階段<rt>かいだん</rt></ruby>の<ruby>足<rt>あし</rt></ruby>が<ruby>乗<rt>の</rt></ruby>る<ruby>板<rt>いた</rt></ruby>と<ruby>板<rt>いた</rt></ruby>の<ruby>先端部<rt>せんたんぶ</rt></ruby><ruby>分<rt>ふん</rt></ruby>は，<ruby>反対<rt>はんたい</rt></ruby><ruby>色<rt>いろ</rt></ruby>から<ruby>同系色<rt>どうけいしょく</rt></ruby>にする。",
+      "<ruby>車<rt>くるま</rt></ruby>いすを<ruby>使用<rt>しよう</rt></ruby>する<ruby>居室<rt>きょしつ</rt></ruby>の<ruby>床<rt>とこ</rt></ruby>は，<ruby>畳<rt>たたみ</rt></ruby>から<ruby>板<rt>いた</rt></ruby><ruby>製<rt>せい</rt></ruby><ruby>床材<rt>ゆかざい</rt></ruby>（フローリング）にする。",
+      "<ruby>浴槽<rt>よくそう</rt></ruby>は，<ruby>和洋折衷<rt>わようせっちゅう</rt></ruby><ruby>式<rt>しき</rt></ruby>から<ruby>洋式<rt>ようしき</rt></ruby>にする。"
     ],
     "answer": 3
   },
   {
-    "question": "問題83 仰臥位（ぎょうがい）（背臥位（はいがい））から半座位（ファーラー位）にするとき，ギャッチベッドの背上げを行う前の介護に関する次の記述のうち，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>83 <ruby>仰臥<rt>ぎょうが</rt></ruby><ruby>位<rt>くらい</rt></ruby>（ぎょうがい）（<ruby>背<rt>せ</rt></ruby><ruby>臥位<rt>がい</rt></ruby>（はいがい））から<ruby>半座<rt>はんざ</rt></ruby><ruby>位<rt>くらい</rt></ruby>（ファーラー<ruby>位<rt>くらい</rt></ruby>）にするとき，ギャッチベッドの<ruby>背上<rt>はいじょう</rt></ruby>げを<ruby>行<rt>おこな</rt></ruby>う<ruby>前<rt>まえ</rt></ruby>の<ruby>介護<rt>かいご</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "背部の圧抜きを行う。",
-      "臀部（でんぶ）をベッド中央部の曲がる部分に合わせる。",
-      "ベッドの高さを最も低い高さにする。",
-      "利用者の足がフットボードに付くまで水平移動する。",
-      "利用者のからだをベッドに対して斜めにする。"
+      "<ruby>背部<rt>はいぶ</rt></ruby>の<ruby>圧<rt>あつ</rt></ruby><ruby>抜<rt>ぬ</rt></ruby>きを<ruby>行<rt>おこな</rt></ruby>う。",
+      "<ruby>臀部<rt>でんぶ</rt></ruby>（でんぶ）をベッド<ruby>中央部<rt>ちゅうおうぶ</rt></ruby>の<ruby>曲<rt>ま</rt></ruby>がる<ruby>部分<rt>ぶぶん</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わせる。",
+      "ベッドの<ruby>高<rt>たか</rt></ruby>さを<ruby>最<rt>もっと</rt></ruby>も<ruby>低<rt>ひく</rt></ruby>い<ruby>高<rt>たか</rt></ruby>さにする。",
+      "<ruby>利用者<rt>りようしゃ</rt></ruby>の<ruby>足<rt>あし</rt></ruby>がフットボードに<ruby>付<rt>つ</rt></ruby>くまで<ruby>水平移動<rt>すいへいいどう</rt></ruby>する。",
+      "<ruby>利用者<rt>りようしゃ</rt></ruby>のからだをベッドに<ruby>対<rt>たい</rt></ruby>して<ruby>斜<rt>なな</rt></ruby>めにする。"
     ],
     "answer": 1
   },
   {
-    "question": "問題84 回復期にある左片麻痺（ひだりかたまひ）の利用者が，ベッドで端座位から立位になるときの基本的な介護方法に関する次の記述のうち，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>84 <ruby>回復期<rt>かいふくき</rt></ruby>にある<ruby>左片<rt>さへん</rt></ruby><ruby>麻痺<rt>まひ</rt></ruby>（ひだりかたまひ）の<ruby>利用者<rt>りようしゃ</rt></ruby>が，ベッドで<ruby>端座<rt>たんざ</rt></ruby><ruby>位<rt>くらい</rt></ruby>から<ruby>立位<rt>りつい</rt></ruby>になるときの<ruby>基本的<rt>きほんてき</rt></ruby>な<ruby>介護<rt>かいご</rt></ruby><ruby>方法<rt>ほうほう</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "利用者の右側に立つ。",
-      "利用者に，ベッドに深く座るように促す。",
-      "利用者に，背すじを伸ばして真上に立ち上がるように促す。",
-      "利用者の左側に荷重がかかるように支える。",
-      "利用者の左の膝頭に手を当てて保持し，膝折れを防ぐ。"
+      "<ruby>利用者<rt>りようしゃ</rt></ruby>の<ruby>右側<rt>みぎがわ</rt></ruby>に<ruby>立<rt>た</rt></ruby>つ。",
+      "<ruby>利用者<rt>りようしゃ</rt></ruby>に，ベッドに<ruby>深<rt>ふか</rt></ruby>く<ruby>座<rt>すわ</rt></ruby>るように<ruby>促<rt>うなが</rt></ruby>す。",
+      "<ruby>利用者<rt>りようしゃ</rt></ruby>に，<ruby>背<rt>せ</rt></ruby>すじを<ruby>伸<rt>の</rt></ruby>ばして<ruby>真上<rt>まうえ</rt></ruby>に<ruby>立ち上<rt>たちあ</rt></ruby>がるように<ruby>促<rt>うなが</rt></ruby>す。",
+      "<ruby>利用者<rt>りようしゃ</rt></ruby>の<ruby>左側<rt>ひだりがわ</rt></ruby>に<ruby>荷重<rt>かじゅう</rt></ruby>がかかるように<ruby>支<rt>ささ</rt></ruby>える。",
+      "<ruby>利用者<rt>りようしゃ</rt></ruby>の<ruby>左<rt>ひだり</rt></ruby>の<ruby>膝頭<rt>ひざがしら</rt></ruby>に<ruby>手<rt>て</rt></ruby>を<ruby>当<rt>あ</rt></ruby>てて<ruby>保持<rt>ほじ</rt></ruby>し，<ruby>膝<rt>ひざ</rt></ruby><ruby>折<rt>お</rt></ruby>れを<ruby>防<rt>ふせ</rt></ruby>ぐ。"
     ],
     "answer": 4
   },
   {
-    "question": "問題85 標準型車いすを用いた移動の介護に関する次の記述のうち，適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>85 <ruby>標準型<rt>ひょうじゅんけい</rt></ruby><ruby>車<rt>くるま</rt></ruby>いすを<ruby>用<rt>もち</rt></ruby>いた<ruby>移動<rt>いどう</rt></ruby>の<ruby>介護<rt>かいご</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "急な上り坂は，すばやく進む。",
-      "急な下り坂は，前向きで進む。",
-      "踏切を渡るときは，駆動輪を上げて進む。",
-      "エレベーターに乗るときは，正面からまっすぐに進む。",
-      "段差を降りるときは，前輪から下りる。"
+      "<ruby>急<rt>きゅう</rt></ruby>な<ruby>上り坂<rt>のぼりざか</rt></ruby>は，すばやく<ruby>進<rt>すす</rt></ruby>む。",
+      "<ruby>急<rt>きゅう</rt></ruby>な<ruby>下り坂<rt>くだりざか</rt></ruby>は，<ruby>前向<rt>まえむ</rt></ruby>きで<ruby>進<rt>すす</rt></ruby>む。",
+      "<ruby>踏切<rt>ふみきり</rt></ruby>を<ruby>渡<rt>わた</rt></ruby>るときは，<ruby>駆動輪<rt>くどうりん</rt></ruby>を<ruby>上<rt>あ</rt></ruby>げて<ruby>進<rt>すす</rt></ruby>む。",
+      "エレベーターに<ruby>乗<rt>の</rt></ruby>るときは，<ruby>正面<rt>しょうめん</rt></ruby>からまっすぐに<ruby>進<rt>すす</rt></ruby>む。",
+      "<ruby>段差<rt>だんさ</rt></ruby>を<ruby>降<rt>お</rt></ruby>りるときは，<ruby>前輪<rt>ぜんりん</rt></ruby>から<ruby>下<rt>お</rt></ruby>りる。"
     ],
     "answer": 3
   },
   {
-    "question": "問題86 医学的管理の必要がない高齢者の爪の手入れに関する次の記述のうち，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>86 <ruby>医学的<rt>いがくてき</rt></ruby><ruby>管理<rt>かんり</rt></ruby>の<ruby>必要<rt>ひつよう</rt></ruby>がない<ruby>高齢者<rt>こうれいしゃ</rt></ruby>の<ruby>爪<rt>つめ</rt></ruby>の<ruby>手入<rt>てい</rt></ruby>れに<ruby>関<rt>かん</rt></ruby>する<ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "爪は，入浴の前に切る。",
-      "爪の先の白い部分は，残らないように切る。",
-      "爪は，一度にまっすぐ横に切る。",
-      "爪の両端は，切らずに残す。",
-      "爪切り後は，やすりをかけて滑らかにする。"
+      "<ruby>爪<rt>つめ</rt></ruby>は，<ruby>入浴<rt>にゅうよく</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に<ruby>切<rt>き</rt></ruby>る。",
+      "<ruby>爪<rt>つめ</rt></ruby>の<ruby>先<rt>さき</rt></ruby>の<ruby>白<rt>しろ</rt></ruby>い<ruby>部分<rt>ぶぶん</rt></ruby>は，<ruby>残<rt>のこ</rt></ruby>らないように<ruby>切<rt>き</rt></ruby>る。",
+      "<ruby>爪<rt>つめ</rt></ruby>は，<ruby>一度<rt>いちど</rt></ruby>にまっすぐ<ruby>横<rt>よこ</rt></ruby>に<ruby>切<rt>き</rt></ruby>る。",
+      "<ruby>爪<rt>つめ</rt></ruby>の<ruby>両端<rt>りょうたん</rt></ruby>は，<ruby>切<rt>き</rt></ruby>らずに<ruby>残<rt>のこ</rt></ruby>す。",
+      "<ruby>爪<rt>つめ</rt></ruby><ruby>切<rt>き</rt></ruby>り<ruby>後<rt>のち</rt></ruby>は，やすりをかけて<ruby>滑<rt>なめ</rt></ruby>らかにする。"
     ],
     "answer": 4
   },
   {
-    "question": "問題87 左片麻痺（ひだりかたまひ）の利用者が，端座位でズボンを着脱するときの介護に関する次の記述のうち，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>87 <ruby>左片<rt>さへん</rt></ruby><ruby>麻痺<rt>まひ</rt></ruby>（ひだりかたまひ）の<ruby>利用者<rt>りようしゃ</rt></ruby>が，<ruby>端座<rt>たんざ</rt></ruby><ruby>位<rt>くらい</rt></ruby>でズボンを<ruby>着脱<rt>ちゃくだつ</rt></ruby>するときの<ruby>介護<rt>かいご</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "最初に，左側の腰を少し上げて脱ぐように促す。",
-      "右膝を高く上げて，脱ぐように促す。",
-      "左足を右の大腿（だいたい）の上にのせて，ズボンを通すように促す。",
-      "立ち上がる前に，ズボンを膝下まで上げるように促す。",
-      "介護福祉職は右側に立って，ズボンを上げるように促す。"
+      "<ruby>最初<rt>さいしょ</rt></ruby>に，<ruby>左側<rt>ひだりがわ</rt></ruby>の<ruby>腰<rt>こし</rt></ruby>を<ruby>少<rt>すこ</rt></ruby>し<ruby>上<rt>あ</rt></ruby>げて<ruby>脱<rt>ぬ</rt></ruby>ぐように<ruby>促<rt>うなが</rt></ruby>す。",
+      "<ruby>右膝<rt>みぎひざ</rt></ruby>を<ruby>高<rt>たか</rt></ruby>く<ruby>上<rt>あ</rt></ruby>げて，<ruby>脱<rt>ぬ</rt></ruby>ぐように<ruby>促<rt>うなが</rt></ruby>す。",
+      "<ruby>左足<rt>ひだりあし</rt></ruby>を<ruby>右<rt>みぎ</rt></ruby>の<ruby>大腿<rt>だいたい</rt></ruby>（だいたい）の<ruby>上<rt>うえ</rt></ruby>にのせて，ズボンを<ruby>通<rt>とう</rt></ruby>すように<ruby>促<rt>うなが</rt></ruby>す。",
+      "<ruby>立ち上<rt>たちあ</rt></ruby>がる<ruby>前<rt>まえ</rt></ruby>に，ズボンを<ruby>膝下<rt>ひざした</rt></ruby>まで<ruby>上<rt>あ</rt></ruby>げるように<ruby>促<rt>うなが</rt></ruby>す。",
+      "<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>は<ruby>右側<rt>みぎがわ</rt></ruby>に<ruby>立<rt>た</rt></ruby>って，ズボンを<ruby>上<rt>あ</rt></ruby>げるように<ruby>促<rt>うなが</rt></ruby>す。"
     ],
     "answer": 2
   },
   {
-    "question": "問題88 次のうち，嚥下機能（えんげきのう）の低下している利用者に提供するおやつとして，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>88 <ruby>次<rt>つぎ</rt></ruby>のうち，<ruby>嚥下<rt>えんか</rt></ruby><ruby>機能<rt>きのう</rt></ruby>（えんげきのう）の<ruby>低下<rt>ていか</rt></ruby>している<ruby>利用者<rt>りようしゃ</rt></ruby>に<ruby>提供<rt>ていきょう</rt></ruby>するおやつとして，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
       "クッキー",
       "カステラ",
       "もなか",
-      "餅",
+      "<ruby>餅<rt>もち</rt></ruby>",
       "プリン"
     ],
     "answer": 4
   },
   {
-    "question": "問題89 介護老人福祉施設の介護福祉職が，管理栄養士と連携することが必要な利用者の状態として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>89 <ruby>介護<rt>かいご</rt></ruby><ruby>老人<rt>ろうじん</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>施設<rt>しせつ</rt></ruby>の<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>が，<ruby>管理<rt>かんり</rt></ruby><ruby>栄養士<rt>えいようし</rt></ruby>と<ruby>連携<rt>れんけい</rt></ruby>することが<ruby>必要<rt>ひつよう</rt></ruby>な<ruby>利用者<rt>りようしゃ</rt></ruby>の<ruby>状態<rt>じょうたい</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "利用者の食べ残しが目立つ。",
-      "経管栄養をしている利用者が嘔吐（おうと）する。",
-      "利用者の食事中の姿勢が不安定である。",
-      "利用者の義歯がぐらついている。",
-      "利用者の摂食・嚥下（えんげ）の機能訓練が必要である。"
+      "<ruby>利用者<rt>りようしゃ</rt></ruby>の<ruby>食べ残<rt>たべのこ</rt></ruby>しが<ruby>目立<rt>めだ</rt></ruby>つ。",
+      "<ruby>経管<rt>けいかん</rt></ruby><ruby>栄養<rt>えいよう</rt></ruby>をしている<ruby>利用者<rt>りようしゃ</rt></ruby>が<ruby>嘔吐<rt>おうと</rt></ruby>（おうと）する。",
+      "<ruby>利用者<rt>りようしゃ</rt></ruby>の<ruby>食事中<rt>しょくじちゅう</rt></ruby>の<ruby>姿勢<rt>しせい</rt></ruby>が<ruby>不安定<rt>ふあんてい</rt></ruby>である。",
+      "<ruby>利用者<rt>りようしゃ</rt></ruby>の<ruby>義歯<rt>ぎし</rt></ruby>がぐらついている。",
+      "<ruby>利用者<rt>りようしゃ</rt></ruby>の<ruby>摂食<rt>せっしょく</rt></ruby>・<ruby>嚥下<rt>えんか</rt></ruby>（えんげ）の<ruby>機能<rt>きのう</rt></ruby><ruby>訓練<rt>くんれん</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>である。"
     ],
     "answer": 0
   },
   {
-    "question": "問題90 次の記述のうち，血液透析を受けている利用者への食事の介護として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>90 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>血液<rt>けつえき</rt></ruby><ruby>透析<rt>とうせき</rt></ruby>を<ruby>受<rt>う</rt></ruby>けている<ruby>利用者<rt>りようしゃ</rt></ruby>への<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>介護<rt>かいご</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "塩分の多い食品をとるように勧める。",
-      "ゆでこぼした野菜をとるように勧める。",
-      "乳製品を多くとるように勧める。",
-      "水分を多くとるように勧める。",
-      "魚や肉を使った料理を多くとるように勧める。"
+      "<ruby>塩分<rt>えんぶん</rt></ruby>の<ruby>多<rt>おお</rt></ruby>い<ruby>食品<rt>しょくひん</rt></ruby>をとるように<ruby>勧<rt>すす</rt></ruby>める。",
+      "ゆでこぼした<ruby>野菜<rt>やさい</rt></ruby>をとるように<ruby>勧<rt>すす</rt></ruby>める。",
+      "<ruby>乳製品<rt>にゅうせいひん</rt></ruby>を<ruby>多<rt>おお</rt></ruby>くとるように<ruby>勧<rt>すす</rt></ruby>める。",
+      "<ruby>水分<rt>すいぶん</rt></ruby>を<ruby>多<rt>おお</rt></ruby>くとるように<ruby>勧<rt>すす</rt></ruby>める。",
+      "<ruby>魚<rt>さかな</rt></ruby>や<ruby>肉<rt>にく</rt></ruby>を<ruby>使<rt>つか</rt></ruby>った<ruby>料理<rt>りょうり</rt></ruby>を<ruby>多<rt>おお</rt></ruby>くとるように<ruby>勧<rt>すす</rt></ruby>める。"
     ],
     "answer": 1
   },
   {
-    "question": "問題91 介護老人福祉施設の一般浴（個浴）で，右片麻痺（みぎかたまひ）の利用者が移乗台に座っている。その状態から安全に入浴をするための介護福祉職の助言として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>91 <ruby>介護<rt>かいご</rt></ruby><ruby>老人<rt>ろうじん</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>施設<rt>しせつ</rt></ruby>の<ruby>一般<rt>いっぱん</rt></ruby><ruby>浴<rt>よく</rt></ruby>（<ruby>個<rt>こ</rt></ruby><ruby>浴<rt>よく</rt></ruby>）で，<ruby>右片<rt>うへん</rt></ruby><ruby>麻痺<rt>まひ</rt></ruby>（みぎかたまひ）の<ruby>利用者<rt>りようしゃ</rt></ruby>が<ruby>移乗<rt>いじょう</rt></ruby><ruby>台<rt>だい</rt></ruby>に<ruby>座<rt>すわ</rt></ruby>っている。その<ruby>状態<rt>じょうたい</rt></ruby>から<ruby>安全<rt>あんぜん</rt></ruby>に<ruby>入浴<rt>にゅうよく</rt></ruby>をするための<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>の<ruby>助言<rt>じょげん</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "「浴槽に入るときは，右足から入りましょう」",
-      "「湯につかるときは，左膝に手をついてゆっくり入りましょう」",
-      "「浴槽内では，足で浴槽の壁を押すようにして姿勢を安定させましょう」",
-      "「浴槽内では，後ろの壁に寄りかかり足を伸ばしましょう」",
-      "「浴槽から出るときは，真上方向に立ち上がりましょう」"
+      "「<ruby>浴槽<rt>よくそう</rt></ruby>に<ruby>入<rt>い</rt></ruby>るときは，<ruby>右足<rt>みぎあし</rt></ruby>から<ruby>入<rt>い</rt></ruby>りましょう」",
+      "「<ruby>湯<rt>ゆ</rt></ruby>につかるときは，<ruby>左膝<rt>ひだりひざ</rt></ruby>に<ruby>手<rt>て</rt></ruby>をついてゆっくり<ruby>入<rt>い</rt></ruby>りましょう」",
+      "「<ruby>浴槽<rt>よくそう</rt></ruby><ruby>内<rt>ない</rt></ruby>では，<ruby>足<rt>あし</rt></ruby>で<ruby>浴槽<rt>よくそう</rt></ruby>の<ruby>壁<rt>かべ</rt></ruby>を<ruby>押<rt>お</rt></ruby>すようにして<ruby>姿勢<rt>しせい</rt></ruby>を<ruby>安定<rt>あんてい</rt></ruby>させましょう」",
+      "「<ruby>浴槽<rt>よくそう</rt></ruby><ruby>内<rt>ない</rt></ruby>では，<ruby>後<rt>うし</rt></ruby>ろの<ruby>壁<rt>かべ</rt></ruby>に<ruby>寄<rt>よ</rt></ruby>りかかり<ruby>足<rt>あし</rt></ruby>を<ruby>伸<rt>の</rt></ruby>ばしましょう」",
+      "「<ruby>浴槽<rt>よくそう</rt></ruby>から<ruby>出<rt>で</rt></ruby>るときは，<ruby>真上<rt>まうえ</rt></ruby><ruby>方向<rt>ほうこう</rt></ruby>に<ruby>立ち上<rt>たちあ</rt></ruby>がりましょう」"
     ],
     "answer": 2
   },
   {
-    "question": "問題92 次の記述のうち，椅座位で足浴を行う介護方法として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>92 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>椅座<rt>いざ</rt></ruby><ruby>位<rt>くらい</rt></ruby>で<ruby>足浴<rt>そくよく</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う<ruby>介護<rt>かいご</rt></ruby><ruby>方法<rt>ほうほう</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "ズボンを脱いだ状態で行う。",
-      "湯温の確認は，介護福祉職より先に利用者にしてもらう。",
-      "足底は，足浴用容器の底面に付いていることを確認する。",
-      "足に付いた石鹸（せっけん）の泡は，洗い流さずに拭き取る。",
-      "足浴用容器から足を上げた後は，自然乾燥させる。"
+      "ズボンを<ruby>脱<rt>ぬ</rt></ruby>いだ<ruby>状態<rt>じょうたい</rt></ruby>で<ruby>行<rt>おこな</rt></ruby>う。",
+      "<ruby>湯温<rt>ゆおん</rt></ruby>の<ruby>確認<rt>かくにん</rt></ruby>は，<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>より<ruby>先<rt>さき</rt></ruby>に<ruby>利用者<rt>りようしゃ</rt></ruby>にしてもらう。",
+      "<ruby>足底<rt>あしそこ</rt></ruby>は，<ruby>足浴<rt>そくよく</rt></ruby><ruby>用<rt>よう</rt></ruby><ruby>容器<rt>ようき</rt></ruby>の<ruby>底面<rt>ていめん</rt></ruby>に<ruby>付<rt>つ</rt></ruby>いていることを<ruby>確認<rt>かくにん</rt></ruby>する。",
+      "<ruby>足<rt>あし</rt></ruby>に<ruby>付<rt>つ</rt></ruby>いた<ruby>石鹸<rt>せっけん</rt></ruby>（せっけん）の<ruby>泡<rt>あわ</rt></ruby>は，<ruby>洗<rt>あら</rt></ruby>い<ruby>流<rt>なが</rt></ruby>さずに<ruby>拭<rt>ふ</rt></ruby>き<ruby>取<rt>と</rt></ruby>る。",
+      "<ruby>足浴<rt>そくよく</rt></ruby><ruby>用<rt>よう</rt></ruby><ruby>容器<rt>ようき</rt></ruby>から<ruby>足<rt>あし</rt></ruby>を<ruby>上<rt>あ</rt></ruby>げた<ruby>後<rt>のち</rt></ruby>は，<ruby>自然<rt>しぜん</rt></ruby><ruby>乾燥<rt>かんそう</rt></ruby>させる。"
     ],
     "answer": 2
   },
   {
-    "question": "問題93 身体機能が低下している高齢者が，ストレッチャータイプの特殊浴槽を利用するときの入浴介護の留意点として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>93 <ruby>身体<rt>しんたい</rt></ruby><ruby>機能<rt>きのう</rt></ruby>が<ruby>低下<rt>ていか</rt></ruby>している<ruby>高齢者<rt>こうれいしゃ</rt></ruby>が，ストレッチャータイプの<ruby>特殊<rt>とくしゅ</rt></ruby><ruby>浴槽<rt>よくそう</rt></ruby>を<ruby>利用<rt>りよう</rt></ruby>するときの<ruby>入浴<rt>にゅうよく</rt></ruby><ruby>介護<rt>かいご</rt></ruby>の<ruby>留意点<rt>りゅういてん</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "介護福祉職 2 名で，洗髪と洗身を同時に行う。",
-      "背部を洗うときは，側臥位（そくがい）にして行う。",
-      "浴槽に入るときは，両腕の上から固定ベルトを装着する。",
-      "浴槽では，首までつかるようにする。",
-      "浴槽につかる時間は，20分程度とする。"
+      "<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby> 2 <ruby>名<rt>めい</rt></ruby>で，<ruby>洗髪<rt>せんぱつ</rt></ruby>と<ruby>洗身<rt>せんしん</rt></ruby>を<ruby>同時<rt>どうじ</rt></ruby>に<ruby>行<rt>おこな</rt></ruby>う。",
+      "<ruby>背部<rt>はいぶ</rt></ruby>を<ruby>洗<rt>あら</rt></ruby>うときは，<ruby>側臥<rt>そくが</rt></ruby><ruby>位<rt>くらい</rt></ruby>（そくがい）にして<ruby>行<rt>おこな</rt></ruby>う。",
+      "<ruby>浴槽<rt>よくそう</rt></ruby>に<ruby>入<rt>い</rt></ruby>るときは，<ruby>両腕<rt>りょううで</rt></ruby>の<ruby>上<rt>うえ</rt></ruby>から<ruby>固定<rt>こてい</rt></ruby>ベルトを<ruby>装着<rt>そうちゃく</rt></ruby>する。",
+      "<ruby>浴槽<rt>よくそう</rt></ruby>では，<ruby>首<rt>くび</rt></ruby>までつかるようにする。",
+      "<ruby>浴槽<rt>よくそう</rt></ruby>につかる<ruby>時間<rt>じかん</rt></ruby>は，20<ruby>分<rt>ふん</rt></ruby><ruby>程度<rt>ていど</rt></ruby>とする。"
     ],
     "answer": 1
   },
   {
-    "question": "問題94 Ｊさん（84 歳，女性，要介護 3 ）は，認知症（dementia）があり，夫（86 歳， 要支援1）と二人暮らしである。Ｊさんは尿意はあるが，夫の介護負担を軽減するため終日おむつを使用しており，尿路感染症（urinary tract infection）を繰り返し ていた。夫が体調不良になったので，Ｊさんは介護老人福祉施設に入所した。 Ｊさんの尿路感染症（urinary tract infection）を予防する介護として，最も適切 なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>94 Ｊさん（84 <ruby>歳<rt>とし</rt></ruby>，<ruby>女性<rt>じょせい</rt></ruby>，<ruby>要介<rt>ようすけ</rt></ruby><ruby>護<rt>ご</rt></ruby> 3 ）は，<ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby>（dementia）があり，<ruby>夫<rt>おっと</rt></ruby>（86 <ruby>歳<rt>とし</rt></ruby>， <ruby>要<rt>よう</rt></ruby><ruby>支援<rt>しえん</rt></ruby>1）と<ruby>二人<rt>ふたり</rt></ruby><ruby>暮<rt>く</rt></ruby>らしである。Ｊさんは<ruby>尿意<rt>にょうい</rt></ruby>はあるが，<ruby>夫<rt>おっと</rt></ruby>の<ruby>介護<rt>かいご</rt></ruby><ruby>負担<rt>ふたん</rt></ruby>を<ruby>軽減<rt>けいげん</rt></ruby>するため<ruby>終日<rt>しゅうじつ</rt></ruby>おむつを<ruby>使用<rt>しよう</rt></ruby>しており，<ruby>尿路<rt>にょうろ</rt></ruby><ruby>感染症<rt>かんせんしょう</rt></ruby>（urinary tract infection）を<ruby>繰り返<rt>くりかえ</rt></ruby>し ていた。<ruby>夫<rt>おっと</rt></ruby>が<ruby>体調不良<rt>たいちょうふりょう</rt></ruby>になったので，Ｊさんは<ruby>介護<rt>かいご</rt></ruby><ruby>老人<rt>ろうじん</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>施設<rt>しせつ</rt></ruby>に<ruby>入所<rt>にゅうしょ</rt></ruby>した。 Ｊさんの<ruby>尿路<rt>にょうろ</rt></ruby><ruby>感染症<rt>かんせんしょう</rt></ruby>（urinary tract infection）を<ruby>予防<rt>よぼう</rt></ruby>する<ruby>介護<rt>かいご</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby> なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "尿の性状を観察する。",
-      "体温の変化を観察する。",
-      "陰部洗浄の回数を検討する。",
-      "おむつを使わないで，トイレに誘導する。",
-      "膀胱留置（ぼうこうりゅうち）カテーテルの使用を提案する。"
+      "<ruby>尿<rt>にょう</rt></ruby>の<ruby>性状<rt>せいじょう</rt></ruby>を<ruby>観察<rt>かんさつ</rt></ruby>する。",
+      "<ruby>体温<rt>たいおん</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>を<ruby>観察<rt>かんさつ</rt></ruby>する。",
+      "<ruby>陰部<rt>いんぶ</rt></ruby><ruby>洗浄<rt>せんじょう</rt></ruby>の<ruby>回数<rt>かいすう</rt></ruby>を<ruby>検討<rt>けんとう</rt></ruby>する。",
+      "おむつを<ruby>使<rt>つか</rt></ruby>わないで，トイレに<ruby>誘導<rt>ゆうどう</rt></ruby>する。",
+      "<ruby>膀胱<rt>ぼうこう</rt></ruby><ruby>留置<rt>りゅうち</rt></ruby>（ぼうこうりゅうち）カテーテルの<ruby>使用<rt>しよう</rt></ruby>を<ruby>提案<rt>ていあん</rt></ruby>する。"
     ],
     "answer": 3
   },
   {
-    "question": "問題95 夜間，自宅のトイレでの排泄（はいせつ）が間に合わずに失敗してしまう高齢者への介護福祉職の助言として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>95 <ruby>夜間<rt>やかん</rt></ruby>，<ruby>自宅<rt>じたく</rt></ruby>のトイレでの<ruby>排泄<rt>はいせつ</rt></ruby>（はいせつ）が<ruby>間に合<rt>まにあ</rt></ruby>わずに<ruby>失敗<rt>しっぱい</rt></ruby>してしまう<ruby>高齢者<rt>こうれいしゃ</rt></ruby>への<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>の<ruby>助言<rt>じょげん</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "水分摂取量を減らすように勧める。",
-      "終日，リハビリパンツを使用するように勧める。",
-      "睡眠薬を服用するように勧める。",
-      "泌尿器科を受診するように勧める。",
-      "夜間は，ポータブルトイレを使用するように勧める。"
+      "<ruby>水分<rt>すいぶん</rt></ruby><ruby>摂取量<rt>せっしゅりょう</rt></ruby>を<ruby>減<rt>へ</rt></ruby>らすように<ruby>勧<rt>すす</rt></ruby>める。",
+      "<ruby>終日<rt>しゅうじつ</rt></ruby>，リハビリパンツを<ruby>使用<rt>しよう</rt></ruby>するように<ruby>勧<rt>すす</rt></ruby>める。",
+      "<ruby>睡眠薬<rt>すいみんやく</rt></ruby>を<ruby>服用<rt>ふくよう</rt></ruby>するように<ruby>勧<rt>すす</rt></ruby>める。",
+      "<ruby>泌尿<rt>ひつにょう</rt></ruby><ruby>器<rt>うつわ</rt></ruby><ruby>科<rt>か</rt></ruby>を<ruby>受診<rt>じゅしん</rt></ruby>するように<ruby>勧<rt>すす</rt></ruby>める。",
+      "<ruby>夜間<rt>やかん</rt></ruby>は，ポータブルトイレを<ruby>使用<rt>しよう</rt></ruby>するように<ruby>勧<rt>すす</rt></ruby>める。"
     ],
     "answer": 4
   },
   {
-    "question": "問題96 介護福祉職が行うことができる，市販のディスポーザブルグリセリン浣腸器（かんちょうき）を用いた排便の介護に関する次の記述のうち，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>96 <ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>が<ruby>行<rt>おこな</rt></ruby>うことができる，<ruby>市販<rt>しはん</rt></ruby>のディスポーザブルグリセリン<ruby>浣腸<rt>かんちょう</rt></ruby><ruby>器<rt>うつわ</rt></ruby>（かんちょうき）を<ruby>用<rt>もち</rt></ruby>いた<ruby>排便<rt>はいべん</rt></ruby>の<ruby>介護<rt>かいご</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "浣腸液（かんちょうえき）は，39℃～40℃に温める。",
-      "浣腸液（かんちょうえき）を注入するときは，立位をとるように声をかける。",
-      "浣腸液（かんちょうえき）は，すばやく注入する。",
-      "浣腸液（かんちょうえき）を注入したら，すぐに排便するように声をかける。",
-      "排便がない場合は，新しい浣腸液（かんちょうえき）を再注入する。"
+      "<ruby>浣腸<rt>かんちょう</rt></ruby><ruby>液<rt>えき</rt></ruby>（かんちょうえき）は，39℃～40℃に<ruby>温<rt>あたた</rt></ruby>める。",
+      "<ruby>浣腸<rt>かんちょう</rt></ruby><ruby>液<rt>えき</rt></ruby>（かんちょうえき）を<ruby>注入<rt>ちゅうにゅう</rt></ruby>するときは，<ruby>立位<rt>りつい</rt></ruby>をとるように<ruby>声<rt>こえ</rt></ruby>をかける。",
+      "<ruby>浣腸<rt>かんちょう</rt></ruby><ruby>液<rt>えき</rt></ruby>（かんちょうえき）は，すばやく<ruby>注入<rt>ちゅうにゅう</rt></ruby>する。",
+      "<ruby>浣腸<rt>かんちょう</rt></ruby><ruby>液<rt>えき</rt></ruby>（かんちょうえき）を<ruby>注入<rt>ちゅうにゅう</rt></ruby>したら，すぐに<ruby>排便<rt>はいべん</rt></ruby>するように<ruby>声<rt>こえ</rt></ruby>をかける。",
+      "<ruby>排便<rt>はいべん</rt></ruby>がない<ruby>場合<rt>ばあい</rt></ruby>は，<ruby>新<rt>あたら</rt></ruby>しい<ruby>浣腸<rt>かんちょう</rt></ruby><ruby>液<rt>えき</rt></ruby>（かんちょうえき）を<ruby>再注入<rt>さいちゅうにゅう</rt></ruby>する。"
     ],
     "answer": 0
   },
   {
-    "question": "問題97 訪問介護員（ホームヘルパー）が行う見守り的援助として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>97 <ruby>訪問<rt>ほうもん</rt></ruby><ruby>介護<rt>かいご</rt></ruby><ruby>員<rt>いん</rt></ruby>（ホームヘルパー）が<ruby>行<rt>おこな</rt></ruby>う<ruby>見守<rt>みまも</rt></ruby>り<ruby>的<rt>てき</rt></ruby><ruby>援助<rt>えんじょ</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "ゴミの分別ができるように声をかける。",
-      "利用者がテレビを見ている間に洗濯物を干す。",
-      "着られなくなった服を作り直す。",
-      "調理したものを盛り付け，食事を提供する。",
-      "冷蔵庫の中を整理し，賞味期限が切れた食品を捨てておく。"
+      "ゴミの<ruby>分別<rt>ふんべつ</rt></ruby>ができるように<ruby>声<rt>こえ</rt></ruby>をかける。",
+      "<ruby>利用者<rt>りようしゃ</rt></ruby>がテレビを<ruby>見<rt>み</rt></ruby>ている<ruby>間<rt>ま</rt></ruby>に<ruby>洗濯物<rt>せんたくもの</rt></ruby>を<ruby>干<rt>ほ</rt></ruby>す。",
+      "<ruby>着<rt>き</rt></ruby>られなくなった<ruby>服<rt>ふく</rt></ruby>を<ruby>作り直<rt>つくりなお</rt></ruby>す。",
+      "<ruby>調理<rt>ちょうり</rt></ruby>したものを<ruby>盛<rt>も</rt></ruby>り<ruby>付<rt>つ</rt></ruby>け，<ruby>食事<rt>しょくじ</rt></ruby>を<ruby>提供<rt>ていきょう</rt></ruby>する。",
+      "<ruby>冷蔵庫<rt>れいぞうこ</rt></ruby>の<ruby>中<rt>なか</rt></ruby>を<ruby>整理<rt>せいり</rt></ruby>し，<ruby>賞味期限<rt>しょうみきげん</rt></ruby>が<ruby>切<rt>き</rt></ruby>れた<ruby>食品<rt>しょくひん</rt></ruby>を<ruby>捨<rt>す</rt></ruby>てておく。"
     ],
     "answer": 0
   },
   {
-    "question": "問題98 高齢者が靴下・靴を選ぶときの介護福祉職の対応として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>98 <ruby>高齢者<rt>こうれいしゃ</rt></ruby>が<ruby>靴下<rt>くつした</rt></ruby>・<ruby>靴<rt>くつ</rt></ruby>を<ruby>選<rt>えら</rt></ruby>ぶときの<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>の<ruby>対応<rt>たいおう</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "靴下は，指つきのきついものを勧める。",
-      "靴下は，足底に滑り止めがあるものを勧める。",
-      "靴は，床面からつま先までの高さが小さいものを勧める。",
-      "靴は， 踵（かかと）のない脱ぎやすいものを勧める。",
-      "靴は，先端部に 0.5～ 1 cm の余裕があるものを勧める。"
+      "<ruby>靴下<rt>くつした</rt></ruby>は，<ruby>指<rt>ゆび</rt></ruby>つきのきついものを<ruby>勧<rt>すす</rt></ruby>める。",
+      "<ruby>靴下<rt>くつした</rt></ruby>は，<ruby>足底<rt>あしそこ</rt></ruby>に<ruby>滑<rt>すべ</rt></ruby>り<ruby>止<rt>と</rt></ruby>めがあるものを<ruby>勧<rt>すす</rt></ruby>める。",
+      "<ruby>靴<rt>くつ</rt></ruby>は，<ruby>床面<rt>ゆかめん</rt></ruby>からつま<ruby>先<rt>さき</rt></ruby>までの<ruby>高<rt>たか</rt></ruby>さが<ruby>小<rt>ちー</rt></ruby>さいものを<ruby>勧<rt>すす</rt></ruby>める。",
+      "<ruby>靴<rt>くつ</rt></ruby>は， <ruby>踵<rt>かかと</rt></ruby>（かかと）のない<ruby>脱<rt>ぬ</rt></ruby>ぎやすいものを<ruby>勧<rt>すす</rt></ruby>める。",
+      "<ruby>靴<rt>くつ</rt></ruby>は，<ruby>先端部<rt>せんたんぶ</rt></ruby>に 0.5～ 1 cm の<ruby>余裕<rt>よゆう</rt></ruby>があるものを<ruby>勧<rt>すす</rt></ruby>める。"
     ],
     "answer": 4
   },
   {
-    "question": "問題99 Ｋさん（77 歳，女性，要支援 2 ）は，もの忘れが目立ちはじめ，訪問介護 （ホームヘルプサービス）を利用しながら夫と二人で生活している。訪問時，Ｋさん夫婦から，「Ｋさんがテレビショッピングで購入した健康食品が毎月届いてしまい， 高額の支払いが発生して困っている」と相談があった。 Ｋさん夫婦に対する訪問介護員（ホームヘルパー）の発言として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>99 Ｋさん（77 <ruby>歳<rt>とし</rt></ruby>，<ruby>女性<rt>じょせい</rt></ruby>，<ruby>要<rt>よう</rt></ruby><ruby>支援<rt>しえん</rt></ruby> 2 ）は，もの<ruby>忘<rt>わす</rt></ruby>れが<ruby>目立<rt>めだ</rt></ruby>ちはじめ，<ruby>訪問<rt>ほうもん</rt></ruby><ruby>介護<rt>かいご</rt></ruby> （ホームヘルプサービス）を<ruby>利用<rt>りよう</rt></ruby>しながら<ruby>夫<rt>おっと</rt></ruby>と<ruby>二人<rt>ふたり</rt></ruby>で<ruby>生活<rt>せいかつ</rt></ruby>している。<ruby>訪問時<rt>ほうもんじ</rt></ruby>，Ｋさん<ruby>夫婦<rt>ふうふ</rt></ruby>から，「Ｋさんがテレビショッピングで<ruby>購入<rt>こうにゅう</rt></ruby>した<ruby>健康食品<rt>けんこうしょくひん</rt></ruby>が<ruby>毎月<rt>まいつき</rt></ruby><ruby>届<rt>とど</rt></ruby>いてしまい， <ruby>高額<rt>こうがく</rt></ruby>の<ruby>支払<rt>しはら</rt></ruby>いが<ruby>発生<rt>はっせい</rt></ruby>して<ruby>困<rt>こま</rt></ruby>っている」と<ruby>相談<rt>そうだん</rt></ruby>があった。 Ｋさん<ruby>夫婦<rt>ふうふ</rt></ruby>に<ruby>対<rt>たい</rt></ruby>する<ruby>訪問<rt>ほうもん</rt></ruby><ruby>介護<rt>かいご</rt></ruby><ruby>員<rt>いん</rt></ruby>（ホームヘルパー）の<ruby>発言<rt>はつげん</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "「健康食品は処分しましょう」",
+      "「<ruby>健康食品<rt>けんこうしょくひん</rt></ruby>は<ruby>処分<rt>しょぶん</rt></ruby>しましょう」",
       "「クーリング・オフをしましょう」",
-      "「買い物は夫がするようにしましょう」",
-      "「契約内容を一緒に確認しましょう」",
-      "「テレビショッピングでの買い物はやめましょう」"
+      "「<ruby>買い物<rt>かいもの</rt></ruby>は<ruby>夫<rt>おっと</rt></ruby>がするようにしましょう」",
+      "「<ruby>契約内容<rt>けいやくないよう</rt></ruby>を<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>確認<rt>かくにん</rt></ruby>しましょう」",
+      "「テレビショッピングでの<ruby>買い物<rt>かいもの</rt></ruby>はやめましょう」"
     ],
     "answer": 3
   },
   {
-    "question": "問題100 消化管ストーマを造設した利用者への睡眠の介護に関する記述として，最 も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>100 <ruby>消化<rt>しょうか</rt></ruby><ruby>管<rt>かん</rt></ruby>ストーマを<ruby>造設<rt>ぞうせつ</rt></ruby>した<ruby>利用者<rt>りようしゃ</rt></ruby>への<ruby>睡眠<rt>すいみん</rt></ruby>の<ruby>介護<rt>かいご</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>記述<rt>きじゅつ</rt></ruby>として，<ruby>最<rt>さい</rt></ruby> も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "寝る前にストーマから出血がある場合は，軟膏（なんこう）を塗布する。",
-      "寝る前に，パウチに便がたまっていたら捨てる。",
-      "寝る前に，ストーマ装具を新しいものに交換する。",
-      "便の漏れが心配な場合は，パウチの上からおむつを強く巻く。",
-      "睡眠を妨げないように，パウチの観察は控える。"
+      "<ruby>寝<rt>ね</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>にストーマから<ruby>出血<rt>しゅっけつ</rt></ruby>がある<ruby>場合<rt>ばあい</rt></ruby>は，<ruby>軟膏<rt>なんこう</rt></ruby>（なんこう）を<ruby>塗布<rt>とふ</rt></ruby>する。",
+      "<ruby>寝<rt>ね</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に，パウチに<ruby>便<rt>びん</rt></ruby>がたまっていたら<ruby>捨<rt>す</rt></ruby>てる。",
+      "<ruby>寝<rt>ね</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に，ストーマ<ruby>装具<rt>そうぐ</rt></ruby>を<ruby>新<rt>あたら</rt></ruby>しいものに<ruby>交換<rt>こうかん</rt></ruby>する。",
+      "<ruby>便<rt>びん</rt></ruby>の<ruby>漏<rt>も</rt></ruby>れが<ruby>心配<rt>しんぱい</rt></ruby>な<ruby>場合<rt>ばあい</rt></ruby>は，パウチの<ruby>上<rt>うえ</rt></ruby>からおむつを<ruby>強<rt>つよ</rt></ruby>く<ruby>巻<rt>ま</rt></ruby>く。",
+      "<ruby>睡眠<rt>すいみん</rt></ruby>を<ruby>妨<rt>さまた</rt></ruby>げないように，パウチの<ruby>観察<rt>かんさつ</rt></ruby>は<ruby>控<rt>ひか</rt></ruby>える。"
     ],
     "answer": 1
   },
   {
-    "question": "問題101 Ｌさん（79 歳，男性，要介護2）は，介護老人保健施設に入所して1 か月が経過した。睡眠中に大きないびきをかいていることが多く，いびきの音が途切れることもある。夜間に目を覚ましていたり，起床時にだるそうにしている様子もしばしば見られている。 介護福祉職がＬさんについて収集すべき情報として，最も優先度の高いものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>101 Ｌさん（79 <ruby>歳<rt>とし</rt></ruby>，<ruby>男性<rt>だんせい</rt></ruby>，<ruby>要介<rt>ようすけ</rt></ruby><ruby>護<rt>ご</rt></ruby>2）は，<ruby>介護<rt>かいご</rt></ruby><ruby>老人<rt>ろうじん</rt></ruby><ruby>保健<rt>ほけん</rt></ruby><ruby>施設<rt>しせつ</rt></ruby>に<ruby>入所<rt>にゅうしょ</rt></ruby>して1 か<ruby>月<rt>がつ</rt></ruby>が<ruby>経過<rt>けいか</rt></ruby>した。<ruby>睡眠中<rt>すいみんちゅう</rt></ruby>に<ruby>大<rt>おお</rt></ruby>きないびきをかいていることが<ruby>多<rt>おお</rt></ruby>く，いびきの<ruby>音<rt>おと</rt></ruby>が<ruby>途切<rt>とぎ</rt></ruby>れることもある。<ruby>夜間<rt>やかん</rt></ruby>に<ruby>目<rt>め</rt></ruby>を<ruby>覚<rt>さ</rt></ruby>ましていたり，<ruby>起床<rt>きしょう</rt></ruby><ruby>時<rt>とき</rt></ruby>にだるそうにしている<ruby>様子<rt>ようす</rt></ruby>もしばしば<ruby>見<rt>み</rt></ruby>られている。 <ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>がＬさんについて<ruby>収集<rt>しゅうしゅう</rt></ruby>すべき<ruby>情報<rt>じょうほう</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>優先度<rt>ゆうせんど</rt></ruby>の<ruby>高<rt>たか</rt></ruby>いものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "枕の高さ",
-      "マットレスの硬さ",
-      "掛け布団の重さ",
-      "睡眠中の足の動き",
-      "睡眠中の呼吸状態"
+      "<ruby>枕<rt>まくら</rt></ruby>の<ruby>高<rt>たか</rt></ruby>さ",
+      "マットレスの<ruby>硬<rt>がた</rt></ruby>さ",
+      "<ruby>掛<rt>か</rt></ruby>け<ruby>布団<rt>ふとん</rt></ruby>の<ruby>重<rt>おも</rt></ruby>さ",
+      "<ruby>睡眠中<rt>すいみんちゅう</rt></ruby>の<ruby>足<rt>あし</rt></ruby>の<ruby>動<rt>うご</rt></ruby>き",
+      "<ruby>睡眠中<rt>すいみんちゅう</rt></ruby>の<ruby>呼吸<rt>こきゅう</rt></ruby><ruby>状態<rt>じょうたい</rt></ruby>"
     ],
     "answer": 4
   },
   {
-    "question": "問題102 Ｍさん（98 歳，男性，要介護 5 ）は，介護老人福祉施設に入所している。 誤嚥性肺炎（ごえんせいはいえん　aspiration pneumonia）で入退院を繰り返し，医師からは終末期が近い状態であるといわれている。 介護福祉職が確認すべきこととして，最も優先度の高いものを 1 つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>102 Ｍさん（98 <ruby>歳<rt>とし</rt></ruby>，<ruby>男性<rt>だんせい</rt></ruby>，<ruby>要介<rt>ようすけ</rt></ruby><ruby>護<rt>ご</rt></ruby> 5 ）は，<ruby>介護<rt>かいご</rt></ruby><ruby>老人<rt>ろうじん</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>施設<rt>しせつ</rt></ruby>に<ruby>入所<rt>にゅうしょ</rt></ruby>している。 <ruby>誤嚥<rt>ごえん</rt></ruby><ruby>性<rt>せい</rt></ruby><ruby>肺炎<rt>はいえん</rt></ruby>（ごえんせいはいえん　aspiration pneumonia）で<ruby>入退院<rt>にゅうたいいん</rt></ruby>を<ruby>繰り返<rt>くりかえ</rt></ruby>し，<ruby>医師<rt>いし</rt></ruby>からは<ruby>終末<rt>しゅうまつ</rt></ruby><ruby>期<rt>き</rt></ruby>が<ruby>近<rt>ちか</rt></ruby>い<ruby>状態<rt>じょうたい</rt></ruby>であるといわれている。 <ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>が<ruby>確認<rt>かくにん</rt></ruby>すべきこととして，<ruby>最<rt>もっと</rt></ruby>も<ruby>優先度<rt>ゆうせんど</rt></ruby>の<ruby>高<rt>たか</rt></ruby>いものを 1 つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "主治医の今後の見通し",
-      "誤嚥性肺炎（aspiration pneumonia）の発症時の入院先",
-      "経口摂取に対する本人の意向",
-      "経口摂取に対する家族の意向",
-      "延命治療に対する家族の希望"
+      "<ruby>主治医<rt>しゅじい</rt></ruby>の<ruby>今後<rt>こんご</rt></ruby>の<ruby>見通<rt>みとお</rt></ruby>し",
+      "<ruby>誤嚥<rt>ごえん</rt></ruby><ruby>性<rt>せい</rt></ruby><ruby>肺炎<rt>はいえん</rt></ruby>（aspiration pneumonia）の<ruby>発症<rt>はっしょう</rt></ruby><ruby>時<rt>とき</rt></ruby>の<ruby>入院先<rt>にゅういんさき</rt></ruby>",
+      "<ruby>経口<rt>けいこう</rt></ruby><ruby>摂取<rt>せっしゅ</rt></ruby>に<ruby>対<rt>たい</rt></ruby>する<ruby>本人<rt>ほんにん</rt></ruby>の<ruby>意向<rt>いこう</rt></ruby>",
+      "<ruby>経口<rt>けいこう</rt></ruby><ruby>摂取<rt>せっしゅ</rt></ruby>に<ruby>対<rt>たい</rt></ruby>する<ruby>家族<rt>かぞく</rt></ruby>の<ruby>意向<rt>いこう</rt></ruby>",
+      "<ruby>延命<rt>えんめい</rt></ruby><ruby>治療<rt>ちりょう</rt></ruby>に<ruby>対<rt>たい</rt></ruby>する<ruby>家族<rt>かぞく</rt></ruby>の<ruby>希望<rt>きぼう</rt></ruby>"
     ],
     "answer": 2
   },
   {
-    "question": "問題103 デスカンファレンス（death conference）の目的に関する次の記述のうち， 最も適切なものを 1 つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>103 デスカンファレンス（death conference）の<ruby>目的<rt>もくてき</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち， <ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを 1 つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "一般的な死の受容過程を学習する。",
-      "終末期を迎えている利用者の介護について検討する。",
-      "利用者の家族に対して，死が近づいたときの身体の変化を説明する。",
-      "亡くなった利用者の事例を振り返り，今後の介護に活用する。",
-      "終末期の介護に必要な死生観を統一する。"
+      "<ruby>一般的<rt>いっぱんてき</rt></ruby>な<ruby>死<rt>し</rt></ruby>の<ruby>受容<rt>じゅよう</rt></ruby><ruby>過程<rt>かてい</rt></ruby>を<ruby>学習<rt>がくしゅう</rt></ruby>する。",
+      "<ruby>終末<rt>しゅうまつ</rt></ruby><ruby>期<rt>き</rt></ruby>を<ruby>迎<rt>むか</rt></ruby>えている<ruby>利用者<rt>りようしゃ</rt></ruby>の<ruby>介護<rt>かいご</rt></ruby>について<ruby>検討<rt>けんとう</rt></ruby>する。",
+      "<ruby>利用者<rt>りようしゃ</rt></ruby>の<ruby>家族<rt>かぞく</rt></ruby>に<ruby>対<rt>たい</rt></ruby>して，<ruby>死<rt>し</rt></ruby>が<ruby>近<rt>ちか</rt></ruby>づいたときの<ruby>身体<rt>しんたい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>を<ruby>説明<rt>せつめい</rt></ruby>する。",
+      "<ruby>亡<rt>な</rt></ruby>くなった<ruby>利用者<rt>りようしゃ</rt></ruby>の<ruby>事例<rt>じれい</rt></ruby>を<ruby>振り返<rt>ふりかえ</rt></ruby>り，<ruby>今後<rt>こんご</rt></ruby>の<ruby>介護<rt>かいご</rt></ruby>に<ruby>活用<rt>かつよう</rt></ruby>する。",
+      "<ruby>終末<rt>しゅうまつ</rt></ruby><ruby>期<rt>き</rt></ruby>の<ruby>介護<rt>かいご</rt></ruby>に<ruby>必要<rt>ひつよう</rt></ruby>な<ruby>死生<rt>しせい</rt></ruby><ruby>観<rt>かん</rt></ruby>を<ruby>統一<rt>とういつ</rt></ruby>する。"
     ],
     "answer": 3
   },
   {
-    "question": "問題104 福祉用具を活用するときの基本的な考え方として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>104 <ruby>福祉<rt>ふくし</rt></ruby><ruby>用具<rt>ようぐ</rt></ruby>を<ruby>活用<rt>かつよう</rt></ruby>するときの<ruby>基本的<rt>きほんてき</rt></ruby>な<ruby>考え方<rt>かんがえかた</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "福祉用具が活用できれば，住宅改修は検討しない。",
-      "複数の福祉用具を使用するときは，状況に合わせた組合せを考える。",
-      "福祉用具の選択に迷うときは，社会福祉士に選択を依頼する。",
-      "家族介護者の負担軽減を最優先して選ぶ。",
-      "福祉用具の利用状況のモニタリング（monitoring）は不要である。"
+      "<ruby>福祉<rt>ふくし</rt></ruby><ruby>用具<rt>ようぐ</rt></ruby>が<ruby>活用<rt>かつよう</rt></ruby>できれば，<ruby>住宅<rt>じゅうたく</rt></ruby><ruby>改修<rt>かいしゅう</rt></ruby>は<ruby>検討<rt>けんとう</rt></ruby>しない。",
+      "<ruby>複数<rt>ふくすう</rt></ruby>の<ruby>福祉<rt>ふくし</rt></ruby><ruby>用具<rt>ようぐ</rt></ruby>を<ruby>使用<rt>しよう</rt></ruby>するときは，<ruby>状況<rt>じょうきょう</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わせた<ruby>組合<rt>くみあわ</rt></ruby>せを<ruby>考<rt>かんが</rt></ruby>える。",
+      "<ruby>福祉<rt>ふくし</rt></ruby><ruby>用具<rt>ようぐ</rt></ruby>の<ruby>選択<rt>せんたく</rt></ruby>に<ruby>迷<rt>まよ</rt></ruby>うときは，<ruby>社会福祉<rt>しゃかいふくし</rt></ruby><ruby>士<rt>さむらい</rt></ruby>に<ruby>選択<rt>せんたく</rt></ruby>を<ruby>依頼<rt>いらい</rt></ruby>する。",
+      "<ruby>家族<rt>かぞく</rt></ruby><ruby>介護<rt>かいご</rt></ruby><ruby>者<rt>もの</rt></ruby>の<ruby>負担<rt>ふたん</rt></ruby><ruby>軽減<rt>けいげん</rt></ruby>を<ruby>最優先<rt>さいゆうせん</rt></ruby>して<ruby>選<rt>えら</rt></ruby>ぶ。",
+      "<ruby>福祉<rt>ふくし</rt></ruby><ruby>用具<rt>ようぐ</rt></ruby>の<ruby>利用状況<rt>りようじょうきょう</rt></ruby>のモニタリング（monitoring）は<ruby>不要<rt>ふよう</rt></ruby>である。"
     ],
     "answer": 1
   },
   {
-    "question": "問題105 以下の図のうち，握力の低下がある利用者が使用する杖（つえ）として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>105 <ruby>以下<rt>いか</rt></ruby>の<ruby>図<rt>ず</rt></ruby>のうち，<ruby>握力<rt>あくりょく</rt></ruby>の<ruby>低下<rt>ていか</rt></ruby>がある<ruby>利用者<rt>りようしゃ</rt></ruby>が<ruby>使用<rt>しよう</rt></ruby>する<ruby>杖<rt>つえ</rt></ruby>（つえ）として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
       "",
       "",
@@ -3911,229 +3911,229 @@ const examSets = {
     "answer": 2
   },
   {
-    "question": "問題106 介護福祉職が，初回の面談で情報を収集するときの留意点として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>106 <ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>が，<ruby>初回<rt>しょかい</rt></ruby>の<ruby>面談<rt>めんだん</rt></ruby>で<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>収集<rt>しゅうしゅう</rt></ruby>するときの<ruby>留意点<rt>りゅういてん</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "用意した項目を次から次に質問する。",
-      "目的を意識しながら話を聴く。",
-      "ほかの利用者が同席する状況で質問する。",
-      "最初に経済状態に関する質問をする。",
-      "家族の要望を中心に話を聴く。"
+      "<ruby>用意<rt>ようい</rt></ruby>した<ruby>項目<rt>こうもく</rt></ruby>を<ruby>次<rt>つぎ</rt></ruby>から<ruby>次<rt>つぎ</rt></ruby>に<ruby>質問<rt>しつもん</rt></ruby>する。",
+      "<ruby>目的<rt>もくてき</rt></ruby>を<ruby>意識<rt>いしき</rt></ruby>しながら<ruby>話<rt>はなし</rt></ruby>を<ruby>聴<rt>き</rt></ruby>く。",
+      "ほかの<ruby>利用者<rt>りようしゃ</rt></ruby>が<ruby>同席<rt>どうせき</rt></ruby>する<ruby>状況<rt>じょうきょう</rt></ruby>で<ruby>質問<rt>しつもん</rt></ruby>する。",
+      "<ruby>最初<rt>さいしょ</rt></ruby>に<ruby>経済状態<rt>けいざいじょうたい</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>質問<rt>しつもん</rt></ruby>をする。",
+      "<ruby>家族<rt>かぞく</rt></ruby>の<ruby>要望<rt>ようぼう</rt></ruby>を<ruby>中心<rt>ちゅうしん</rt></ruby>に<ruby>話<rt>はなし</rt></ruby>を<ruby>聴<rt>き</rt></ruby>く。"
     ],
     "answer": 1
   },
   {
-    "question": "問題107 介護過程の評価に関する次の記述のうち，最も適切なものを1つ選びなさ い。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>107 <ruby>介護<rt>かいご</rt></ruby><ruby>過程<rt>かてい</rt></ruby>の<ruby>評価<rt>ひょうか</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさ い。",
     "choices": [
-      "生活状況が変化しても，介護計画で設定した日に評価する。",
-      "サービス担当者会議で評価する。",
-      "相談支援専門員が中心になって評価する。",
-      "利用者の満足度を踏まえて評価する。",
-      "介護計画の実施中に評価基準を設定する。"
+      "<ruby>生活状況<rt>せいかつじょうきょう</rt></ruby>が<ruby>変化<rt>へんか</rt></ruby>しても，<ruby>介護<rt>かいご</rt></ruby><ruby>計画<rt>けいかく</rt></ruby>で<ruby>設定<rt>せってい</rt></ruby>した<ruby>日<rt>にち</rt></ruby>に<ruby>評価<rt>ひょうか</rt></ruby>する。",
+      "サービス<ruby>担当者<rt>たんとうしゃ</rt></ruby><ruby>会議<rt>かいぎ</rt></ruby>で<ruby>評価<rt>ひょうか</rt></ruby>する。",
+      "<ruby>相談<rt>そうだん</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>専門<rt>せんもん</rt></ruby><ruby>員<rt>いん</rt></ruby>が<ruby>中心<rt>ちゅうしん</rt></ruby>になって<ruby>評価<rt>ひょうか</rt></ruby>する。",
+      "<ruby>利用者<rt>りようしゃ</rt></ruby>の<ruby>満足度<rt>まんぞくど</rt></ruby>を<ruby>踏<rt>ふ</rt></ruby>まえて<ruby>評価<rt>ひょうか</rt></ruby>する。",
+      "<ruby>介護<rt>かいご</rt></ruby><ruby>計画<rt>けいかく</rt></ruby>の<ruby>実施中<rt>じっしちゅう</rt></ruby>に<ruby>評価基準<rt>ひょうかきじゅん</rt></ruby>を<ruby>設定<rt>せってい</rt></ruby>する。"
     ],
     "answer": 3
   },
   {
-    "question": "問題108 次の記述のうち，介護老人保健施設で多職種連携によるチームアプローチ （team approach）を実践するとき，介護福祉職が担う役割として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>108 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>介護<rt>かいご</rt></ruby><ruby>老人<rt>ろうじん</rt></ruby><ruby>保健<rt>ほけん</rt></ruby><ruby>施設<rt>しせつ</rt></ruby>で<ruby>多<rt>た</rt></ruby><ruby>職種<rt>しょくしゅ</rt></ruby><ruby>連携<rt>れんけい</rt></ruby>によるチームアプローチ （team approach）を<ruby>実践<rt>じっせん</rt></ruby>するとき，<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>が<ruby>担<rt>にな</rt></ruby>う<ruby>役割<rt>やくわり</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "利用者の生活状況の変化に関する情報を提供する。",
-      "総合的な支援の方向性を決める。",
-      "サービス担当者会議を開催する。",
-      "必要な検査を指示する。",
-      "ほかの職種が担う貢献度を評価する。"
+      "<ruby>利用者<rt>りようしゃ</rt></ruby>の<ruby>生活状況<rt>せいかつじょうきょう</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>提供<rt>ていきょう</rt></ruby>する。",
+      "<ruby>総合的<rt>そうごうてき</rt></ruby>な<ruby>支援<rt>しえん</rt></ruby>の<ruby>方向性<rt>ほうこうせい</rt></ruby>を<ruby>決<rt>き</rt></ruby>める。",
+      "サービス<ruby>担当者<rt>たんとうしゃ</rt></ruby><ruby>会議<rt>かいぎ</rt></ruby>を<ruby>開催<rt>かいさい</rt></ruby>する。",
+      "<ruby>必要<rt>ひつよう</rt></ruby>な<ruby>検査<rt>けんさ</rt></ruby>を<ruby>指示<rt>しじ</rt></ruby>する。",
+      "ほかの<ruby>職種<rt>しょくしゅ</rt></ruby>が<ruby>担<rt>にな</rt></ruby>う<ruby>貢献度<rt>こうけんど</rt></ruby>を<ruby>評価<rt>ひょうか</rt></ruby>する。"
     ],
     "answer": 0
   },
   {
-    "question": "問題109 大正琴クラブが終わった後のＡさんの行動を解釈するために必要な情報として，最も優先すべきものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>109 <ruby>大正琴<rt>たいしょうごと</rt></ruby>クラブが<ruby>終<rt>お</rt></ruby>わった<ruby>後<rt>のち</rt></ruby>のＡさんの<ruby>行動<rt>こうどう</rt></ruby>を<ruby>解釈<rt>かいしゃく</rt></ruby>するために<ruby>必要<rt>ひつよう</rt></ruby>な<ruby>情報<rt>じょうほう</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>優先<rt>ゆうせん</rt></ruby>すべきものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "介護職員の声かけのタイミング",
-      "Ａさんが演奏した時間",
-      "「あの子たちが待っているの」という発言",
-      "クラブに参加した利用者の人数",
-      "居室とエレベーターの位置関係"
+      "<ruby>介護<rt>かいご</rt></ruby><ruby>職員<rt>しょくいん</rt></ruby>の<ruby>声<rt>こえ</rt></ruby>かけのタイミング",
+      "Ａさんが<ruby>演奏<rt>えんそう</rt></ruby>した<ruby>時間<rt>じかん</rt></ruby>",
+      "「あの<ruby>子<rt>こ</rt></ruby>たちが<ruby>待<rt>ま</rt></ruby>っているの」という<ruby>発言<rt>はつげん</rt></ruby>",
+      "クラブに<ruby>参加<rt>さんか</rt></ruby>した<ruby>利用者<rt>りようしゃ</rt></ruby>の<ruby>人数<rt>にんずう</rt></ruby>",
+      "<ruby>居室<rt>きょしつ</rt></ruby>とエレベーターの<ruby>位置関係<rt>いちかんけい</rt></ruby>"
     ],
     "answer": 2
   },
   {
-    "question": "問題110 Ａさんの状況から支援を見直すことになった。 次の記述のうち，新たな支援の方向性として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>110 Ａさんの<ruby>状況<rt>じょうきょう</rt></ruby>から<ruby>支援<rt>しえん</rt></ruby>を<ruby>見直<rt>みなお</rt></ruby>すことになった。 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>新<rt>あら</rt></ruby>たな<ruby>支援<rt>しえん</rt></ruby>の<ruby>方向性<rt>ほうこうせい</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "介護職員との関係を改善する。",
-      "身体機能を改善する。",
-      "演奏できる自信を取り戻す。",
-      "エレベーターの前に座れる環境を整える。",
-      "大正琴を教える役割をもつ。"
+      "<ruby>介護<rt>かいご</rt></ruby><ruby>職員<rt>しょくいん</rt></ruby>との<ruby>関係<rt>かんけい</rt></ruby>を<ruby>改善<rt>かいぜん</rt></ruby>する。",
+      "<ruby>身体<rt>しんたい</rt></ruby><ruby>機能<rt>きのう</rt></ruby>を<ruby>改善<rt>かいぜん</rt></ruby>する。",
+      "<ruby>演奏<rt>えんそう</rt></ruby>できる<ruby>自信<rt>じしん</rt></ruby>を<ruby>取<rt>と</rt></ruby>り<ruby>戻<rt>もど</rt></ruby>す。",
+      "エレベーターの<ruby>前<rt>まえ</rt></ruby>に<ruby>座<rt>すわ</rt></ruby>れる<ruby>環境<rt>かんきょう</rt></ruby>を<ruby>整<rt>ととの</rt></ruby>える。",
+      "<ruby>大正琴<rt>たいしょうごと</rt></ruby>を<ruby>教<rt>おし</rt></ruby>える<ruby>役割<rt>やくわり</rt></ruby>をもつ。"
     ],
     "answer": 4
   },
   {
-    "question": "問題111 生活支援員の声かけに対し，Ｂさんが大声を出した理由を解釈する視点と して，最も適切なものを 1 つ選びなさい",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>111 <ruby>生活<rt>せいかつ</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>員<rt>いん</rt></ruby>の<ruby>声<rt>こえ</rt></ruby>かけに<ruby>対<rt>たい</rt></ruby>し，Ｂさんが<ruby>大声<rt>おおごえ</rt></ruby>を<ruby>出<rt>だ</rt></ruby>した<ruby>理由<rt>りゆう</rt></ruby>を<ruby>解釈<rt>かいしゃく</rt></ruby>する<ruby>視点<rt>してん</rt></ruby>と して，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを 1 つ<ruby>選<rt>えら</rt></ruby>びなさい",
     "choices": [
-      "ほかの利用者との人間関係",
-      "生活支援員に話した将来の希望",
-      "製品を箱に入れる毎日の作業量",
-      "製品の組立て作業の状況",
-      "左片麻痺（ひだりかたまひ）に合わせた作業台"
+      "ほかの<ruby>利用者<rt>りようしゃ</rt></ruby>との<ruby>人間関係<rt>にんげんかんけい</rt></ruby>",
+      "<ruby>生活<rt>せいかつ</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>員<rt>いん</rt></ruby>に<ruby>話<rt>はな</rt></ruby>した<ruby>将来<rt>しょうらい</rt></ruby>の<ruby>希望<rt>きぼう</rt></ruby>",
+      "<ruby>製品<rt>せいひん</rt></ruby>を<ruby>箱<rt>はこ</rt></ruby>に<ruby>入<rt>い</rt></ruby>れる<ruby>毎日<rt>まいにち</rt></ruby>の<ruby>作業量<rt>さぎょうりょう</rt></ruby>",
+      "<ruby>製品<rt>せいひん</rt></ruby>の<ruby>組立<rt>くみた</rt></ruby>て<ruby>作業<rt>さぎょう</rt></ruby>の<ruby>状況<rt>じょうきょう</rt></ruby>",
+      "<ruby>左片<rt>さへん</rt></ruby><ruby>麻痺<rt>まひ</rt></ruby>（ひだりかたまひ）に<ruby>合<rt>あ</rt></ruby>わせた<ruby>作業台<rt>さぎょうだい</rt></ruby>"
     ],
     "answer": 3
   },
   {
-    "question": "問題112 Ｂさんに対するカンファレンス（conference）が開催され，短期目標を達成するための具体的な支援について見直すことになった。 次の記述のうち，見直した支援内容として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>112 Ｂさんに<ruby>対<rt>たい</rt></ruby>するカンファレンス（conference）が<ruby>開催<rt>かいさい</rt></ruby>され，<ruby>短期<rt>たんき</rt></ruby><ruby>目標<rt>もくひょう</rt></ruby>を<ruby>達成<rt>たっせい</rt></ruby>するための<ruby>具体的<rt>ぐたいてき</rt></ruby>な<ruby>支援<rt>しえん</rt></ruby>について<ruby>見直<rt>みなお</rt></ruby>すことになった。 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>見直<rt>みなお</rt></ruby>した<ruby>支援<rt>しえん</rt></ruby><ruby>内容<rt>ないよう</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "完成品の不備を出すことへの反省を促す。",
-      "左側に部品を置いて作業するように促す。",
-      "完成までの手順を理解しやすいように示す。",
-      "生活支援員が横に座り続けて作業内容を指示する。",
-      "製品を箱に入れる単純作業も同時に行うように調整する。"
+      "<ruby>完成品<rt>かんせいひん</rt></ruby>の<ruby>不備<rt>ふび</rt></ruby>を<ruby>出<rt>だ</rt></ruby>すことへの<ruby>反省<rt>はんせい</rt></ruby>を<ruby>促<rt>うなが</rt></ruby>す。",
+      "<ruby>左側<rt>ひだりがわ</rt></ruby>に<ruby>部品<rt>ぶひん</rt></ruby>を<ruby>置<rt>お</rt></ruby>いて<ruby>作業<rt>さぎょう</rt></ruby>するように<ruby>促<rt>うなが</rt></ruby>す。",
+      "<ruby>完成<rt>かんせい</rt></ruby>までの<ruby>手順<rt>てじゅん</rt></ruby>を<ruby>理解<rt>りかい</rt></ruby>しやすいように<ruby>示<rt>しめ</rt></ruby>す。",
+      "<ruby>生活<rt>せいかつ</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>員<rt>いん</rt></ruby>が<ruby>横<rt>よこ</rt></ruby>に<ruby>座<rt>すわ</rt></ruby>り<ruby>続<rt>つづ</rt></ruby>けて<ruby>作業内容<rt>さぎょうないよう</rt></ruby>を<ruby>指示<rt>しじ</rt></ruby>する。",
+      "<ruby>製品<rt>せいひん</rt></ruby>を<ruby>箱<rt>はこ</rt></ruby>に<ruby>入<rt>い</rt></ruby>れる<ruby>単純作業<rt>たんじゅんさぎょう</rt></ruby>も<ruby>同時<rt>どうじ</rt></ruby>に<ruby>行<rt>おこな</rt></ruby>うように<ruby>調整<rt>ちょうせい</rt></ruby>する。"
     ],
     "answer": 2
   },
   {
-    "question": "問題113 事例研究を行うときに，遵守すべき倫理的配慮として，適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>113 <ruby>事例<rt>じれい</rt></ruby><ruby>研究<rt>けんきゅう</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>うときに，<ruby>遵守<rt>じゅんしゅ</rt></ruby>すべき<ruby>倫理的<rt>りんりてき</rt></ruby><ruby>配慮<rt>はいりょ</rt></ruby>として，<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "研究内容を説明して，事例対象者の同意を得る。",
-      "個人が特定できるように，氏名を記載する。",
-      "得られたデータは，研究終了後すぐに破棄する。",
-      "論文の一部であれば，引用元を明示せずに利用できる。",
-      "研究成果を得るために，事実を拡大解釈する。"
+      "<ruby>研究内容<rt>けんきゅうないよう</rt></ruby>を<ruby>説明<rt>せつめい</rt></ruby>して，<ruby>事例<rt>じれい</rt></ruby><ruby>対象者<rt>たいしょうしゃ</rt></ruby>の<ruby>同意<rt>どうい</rt></ruby>を<ruby>得<rt>え</rt></ruby>る。",
+      "<ruby>個人<rt>こじん</rt></ruby>が<ruby>特定<rt>とくてい</rt></ruby>できるように，<ruby>氏名<rt>しめい</rt></ruby>を<ruby>記載<rt>きさい</rt></ruby>する。",
+      "<ruby>得<rt>え</rt></ruby>られたデータは，<ruby>研究<rt>けんきゅう</rt></ruby><ruby>終了後<rt>しゅうりょうご</rt></ruby>すぐに<ruby>破棄<rt>はき</rt></ruby>する。",
+      "<ruby>論文<rt>ろんぶん</rt></ruby>の<ruby>一部<rt>いちぶ</rt></ruby>であれば，<ruby>引用元<rt>いんようもと</rt></ruby>を<ruby>明示<rt>めいじ</rt></ruby>せずに<ruby>利用<rt>りよう</rt></ruby>できる。",
+      "<ruby>研究成果<rt>けんきゅうせいか</rt></ruby>を<ruby>得<rt>え</rt></ruby>るために，<ruby>事実<rt>じじつ</rt></ruby>を<ruby>拡大解釈<rt>かくだいかいしゃく</rt></ruby>する。"
     ],
     "answer": 0
   },
   {
-    "question": "問題114 Ｃさんが八百屋でとった行動から考えられる状態として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>114 Ｃさんが<ruby>八百屋<rt>やおや</rt></ruby>でとった<ruby>行動<rt>こうどう</rt></ruby>から<ruby>考<rt>かんが</rt></ruby>えられる<ruby>状態<rt>じょうたい</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "脱抑制",
-      "記憶障害",
-      "感情失禁",
-      "見当識障害",
-      "遂行機能障害"
+      "<ruby>脱<rt>だつ</rt></ruby><ruby>抑制<rt>よくせい</rt></ruby>",
+      "<ruby>記憶<rt>きおく</rt></ruby><ruby>障害<rt>しょうがい</rt></ruby>",
+      "<ruby>感情<rt>かんじょう</rt></ruby><ruby>失禁<rt>しっきん</rt></ruby>",
+      "<ruby>見当<rt>けんとう</rt></ruby><ruby>識<rt>しき</rt></ruby><ruby>障害<rt>しょうがい</rt></ruby>",
+      "<ruby>遂行<rt>すいこう</rt></ruby><ruby>機能障害<rt>きのうしょうがい</rt></ruby>"
     ],
     "answer": 0
   },
   {
-    "question": "問題115 Ｃさんの介護保険制度の利用に関する次の記述のうち，適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>115 Ｃさんの<ruby>介護<rt>かいご</rt></ruby><ruby>保険制度<rt>ほけんせいど</rt></ruby>の<ruby>利用<rt>りよう</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "介護保険サービスの利用者負担割合は1割である。",
-      "介護保険料は特別徴収によって納付する。",
-      "要介護認定の結果が出る前に介護保険サービスを利用することはできない。",
-      "要介護認定の利用者負担割合は2割である。",
-      "介護保険サービスの費用はサービスの利用回数に関わらず定額である。"
+      "<ruby>介護<rt>かいご</rt></ruby><ruby>保険<rt>ほけん</rt></ruby>サービスの<ruby>利用者<rt>りようしゃ</rt></ruby><ruby>負担<rt>ふたん</rt></ruby><ruby>割合<rt>わりあい</rt></ruby>は1<ruby>割<rt>わり</rt></ruby>である。",
+      "<ruby>介護<rt>かいご</rt></ruby><ruby>保険料<rt>ほけんりょう</rt></ruby>は<ruby>特別<rt>とくべつ</rt></ruby><ruby>徴収<rt>ちょうしゅう</rt></ruby>によって<ruby>納付<rt>のうふ</rt></ruby>する。",
+      "<ruby>要介<rt>ようすけ</rt></ruby><ruby>護<rt>ご</rt></ruby><ruby>認定<rt>にんてい</rt></ruby>の<ruby>結果<rt>けっか</rt></ruby>が<ruby>出<rt>で</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に<ruby>介護<rt>かいご</rt></ruby><ruby>保険<rt>ほけん</rt></ruby>サービスを<ruby>利用<rt>りよう</rt></ruby>することはできない。",
+      "<ruby>要介<rt>ようすけ</rt></ruby><ruby>護<rt>ご</rt></ruby><ruby>認定<rt>にんてい</rt></ruby>の<ruby>利用者<rt>りようしゃ</rt></ruby><ruby>負担<rt>ふたん</rt></ruby><ruby>割合<rt>わりあい</rt></ruby>は2<ruby>割<rt>わり</rt></ruby>である。",
+      "<ruby>介護<rt>かいご</rt></ruby><ruby>保険<rt>ほけん</rt></ruby>サービスの<ruby>費用<rt>ひよう</rt></ruby>はサービスの<ruby>利用<rt>りよう</rt></ruby><ruby>回数<rt>かいすう</rt></ruby>に<ruby>関<rt>かか</rt></ruby>わらず<ruby>定額<rt>ていがく</rt></ruby>である。"
     ],
     "answer": 0
   },
   {
-    "question": "問題116 その後，妻に外出を制限されたＣさんは不穏となった。 困った妻が訪問介護員（ホームヘルパー）に相談したところ，「八百屋に事情を話して事前にお金を渡して，Ｃさんが品物を持ち去ったときは，渡したお金から商品代金を支払うようにお願いしてはどうか」とアドバイスを受けた。 訪問介護員（ホームヘルパー）が意図したＣさんへの関わりをICF（International Classification of Functioning, Disability and Health：国際生活機能分類）に当てはめた記述として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>116 その<ruby>後<rt>のち</rt></ruby>，<ruby>妻<rt>つま</rt></ruby>に<ruby>外出<rt>がいしゅつ</rt></ruby>を<ruby>制限<rt>せいげん</rt></ruby>されたＣさんは<ruby>不穏<rt>ふおん</rt></ruby>となった。 <ruby>困<rt>こま</rt></ruby>った<ruby>妻<rt>つま</rt></ruby>が<ruby>訪問<rt>ほうもん</rt></ruby><ruby>介護<rt>かいご</rt></ruby><ruby>員<rt>いん</rt></ruby>（ホームヘルパー）に<ruby>相談<rt>そうだん</rt></ruby>したところ，「<ruby>八百屋<rt>やおや</rt></ruby>に<ruby>事情<rt>じじょう</rt></ruby>を<ruby>話<rt>はな</rt></ruby>して<ruby>事前<rt>じぜん</rt></ruby>にお<ruby>金<rt>きん</rt></ruby>を<ruby>渡<rt>わた</rt></ruby>して，Ｃさんが<ruby>品物<rt>しなもの</rt></ruby>を<ruby>持<rt>も</rt></ruby>ち<ruby>去<rt>さ</rt></ruby>ったときは，<ruby>渡<rt>わた</rt></ruby>したお<ruby>金<rt>きん</rt></ruby>から<ruby>商品<rt>しょうひん</rt></ruby><ruby>代金<rt>だいきん</rt></ruby>を<ruby>支払<rt>しはら</rt></ruby>うようにお<ruby>願<rt>ねが</rt></ruby>いしてはどうか」とアドバイスを<ruby>受<rt>う</rt></ruby>けた。 <ruby>訪問<rt>ほうもん</rt></ruby><ruby>介護<rt>かいご</rt></ruby><ruby>員<rt>いん</rt></ruby>（ホームヘルパー）が<ruby>意図<rt>いと</rt></ruby>したＣさんへの<ruby>関<rt>かか</rt></ruby>わりをICF（International Classification of Functioning, Disability and Health：<ruby>国際<rt>こくさい</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby><ruby>機能<rt>きのう</rt></ruby><ruby>分類<rt>ぶんるい</rt></ruby>）に<ruby>当<rt>あ</rt></ruby>てはめた<ruby>記述<rt>きじゅつ</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "個人因子への影響を意図して，健康状態に働きかける。",
-      "健康状態への影響を意図して，心身機能に働きかける。",
-      "活動への影響を意図して，身体構造に働きかける。",
-      "参加への影響を意図して，環境因子に働きかける。",
-      "環境因子への影響を意図して，個人因子に働きかける。"
+      "<ruby>個人<rt>こじん</rt></ruby><ruby>因子<rt>いんし</rt></ruby>への<ruby>影響<rt>えいきょう</rt></ruby>を<ruby>意図<rt>いと</rt></ruby>して，<ruby>健康状態<rt>けんこうじょうたい</rt></ruby>に<ruby>働<rt>はたら</rt></ruby>きかける。",
+      "<ruby>健康状態<rt>けんこうじょうたい</rt></ruby>への<ruby>影響<rt>えいきょう</rt></ruby>を<ruby>意図<rt>いと</rt></ruby>して，<ruby>心身<rt>しんしん</rt></ruby><ruby>機能<rt>きのう</rt></ruby>に<ruby>働<rt>はたら</rt></ruby>きかける。",
+      "<ruby>活動<rt>かつどう</rt></ruby>への<ruby>影響<rt>えいきょう</rt></ruby>を<ruby>意図<rt>いと</rt></ruby>して，<ruby>身体<rt>しんたい</rt></ruby><ruby>構造<rt>こうぞう</rt></ruby>に<ruby>働<rt>はたら</rt></ruby>きかける。",
+      "<ruby>参加<rt>さんか</rt></ruby>への<ruby>影響<rt>えいきょう</rt></ruby>を<ruby>意図<rt>いと</rt></ruby>して，<ruby>環境<rt>かんきょう</rt></ruby><ruby>因子<rt>いんし</rt></ruby>に<ruby>働<rt>はたら</rt></ruby>きかける。",
+      "<ruby>環境<rt>かんきょう</rt></ruby><ruby>因子<rt>いんし</rt></ruby>への<ruby>影響<rt>えいきょう</rt></ruby>を<ruby>意図<rt>いと</rt></ruby>して，<ruby>個人<rt>こじん</rt></ruby><ruby>因子<rt>いんし</rt></ruby>に<ruby>働<rt>はたら</rt></ruby>きかける。"
     ],
     "answer": 3
   },
   {
-    "question": "問題117 次のうち，Ｄさんが提案を受けた施設として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>117 <ruby>次<rt>つぎ</rt></ruby>のうち，Ｄさんが<ruby>提案<rt>ていあん</rt></ruby>を<ruby>受<rt>う</rt></ruby>けた<ruby>施設<rt>しせつ</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "養護老人ホーム",
-      "軽費老人ホーム",
-      "介護老人福祉施設",
-      "介護老人保健施設",
-      "介護医療院"
+      "<ruby>養護<rt>ようご</rt></ruby><ruby>老人<rt>ろうじん</rt></ruby>ホーム",
+      "<ruby>軽費<rt>けいひ</rt></ruby><ruby>老人<rt>ろうじん</rt></ruby>ホーム",
+      "<ruby>介護<rt>かいご</rt></ruby><ruby>老人<rt>ろうじん</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>施設<rt>しせつ</rt></ruby>",
+      "<ruby>介護<rt>かいご</rt></ruby><ruby>老人<rt>ろうじん</rt></ruby><ruby>保健<rt>ほけん</rt></ruby><ruby>施設<rt>しせつ</rt></ruby>",
+      "<ruby>介護<rt>かいご</rt></ruby><ruby>医療<rt>いりょう</rt></ruby><ruby>院<rt>いん</rt></ruby>"
     ],
     "answer": 3
   },
   {
-    "question": "問題118 次のうち，介護支援専門員（ケアマネジャー）がＤさんに説明する居宅介護住宅改修費の支給限度基準額として，適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>118 <ruby>次<rt>つぎ</rt></ruby>のうち，<ruby>介護<rt>かいご</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>専門<rt>せんもん</rt></ruby><ruby>員<rt>いん</rt></ruby>（ケアマネジャー）がＤさんに<ruby>説明<rt>せつめい</rt></ruby>する<ruby>居宅<rt>きょたく</rt></ruby><ruby>介護<rt>かいご</rt></ruby><ruby>住宅<rt>じゅうたく</rt></ruby><ruby>改修<rt>かいしゅう</rt></ruby><ruby>費<rt>ひ</rt></ruby>の<ruby>支給<rt>しきゅう</rt></ruby><ruby>限度<rt>げんど</rt></ruby><ruby>基準<rt>きじゅん</rt></ruby><ruby>額<rt>ひたい</rt></ruby>として，<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "10 万円",
-      "15 万円",
-      "20万円",
-      "25万円",
-      "30万円"
+      "10 <ruby>万円<rt>まんえん</rt></ruby>",
+      "15 <ruby>万円<rt>まんえん</rt></ruby>",
+      "20<ruby>万円<rt>まんえん</rt></ruby>",
+      "25<ruby>万円<rt>まんえん</rt></ruby>",
+      "30<ruby>万円<rt>まんえん</rt></ruby>"
     ],
     "answer": 2
   },
   {
-    "question": "問題119 Ｄさんが施設入所してから 3か月後，住宅改修を終えた自宅に戻ることに なった。Ｄさんは自宅での生活を楽しみにしている。その一方で，不安も抱えていたため，担当の介護福祉士は，理学療法士と作業療法士に相談して，生活上の留意点を記載した冊子を作成して，Ｄさんに手渡した。 次の記述のうち，冊子の内容として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>119 Ｄさんが<ruby>施設<rt>しせつ</rt></ruby><ruby>入所<rt>にゅうしょ</rt></ruby>してから 3か<ruby>月後<rt>げつご</rt></ruby>，<ruby>住宅<rt>じゅうたく</rt></ruby><ruby>改修<rt>かいしゅう</rt></ruby>を<ruby>終<rt>お</rt></ruby>えた<ruby>自宅<rt>じたく</rt></ruby>に<ruby>戻<rt>もど</rt></ruby>ることに なった。Ｄさんは<ruby>自宅<rt>じたく</rt></ruby>での<ruby>生活<rt>せいかつ</rt></ruby>を<ruby>楽<rt>たの</rt></ruby>しみにしている。その<ruby>一方<rt>いっぽう</rt></ruby>で，<ruby>不安<rt>ふあん</rt></ruby>も<ruby>抱<rt>かか</rt></ruby>えていたため，<ruby>担当<rt>たんとう</rt></ruby>の<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>士<rt>さむらい</rt></ruby>は，<ruby>理学<rt>りがく</rt></ruby><ruby>療法<rt>りょうほう</rt></ruby><ruby>士<rt>さむらい</rt></ruby>と<ruby>作業<rt>さぎょう</rt></ruby><ruby>療法<rt>りょうほう</rt></ruby><ruby>士<rt>さむらい</rt></ruby>に<ruby>相談<rt>そうだん</rt></ruby>して，<ruby>生活上<rt>せいかつじょう</rt></ruby>の<ruby>留意点<rt>りゅういてん</rt></ruby>を<ruby>記載<rt>きさい</rt></ruby>した<ruby>冊子<rt>さっし</rt></ruby>を<ruby>作成<rt>さくせい</rt></ruby>して，Ｄさんに<ruby>手渡<rt>てわた</rt></ruby>した。 <ruby>次<rt>つぎ</rt></ruby>の<ruby>記述<rt>きじゅつ</rt></ruby>のうち，<ruby>冊子<rt>さっし</rt></ruby>の<ruby>内容<rt>ないよう</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "食事では，スプーンを自助具で手に固定する。",
-      "移動には，リクライニング式車いすを使用する。",
-      "寝具は，エアーマットを使用する。",
-      "更衣は，ボタンエイドを使用する。",
-      "外出するときには，事前に多機能トイレの場所を確認する。"
+      "<ruby>食事<rt>しょくじ</rt></ruby>では，スプーンを<ruby>自助<rt>じじょ</rt></ruby><ruby>具<rt>ぐ</rt></ruby>で<ruby>手<rt>て</rt></ruby>に<ruby>固定<rt>こてい</rt></ruby>する。",
+      "<ruby>移動<rt>いどう</rt></ruby>には，リクライニング<ruby>式<rt>しき</rt></ruby><ruby>車<rt>くるま</rt></ruby>いすを<ruby>使用<rt>しよう</rt></ruby>する。",
+      "<ruby>寝具<rt>しんぐ</rt></ruby>は，エアーマットを<ruby>使用<rt>しよう</rt></ruby>する。",
+      "<ruby>更衣<rt>こうい</rt></ruby>は，ボタンエイドを<ruby>使用<rt>しよう</rt></ruby>する。",
+      "<ruby>外出<rt>がいしゅつ</rt></ruby>するときには，<ruby>事前<rt>じぜん</rt></ruby>に<ruby>多機能<rt>たきのう</rt></ruby>トイレの<ruby>場所<rt>ばしょ</rt></ruby>を<ruby>確認<rt>かくにん</rt></ruby>する。"
     ],
     "answer": 4
   },
   {
-    "question": "問題120 Ｅさんの食事の様子から，今後，引き起こされる可能性が高いと考えられる二次障害として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>120 Ｅさんの<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>様子<rt>ようす</rt></ruby>から，<ruby>今後<rt>こんご</rt></ruby>，<ruby>引き起<rt>ひきお</rt></ruby>こされる<ruby>可能性<rt>かのうせい</rt></ruby>が<ruby>高<rt>たか</rt></ruby>いと<ruby>考<rt>かんが</rt></ruby>えられる<ruby>二次障害<rt>にじしょうがい</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "変形性股関節症（coxarthrosis）",
-      "廃用症候群（disuse syndrome）",
-      "起立性低血圧（orthostatic hypotension）",
-      "脊柱側弯症（せきちゅうそくわんしょう）（scoliosis）",
-      "頚椎症性脊髄症（けいついしょうせいせきずいしょう）（cervical spondylotic myelopathy）"
+      "<ruby>変形<rt>へんけい</rt></ruby><ruby>性<rt>せい</rt></ruby><ruby>股関節<rt>こかんせつ</rt></ruby><ruby>症<rt>しょう</rt></ruby>（coxarthrosis）",
+      "<ruby>廃用<rt>はいよう</rt></ruby><ruby>症候群<rt>しょうこうぐん</rt></ruby>（disuse syndrome）",
+      "<ruby>起立<rt>きりつ</rt></ruby><ruby>性<rt>せい</rt></ruby><ruby>低血圧<rt>ていけつあつ</rt></ruby>（orthostatic hypotension）",
+      "<ruby>脊柱<rt>せきちゅう</rt></ruby><ruby>側<rt>がわ</rt></ruby><ruby>弯<rt>わん</rt></ruby><ruby>症<rt>しょう</rt></ruby>（せきちゅうそくわんしょう）（scoliosis）",
+      "<ruby>頚椎<rt>けいつい</rt></ruby><ruby>症<rt>しょう</rt></ruby><ruby>性<rt>せい</rt></ruby><ruby>脊髄症<rt>せきずいしょう</rt></ruby>（けいついしょうせいせきずいしょう）（cervical spondylotic myelopathy）"
     ],
     "answer": 4
   },
   {
-    "question": "問題121 Ｅさんがお茶を飲むときの介護福祉職の対応として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>121 Ｅさんがお<ruby>茶<rt>ちゃ</rt></ruby>を<ruby>飲<rt>の</rt></ruby>むときの<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>の<ruby>対応<rt>たいおう</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "吸い飲みに変更する。",
-      "ストローつきコップに変更する。",
-      "重いコップに変更する。",
-      "コップを両手で持つように伝える。",
-      "全介助を行う。"
+      "<ruby>吸<rt>す</rt></ruby>い<ruby>飲<rt>の</rt></ruby>みに<ruby>変更<rt>へんこう</rt></ruby>する。",
+      "ストローつきコップに<ruby>変更<rt>へんこう</rt></ruby>する。",
+      "<ruby>重<rt>おも</rt></ruby>いコップに<ruby>変更<rt>へんこう</rt></ruby>する。",
+      "コップを<ruby>両手<rt>りょうて</rt></ruby>で<ruby>持<rt>も</rt></ruby>つように<ruby>伝<rt>つた</rt></ruby>える。",
+      "<ruby>全<rt>ぜん</rt></ruby><ruby>介助<rt>かいじょ</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う。"
     ],
     "answer": 1
   },
   {
-    "question": "問題122 介護福祉職は，Ｅさんが隣町の油絵教室に通うことができるようにサービ スを提案したいと考えている。 次のうち，Ｅさんが利用するサービスとして，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>122 <ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>は，Ｅさんが<ruby>隣町<rt>となりまち</rt></ruby>の<ruby>油絵<rt>あぶらえ</rt></ruby><ruby>教室<rt>きょうしつ</rt></ruby>に<ruby>通<rt>かよ</rt></ruby>うことができるようにサービ スを<ruby>提案<rt>ていあん</rt></ruby>したいと<ruby>考<rt>かんが</rt></ruby>えている。 <ruby>次<rt>つぎ</rt></ruby>のうち，Ｅさんが<ruby>利用<rt>りよう</rt></ruby>するサービスとして，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "自立生活援助",
-      "療養介護",
-      "移動支援",
-      "自立訓練",
-      "同行援護"
+      "<ruby>自立<rt>じりつ</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby><ruby>援助<rt>えんじょ</rt></ruby>",
+      "<ruby>療養<rt>りょうよう</rt></ruby><ruby>介護<rt>かいご</rt></ruby>",
+      "<ruby>移動<rt>いどう</rt></ruby><ruby>支援<rt>しえん</rt></ruby>",
+      "<ruby>自立<rt>じりつ</rt></ruby><ruby>訓練<rt>くんれん</rt></ruby>",
+      "<ruby>同行<rt>どうこう</rt></ruby><ruby>援護<rt>えんご</rt></ruby>"
     ],
     "answer": 2
   },
   {
-    "question": "問題123 次のうち，Ｆさんが自宅に帰ってきたときの状態に該当するものとして， 最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>123 <ruby>次<rt>つぎ</rt></ruby>のうち，Ｆさんが<ruby>自宅<rt>じたく</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>ってきたときの<ruby>状態<rt>じょうたい</rt></ruby>に<ruby>該当<rt>がいとう</rt></ruby>するものとして， <ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "学習障害",
-      "注意欠陥多動性障害",
-      "高次脳機能障害",
-      "強度行動障害",
-      "気分障害"
+      "<ruby>学習障害<rt>がくしゅうしょうがい</rt></ruby>",
+      "<ruby>注意<rt>ちゅうい</rt></ruby><ruby>欠陥<rt>けっかん</rt></ruby><ruby>多動<rt>たどう</rt></ruby><ruby>性<rt>せい</rt></ruby><ruby>障害<rt>しょうがい</rt></ruby>",
+      "<ruby>高次<rt>こうじ</rt></ruby><ruby>脳機能<rt>のうきのう</rt></ruby><ruby>障害<rt>しょうがい</rt></ruby>",
+      "<ruby>強度<rt>きょうど</rt></ruby><ruby>行動<rt>こうどう</rt></ruby><ruby>障害<rt>しょうがい</rt></ruby>",
+      "<ruby>気分<rt>きぶん</rt></ruby><ruby>障害<rt>しょうがい</rt></ruby>"
     ],
     "answer": 3
   },
   {
-    "question": "問題124 Ｆさんが入所してからも月1，2 回は，姉が施設を訪ね，Ｆさんの世話を している。 ある日，担当の介護福祉職が姉に声をかけると，「小学生の頃から，学校が終わると友だちと遊ばずにまっすぐ家に帰り，母親に代わって，弟の世話をしてきた。 今は，弟を見捨てたようで，申し訳ない」などと話す。 介護福祉職の姉への対応として，最も適切なものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>124 Ｆさんが<ruby>入所<rt>にゅうしょ</rt></ruby>してからも<ruby>月<rt>がつ</rt></ruby>1，2 <ruby>回<rt>かい</rt></ruby>は，<ruby>姉<rt>あね</rt></ruby>が<ruby>施設<rt>しせつ</rt></ruby>を<ruby>訪<rt>たず</rt></ruby>ね，Ｆさんの<ruby>世話<rt>せわ</rt></ruby>を している。 ある<ruby>日<rt>にち</rt></ruby>，<ruby>担当<rt>たんとう</rt></ruby>の<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>が<ruby>姉<rt>あね</rt></ruby>に<ruby>声<rt>こえ</rt></ruby>をかけると，「<ruby>小学生<rt>しょうがくせい</rt></ruby>の<ruby>頃<rt>ごろ</rt></ruby>から，<ruby>学校<rt>がっこう</rt></ruby>が<ruby>終<rt>お</rt></ruby>わると<ruby>友<rt>とも</rt></ruby>だちと<ruby>遊<rt>あそ</rt></ruby>ばずにまっすぐ<ruby>家<rt>いえ</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>り，<ruby>母親<rt>ははおや</rt></ruby>に<ruby>代<rt>か</rt></ruby>わって，<ruby>弟<rt>おとうと</rt></ruby>の<ruby>世話<rt>せわ</rt></ruby>をしてきた。 <ruby>今<rt>いま</rt></ruby>は，<ruby>弟<rt>おとうと</rt></ruby>を<ruby>見捨<rt>みす</rt></ruby>てたようで，<ruby>申し訳<rt>もうしわけ</rt></ruby>ない」などと<ruby>話<rt>はな</rt></ruby>す。 <ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>の<ruby>姉<rt>あね</rt></ruby>への<ruby>対応<rt>たいおう</rt></ruby>として，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "「これからもＦさんのお世話をしっかり行ってください」",
-      "「Ｆさんは落ち着いていて，自傷他害行為があるようには見えませんね」",
-      "「お姉さんは，小さい頃からお母さんの代わりをしてきたのですね」",
-      "「訪問回数を減らしてはどうですか」",
-      "「施設入所を後悔しているのですね。もう一度在宅ケアを考えましょう」"
+      "「これからもＦさんのお<ruby>世話<rt>せわ</rt></ruby>をしっかり<ruby>行<rt>い</rt></ruby>ってください」",
+      "「Ｆさんは<ruby>落ち着<rt>おちつ</rt></ruby>いていて，<ruby>自傷<rt>じしょう</rt></ruby><ruby>他害<rt>たがい</rt></ruby><ruby>行為<rt>こうい</rt></ruby>があるようには<ruby>見<rt>み</rt></ruby>えませんね」",
+      "「お<ruby>姉<rt>ねえ</rt></ruby>さんは，<ruby>小<rt>ちー</rt></ruby>さい<ruby>頃<rt>ごろ</rt></ruby>からお<ruby>母<rt>かあ</rt></ruby>さんの<ruby>代<rt>か</rt></ruby>わりをしてきたのですね」",
+      "「<ruby>訪問<rt>ほうもん</rt></ruby><ruby>回数<rt>かいすう</rt></ruby>を<ruby>減<rt>へ</rt></ruby>らしてはどうですか」",
+      "「<ruby>施設<rt>しせつ</rt></ruby><ruby>入所<rt>にゅうしょ</rt></ruby>を<ruby>後悔<rt>こうかい</rt></ruby>しているのですね。もう<ruby>一度<rt>いちど</rt></ruby><ruby>在宅<rt>ざいたく</rt></ruby>ケアを<ruby>考<rt>かんが</rt></ruby>えましょう」"
     ],
     "answer": 2
   },
   {
-    "question": "問題125 Ｆさんが施設に入所して1年が経った。介護福祉職は，Ｆさん，母親，姉 と共にこれまでの生活と支援を振り返り，当面，施設で安定した生活が送れるように検討した。 次のうち，Ｆさんの支援を修正するときに利用するサービスとして，正しいものを1つ選びなさい。",
+    "question": "<ruby>問題<rt>もんだい</rt></ruby>125 Ｆさんが<ruby>施設<rt>しせつ</rt></ruby>に<ruby>入所<rt>にゅうしょ</rt></ruby>して1<ruby>年<rt>ねん</rt></ruby>が<ruby>経<rt>へ</rt></ruby>った。<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>は，Ｆさん，<ruby>母親<rt>ははおや</rt></ruby>，<ruby>姉<rt>あね</rt></ruby> と<ruby>共<rt>とも</rt></ruby>にこれまでの<ruby>生活<rt>せいかつ</rt></ruby>と<ruby>支援<rt>しえん</rt></ruby>を<ruby>振り返<rt>ふりかえ</rt></ruby>り，<ruby>当面<rt>とうめん</rt></ruby>，<ruby>施設<rt>しせつ</rt></ruby>で<ruby>安定<rt>あんてい</rt></ruby>した<ruby>生活<rt>せいかつ</rt></ruby>が<ruby>送<rt>おく</rt></ruby>れるように<ruby>検討<rt>けんとう</rt></ruby>した。 <ruby>次<rt>つぎ</rt></ruby>のうち，Ｆさんの<ruby>支援<rt>しえん</rt></ruby>を<ruby>修正<rt>しゅうせい</rt></ruby>するときに<ruby>利用<rt>りよう</rt></ruby>するサービスとして，<ruby>正<rt>ただ</rt></ruby>しいものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",
     "choices": [
-      "地域定着支援",
-      "計画相談支援",
-      "地域移行支援",
-      "基幹相談支援",
-      "基本相談支援"
+      "<ruby>地域<rt>ちいき</rt></ruby><ruby>定着<rt>ていちゃく</rt></ruby><ruby>支援<rt>しえん</rt></ruby>",
+      "<ruby>計画<rt>けいかく</rt></ruby><ruby>相談<rt>そうだん</rt></ruby><ruby>支援<rt>しえん</rt></ruby>",
+      "<ruby>地域<rt>ちいき</rt></ruby><ruby>移行<rt>いこう</rt></ruby><ruby>支援<rt>しえん</rt></ruby>",
+      "<ruby>基幹<rt>きかん</rt></ruby><ruby>相談<rt>そうだん</rt></ruby><ruby>支援<rt>しえん</rt></ruby>",
+      "<ruby>基本<rt>きほん</rt></ruby><ruby>相談<rt>そうだん</rt></ruby><ruby>支援<rt>しえん</rt></ruby>"
     ],
     "answer": 1
   }
 ],
 };
 const examLabels = {
-  "38": "第38回",
-  "37": "第37回",
-  "36": "第36回"
+  "38": "<ruby>第<rt>だい</rt></ruby>38<ruby>回<rt>かい</rt></ruby>",
+  "37": "<ruby>第<rt>だい</rt></ruby>37<ruby>回<rt>かい</rt></ruby>",
+  "36": "<ruby>第<rt>だい</rt></ruby>36<ruby>回<rt>かい</rt></ruby>"
 };

@@ -31,7 +31,7 @@ function initializeExamButtons() {
   Object.keys(examSets).forEach((examId) => {
     const button = document.createElement("button");
     button.className = "primary-button";
-    button.textContent = `${examLabels[examId] || examId} を始める`;
+    button.innerHTML = `${examLabels[examId] || examId} を<ruby>始<rt>はじ</rt></ruby>める`;
     button.dataset.examId = examId;
     button.addEventListener("click", () => selectExam(examId));
     examButtonsContainer.appendChild(button);
@@ -52,7 +52,7 @@ function selectExam(examId) {
   startTimer(); // Start the stopwatch
 
   const questionLabel = examLabels[examId] || examId;
-  quizTitle.textContent = `${questionLabel} ${totalQuestions}問`;
+  quizTitle.innerHTML = `${questionLabel} ${totalQuestions}<ruby>問<rt>もん</rt></ruby>`;
   examSelection.classList.add("hidden");
   document.getElementById("quiz-card").classList.remove("hidden");
   resultScreen.classList.add("hidden");
@@ -123,7 +123,7 @@ function restoreState(state) {
   currentIndex = Math.min(Math.max(state.currentIndex || 0, 0), totalQuestions);
   score = state.score || 0;
 
-  quizTitle.textContent = `${examLabels[selectedExamId] || selectedExamId} 125問クイズ`;
+  quizTitle.innerHTML = `${examLabels[selectedExamId] || selectedExamId} 125<ruby>問<rt>もん</rt></ruby>クイズ`;
   examSelection.classList.add("hidden");
   document.getElementById("quiz-card").classList.remove("hidden");
   resultScreen.classList.add("hidden");
@@ -153,13 +153,13 @@ function showSelection() {
   stopTimer();
   timerText.textContent = "Time: 00:00";
 
-  quizTitle.textContent = "125問クイズ";
+  quizTitle.innerHTML = "125<ruby>問<rt>もん</rt></ruby>クイズ";
   examSelection.classList.remove("hidden");
   document.getElementById("quiz-card").classList.add("hidden");
   resultScreen.classList.add("hidden");
   menuNav.classList.add("hidden");
 
-  progressText.textContent = "試験を選択してください";
+  progressText.innerHTML = "<ruby>試験<rt>しけん</rt></ruby>を<ruby>選択<rt>せんたく</rt></ruby>してください";
   scoreText.textContent = "Score: 0";
   saveState();
   updateHistory(true);
@@ -173,14 +173,14 @@ function showQuestion() {
   }
 
   const currentQuestion = questions[currentIndex];
-  questionText.textContent = currentQuestion.question;
+  questionText.innerHTML = currentQuestion.question;
   choicesContainer.innerHTML = "";
 
   currentQuestion.choices.forEach((choice, index) => {
     const button = document.createElement("button");
     button.className = "choice-button";
     const label = choiceLabels[index] || String.fromCharCode(65 + index);
-    button.textContent = `${label}: ${choice}`;
+    button.innerHTML = `${label}: ${choice}`;
     button.dataset.choiceIndex = index;
     button.addEventListener("click", selectAnswer);
     choicesContainer.appendChild(button);
@@ -280,19 +280,19 @@ function showResult() {
 
   if (practiceMode) {
     resultScreen.classList.remove("result-pass", "result-fail");
-    document.getElementById("result-status").textContent = "問題のみモード";
-    finalScore.textContent = `全${totalQuestions}問を表示しました`;
-    finalTime.textContent = `経過時間: ${timerText.textContent.replace("Time: ", "")}`;
+    document.getElementById("result-status").innerHTML = "<ruby>問題<rt>もんだい</rt></ruby>のみモード";
+    finalScore.innerHTML = `<ruby>全<rt>ぜん</rt></ruby>${totalQuestions}<ruby>問<rt>もん</rt></ruby>を<ruby>表示<rt>ひょうじ</rt></ruby>しました`;
+    finalTime.innerHTML = `<ruby>経過時間<rt>けいかじかん</rt></ruby>: ${timerText.textContent.replace("Time: ", "")}`;
   } else {
     const percentage = totalQuestions > 0 ? Math.round((score / totalQuestions) * 100) : 0;
-    const statusText = percentage >= 70 ? "合格" : "不合格";
+    const statusText = percentage >= 70 ? "<ruby>合格<rt>ごうかく</rt></ruby>" : "<ruby>不合格<rt>ふごうかく</rt></ruby>";
     const resultClass = percentage >= 70 ? "result-pass" : "result-fail";
 
     resultScreen.classList.remove("result-pass", "result-fail");
     resultScreen.classList.add(resultClass);
-    document.getElementById("result-status").textContent = statusText;
-    finalScore.textContent = `${score}/${totalQuestions} (${percentage}%)`;
-    finalTime.textContent = `経過時間: ${timerText.textContent.replace("Time: ", "")}`;
+    document.getElementById("result-status").innerHTML = statusText;
+    finalScore.innerHTML = `${score}/${totalQuestions} (${percentage}%)`;
+    finalTime.innerHTML = `<ruby>経過時間<rt>けいかじかん</rt></ruby>: ${timerText.textContent.replace("Time: ", "")}`;
   }
 
   resultScreen.classList.remove("hidden");
