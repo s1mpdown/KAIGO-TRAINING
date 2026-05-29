@@ -50,6 +50,16 @@ h1 {
 
 .score-panel {
   text-align: right;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 4px;
+}
+
+#timer {
+  font-size: 0.9rem;
+  color: #a8bcd6;
+  font-family: monospace;
 }
 
 .card,

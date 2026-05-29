@@ -4,6 +4,8 @@ let totalQuestions = 0;
 let currentIndex = 0;
 let score = 0;
 let acceptingAnswers = true;
+let startTime = null;
+let timerInterval = null;
 
 const choiceLabels = ["A", "B", "C", "D", "E"];
 
@@ -11,8 +13,10 @@ const questionText = document.getElementById("question-text");
 const choicesContainer = document.getElementById("choices");
 const progressText = document.getElementById("progress");
 const scoreText = document.getElementById("score");
+const timerText = document.getElementById("timer");
 const resultScreen = document.getElementById("result-screen");
 const finalScore = document.getElementById("final-score");
+const finalTime = document.getElementById("final-time");
 const restartButton = document.getElementById("restart-button");
 const backButton = document.getElementById("back-button");
 const backButtonResult = document.getElementById("back-button-result");
@@ -45,6 +49,8 @@ function selectExam(examId) {
   currentIndex = 0;
   score = 0;
 
+  startTimer(); // Start the stopwatch
+
   const questionLabel = examLabels[examId] || examId;
   quizTitle.textContent = `${questionLabel} ${totalQuestions}問`;
   examSelection.classList.add("hidden");
@@ -63,6 +69,8 @@ function saveState() {
     currentIndex,
     score,
     stage: resultScreen.classList.contains("hidden") ? "quiz" : "result",
+    startTimestamp: startTime ? startTime.toISOString() : null,
+    elapsedSeconds: startTime ? Math.floor((Date.now() - startTime) / 1000) : 0,
   };
   sessionStorage.setItem("quizState", JSON.stringify(state));
 }
@@ -120,6 +128,12 @@ function restoreState(state) {
   document.getElementById("quiz-card").classList.remove("hidden");
   resultScreen.classList.add("hidden");
 
+  if (state.startTimestamp) {
+    startTimer(state.startTimestamp);
+  } else {
+    startTimer();
+  }
+
   if (state.stage === "result" || currentIndex >= totalQuestions) {
     currentIndex = totalQuestions;
     showResult();
@@ -135,6 +149,9 @@ function showSelection() {
   currentIndex = 0;
   score = 0;
   acceptingAnswers = true;
+
+  stopTimer();
+  timerText.textContent = "Time: 00:00";
 
   quizTitle.textContent = "125問クイズ";
   examSelection.classList.remove("hidden");
@@ -173,6 +190,39 @@ function showQuestion() {
   updateScore();
   saveState();
   updateHistory(true);
+}
+
+function formatTime(seconds) {
+  const hrs = Math.floor(seconds / 3600);
+  const mins = Math.floor((seconds % 3600) / 60);
+  const secs = seconds % 60;
+  const hoursPart = hrs > 0 ? `${hrs}:` : "";
+  const padded = (value) => String(value).padStart(2, "0");
+  return `${hoursPart}${padded(mins)}:${padded(secs)}`;
+}
+
+function updateTimer() {
+  if (!startTime) return;
+  const elapsedSeconds = Math.floor((Date.now() - startTime) / 1000);
+  timerText.textContent = `Time: ${formatTime(elapsedSeconds)}`;
+}
+
+function startTimer(startTimestamp = null) {
+  stopTimer();
+  if (startTimestamp) {
+    startTime = new Date(startTimestamp);
+  } else {
+    startTime = new Date();
+  }
+  updateTimer();
+  timerInterval = setInterval(updateTimer, 1000);
+}
+
+function stopTimer() {
+  if (timerInterval) {
+    clearInterval(timerInterval);
+    timerInterval = null;
+  }
 }
 
 function updateScore() {
@@ -232,6 +282,7 @@ function showResult() {
     resultScreen.classList.remove("result-pass", "result-fail");
     document.getElementById("result-status").textContent = "問題のみモード";
     finalScore.textContent = `全${totalQuestions}問を表示しました`;
+    finalTime.textContent = `経過時間: ${timerText.textContent.replace("Time: ", "")}`;
   } else {
     const percentage = totalQuestions > 0 ? Math.round((score / totalQuestions) * 100) : 0;
     const statusText = percentage >= 70 ? "合格" : "不合格";
@@ -241,10 +292,16 @@ function showResult() {
     resultScreen.classList.add(resultClass);
     document.getElementById("result-status").textContent = statusText;
     finalScore.textContent = `${score}/${totalQuestions} (${percentage}%)`;
+    finalTime.textContent = `経過時間: ${timerText.textContent.replace("Time: ", "")}`;
   }
 
   resultScreen.classList.remove("hidden");
   menuNav.classList.remove("hidden");
+
+  stopTimer();
+  const elapsed = timerText.textContent.replace("Time: ", "");
+  finalTime.textContent = `経過時間: ${elapsed}`;
+
   updateScore();
   saveState();
   updateHistory(true);
