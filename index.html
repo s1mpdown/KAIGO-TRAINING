@@ -22,7 +22,10 @@
 
     <main>
       <section class="card" id="exam-selection">
-        <h2><ruby>試験<rt>しけん</rt></ruby>を<ruby>選択<rt>せんたく</rt></ruby>してください</h2>
+        <div class="exam-header">
+          <h2><ruby>試験<rt>しけん</rt></ruby>を<ruby>選択<rt>せんたく</rt></ruby>してください</h2>
+          <button id="resume-button" class="primary-button hidden"></button>
+        </div>
         <div class="choices" id="exam-buttons"></div>
       </section>
 
@@ -48,6 +51,8 @@
         <p id="final-score"></p>
         <p id="final-time"></p>
         <p id="final-attempts"></p>
+        <p id="best-time"></p>
+        <p id="avg-time"></p>
         <div class="result-actions">
           <button id="restart-button" class="primary-button">Restart Quiz</button>
           <button id="back-button-result" class="primary-button secondary-button">メニューに<ruby>戻<rt>もど</rt></ruby>る</button>
