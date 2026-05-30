@@ -7,6 +7,7 @@ let userAnswers = [];
 let acceptingAnswers = true;
 let startTime = null;
 let timerInterval = null;
+let attemptCount = 0;
 
 const choiceLabels = ["A", "B", "C", "D", "E"];
 
@@ -22,6 +23,7 @@ const timerText = document.getElementById("timer");
 const resultScreen = document.getElementById("result-screen");
 const finalScore = document.getElementById("final-score");
 const finalTime = document.getElementById("final-time");
+const finalAttempts = document.getElementById("final-attempts");
 const restartButton = document.getElementById("restart-button");
 const backButton = document.getElementById("back-button");
 const backButtonResult = document.getElementById("back-button-result");
@@ -54,6 +56,7 @@ function selectExam(examId) {
   userAnswers = new Array(totalQuestions).fill(null);
   currentIndex = 0;
   score = 0;
+  attemptCount = 0;
 
   startTimer(); // Start the stopwatch
 
@@ -158,6 +161,7 @@ function showSelection() {
   userAnswers = [];
   currentIndex = 0;
   score = 0;
+  attemptCount = 0;
   acceptingAnswers = true;
 
   stopTimer();
@@ -296,6 +300,7 @@ function selectAnswer(event) {
   const isPractice = correctChoice === null;
 
   userAnswers[currentIndex] = selectedChoice;
+  attemptCount++;
 
   if (isPractice) {
     selectedButton.classList.add("selected");
@@ -327,6 +332,7 @@ function showResult() {
     document.getElementById("result-status").innerHTML = "<ruby>問題<rt>もんだい</rt></ruby>のみモード";
     finalScore.innerHTML = `<ruby>全<rt>ぜん</rt></ruby>${totalQuestions}<ruby>問<rt>もん</rt></ruby>を<ruby>表示<rt>ひょうじ</rt></ruby>しました`;
     finalTime.innerHTML = `<ruby>経過時間<rt>けいかじかん</rt></ruby>: ${timerText.textContent.replace("Time: ", "")}`;
+    if (finalAttempts) finalAttempts.innerHTML = `<ruby>試行回数<rt>しこうかいすう</rt></ruby>: ${attemptCount}`;
   } else {
     const percentage = totalQuestions > 0 ? Math.round((score / totalQuestions) * 100) : 0;
     const statusText = percentage >= 70 ? "<ruby>合格<rt>ごうかく</rt></ruby>" : "<ruby>不合格<rt>ふごうかく</rt></ruby>";
@@ -337,6 +343,7 @@ function showResult() {
     document.getElementById("result-status").innerHTML = statusText;
     finalScore.innerHTML = `${score}/${totalQuestions} (${percentage}%)`;
     finalTime.innerHTML = `<ruby>経過時間<rt>けいかじかん</rt></ruby>: ${timerText.textContent.replace("Time: ", "")}`;
+    if (finalAttempts) finalAttempts.innerHTML = `<ruby>試行回数<rt>しこうかいすう</rt></ruby>: ${attemptCount}`;
   }
 
   resultScreen.classList.remove("hidden");
