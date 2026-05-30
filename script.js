@@ -248,16 +248,24 @@ function showSelection() {
   acceptingAnswers = true;
 
   stopTimer();
-  timerText.textContent = "Time: 00:00";
+  
+  // Show/hide resume button and manage timer based on incomplete quiz status
+  const incompleteQuiz = getIncompleteQuiz();
+  
+  // Show paused time only if there's an incomplete quiz; otherwise reset
+  if (incompleteQuiz && startTime) {
+    elapsedSeconds = Math.floor((Date.now() - startTime) / 1000);
+    timerText.textContent = `Time: ${formatTime(elapsedSeconds)}`;
+  } else {
+    timerText.textContent = "Time: 00:00";
+    startTime = null;  // Clear timer after resetting
+  }
 
   quizTitle.innerHTML = "125<ruby>問<rt>もん</rt></ruby>クイズ";
   examSelection.classList.remove("hidden");
   document.getElementById("quiz-card").classList.add("hidden");
   resultScreen.classList.add("hidden");
   menuNav.classList.add("hidden");
-
-  // Show/hide resume button based on incomplete quiz
-  const incompleteQuiz = getIncompleteQuiz();
   if (resumeButton) {
     if (incompleteQuiz) {
       const examLabel = examLabels[incompleteQuiz.selectedExamId] || incompleteQuiz.selectedExamId;
@@ -465,6 +473,7 @@ function showResult() {
   menuNav.classList.remove("hidden");
 
   stopTimer();
+  startTime = null;  // Clear the timer after quiz completion
   const elapsed = timerText.textContent.replace("Time: ", "");
   finalTime.textContent = `経過時間: ${elapsed}`;
 
