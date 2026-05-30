@@ -1,0 +1,12 @@
+Total questions: 65
+
+Q110 (idx 49): HAS SCENARIO
+Q112 (idx 51): HAS SCENARIO
+Q114 (idx 53): HAS SCENARIO
+Q117 (idx 56): HAS SCENARIO
+Q120 (idx 59): HAS SCENARIO
+Q123 (idx 62): NO SCENARIO
+
+
+Detailed check:
+Data[62] exists. Question 123 status checked above.

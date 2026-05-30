@@ -1,0 +1,10 @@
+questions.js exam verification report
+============================================
+exam 36:
+  Q46: answer out of range 44
+
+exam 37:
+  OK: 125 questions, all valid
+
+exam 38:
+  OK: 125 questions, all valid

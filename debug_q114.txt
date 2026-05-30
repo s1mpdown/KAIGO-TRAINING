@@ -1,0 +1,4 @@
+Match 0: "question": "<ruby>問題<rt>もんだい</rt></ruby>114Ａさんの<ruby>手足<rt>てあし</rt></ruby>の<ruby>震<rt>ふる</rt></ruby>えは、ある<ruby>体内<rt>たいない</rt></ruby><ruby>物質<rt>ぶっしつ</rt></ruby>の<ruby>影響<rt>えいきょう</rt></ruby>によって<ruby>生<rt>しょう</rt></ruby>じている。<ruby>次<rt>つぎ</rt></ruby>のうち、この<ruby>物質<rt>ぶっしつ</rt></ruby>として<ruby>最<rt>
+Full question text:
+<ruby>問題<rt>もんだい</rt></ruby>114Ａさんの<ruby>手足<rt>てあし</rt></ruby>の<ruby>震<rt>ふる</rt></ruby>えは、ある<ruby>体内<rt>たいない</rt></ruby><ruby>物質<rt>ぶっしつ</rt></ruby>の<ruby>影響<rt>えいきょう</rt></ruby>によって<ruby>生<rt>しょう</rt></ruby>じている。<ruby>次<rt>つぎ</rt></ruby>のうち、この<ruby>物質<rt>ぶっしつ</rt></ruby>として<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。
+

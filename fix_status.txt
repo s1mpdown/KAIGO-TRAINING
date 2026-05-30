@@ -1,0 +1,15 @@
+FINAL STATUS:
+Total questions: 65
+
+SUCCESS: No issues found!
+All questions have proper structure.
+
+Q109 verification:
+  - Choices: 5 (expected 5)
+  - Answer: 0
+  - First choice: 1 <ruby>個別<rt>こべつ</rt></ruby><ruby>支援<rt>しえん</rt></ruby><rub...
+
+Q114 verification:
+  - Choices: 5 (expected 5)
+  - Answer: 1
+  - Question text length: 367

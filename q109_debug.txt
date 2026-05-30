@@ -1,0 +1,29 @@
+Q109 answer: 0
+Q109 choices count: 25
+
+Choices:
+1: 1 <ruby>個別<rt>こべつ</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>計画<rt>けいかく</rt></ruby>の<ruby>取り組<rt>とりく</rt></ruby>みの<ruby>報告<rt>ほうこく</rt></ruby>
+2: 2 <ruby>障害<rt>しょうがい</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>区分<rt>くぶん</rt></ruby>の<ruby>判定<rt>はんてい</rt></ruby>
+3: 3 <ruby>支給<rt>しきゅう</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>かどうかの<ruby>決定<rt>けってい</rt></ruby>
+4: 4 サービス<ruby>等<rt>など</rt></ruby><ruby>利用<rt>りよう</rt></ruby><ruby>計画<rt>けいかく</rt></ruby>の<ruby>説明<rt>せつめい</rt></ruby>
+5: 5 <ruby>相談<rt>そうだん</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>専門<rt>せんもん</rt></ruby><ruby>員<rt>いん</rt></ruby>への<ruby>個別<rt>こべつ</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>計画<rt>けいかく</rt></ruby><ruby>作成<rt>さくせい</rt></ruby>の<ruby>指示<rt>しじ</rt></ruby>
+6: 1 <ruby>娘<rt>むすめ</rt></ruby>の<ruby>家<rt>いえ</rt></ruby>で<ruby>同居<rt>どうきょ</rt></ruby>すること
+7: 2 <ruby>自宅<rt>じたく</rt></ruby>での<ruby>生活<rt>せいかつ</rt></ruby>を<ruby>続<rt>つづ</rt></ruby>けること
+8: 3 <ruby>通所<rt>つうしょ</rt></ruby><ruby>介護<rt>かいご</rt></ruby>（デイサービス）を<ruby>休<rt>やす</rt></ruby>めること
+9: 4 <ruby>弁当<rt>べんとう</rt></ruby>のメニューを<ruby>変更<rt>へんこう</rt></ruby>すること
+10: 5 ごみ<ruby>出<rt>だ</rt></ruby>しを<ruby>近所<rt>きんじょ</rt></ruby>の<ruby>人<rt>にん</rt></ruby>に<ruby>任<rt>まか</rt></ruby>せること
+11: 1 <ruby>通所<rt>つうしょ</rt></ruby><ruby>介護<rt>かいご</rt></ruby>（デイサービス）を<ruby>利用<rt>りよう</rt></ruby>しない<ruby>日<rt>にち</rt></ruby>の<ruby>過ごし方<rt>すごしかた</rt></ruby>
+12: 2 <ruby>通所<rt>つうしょ</rt></ruby><ruby>介護<rt>かいご</rt></ruby>（デイサービス）での<ruby>様子<rt>ようす</rt></ruby>
+13: 3 <ruby>通所<rt>つうしょ</rt></ruby><ruby>介護<rt>かいご</rt></ruby>（デイサービス）の<ruby>利用<rt>りよう</rt></ruby><ruby>継続<rt>けいぞく</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>娘<rt>むすめ</rt></ruby>の<ruby>意見<rt>いけん</rt></ruby>
+14: 4 <ruby>通所<rt>つうしょ</rt></ruby><ruby>介護<rt>かいご</rt></ruby>（デイサービス）の<ruby>迎<rt>むか</rt></ruby>えを<ruby>担当<rt>たんとう</rt></ruby>した<ruby>介護<rt>かいご</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>の<ruby>印象<rt>いんしょう</rt></ruby>
+15: 5 <ruby>通所<rt>つうしょ</rt></ruby><ruby>介護<rt>かいご</rt></ruby>（デイサービス）<ruby>以外<rt>いがい</rt></ruby>のサービスを<ruby>利用<rt>りよう</rt></ruby>することへの<ruby>意向<rt>いこう</rt></ruby>
+16: 1 Ａさんの<ruby>姉<rt>あね</rt></ruby>の<ruby>家族構成<rt>かぞくこうせい</rt></ruby>
+17: 2 <ruby>隣室<rt>りんしつ</rt></ruby>の<ruby>友人<rt>ゆうじん</rt></ruby>がＡさんの<ruby>部屋<rt>へや</rt></ruby>に<ruby>行<rt>い</rt></ruby>った<ruby>時間<rt>じかん</rt></ruby>
+18: 3 Ａさんが<ruby>自信<rt>じしん</rt></ruby>をなくした<ruby>理由<rt>りゆう</rt></ruby>
+19: 4 <ruby>生活<rt>せいかつ</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>員<rt>いん</rt></ruby>がＡさんの<ruby>部屋<rt>へや</rt></ruby>を<ruby>訪<rt>たず</rt></ruby>ねた<ruby>心情<rt>しんじょう</rt></ruby>
+20: 5 Ａさんが<ruby>隣室<rt>りんしつ</rt></ruby>の<ruby>友人<rt>ゆうじん</rt></ruby>と<ruby>遊<rt>あそ</rt></ruby>ぶことになった<ruby>理由<rt>りゆう</rt></ruby>
+21: 1 <ruby>趣味<rt>しゅみ</rt></ruby>を<ruby>変更<rt>へんこう</rt></ruby>する。
+22: 2 <ruby>現在<rt>げんざい</rt></ruby>の<ruby>自室<rt>じしつ</rt></ruby>の<ruby>状態<rt>じょうたい</rt></ruby>を<ruby>維持<rt>いじ</rt></ruby>する。
+23: 3 <ruby>衣服<rt>いふく</rt></ruby>を<ruby>部屋<rt>へや</rt></ruby>の<ruby>隅<rt>すみ</rt></ruby>に<ruby>寄<rt>よ</rt></ruby>せる。
+24: 4 <ruby>日中<rt>にっちゅう</rt></ruby><ruby>活動<rt>かつどう</rt></ruby>の<ruby>事業所<rt>じぎょうしょ</rt></ruby>を<ruby>変更<rt>へんこう</rt></ruby>する。
+25: 5 <ruby>自室<rt>じしつ</rt></ruby>を<ruby>整理整頓<rt>せいりせいとん</rt></ruby>する。
