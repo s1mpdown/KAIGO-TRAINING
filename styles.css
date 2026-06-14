@@ -100,6 +100,19 @@ h1 {
   margin: 0 0 22px;
 }
 
+.category-tag {
+  display: inline-block;
+  background: rgba(46, 196, 182, 0.2);
+  border: 1px solid rgba(46, 196, 182, 0.4);
+  color: #2ec4b6;
+  padding: 6px 12px;
+  border-radius: 20px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  margin: 0 0 16px 0;
+  text-transform: none;
+}
+
 .choices {
   display: grid;
   gap: 14px;
