@@ -1,0 +1,60 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Debug and temporary files
+*_debug.txt
+*_debug.json
+*_verification.txt
+*test*.txt
+debug_*.txt
+error.txt
+fix_status.txt
+scenario_check.txt
+suspect_questions.txt
+missing_context.txt
+final_verification.txt
+verification_report.txt
+questions_verification_summary.txt
+
+# Temporary data files
+answer-debug.json
+exam38-parse-debug.json
+exam38-parse-final.json
+exam38-data.json
+
+# Reference/archive files
+*.pdf
+exam37.html
+exam38*.html
+answer-page.html
+answer-section-A.html
+problem*.html
+am.html
+pm.html
+pm-tail.txt
+all_cases.txt
+cases_*.txt
+
+# Test files
+test.html
+test_exam.js
+test*.js
+
+# Utility scripts (keep verify_all_comprehensive.py for quality checks)
+fix_numbers*.py
+
+# OS
+.DS_Store
+Thumbs.db

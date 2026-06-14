@@ -9,6 +9,15 @@ let startTime = null;
 let timerInterval = null;
 let attemptCount = 0;
 let elapsedSeconds = 0;
+let isReviewingFromResults = false;
+
+// Safety checks for global variables loaded from external scripts
+if (typeof examSets === 'undefined') {
+  console.error('examSets not loaded - ensure questions.js and questions38pm.js are loaded first');
+}
+if (typeof examLabels === 'undefined') {
+  console.error('examLabels not loaded - ensure questions.js is loaded first');
+}
 
 const choiceLabels = ["A", "B", "C", "D", "E"];
 
@@ -101,6 +110,7 @@ function selectExam(examId) {
   currentIndex = 0;
   score = 0;
   attemptCount = 0;
+  isReviewingFromResults = false;
 
   startTimer(); // Start the stopwatch
 
@@ -127,8 +137,17 @@ function resumeQuiz() {
   score = incompleteQuiz.score;
   userAnswers = incompleteQuiz.userAnswers;
   attemptCount = incompleteQuiz.attemptCount;
+  isReviewingFromResults = false;
 
-  startTimer(incompleteQuiz.startTimestamp);
+  // Resume timer from paused elapsed time (don't add the pause duration)
+  if (incompleteQuiz.pausedElapsedSeconds !== undefined && incompleteQuiz.pausedElapsedSeconds !== null) {
+    stopTimer();
+    startTime = new Date(Date.now() - incompleteQuiz.pausedElapsedSeconds * 1000);
+    updateTimer();
+    timerInterval = setInterval(updateTimer, 1000);
+  } else {
+    startTimer();
+  }
 
   const questionLabel = examLabels[selectedExamId] || selectedExamId;
   quizTitle.innerHTML = `${questionLabel} ${totalQuestions}<ruby>問<rt>もん</rt></ruby>`;
@@ -156,13 +175,14 @@ function saveState() {
   
   // Also save to localStorage if quiz is in progress (not completed)
   if (stage === "quiz" && currentIndex < totalQuestions) {
+    const pausedElapsedSeconds = startTime ? Math.floor((Date.now() - startTime) / 1000) : 0;
     const incompleteState = {
       selectedExamId,
       currentIndex,
       score,
       userAnswers,
       attemptCount,
-      startTimestamp: startTime ? startTime.toISOString() : null,
+      pausedElapsedSeconds: pausedElapsedSeconds,  // Save paused time instead of startTimestamp
     };
     saveIncompleteQuiz(incompleteState);
   }
@@ -223,7 +243,13 @@ function restoreState(state) {
   document.getElementById("quiz-card").classList.remove("hidden");
   resultScreen.classList.add("hidden");
 
-  if (state.startTimestamp) {
+  // Resume timer from saved elapsed seconds or timestamp
+  if (state.elapsedSeconds) {
+    stopTimer();
+    startTime = new Date(Date.now() - state.elapsedSeconds * 1000);
+    updateTimer();
+    timerInterval = setInterval(updateTimer, 1000);
+  } else if (state.startTimestamp) {
     startTimer(state.startTimestamp);
   } else {
     startTimer();
@@ -246,19 +272,20 @@ function showSelection() {
   score = 0;
   attemptCount = 0;
   acceptingAnswers = true;
+  isReviewingFromResults = false;
 
   stopTimer();
   
   // Show/hide resume button and manage timer based on incomplete quiz status
   const incompleteQuiz = getIncompleteQuiz();
   
-  // Show paused time only if there's an incomplete quiz; otherwise reset
-  if (incompleteQuiz && startTime) {
+  // Always clear startTime when going to menu (pause the timer)
+  if (startTime && incompleteQuiz) {
+    // Calculate and display paused time
     elapsedSeconds = Math.floor((Date.now() - startTime) / 1000);
     timerText.textContent = `Time: ${formatTime(elapsedSeconds)}`;
   } else {
     timerText.textContent = "Time: 00:00";
-    startTime = null;  // Clear timer after resetting
   }
 
   quizTitle.innerHTML = "125<ruby>問<rt>もん</rt></ruby>クイズ";
@@ -278,7 +305,9 @@ function showSelection() {
 
   progressText.innerHTML = "";
   scoreText.textContent = "Score: 0";
-  saveState();
+  saveState();  // Save BEFORE clearing startTime
+  
+  startTime = null;  // Clear timer so it stops ticking in background
   updateHistory(true);
 }
 
@@ -306,6 +335,16 @@ function showQuestion() {
   correctAnswerArea.classList.add("hidden");
   prevButton.disabled = currentIndex === 0;
   nextButton.disabled = true;
+  
+  // Show/hide back-to-results button
+  const backToResultsBtn = document.getElementById("back-to-results-button");
+  if (isReviewingFromResults) {
+    nextButton.classList.add("hidden");
+    if (backToResultsBtn) backToResultsBtn.classList.remove("hidden");
+  } else {
+    nextButton.classList.remove("hidden");
+    if (backToResultsBtn) backToResultsBtn.classList.add("hidden");
+  }
 
   if (userAnswers[currentIndex] !== null) {
     acceptingAnswers = false;
@@ -426,6 +465,49 @@ function selectAnswer(event) {
   saveState();
 }
 
+function generateSummary() {
+  const summaryList = document.getElementById("summary-list");
+  const summarySection = document.getElementById("summary-section");
+  
+  if (!summaryList || isQuestionOnlyMode()) {
+    if (summarySection) summarySection.classList.add("hidden");
+    return;
+  }
+  
+  summaryList.innerHTML = "";
+  
+  for (let i = 0; i < totalQuestions; i++) {
+    const item = document.createElement("button");
+    item.className = "summary-item";
+    item.type = "button";
+    item.textContent = i + 1;
+    
+    const userAnswer = userAnswers[i];
+    const correctAnswer = questions[i].answer;
+    
+    if (userAnswer === null) {
+      item.classList.add("unanswered");
+    } else if (userAnswer === correctAnswer) {
+      item.classList.add("correct");
+    } else {
+      item.classList.add("wrong");
+    }
+    
+    item.addEventListener("click", () => {
+      currentIndex = i;
+      isReviewingFromResults = true;
+      document.getElementById("quiz-card").classList.remove("hidden");
+      resultScreen.classList.add("hidden");
+      menuNav.classList.remove("hidden");
+      showQuestion();
+    });
+    
+    summaryList.appendChild(item);
+  }
+  
+  if (summarySection) summarySection.classList.remove("hidden");
+}
+
 function showResult() {
   document.getElementById("quiz-card").classList.add("hidden");
   const practiceMode = isQuestionOnlyMode();
@@ -479,6 +561,7 @@ function showResult() {
 
   updateScore();
   clearIncompleteQuiz();  // Clear incomplete quiz when finished
+  generateSummary();  // Generate the summary list
   saveState();
   updateHistory(true);
 }
@@ -517,6 +600,16 @@ nextButton.addEventListener("click", () => {
 
 backButton.addEventListener("click", showSelection);
 backButtonResult.addEventListener("click", showSelection);
+
+const backToResultsButton = document.getElementById("back-to-results-button");
+if (backToResultsButton) {
+  backToResultsButton.addEventListener("click", () => {
+    isReviewingFromResults = false;
+    document.getElementById("quiz-card").classList.add("hidden");
+    resultScreen.classList.remove("hidden");
+    menuNav.classList.remove("hidden");
+  });
+}
 
 initializeExamButtons();
 const initialState = history.state || loadState();

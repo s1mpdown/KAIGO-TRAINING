@@ -3259,7 +3259,7 @@ const examSets = {
       "ミラーリング（mirroring）",
       "カリブレーション（calibration）"
     ],
-    "answer": 44
+    "answer": 3
   },
   {
     "question": "<ruby>問題<rt>もんだい</rt></ruby>47 Ｍさん（80 <ruby>歳<rt>とし</rt></ruby>，<ruby>女性<rt>じょせい</rt></ruby>，<ruby>要介<rt>ようすけ</rt></ruby><ruby>護<rt>ご</rt></ruby>1 ）は，アルツハイマー<ruby>型<rt>かた</rt></ruby><ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby>（dementia of the Alzheimerʼdementia of the Alzheimers type）であり， 3 <ruby>日前<rt>にちまえ</rt></ruby>に<ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby><ruby>対応型<rt>たいおうがた</rt></ruby><ruby>共同生活<rt>きょうどうせいかつ</rt></ruby><ruby>介護<rt>かいご</rt></ruby>（<ruby>認知<rt>にんち</rt></ruby><ruby>症<rt>しょう</rt></ruby><ruby>高齢者<rt>こうれいしゃ</rt></ruby>グループホーム）に<ruby>入居<rt>にゅうきょ</rt></ruby>した。<ruby>主治医<rt>しゅじい</rt></ruby>から<ruby>向<rt>こう</rt></ruby><ruby>精神<rt>せいしん</rt></ruby><ruby>薬<rt>くすり</rt></ruby>が<ruby>処方<rt>しょほう</rt></ruby>されている。<ruby>居室<rt>きょしつ</rt></ruby>では <ruby>穏<rt>おだ</rt></ruby>やかに<ruby>過<rt>す</rt></ruby>ごしていた。<ruby>夕食<rt>ゆうしょく</rt></ruby><ruby>後<rt>のち</rt></ruby>，<ruby>表情<rt>ひょうじょう</rt></ruby>が<ruby>険<rt>けわ</rt></ruby>しくなり，「こんなところにはいられま せん。<ruby>私<rt>わたし</rt></ruby>は<ruby>家<rt>いえ</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>ります」と<ruby>大声<rt>おおごえ</rt></ruby>を<ruby>上<rt>あ</rt></ruby>げ，ほかの<ruby>利用者<rt>りようしゃ</rt></ruby>にも，「あなたも<ruby>一緒<rt>いっしょ</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>り ましょう」と<ruby>声<rt>こえ</rt></ruby>をかけて<ruby>皆<rt>みな</rt></ruby>が<ruby>落ち着<rt>おちつ</rt></ruby>かなくなることがあった。 Ｍさんの<ruby>介護<rt>かいご</rt></ruby>を<ruby>検討<rt>けんとう</rt></ruby>するときに<ruby>優先<rt>ゆうせん</rt></ruby>することとして，<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>なものを1つ<ruby>選<rt>えら</rt></ruby>びなさい。",

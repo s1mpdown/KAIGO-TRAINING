@@ -39,6 +39,7 @@
         <div class="quiz-navigation">
           <button id="prev-button" class="primary-button secondary-button" disabled>前の問題</button>
           <button id="next-button" class="primary-button">次の問題</button>
+          <button id="back-to-results-button" class="primary-button secondary-button hidden">結果に<ruby>戻<rt>もど</rt></ruby>る</button>
         </div>
       </section>
 
@@ -53,6 +54,12 @@
         <p id="final-attempts"></p>
         <p id="best-time"></p>
         <p id="avg-time"></p>
+        
+        <div id="summary-section" class="summary-section hidden">
+          <h3 id="summary-title"><ruby>回答結果一覧<rt>かいとうけっかいちらん</rt></ruby></h3>
+          <div id="summary-list" class="summary-list"></div>
+        </div>
+        
         <div class="result-actions">
           <button id="restart-button" class="primary-button">Restart Quiz</button>
           <button id="back-button-result" class="primary-button secondary-button">メニューに<ruby>戻<rt>もど</rt></ruby>る</button>
