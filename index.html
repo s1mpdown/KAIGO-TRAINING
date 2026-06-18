@@ -29,13 +29,32 @@
         <div class="choices" id="exam-buttons"></div>
       </section>
 
+      <section class="card hidden" id="domain-selection">
+        <div class="exam-header">
+          <h2><ruby>学習分野<rt>がくしゅうぶんや</rt></ruby>を<ruby>選択<rt>せんたく</rt></ruby>してください</h2>
+          <button id="back-from-domain" class="primary-button secondary-button">戻る</button>
+        </div>
+        <div class="choices" id="domain-buttons"></div>
+      </section>
+
       <section class="card hidden" id="quiz-card">
         <p class="category-tag" id="category-tag"></p>
         <p class="question-text" id="question-text">Loading question...</p>
         <div class="choices" id="choices"></div>
-        <div id="correct-answer-area" class="hidden">
-          <h3>正解:</h3>
-          <p id="correct-answer-text"></p>
+        <div id="feedback-area" class="hidden">
+          <div id="correct-answer-area">
+            <h3>✓ 正解:</h3>
+            <p id="correct-answer-text"></p>
+            <p id="correct-explanation" class="explanation-text"></p>
+          </div>
+          <div id="wrong-answer-area" class="hidden">
+            <h3>✗ 選んだ答えが間違っている理由:</h3>
+            <p id="wrong-explanation" class="explanation-text"></p>
+          </div>
+          <details id="other-answers-details" class="hidden">
+            <summary>他の選択肢の説明を見る</summary>
+            <div id="other-answers-area"></div>
+          </details>
         </div>
         <div class="quiz-navigation">
           <button id="prev-button" class="primary-button secondary-button" disabled>前の問題</button>
@@ -71,6 +90,7 @@
 
   <script src="questions.js"></script>
   <script src="questions38pm.js"></script>
+  <script src="domains.js"></script>
   <script src="script.js"></script>
 </body>
 </html>

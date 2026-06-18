@@ -1,5 +1,7 @@
 let questions = [];
 let selectedExamId = null;
+let selectedDomain = "all";
+let questionIndicesByDomain = [];
 let totalQuestions = 0;
 let currentIndex = 0;
 let score = 0;
@@ -45,41 +47,48 @@ const examSelection = document.getElementById("exam-selection");
 const examButtonsContainer = document.getElementById("exam-buttons");
 const quizTitle = document.getElementById("quiz-title");
 const categoryTag = document.getElementById("category-tag");
+const domainSelection = document.getElementById("domain-selection");
+const domainButtonsContainer = document.getElementById("domain-buttons");
+const backFromDomainButton = document.getElementById("back-from-domain");
 
-// Category mapping for exam questions (Q1-125)
+// Category mapping for exam questions (Q1-125) - Official structure
 const categoryMap = {
   "38": {
-    1: "人間関係と生活", 2: "人間関係と生活", 3: "人間関係と生活", 4: "人間関係と生活", 5: "人間関係と生活",
-    6: "人間関係と生活", 7: "人間関係と生活", 8: "人間関係と生活", 9: "人間関係と生活", 10: "人間関係と生活",
-    11: "人間関係と生活", 12: "人間関係と生活",
+    1: "人間の尊厳と自立", 2: "人間の尊厳と自立",
+    3: "介護の基本", 4: "介護の基本", 5: "介護の基本", 6: "介護の基本", 7: "介護の基本",
+    8: "介護の基本", 9: "介護の基本", 10: "介護の基本", 11: "介護の基本", 12: "介護の基本",
     13: "社会の理解", 14: "社会の理解", 15: "社会の理解", 16: "社会の理解", 17: "社会の理解",
     18: "社会の理解", 19: "社会の理解", 20: "社会の理解", 21: "社会の理解", 22: "社会の理解",
-    23: "社会の理解", 24: "社会の理解", 25: "社会の理解",
-    26: "介護の基本", 27: "介護の基本", 28: "介護の基本", 29: "介護の基本", 30: "介護の基本",
-    31: "介護の基本", 32: "介護の基本", 33: "介護の基本", 34: "介護の基本", 35: "介護の基本",
-    36: "介護の基本", 37: "介護の基本", 38: "介護の基本", 39: "介護の基本", 40: "介護の基本",
-    41: "介護の基本", 42: "介護の基本", 43: "介護の基本", 44: "介護の基本", 45: "介護の基本",
-    46: "コミュニケーション技術", 47: "コミュニケーション技術", 48: "コミュニケーション技術", 49: "コミュニケーション技術", 50: "コミュニケーション技術",
-    51: "コミュニケーション技術", 52: "コミュニケーション技術", 53: "コミュニケーション技術", 54: "コミュニケーション技術", 55: "コミュニケーション技術",
-    56: "コミュニケーション技術", 57: "コミュニケーション技術", 58: "コミュニケーション技術", 59: "コミュニケーション技術", 60: "コミュニケーション技術",
-    61: "生活支援技術", 62: "生活支援技術", 63: "生活支援技術", 64: "生活支援技術", 65: "生活支援技術",
-    66: "生活支援技術", 67: "生活支援技術", 68: "生活支援技術", 69: "生活支援技術", 70: "生活支援技術",
-    71: "生活支援技術", 72: "生活支援技術", 73: "生活支援技術", 74: "生活支援技術", 75: "生活支援技術",
-    76: "生活支援技術", 77: "生活支援技術", 78: "生活支援技術", 79: "生活支援技術", 80: "生活支援技術",
-    81: "生活支援技術", 82: "生活支援技術", 83: "生活支援技術", 84: "生活支援技術", 85: "生活支援技術",
-    86: "生活支援技術", 87: "生活支援技術", 88: "生活支援技術", 89: "生活支援技術", 90: "生活支援技術",
-    91: "介護過程", 92: "介護過程", 93: "介護過程", 94: "介護過程", 95: "介護過程",
-    96: "介護過程", 97: "介護過程", 98: "介護過程", 99: "介護過程", 100: "介護過程",
-    101: "介護過程", 102: "介護過程", 103: "介護過程", 104: "介護過程", 105: "介護過程",
-    106: "こころとからだのしくみ", 107: "こころとからだのしくみ", 108: "こころとからだのしくみ", 109: "こころとからだのしくみ", 110: "こころとからだのしくみ",
-    111: "こころとからだのしくみ", 112: "こころとからだのしくみ", 113: "こころとからだのしくみ", 114: "こころとからだのしくみ", 115: "こころとからだのしくみ",
-    116: "こころとからだのしくみ", 117: "こころとからだのしくみ", 118: "こころとからだのしくみ", 119: "こころとからだのしくみ", 120: "こころとからだのしくみ",
-    121: "医療的ケア", 122: "医療的ケア", 123: "医療的ケア", 124: "医療的ケア", 125: "医療的ケア"
+    23: "社会の理解", 24: "社会の理解",
+    25: "人間関係とコミュニケーション", 26: "人間関係とコミュニケーション", 27: "人間関係とコミュニケーション", 28: "人間関係とコミュニケーション",
+    29: "コミュニケーション技術", 30: "コミュニケーション技術", 31: "コミュニケーション技術", 32: "コミュニケーション技術", 33: "コミュニケーション技術", 34: "コミュニケーション技術",
+    35: "生活支援技術", 36: "生活支援技術", 37: "生活支援技術", 38: "生活支援技術", 39: "生活支援技術",
+    40: "生活支援技術", 41: "生活支援技術", 42: "生活支援技術", 43: "生活支援技術", 44: "生活支援技術",
+    45: "生活支援技術", 46: "生活支援技術", 47: "生活支援技術", 48: "生活支援技術", 49: "生活支援技術",
+    50: "生活支援技術", 51: "生活支援技術", 52: "生活支援技術", 53: "生活支援技術", 54: "生活支援技術",
+    55: "生活支援技術", 56: "生活支援技術", 57: "生活支援技術", 58: "生活支援技術", 59: "生活支援技術",
+    60: "生活支援技術",
+    61: "こころとからだのしくみ", 62: "こころとからだのしくみ", 63: "こころとからだのしくみ", 64: "こころとからだのしくみ", 65: "こころとからだのしくみ",
+    66: "こころとからだのしくみ", 67: "こころとからだのしくみ", 68: "こころとからだのしくみ", 69: "こころとからだのしくみ", 70: "こころとからだのしくみ",
+    71: "こころとからだのしくみ", 72: "こころとからだのしくみ",
+    73: "発達と老化の理解", 74: "発達と老化の理解", 75: "発達と老化の理解", 76: "発達と老化の理解", 77: "発達と老化の理解",
+    78: "発達と老化の理解", 79: "発達と老化の理解", 80: "発達と老化の理解",
+    81: "認知症の理解", 82: "認知症の理解", 83: "認知症の理解", 84: "認知症の理解", 85: "認知症の理解",
+    86: "認知症の理解", 87: "認知症の理解", 88: "認知症の理解", 89: "認知症の理解", 90: "認知症の理解",
+    91: "障害の理解", 92: "障害の理解", 93: "障害の理解", 94: "障害の理解", 95: "障害の理解",
+    96: "障害の理解", 97: "障害の理解", 98: "障害の理解", 99: "障害の理解", 100: "障害の理解",
+    101: "医療的ケア", 102: "医療的ケア", 103: "医療的ケア", 104: "医療的ケア", 105: "医療的ケア",
+    106: "介護過程", 107: "介護過程", 108: "介護過程", 109: "介護過程", 110: "介護過程",
+    111: "介護過程", 112: "介護過程", 113: "介護過程",
+    114: "総合問題", 115: "総合問題", 116: "総合問題", 117: "総合問題", 118: "総合問題",
+    119: "総合問題", 120: "総合問題", 121: "総合問題", 122: "総合問題", 123: "総合問題",
+    124: "総合問題", 125: "総合問題"
   },
   "36": {
-    1: "人間関係と生活", 2: "人間関係と生活", 3: "人間関係と生活", 4: "人間関係と生活", 5: "人間関係と生活",
-    6: "人間関係と生活", 7: "人間関係と生活", 8: "人間関係と生活", 9: "人間関係と生活", 10: "人間関係と生活",
-    11: "人間関係と生活", 12: "人間関係と生活",
+    1: "人間の尊厳と自立", 2: "人間の尊厳と自立",
+    3: "人間関係とコミュニケーション", 4: "人間関係とコミュニケーション", 5: "人間関係とコミュニケーション", 6: "人間関係とコミュニケーション",
+    7: "人間関係とコミュニケーション", 8: "人間関係とコミュニケーション", 9: "人間関係とコミュニケーション", 10: "人間関係とコミュニケーション",
+    11: "人間関係とコミュニケーション", 12: "人間関係とコミュニケーション",
     13: "社会の理解", 14: "社会の理解", 15: "社会の理解", 16: "社会の理解", 17: "社会の理解",
     18: "社会の理解", 19: "社会の理解", 20: "社会の理解", 21: "社会の理解", 22: "社会の理解",
     23: "社会の理解", 24: "社会の理解", 25: "社会の理解",
@@ -105,9 +114,10 @@ const categoryMap = {
     121: "医療的ケア", 122: "医療的ケア", 123: "医療的ケア", 124: "医療的ケア", 125: "医療的ケア"
   },
   "37": {
-    1: "人間関係と生活", 2: "人間関係と生活", 3: "人間関係と生活", 4: "人間関係と生活", 5: "人間関係と生活",
-    6: "人間関係と生活", 7: "人間関係と生活", 8: "人間関係と生活", 9: "人間関係と生活", 10: "人間関係と生活",
-    11: "人間関係と生活", 12: "人間関係と生活",
+    1: "人間の尊厳と自立", 2: "人間の尊厳と自立",
+    3: "人間関係とコミュニケーション", 4: "人間関係とコミュニケーション", 5: "人間関係とコミュニケーション", 6: "人間関係とコミュニケーション",
+    7: "人間関係とコミュニケーション", 8: "人間関係とコミュニケーション", 9: "人間関係とコミュニケーション", 10: "人間関係とコミュニケーション",
+    11: "人間関係とコミュニケーション", 12: "人間関係とコミュニケーション",
     13: "社会の理解", 14: "社会の理解", 15: "社会の理解", 16: "社会の理解", 17: "社会の理解",
     18: "社会の理解", 19: "社会の理解", 20: "社会の理解", 21: "社会の理解", 22: "社会の理解",
     23: "社会の理解", 24: "社会の理解", 25: "社会の理解",
@@ -133,19 +143,21 @@ const categoryMap = {
     121: "医療的ケア", 122: "医療的ケア", 123: "医療的ケア", 124: "医療的ケア", 125: "医療的ケア"
   },
   "38pm": {
-    61: "生活支援技術", 62: "生活支援技術", 63: "生活支援技術", 64: "生活支援技術", 65: "生活支援技術",
-    66: "生活支援技術", 67: "生活支援技術", 68: "生活支援技術", 69: "生活支援技術", 70: "生活支援技術",
-    71: "生活支援技術", 72: "生活支援技術", 73: "生活支援技術", 74: "生活支援技術", 75: "生活支援技術",
-    76: "生活支援技術", 77: "生活支援技術", 78: "生活支援技術", 79: "生活支援技術", 80: "生活支援技術",
-    81: "生活支援技術", 82: "生活支援技術", 83: "生活支援技術", 84: "生活支援技術", 85: "生活支援技術",
-    86: "生活支援技術", 87: "生活支援技術", 88: "生活支援技術", 89: "生活支援技術", 90: "生活支援技術",
-    91: "介護過程", 92: "介護過程", 93: "介護過程", 94: "介護過程", 95: "介護過程",
-    96: "介護過程", 97: "介護過程", 98: "介護過程", 99: "介護過程", 100: "介護過程",
-    101: "介護過程", 102: "介護過程", 103: "介護過程", 104: "介護過程", 105: "介護過程",
-    106: "こころとからだのしくみ", 107: "こころとからだのしくみ", 108: "こころとからだのしくみ", 109: "こころとからだのしくみ", 110: "こころとからだのしくみ",
-    111: "こころとからだのしくみ", 112: "こころとからだのしくみ", 113: "こころとからだのしくみ", 114: "こころとからだのしくみ", 115: "こころとからだのしくみ",
-    116: "こころとからだのしくみ", 117: "こころとからだのしくみ", 118: "こころとからだのしくみ", 119: "こころとからだのしくみ", 120: "こころとからだのしくみ",
-    121: "医療的ケア", 122: "医療的ケア", 123: "医療的ケア", 124: "医療的ケア", 125: "医療的ケア"
+    1: "こころとからだのしくみ", 2: "こころとからだのしくみ", 3: "こころとからだのしくみ", 4: "こころとからだのしくみ", 5: "こころとからだのしくみ",
+    6: "こころとからだのしくみ", 7: "こころとからだのしくみ", 8: "こころとからだのしくみ", 9: "こころとからだのしくみ", 10: "こころとからだのしくみ",
+    11: "こころとからだのしくみ", 12: "こころとからだのしくみ",
+    13: "発達と老化の理解", 14: "発達と老化の理解", 15: "発達と老化の理解", 16: "発達と老化の理解", 17: "発達と老化の理解",
+    18: "発達と老化の理解", 19: "発達と老化の理解", 20: "発達と老化の理解",
+    21: "認知症の理解", 22: "認知症の理解", 23: "認知症の理解", 24: "認知症の理解", 25: "認知症の理解",
+    26: "認知症の理解", 27: "認知症の理解", 28: "認知症の理解", 29: "認知症の理解", 30: "認知症の理解",
+    31: "障害の理解", 32: "障害の理解", 33: "障害の理解", 34: "障害の理解", 35: "障害の理解",
+    36: "障害の理解", 37: "障害の理解", 38: "障害の理解", 39: "障害の理解", 40: "障害の理解",
+    41: "医療的ケア", 42: "医療的ケア", 43: "医療的ケア", 44: "医療的ケア", 45: "医療的ケア",
+    46: "介護過程", 47: "介護過程", 48: "介護過程", 49: "介護過程", 50: "介護過程",
+    51: "介護過程", 52: "介護過程", 53: "介護過程",
+    54: "総合問題", 55: "総合問題", 56: "総合問題", 57: "総合問題", 58: "総合問題",
+    59: "総合問題", 60: "総合問題", 61: "総合問題", 62: "総合問題", 63: "総合問題",
+    64: "総合問題", 65: "総合問題"
   }
 };
 
@@ -214,6 +226,7 @@ function selectExam(examId) {
   clearIncompleteQuiz();  // Clear any previous incomplete quiz
   
   selectedExamId = examId;
+  selectedDomain = "all";
   questions = examSets[examId] || [];
   totalQuestions = questions.length;
   userAnswers = new Array(totalQuestions).fill(null);
@@ -222,15 +235,76 @@ function selectExam(examId) {
   attemptCount = 0;
   isReviewingFromResults = false;
 
-  startTimer(); // Start the stopwatch
+  // Show domain selection instead of starting quiz immediately
+  showDomainSelection();
+}
 
-  const questionLabel = examLabels[examId] || examId;
-  quizTitle.innerHTML = `${questionLabel} ${totalQuestions}<ruby>問<rt>もん</rt></ruby>`;
+function showDomainSelection() {
+  domainButtonsContainer.innerHTML = "";
+  
+  // Add "All" option
+  const allButton = document.createElement("button");
+  allButton.className = "primary-button";
+  allButton.innerHTML = "📋 すべての問題を<ruby>解<rt>と</rt></ruby>く";
+  allButton.dataset.domain = "all";
+  allButton.addEventListener("click", () => selectDomain("all"));
+  domainButtonsContainer.appendChild(allButton);
+  
+  // Add domain-specific buttons in order (01-13)
+  const domainOrder = ["01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12", "13"];
+  for (const domainKey of domainOrder) {
+    const domain = DOMAINS[domainKey];
+    if (!domain) continue;
+    
+    const button = document.createElement("button");
+    button.className = "primary-button";
+    button.style.borderLeft = `4px solid ${domain.color}`;
+    
+    const domainQuestions = domainMappings[selectedExamId][domainKey] || [];
+    const count = domainQuestions.length;
+    
+    button.innerHTML = `${domain.icon} ${domain.name}<br><span style="font-size:0.9em">(${count}問)</span>`;
+    button.dataset.domain = domainKey;
+    button.addEventListener("click", () => selectDomain(domainKey));
+    domainButtonsContainer.appendChild(button);
+  }
+  
+  // Show domain selection, hide exam selection and quiz
   examSelection.classList.add("hidden");
+  domainSelection.classList.remove("hidden");
+  document.getElementById("quiz-card").classList.add("hidden");
+  resultScreen.classList.add("hidden");
+  menuNav.classList.add("hidden");
+}
+
+function selectDomain(domainKey) {
+  selectedDomain = domainKey;
+  
+  // Get questions for this domain
+  if (domainKey === "all") {
+    questionIndicesByDomain = Array.from({length: questions.length}, (_, i) => i);
+  } else {
+    questionIndicesByDomain = (domainMappings[selectedExamId][domainKey] || []).map(q => q - 1); // Convert to 0-based index
+  }
+  
+  totalQuestions = questionIndicesByDomain.length;
+  userAnswers = new Array(questions.length).fill(null); // Keep full array for all questions
+  currentIndex = 0;
+  score = 0;
+  attemptCount = 0;
+  
+  // Start the quiz
+  startTimer();
+  
+  const questionLabel = examLabels[selectedExamId] || selectedExamId;
+  const domainName = domainKey === "all" ? "すべての問題" : (DOMAINS[domainKey]?.name || domainKey);
+  quizTitle.innerHTML = `${questionLabel} - ${domainName} (${totalQuestions}<ruby>問<rt>もん</rt></ruby>)`;
+  
+  domainSelection.classList.add("hidden");
   document.getElementById("quiz-card").classList.remove("hidden");
   resultScreen.classList.add("hidden");
   menuNav.classList.remove("hidden");
-
+  
   saveState();
   updateHistory(true);
   showQuestion();
@@ -428,11 +502,13 @@ function showQuestion() {
     return;
   }
 
-  const currentQuestion = questions[currentIndex];
+  // Get the actual question index in the full array (accounting for domain filtering)
+  const actualQuestionIndex = questionIndicesByDomain.length > 0 ? questionIndicesByDomain[currentIndex] : currentIndex;
+  const currentQuestion = questions[actualQuestionIndex];
   questionText.innerHTML = currentQuestion.question;
   
   // Display category tag
-  const questionNumber = currentIndex + 1;
+  const questionNumber = actualQuestionIndex + 1;
   const category = getCategory(selectedExamId, questionNumber);
   if (categoryTag) {
     categoryTag.textContent = `【${category}】`;
@@ -464,12 +540,12 @@ function showQuestion() {
     if (backToResultsBtn) backToResultsBtn.classList.add("hidden");
   }
 
-  if (userAnswers[currentIndex] !== null) {
+  if (userAnswers[actualQuestionIndex] !== null) {
     acceptingAnswers = false;
     nextButton.disabled = false;
     
     // Highlight the selected answer
-    const selectedChoice = userAnswers[currentIndex];
+    const selectedChoice = userAnswers[actualQuestionIndex];
     const correctChoice = currentQuestion.answer;
     const isPractice = correctChoice === null;
     
@@ -530,10 +606,11 @@ function stopTimer() {
 }
 
 function updateScore() {
-  // Recalculate score based on userAnswers
+  // Recalculate score based on userAnswers for the current domain
   score = 0;
   for (let i = 0; i < totalQuestions; i++) {
-    if (questions[i] && userAnswers[i] === questions[i].answer && questions[i].answer !== null) {
+    const actualIndex = questionIndicesByDomain.length > 0 ? questionIndicesByDomain[i] : i;
+    if (questions[actualIndex] && userAnswers[actualIndex] === questions[actualIndex].answer && questions[actualIndex].answer !== null) {
       score++;
     }
   }
@@ -556,10 +633,13 @@ function selectAnswer(event) {
 
   const selectedButton = event.currentTarget;
   const selectedChoice = Number(selectedButton.dataset.choiceIndex);
-  const correctChoice = questions[currentIndex].answer;
+  
+  // Get the actual question index (accounting for domain filtering)
+  const actualQuestionIndex = questionIndicesByDomain.length > 0 ? questionIndicesByDomain[currentIndex] : currentIndex;
+  const correctChoice = questions[actualQuestionIndex].answer;
   const isPractice = correctChoice === null;
 
-  userAnswers[currentIndex] = selectedChoice;
+  userAnswers[actualQuestionIndex] = selectedChoice;
   attemptCount++;
 
   if (isPractice) {
@@ -574,7 +654,7 @@ function selectAnswer(event) {
       );
       if (correctButton) correctButton.classList.add("correct");
       
-      correctAnswerText.innerHTML = questions[currentIndex].choices[correctChoice];
+      correctAnswerText.innerHTML = questions[actualQuestionIndex].choices[correctChoice];
       correctAnswerArea.classList.remove("hidden");
     }
   }
@@ -722,6 +802,7 @@ nextButton.addEventListener("click", () => {
 
 backButton.addEventListener("click", showSelection);
 backButtonResult.addEventListener("click", showSelection);
+backFromDomainButton.addEventListener("click", showSelection);
 
 const backToResultsButton = document.getElementById("back-to-results-button");
 if (backToResultsButton) {
@@ -734,6 +815,8 @@ if (backToResultsButton) {
 }
 
 initializeExamButtons();
+domainMappings = buildDomainMappings(); // Initialize domain mappings after categoryMap is loaded
+
 const initialState = history.state || loadState();
 if (initialState) {
   restoreState(initialState);
