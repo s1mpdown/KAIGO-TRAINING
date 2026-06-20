@@ -750,8 +750,10 @@ function generateSummary() {
     item.type = "button";
     item.textContent = i + 1;
     
-    const userAnswer = userAnswers[i];
-    const correctAnswer = questions[i].answer;
+    // Get the actual question index in the full array (accounting for domain filtering)
+    const actualIndex = questionIndicesByDomain.length > 0 ? questionIndicesByDomain[i] : i;
+    const userAnswer = userAnswers[actualIndex];
+    const correctAnswer = questions[actualIndex].answer;
     
     if (userAnswer === null) {
       item.classList.add("unanswered");
@@ -762,8 +764,9 @@ function generateSummary() {
     }
     
     // Add category as tooltip
-    const category = getCategory(selectedExamId, i + 1);
-    item.title = `Q${i + 1}: ${category}`;
+    const questionNumber = actualIndex + 1;
+    const category = getCategory(selectedExamId, questionNumber);
+    item.title = `Q${questionNumber}: ${category}`;
     
     item.addEventListener("click", () => {
       currentIndex = i;
