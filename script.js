@@ -170,6 +170,21 @@ function getCategory(examId, questionNumber) {
 function initializeExamButtons() {
   examButtonsContainer.innerHTML = "";
 
+  // Add Random Quiz button first
+  const randomButton = document.createElement("button");
+  randomButton.className = "primary-button";
+  randomButton.innerHTML = `${examLabels["random"] || "Random"} を<ruby>始<rt>はじ</rt></ruby>める`;
+  randomButton.dataset.examId = "random";
+  randomButton.addEventListener("click", () => selectExam("random"));
+  examButtonsContainer.appendChild(randomButton);
+
+  // Add separator or spacing
+  const separator = document.createElement("div");
+  separator.style.margin = "10px 0";
+  separator.style.borderTop = "1px solid #ccc";
+  examButtonsContainer.appendChild(separator);
+
+  // Add regular exam buttons
   Object.keys(examSets).reverse().forEach((examId) => {
     const button = document.createElement("button");
     button.className = "primary-button";
@@ -182,6 +197,34 @@ function initializeExamButtons() {
 
 function isQuestionOnlyMode() {
   return questions.length > 0 && questions.every((q) => q.answer === null);
+}
+
+function getRandomQuestions(count = 10) {
+  // Collect all questions from all available exams
+  const allQuestions = [];
+  
+  // Go through all exams and add their questions with exam ID metadata
+  Object.keys(examSets).forEach((examId) => {
+    const examQuestions = examSets[examId] || [];
+    examQuestions.forEach((q, index) => {
+      allQuestions.push({
+        ...q,
+        _examId: examId,
+        _examLabel: examLabels[examId] || examId,
+        _questionNumber: index + 1
+      });
+    });
+  });
+  
+  // Fisher-Yates shuffle algorithm
+  const shuffled = [...allQuestions];
+  for (let i = shuffled.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+  }
+  
+  // Return the first 'count' questions
+  return shuffled.slice(0, count);
 }
 
 // Quiz state persistence functions
@@ -227,16 +270,43 @@ function selectExam(examId) {
   
   selectedExamId = examId;
   selectedDomain = "all";
-  questions = examSets[examId] || [];
-  totalQuestions = questions.length;
-  userAnswers = new Array(totalQuestions).fill(null);
-  currentIndex = 0;
-  score = 0;
-  attemptCount = 0;
-  isReviewingFromResults = false;
+  
+  // Handle random quiz differently - no domain selection needed
+  if (examId === "random") {
+    questions = getRandomQuestions(10);
+    totalQuestions = questions.length;
+    userAnswers = new Array(totalQuestions).fill(null);
+    currentIndex = 0;
+    score = 0;
+    attemptCount = 0;
+    isReviewingFromResults = false;
+    
+    // Start random quiz directly
+    startTimer();
+    quizTitle.innerHTML = `🎲 <ruby>ランダム<rt>らんだむ</rt></ruby><ruby>クイズ<rt>くいず</rt></ruby> (${totalQuestions}<ruby>問<rt>もん</rt></ruby>)`;
+    
+    examSelection.classList.add("hidden");
+    document.getElementById("domain-selection").classList.add("hidden");
+    document.getElementById("quiz-card").classList.remove("hidden");
+    resultScreen.classList.add("hidden");
+    menuNav.classList.remove("hidden");
+    
+    saveState();
+    updateHistory(true);
+    showQuestion();
+  } else {
+    // Regular exam - show domain selection
+    questions = examSets[examId] || [];
+    totalQuestions = questions.length;
+    userAnswers = new Array(totalQuestions).fill(null);
+    currentIndex = 0;
+    score = 0;
+    attemptCount = 0;
+    isReviewingFromResults = false;
 
-  // Show domain selection instead of starting quiz immediately
-  showDomainSelection();
+    // Show domain selection instead of starting quiz immediately
+    showDomainSelection();
+  }
 }
 
 function showDomainSelection() {

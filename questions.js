@@ -6760,5 +6760,6 @@ const examSets = {
 const examLabels = {
   "38": "<ruby>第<rt>だい</rt></ruby>38<ruby>回<rt>かい</rt></ruby>",
   "37": "<ruby>第<rt>だい</rt></ruby>37<ruby>回<rt>かい</rt></ruby>",
-  "36": "<ruby>第<rt>だい</rt></ruby>36<ruby>回<rt>かい</rt></ruby>"
+  "36": "<ruby>第<rt>だい</rt></ruby>36<ruby>回<rt>かい</rt></ruby>",
+  "random": "🎲 <ruby>ランダム<rt>らんだむ</rt></ruby><ruby>クイズ<rt>くいず</rt></ruby>"
 };
