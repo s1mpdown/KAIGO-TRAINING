@@ -38,7 +38,13 @@
       </section>
 
       <section class="card hidden" id="quiz-card">
-        <p class="category-tag" id="category-tag"></p>
+        <div class="quiz-header-controls">
+          <p class="category-tag" id="category-tag"></p>
+          <div class="jump-to-question">
+            <input type="number" id="jump-input" placeholder="Jump to Q#" min="1" max="125">
+            <button id="jump-button" class="primary-button jump-button">Jump</button>
+          </div>
+        </div>
         <p class="question-text" id="question-text">Loading question...</p>
         <div class="choices" id="choices"></div>
         <div id="feedback-area" class="hidden">

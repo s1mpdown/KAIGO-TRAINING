@@ -873,6 +873,36 @@ nextButton.addEventListener("click", () => {
   }
 });
 
+// Jump to question functionality
+const jumpInput = document.getElementById("jump-input");
+const jumpButton = document.getElementById("jump-button");
+
+function jumpToQuestion() {
+  const inputValue = jumpInput.value.trim();
+  if (!inputValue) return;
+
+  const questionNumber = parseInt(inputValue, 10);
+  
+  // Validate the question number
+  if (isNaN(questionNumber) || questionNumber < 1 || questionNumber > totalQuestions) {
+    alert(`Please enter a question number between 1 and ${totalQuestions}`);
+    jumpInput.value = "";
+    return;
+  }
+
+  // Jump to the question (currentIndex is 0-based, question number is 1-based)
+  currentIndex = questionNumber - 1;
+  jumpInput.value = "";
+  showQuestion();
+}
+
+jumpButton.addEventListener("click", jumpToQuestion);
+jumpInput.addEventListener("keypress", (event) => {
+  if (event.key === "Enter") {
+    jumpToQuestion();
+  }
+});
+
 backButton.addEventListener("click", showSelection);
 backButtonResult.addEventListener("click", showSelection);
 backFromDomainButton.addEventListener("click", showSelection);
