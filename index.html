@@ -26,9 +26,17 @@
           <h2><ruby>試験<rt>しけん</rt></ruby>を<ruby>選択<rt>せんたく</rt></ruby>してください</h2>
           <button id="resume-button" class="primary-button hidden"></button>
         </div>
-        <div class="choices" id="exam-buttons"></div>
-        <h3 style="margin: 18px 0 8px;">科目別ドリル（第36〜38回・全年度）</h3>
-        <div class="choices" id="drill-buttons"></div>
+        <div class="mode-tabs">
+          <button class="mode-tab active" id="tab-exams" type="button"><ruby>年度別<rt>ねんどべつ</rt></ruby></button>
+          <button class="mode-tab" id="tab-drills" type="button"><ruby>科目別<rt>かもくべつ</rt></ruby>ドリル</button>
+        </div>
+        <div id="panel-exams">
+          <div class="choices" id="exam-buttons"></div>
+        </div>
+        <div id="panel-drills" class="hidden">
+          <p class="panel-note">第36・37・38回（全年度）から、科目ごとに集めた問題です。</p>
+          <div class="choices" id="drill-buttons"></div>
+        </div>
       </section>
 
       <section class="card hidden" id="domain-selection">
@@ -101,5 +109,23 @@
   <script src="domains.js"></script>
   <script src="drill.js"></script>
 <script src="script.js"></script>
+  <script>
+    (function () {
+      var tabs = [
+        { btn: document.getElementById("tab-exams"), panel: document.getElementById("panel-exams") },
+        { btn: document.getElementById("tab-drills"), panel: document.getElementById("panel-drills") }
+      ];
+      function activate(active) {
+        tabs.forEach(function (t) {
+          var on = t === active;
+          t.btn.classList.toggle("active", on);
+          t.panel.classList.toggle("hidden", !on);
+        });
+      }
+      tabs.forEach(function (t) {
+        t.btn.addEventListener("click", function () { activate(t); });
+      });
+    })();
+  </script>
   </body>
 </html>
