@@ -27,6 +27,12 @@ const questionText = document.getElementById("question-text");
 const choicesContainer = document.getElementById("choices");
 const correctAnswerArea = document.getElementById("correct-answer-area");
 const correctAnswerText = document.getElementById("correct-answer-text");
+const feedbackArea = document.getElementById("feedback-area");
+const correctExplanation = document.getElementById("correct-explanation");
+const wrongAnswerArea = document.getElementById("wrong-answer-area");
+const wrongExplanation = document.getElementById("wrong-explanation");
+const otherAnswersDetails = document.getElementById("other-answers-details");
+const otherAnswersArea = document.getElementById("other-answers-area");
 const prevButton = document.getElementById("prev-button");
 const nextButton = document.getElementById("next-button");
 const progressText = document.getElementById("progress");
@@ -325,13 +331,14 @@ function showDomainSelection() {
   for (const domainKey of domainOrder) {
     const domain = DOMAINS[domainKey];
     if (!domain) continue;
-    
+
+    const domainQuestions = domainMappings[selectedExamId][domainKey] || [];
+    const count = domainQuestions.length;
+    if (count === 0) continue; // 問題がない科目はボタンを表示しない（空のクイズになるため）
+
     const button = document.createElement("button");
     button.className = "primary-button";
     button.style.borderLeft = `4px solid ${domain.color}`;
-    
-    const domainQuestions = domainMappings[selectedExamId][domainKey] || [];
-    const count = domainQuestions.length;
     
     button.innerHTML = `${domain.icon} ${domain.name}<br><span style="font-size:0.9em">(${count}問)</span>`;
     button.dataset.domain = domainKey;
@@ -596,7 +603,7 @@ function showQuestion() {
     choicesContainer.appendChild(button);
   });
 
-  correctAnswerArea.classList.add("hidden");
+  hideFeedback();
   prevButton.disabled = currentIndex === 0;
   nextButton.disabled = true;
   
@@ -628,10 +635,8 @@ function showQuestion() {
       } else {
         if (buttons[selectedChoice]) buttons[selectedChoice].classList.add("wrong");
         if (buttons[correctChoice]) buttons[correctChoice].classList.add("correct");
-        
-        correctAnswerText.innerHTML = currentQuestion.choices[correctChoice];
-        correctAnswerArea.classList.remove("hidden");
       }
+      renderFeedback(currentQuestion, selectedChoice);
     }
   } else {
     acceptingAnswers = true;
@@ -696,6 +701,57 @@ function updateScore() {
     : "Question 0 / 0";
 }
 
+// 解説エリアの表示をまとめる（正解・選んだ答えの理由・他の選択肢の説明）
+function renderFeedback(question, selectedChoice) {
+  const correctChoice = question.answer;
+  if (correctChoice === null) {
+    feedbackArea.classList.add("hidden");
+    return;
+  }
+  const explanations = question.explanations || {};
+  const expFor = (i) => {
+    const t = explanations[i];
+    return typeof t === "string" ? t.trim() : "";
+  };
+
+  correctAnswerText.innerHTML = question.choices[correctChoice];
+  correctAnswerArea.classList.remove("hidden");
+  const correctExp = expFor(correctChoice);
+  correctExplanation.innerHTML = correctExp;
+  correctExplanation.classList.toggle("hidden", correctExp === "");
+
+  if (selectedChoice !== correctChoice) {
+    const wrongExp = expFor(selectedChoice);
+    wrongExplanation.innerHTML = wrongExp;
+    wrongAnswerArea.classList.toggle("hidden", wrongExp === "");
+  } else {
+    wrongAnswerArea.classList.add("hidden");
+  }
+
+  otherAnswersArea.innerHTML = "";
+  let hasOther = false;
+  question.choices.forEach((choice, i) => {
+    if (i === correctChoice || i === selectedChoice) return;
+    const t = expFor(i);
+    if (!t) return;
+    hasOther = true;
+    const p = document.createElement("p");
+    p.className = "explanation-text";
+    p.innerHTML = `${choiceLabels[i] || i + 1}: ${t}`;
+    otherAnswersArea.appendChild(p);
+  });
+  otherAnswersDetails.classList.toggle("hidden", !hasOther);
+
+  feedbackArea.classList.remove("hidden");
+}
+
+function hideFeedback() {
+  feedbackArea.classList.add("hidden");
+  correctAnswerArea.classList.add("hidden");
+  wrongAnswerArea.classList.add("hidden");
+  otherAnswersDetails.classList.add("hidden");
+}
+
 function selectAnswer(event) {
   if (!acceptingAnswers) return;
   acceptingAnswers = false;
@@ -717,6 +773,7 @@ function selectAnswer(event) {
   } else {
     if (selectedChoice === correctChoice) {
       selectedButton.classList.add("correct");
+      renderFeedback(questions[actualQuestionIndex], selectedChoice);
     } else {
       selectedButton.classList.add("wrong");
       const correctButton = document.querySelector(
@@ -724,9 +781,8 @@ function selectAnswer(event) {
       );
       if (correctButton) correctButton.classList.add("correct");
       
-      correctAnswerText.innerHTML = questions[actualQuestionIndex].choices[correctChoice];
-      correctAnswerArea.classList.remove("hidden");
     }
+    renderFeedback(questions[actualQuestionIndex], selectedChoice);
   }
 
   updateScore();
