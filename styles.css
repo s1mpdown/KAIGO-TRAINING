@@ -564,6 +564,21 @@ h1 {
   grid-column: 1 / -1;
 }
 
+/* Simulation button: full-width directly under Random, in teal so it stands out */
+#exam-buttons > div {
+  grid-column: 1 / -1;
+}
+
+#exam-buttons > button[data-exam-id="sim"] {
+  grid-column: 1 / -1;
+  background: linear-gradient(160deg, #3ae0cd 0%, #1fa396 100%);
+  box-shadow: 0 10px 24px rgba(46, 196, 182, 0.35), inset 0 1px 0 rgba(255, 255, 255, 0.35);
+}
+
+#exam-buttons > button[data-exam-id="sim"]:hover {
+  box-shadow: 0 14px 30px rgba(46, 196, 182, 0.45), inset 0 1px 0 rgba(255, 255, 255, 0.4);
+}
+
 @media (max-width: 560px) {
   #exam-buttons,
   #drill-buttons,
