@@ -10,11 +10,11 @@ examSets["38pm"] = [
     ],
     "answer": 4,
     "explanations": {
-      "0": "条件づけは、刺激と反応の結びつきによって学習が成立することで、感情の動きそのものではありません。",
-      "1": "短期記憶は、短い時間だけ情報を保持する記憶の働きで、感情の動きではありません。",
-      "2": "気分は、比較的弱く、長い時間持続する感情の状態です。短時間に限られる大きな動きとは逆の特徴をもちます。",
-      "3": "思考は、考える・判断するといった知的な働きで、感情の動きではありません。",
-      "4": "正解。<ruby>情動<rt>じょうどう</rt></ruby>は、喜び・怒り・恐怖など、比較的短い時間に限られて生じる大きな感情の動きで、身体の変化を伴います。"
+      "0": "<ruby>条件<rt>じょうけん</rt></ruby>づけは、<ruby>刺激<rt>しげき</rt></ruby>と<ruby>反応<rt>はんのう</rt></ruby>の<ruby>結<rt>むす</rt></ruby>びつきによって<ruby>学習<rt>がくしゅう</rt></ruby>が<ruby>成立<rt>せいりつ</rt></ruby>することで、<ruby>感情<rt>かんじょう</rt></ruby>の<ruby>動<rt>うご</rt></ruby>きそのものではありません。",
+      "1": "<ruby>短期<rt>たんき</rt></ruby><ruby>記憶<rt>きおく</rt></ruby>は、<ruby>短<rt>みじか</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>だけ<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>保持<rt>ほじ</rt></ruby>する<ruby>記憶<rt>きおく</rt></ruby>の<ruby>働<rt>はたら</rt></ruby>きで、<ruby>感情<rt>かんじょう</rt></ruby>の<ruby>動<rt>うご</rt></ruby>きではありません。",
+      "2": "<ruby>気分<rt>きぶん</rt></ruby>は、<ruby>比較的<rt>ひかくてき</rt></ruby><ruby>弱<rt>よわ</rt></ruby>く、<ruby>長<rt>なが</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby><ruby>持続<rt>じぞく</rt></ruby>する<ruby>感情<rt>かんじょう</rt></ruby>の<ruby>状態<rt>じょうたい</rt></ruby>です。<ruby>短時間<rt>たんじかん</rt></ruby>に<ruby>限<rt>かぎ</rt></ruby>られる<ruby>大<rt>おお</rt></ruby>きな<ruby>動<rt>うご</rt></ruby>きとは<ruby>逆<rt>ぎゃく</rt></ruby>の<ruby>特徴<rt>とくちょう</rt></ruby>をもちます。",
+      "3": "<ruby>思考<rt>しこう</rt></ruby>は、<ruby>考<rt>かんが</rt></ruby>える・<ruby>判断<rt>はんだん</rt></ruby>するといった<ruby>知的<rt>ちてき</rt></ruby>な<ruby>働<rt>はたら</rt></ruby>きで、<ruby>感情<rt>かんじょう</rt></ruby>の<ruby>動<rt>うご</rt></ruby>きではありません。",
+      "4": "<ruby>正解<rt>せいかい</rt></ruby>。<ruby>情動<rt>じょうどう</rt></ruby>は、<ruby>喜<rt>よろこ</rt></ruby>び・<ruby>怒<rt>いか</rt></ruby>り・<ruby>恐怖<rt>きょうふ</rt></ruby>など、<ruby>比較的<rt>ひかくてき</rt></ruby><ruby>短<rt>みじか</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>に<ruby>限<rt>かぎ</rt></ruby>られて<ruby>生<rt>しょう</rt></ruby>じる<ruby>大<rt>おお</rt></ruby>きな<ruby>感情<rt>かんじょう</rt></ruby>の<ruby>動<rt>うご</rt></ruby>きで、<ruby>身体<rt>しんたい</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>を<ruby>伴<rt>ともな</rt></ruby>います。"
     }
   },
   {
@@ -28,11 +28,11 @@ examSets["38pm"] = [
     ],
     "answer": 2,
     "explanations": {
-      "0": "神経細胞（ニューロン）を支え、栄養を補うのは神経膠細胞（グリア細胞）のほうです。記述が逆になっています。",
-      "1": "情報伝達をつかさどるのは神経細胞（ニューロン）です。神経膠細胞（グリア細胞）は神経細胞を支える役割を担います。",
-      "2": "正解。セロトニンは、神経細胞の間で情報を伝える<ruby>神経伝達物質<rt>しんけいでんたつぶっしつ</rt></ruby>の1つで、気分の調整などに関わります。",
-      "3": "運動野があるのは前頭葉です。頭頂葉には体性感覚野があります。",
-      "4": "海馬は記憶、とくに新しい記憶の形成に関わる部位です。視覚をつかさどるのは後頭葉です。"
+      "0": "<ruby>神経細胞<rt>しんけいさいぼう</rt></ruby>（ニューロン）を<ruby>支<rt>ささ</rt></ruby>え、<ruby>栄養<rt>えいよう</rt></ruby>を<ruby>補<rt>おぎな</rt></ruby>うのは<ruby>神経<rt>しんけい</rt></ruby><ruby>膠<rt>にかわ</rt></ruby><ruby>細胞<rt>さいぼう</rt></ruby>（グリア<ruby>細胞<rt>さいぼう</rt></ruby>）のほうです。<ruby>記述<rt>きじゅつ</rt></ruby>が<ruby>逆<rt>ぎゃく</rt></ruby>になっています。",
+      "1": "<ruby>情報<rt>じょうほう</rt></ruby><ruby>伝達<rt>でんたつ</rt></ruby>をつかさどるのは<ruby>神経細胞<rt>しんけいさいぼう</rt></ruby>（ニューロン）です。<ruby>神経<rt>しんけい</rt></ruby><ruby>膠<rt>にかわ</rt></ruby><ruby>細胞<rt>さいぼう</rt></ruby>（グリア<ruby>細胞<rt>さいぼう</rt></ruby>）は<ruby>神経細胞<rt>しんけいさいぼう</rt></ruby>を<ruby>支<rt>ささ</rt></ruby>える<ruby>役割<rt>やくわり</rt></ruby>を<ruby>担<rt>にな</rt></ruby>います。",
+      "2": "<ruby>正解<rt>せいかい</rt></ruby>。セロトニンは、<ruby>神経細胞<rt>しんけいさいぼう</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>で<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>伝<rt>つた</rt></ruby>える<ruby>神経伝達物質<rt>しんけいでんたつぶっしつ</rt></ruby>の1つで、<ruby>気分<rt>きぶん</rt></ruby>の<ruby>調整<rt>ちょうせい</rt></ruby>などに<ruby>関<rt>かか</rt></ruby>わります。",
+      "3": "<ruby>運動野<rt>うんどうや</rt></ruby>があるのは<ruby>前頭葉<rt>ぜんとうよう</rt></ruby>です。<ruby>頭頂<rt>とうちょう</rt></ruby><ruby>葉<rt>よう</rt></ruby>には<ruby>体性<rt>たいせい</rt></ruby><ruby>感覚<rt>かんかく</rt></ruby><ruby>野<rt>や</rt></ruby>があります。",
+      "4": "<ruby>海馬<rt>かいば</rt></ruby>は<ruby>記憶<rt>きおく</rt></ruby>、とくに<ruby>新<rt>あたら</rt></ruby>しい<ruby>記憶<rt>きおく</rt></ruby>の<ruby>形成<rt>けいせい</rt></ruby>に<ruby>関<rt>かか</rt></ruby>わる<ruby>部位<rt>ぶい</rt></ruby>です。<ruby>視覚<rt>しかく</rt></ruby>をつかさどるのは<ruby>後頭葉<rt>こうとうよう</rt></ruby>です。"
     }
   },
   {
@@ -46,11 +46,11 @@ examSets["38pm"] = [
     ],
     "answer": 1,
     "explanations": {
-      "0": "心臓の動きを調節するのは自律神経です。体性神経は骨格筋など随意運動に関わります。",
-      "1": "正解。肺動脈は右心室から肺へ向かう血管で、酸素の少ない静脈血が流れています。動脈・静脈の区別は血流の方向によるもので、酸素の量では決まりません。",
-      "2": "左心室から出た血液は大動脈へ流れ、全身へ送られます。",
-      "3": "リンパ管を流れるのはリンパ液です。血液が流れるのは血管です。",
-      "4": "静脈血は酸素が少なく二酸化炭素が多い血液です。酸素を多く含むのは動脈血です。"
+      "0": "<ruby>心臓<rt>しんぞう</rt></ruby>の<ruby>動<rt>うご</rt></ruby>きを<ruby>調節<rt>ちょうせつ</rt></ruby>するのは<ruby>自律<rt>じりつ</rt></ruby><ruby>神経<rt>しんけい</rt></ruby>です。<ruby>体性<rt>たいせい</rt></ruby><ruby>神経<rt>しんけい</rt></ruby>は<ruby>骨格<rt>こっかく</rt></ruby><ruby>筋<rt>すじ</rt></ruby>など<ruby>随意<rt>ずいい</rt></ruby><ruby>運動<rt>うんどう</rt></ruby>に<ruby>関<rt>かか</rt></ruby>わります。",
+      "1": "<ruby>正解<rt>せいかい</rt></ruby>。<ruby>肺動脈<rt>はいどうみゃく</rt></ruby>は<ruby>右心室<rt>うしんしつ</rt></ruby>から<ruby>肺<rt>はい</rt></ruby>へ<ruby>向<rt>む</rt></ruby>かう<ruby>血管<rt>けっかん</rt></ruby>で、<ruby>酸素<rt>さんそ</rt></ruby>の<ruby>少<rt>すく</rt></ruby>ない<ruby>静脈血<rt>じょうみゃくけつ</rt></ruby>が<ruby>流<rt>なが</rt></ruby>れています。<ruby>動脈<rt>どうみゃく</rt></ruby>・<ruby>静脈<rt>じょうみゃく</rt></ruby>の<ruby>区別<rt>くべつ</rt></ruby>は<ruby>血流<rt>けつりゅう</rt></ruby>の<ruby>方向<rt>ほうこう</rt></ruby>によるもので、<ruby>酸素<rt>さんそ</rt></ruby>の<ruby>量<rt>りょう</rt></ruby>では<ruby>決<rt>き</rt></ruby>まりません。",
+      "2": "<ruby>左心室<rt>さしんしつ</rt></ruby>から<ruby>出<rt>で</rt></ruby>た<ruby>血液<rt>けつえき</rt></ruby>は<ruby>大動脈<rt>だいどうみゃく</rt></ruby>へ<ruby>流<rt>なが</rt></ruby>れ、<ruby>全身<rt>ぜんしん</rt></ruby>へ<ruby>送<rt>おく</rt></ruby>られます。",
+      "3": "<ruby>リンパ管<rt>りんぱかん</rt></ruby>を<ruby>流<rt>なが</rt></ruby>れるのは<ruby>リンパ液<rt>りんぱえき</rt></ruby>です。<ruby>血液<rt>けつえき</rt></ruby>が<ruby>流<rt>なが</rt></ruby>れるのは<ruby>血管<rt>けっかん</rt></ruby>です。",
+      "4": "<ruby>静脈血<rt>じょうみゃくけつ</rt></ruby>は<ruby>酸素<rt>さんそ</rt></ruby>が<ruby>少<rt>すく</rt></ruby>なく<ruby>二酸化炭素<rt>にさんかたんそ</rt></ruby>が<ruby>多<rt>おお</rt></ruby>い<ruby>血液<rt>けつえき</rt></ruby>です。<ruby>酸素<rt>さんそ</rt></ruby>を<ruby>多<rt>おお</rt></ruby>く<ruby>含<rt>ふく</rt></ruby>むのは<ruby>動脈血<rt>どうみゃくけつ</rt></ruby>です。"
     }
   },
   {
@@ -64,11 +64,11 @@ examSets["38pm"] = [
     ],
     "answer": 0,
     "explanations": {
-      "0": "正解。<ruby>大殿筋<rt>だいでんきん</rt></ruby>は股関節を伸展させる大きな筋肉で、立位の保持や歩行の際に収縮します。",
-      "1": "膝の屈曲に働くのはハムストリングス（大腿二頭筋など）です。大腿四頭筋は膝を伸展させる筋肉です。",
-      "2": "肘の屈曲に働くのは上腕二頭筋です。上腕三頭筋は肘を伸展させます。",
-      "3": "三角筋は主に肩関節を外転させる筋肉です。内転には大胸筋や広背筋が働きます。",
-      "4": "足関節の底屈に働くのは下腿三頭筋（腓腹筋・ヒラメ筋）です。前脛骨筋は背屈に働きます。"
+      "0": "<ruby>正解<rt>せいかい</rt></ruby>。<ruby>大殿筋<rt>だいでんきん</rt></ruby>は<ruby>股関節<rt>こかんせつ</rt></ruby>を<ruby>伸展<rt>しんてん</rt></ruby>させる<ruby>大<rt>おお</rt></ruby>きな<ruby>筋肉<rt>きんにく</rt></ruby>で、<ruby>立位<rt>りつい</rt></ruby>の<ruby>保持<rt>ほじ</rt></ruby>や<ruby>歩行<rt>ほこう</rt></ruby>の<ruby>際<rt>さい</rt></ruby>に<ruby>収縮<rt>しゅうしゅく</rt></ruby>します。",
+      "1": "<ruby>膝<rt>ひざ</rt></ruby>の<ruby>屈曲<rt>くっきょく</rt></ruby>に<ruby>働<rt>はたら</rt></ruby>くのはハムストリングス（<ruby>大腿<rt>だいたい</rt></ruby><ruby>二頭筋<rt>にとうきん</rt></ruby>など）です。<ruby>大腿<rt>だいたい</rt></ruby><ruby>四<rt>よん</rt></ruby><ruby>頭<rt>とう</rt></ruby><ruby>筋<rt>すじ</rt></ruby>は<ruby>膝<rt>ひざ</rt></ruby>を<ruby>伸展<rt>しんてん</rt></ruby>させる<ruby>筋肉<rt>きんにく</rt></ruby>です。",
+      "2": "<ruby>肘<rt>ひじ</rt></ruby>の<ruby>屈曲<rt>くっきょく</rt></ruby>に<ruby>働<rt>はたら</rt></ruby>くのは<ruby>上腕二頭筋<rt>じょうわんにとうきん</rt></ruby>です。<ruby>上腕三頭筋<rt>じょうわんさんとうきん</rt></ruby>は<ruby>肘<rt>ひじ</rt></ruby>を<ruby>伸展<rt>しんてん</rt></ruby>させます。",
+      "3": "<ruby>三角<rt>さんかく</rt></ruby><ruby>筋<rt>すじ</rt></ruby>は<ruby>主<rt>おも</rt></ruby>に<ruby>肩<rt>かた</rt></ruby><ruby>関節<rt>かんせつ</rt></ruby>を<ruby>外転<rt>がいてん</rt></ruby>させる<ruby>筋肉<rt>きんにく</rt></ruby>です。<ruby>内転<rt>ないてん</rt></ruby>には<ruby>大胸筋<rt>だいきょうきん</rt></ruby>や<ruby>広背筋<rt>こうはいきん</rt></ruby>が<ruby>働<rt>はたら</rt></ruby>きます。",
+      "4": "<ruby>足<rt>あし</rt></ruby><ruby>関節<rt>かんせつ</rt></ruby>の<ruby>底屈<rt>ていくつ</rt></ruby>に<ruby>働<rt>はたら</rt></ruby>くのは<ruby>下腿<rt>かたい</rt></ruby><ruby>三頭筋<rt>さんとうきん</rt></ruby>（<ruby>腓腹筋<rt>ひふくきん</rt></ruby>・<ruby>ヒラメ筋<rt>ひらめきん</rt></ruby>）です。<ruby>前<rt>ぜん</rt></ruby><ruby>脛骨<rt>けいこつ</rt></ruby><ruby>筋<rt>すじ</rt></ruby>は<ruby>背屈<rt>はいくつ</rt></ruby>に<ruby>働<rt>はたら</rt></ruby>きます。"
     }
   },
   {
@@ -82,11 +82,11 @@ examSets["38pm"] = [
     ],
     "answer": 4,
     "explanations": {
-      "0": "網膜は光を受け取る部位で、網膜剥離などの疾患が起こる部位です。白内障で混濁する部位ではありません。",
-      "1": "角膜が混濁する病態は角膜混濁などであり、白内障とは混濁する部位が異なります。",
-      "2": "脈絡膜は網膜に栄養を送る膜で、白内障で混濁する部位ではありません。",
-      "3": "硝子体は眼球内部を満たす透明なゼリー状の組織で、白内障で混濁する部位ではありません。",
-      "4": "正解。白内障は、カメラのレンズにあたる<ruby>水晶体<rt>すいしょうたい</rt></ruby>が白く混濁する疾患で、加齢に伴って多くみられます。"
+      "0": "<ruby>網膜<rt>もうまく</rt></ruby>は<ruby>光<rt>ひかり</rt></ruby>を<ruby>受け取<rt>うけと</rt></ruby>る<ruby>部位<rt>ぶい</rt></ruby>で、<ruby>網膜<rt>もうまく</rt></ruby><ruby>剥離<rt>はくり</rt></ruby>などの<ruby>疾患<rt>しっかん</rt></ruby>が<ruby>起<rt>お</rt></ruby>こる<ruby>部位<rt>ぶい</rt></ruby>です。<ruby>白内障<rt>はくないしょう</rt></ruby>で<ruby>混濁<rt>こんだく</rt></ruby>する<ruby>部位<rt>ぶい</rt></ruby>ではありません。",
+      "1": "<ruby>角膜<rt>かくまく</rt></ruby>が<ruby>混濁<rt>こんだく</rt></ruby>する<ruby>病態<rt>びょうたい</rt></ruby>は<ruby>角膜<rt>かくまく</rt></ruby><ruby>混濁<rt>こんだく</rt></ruby>などであり、<ruby>白内障<rt>はくないしょう</rt></ruby>とは<ruby>混濁<rt>こんだく</rt></ruby>する<ruby>部位<rt>ぶい</rt></ruby>が<ruby>異<rt>こと</rt></ruby>なります。",
+      "2": "<ruby>脈絡膜<rt>みゃくらくまく</rt></ruby>は<ruby>網膜<rt>もうまく</rt></ruby>に<ruby>栄養<rt>えいよう</rt></ruby>を<ruby>送<rt>おく</rt></ruby>る<ruby>膜<rt>まく</rt></ruby>で、<ruby>白内障<rt>はくないしょう</rt></ruby>で<ruby>混濁<rt>こんだく</rt></ruby>する<ruby>部位<rt>ぶい</rt></ruby>ではありません。",
+      "3": "<ruby>硝子<rt>がらす</rt></ruby><ruby>体<rt>たい</rt></ruby>は<ruby>眼球<rt>がんきゅう</rt></ruby><ruby>内部<rt>ないぶ</rt></ruby>を<ruby>満<rt>み</rt></ruby>たす<ruby>透明<rt>とうめい</rt></ruby>なゼリー<ruby>状<rt>じょう</rt></ruby>の<ruby>組織<rt>そしき</rt></ruby>で、<ruby>白内障<rt>はくないしょう</rt></ruby>で<ruby>混濁<rt>こんだく</rt></ruby>する<ruby>部位<rt>ぶい</rt></ruby>ではありません。",
+      "4": "<ruby>正解<rt>せいかい</rt></ruby>。<ruby>白内障<rt>はくないしょう</rt></ruby>は、カメラのレンズにあたる<ruby>水晶体<rt>すいしょうたい</rt></ruby>が<ruby>白<rt>しろ</rt></ruby>く<ruby>混濁<rt>こんだく</rt></ruby>する<ruby>疾患<rt>しっかん</rt></ruby>で、<ruby>加齢<rt>かれい</rt></ruby>に<ruby>伴<rt>ともな</rt></ruby>って<ruby>多<rt>おお</rt></ruby>くみられます。"
     }
   },
   {
@@ -100,11 +100,11 @@ examSets["38pm"] = [
     ],
     "answer": 3,
     "explanations": {
-      "0": "低栄養では唾液の分泌は低下し、口腔内が乾燥しやすくなります。増加するのではありません。",
-      "1": "低栄養では腸の働きが弱まり、腸蠕動は低下します。亢進するのではありません。",
-      "2": "低栄養では筋力や嚥下機能が低下するため、食べこぼしはむしろ増えます。",
-      "3": "正解。低栄養の高齢者には、好きな物だけを食べるなど偏りのある食べ方がみられやすく、それがさらに栄養の偏りを招きます。",
-      "4": "低栄養では体重は増加ではなく減少します。体重減少は低栄養の代表的なサインです。"
+      "0": "<ruby>低<rt>てい</rt></ruby><ruby>栄養<rt>えいよう</rt></ruby>では<ruby>唾液<rt>だえき</rt></ruby>の<ruby>分泌<rt>ぶんぴつ</rt></ruby>は<ruby>低下<rt>ていか</rt></ruby>し、<ruby>口腔<rt>こうこう</rt></ruby><ruby>内<rt>ない</rt></ruby>が<ruby>乾燥<rt>かんそう</rt></ruby>しやすくなります。<ruby>増加<rt>ぞうか</rt></ruby>するのではありません。",
+      "1": "<ruby>低<rt>てい</rt></ruby><ruby>栄養<rt>えいよう</rt></ruby>では<ruby>腸<rt>ちょう</rt></ruby>の<ruby>働<rt>はたら</rt></ruby>きが<ruby>弱<rt>よわ</rt></ruby>まり、<ruby>腸<rt>ちょう</rt></ruby><ruby>蠕動<rt>ぜんどう</rt></ruby>は<ruby>低下<rt>ていか</rt></ruby>します。<ruby>亢進<rt>こうしん</rt></ruby>するのではありません。",
+      "2": "<ruby>低<rt>てい</rt></ruby><ruby>栄養<rt>えいよう</rt></ruby>では<ruby>筋力<rt>きんりょく</rt></ruby>や<ruby>嚥下<rt>えんげ</rt></ruby><ruby>機能<rt>きのう</rt></ruby>が<ruby>低下<rt>ていか</rt></ruby>するため、<ruby>食<rt>た</rt></ruby>べこぼしはむしろ<ruby>増<rt>ふ</rt></ruby>えます。",
+      "3": "<ruby>正解<rt>せいかい</rt></ruby>。<ruby>低<rt>てい</rt></ruby><ruby>栄養<rt>えいよう</rt></ruby>の<ruby>高齢者<rt>こうれいしゃ</rt></ruby>には、<ruby>好<rt>す</rt></ruby>きな<ruby>物<rt>もの</rt></ruby>だけを<ruby>食<rt>た</rt></ruby>べるなど<ruby>偏<rt>かたよ</rt></ruby>りのある<ruby>食<rt>た</rt></ruby>べ<ruby>方<rt>かた</rt></ruby>がみられやすく、それがさらに<ruby>栄養<rt>えいよう</rt></ruby>の<ruby>偏<rt>かたよ</rt></ruby>りを<ruby>招<rt>まね</rt></ruby>きます。",
+      "4": "<ruby>低<rt>てい</rt></ruby><ruby>栄養<rt>えいよう</rt></ruby>では<ruby>体重<rt>たいじゅう</rt></ruby>は<ruby>増加<rt>ぞうか</rt></ruby>ではなく<ruby>減少<rt>げんしょう</rt></ruby>します。<ruby>体重<rt>たいじゅう</rt></ruby><ruby>減少<rt>げんしょう</rt></ruby>は<ruby>低<rt>てい</rt></ruby><ruby>栄養<rt>えいよう</rt></ruby>の<ruby>代表的<rt>だいひょうてき</rt></ruby>なサインです。"
     }
   },
   {
@@ -118,11 +118,11 @@ examSets["38pm"] = [
     ],
     "answer": 1,
     "explanations": {
-      "0": "汗腺は真皮にあり、汗を分泌する器官です。表皮のバリア機能を担う構造ではありません。",
-      "1": "正解。<ruby>角質層<rt>かくしつそう</rt></ruby>は表皮の一番外側の層で、水分の蒸発を防ぎ、外からの刺激や細菌の侵入を防ぐバリア機能を担います。",
-      "2": "基底層は新しい細胞をつくる層です。バリア機能そのものを担うのは角質層です。",
-      "3": "有棘層は表皮の中間の層で、バリア機能の中心ではありません。",
-      "4": "顆粒層は角質化に関わる層ですが、外界との境でバリアとなるのはその外側の角質層です。"
+      "0": "<ruby>汗腺<rt>かんせん</rt></ruby>は<ruby>真皮<rt>しんぴ</rt></ruby>にあり、<ruby>汗<rt>あせ</rt></ruby>を<ruby>分泌<rt>ぶんぴつ</rt></ruby>する<ruby>器官<rt>きかん</rt></ruby>です。<ruby>表皮<rt>ひょうひ</rt></ruby>のバリア<ruby>機能<rt>きのう</rt></ruby>を<ruby>担<rt>にな</rt></ruby>う<ruby>構造<rt>こうぞう</rt></ruby>ではありません。",
+      "1": "<ruby>正解<rt>せいかい</rt></ruby>。<ruby>角質層<rt>かくしつそう</rt></ruby>は<ruby>表皮<rt>ひょうひ</rt></ruby>の<ruby>一番<rt>いちばん</rt></ruby><ruby>外側<rt>そとがわ</rt></ruby>の<ruby>層<rt>そう</rt></ruby>で、<ruby>水分<rt>すいぶん</rt></ruby>の<ruby>蒸発<rt>じょうはつ</rt></ruby>を<ruby>防<rt>ふせ</rt></ruby>ぎ、<ruby>外<rt>そと</rt></ruby>からの<ruby>刺激<rt>しげき</rt></ruby>や<ruby>細菌<rt>さいきん</rt></ruby>の<ruby>侵入<rt>しんにゅう</rt></ruby>を<ruby>防<rt>ふせ</rt></ruby>ぐバリア<ruby>機能<rt>きのう</rt></ruby>を<ruby>担<rt>にな</rt></ruby>います。",
+      "2": "<ruby>基底<rt>きてい</rt></ruby><ruby>層<rt>そう</rt></ruby>は<ruby>新<rt>あたら</rt></ruby>しい<ruby>細胞<rt>さいぼう</rt></ruby>をつくる<ruby>層<rt>そう</rt></ruby>です。バリア<ruby>機能<rt>きのう</rt></ruby>そのものを<ruby>担<rt>にな</rt></ruby>うのは<ruby>角質層<rt>かくしつそう</rt></ruby>です。",
+      "3": "<ruby>有棘層<rt>ゆうきょくそう</rt></ruby>は<ruby>表皮<rt>ひょうひ</rt></ruby>の<ruby>中間<rt>ちゅうかん</rt></ruby>の<ruby>層<rt>そう</rt></ruby>で、バリア<ruby>機能<rt>きのう</rt></ruby>の<ruby>中心<rt>ちゅうしん</rt></ruby>ではありません。",
+      "4": "<ruby>顆粒<rt>かりゅう</rt></ruby><ruby>層<rt>そう</rt></ruby>は<ruby>角質化<rt>かくしつか</rt></ruby>に<ruby>関<rt>かか</rt></ruby>わる<ruby>層<rt>そう</rt></ruby>ですが、<ruby>外界<rt>がいかい</rt></ruby>との<ruby>境<rt>さかい</rt></ruby>でバリアとなるのはその<ruby>外側<rt>そとがわ</rt></ruby>の<ruby>角質層<rt>かくしつそう</rt></ruby>です。"
     }
   },
   {
@@ -136,11 +136,11 @@ examSets["38pm"] = [
     ],
     "answer": 0,
     "explanations": {
-      "0": "正解。<ruby>先行期<rt>せんこうき</rt></ruby>は、食べ物を認識し、食べようと判断する段階です。献立や食材の説明を受けて食べ始めたことから、この段階への支援だったと考えられます。",
-      "1": "準備期は、食べ物を口に取り込み、咀嚼して食塊をつくる段階です。Aさんは食べ始める前の段階でつまずいていました。",
-      "2": "口腔期は、食塊を口から咽頭へ送り込む段階です。食事を開始する前の支援には当てはまりません。",
-      "3": "咽頭期は、嚥下反射によって食塊が咽頭を通過する段階です。当てはまりません。",
-      "4": "食道期は、食塊が食道の蠕動運動で胃へ運ばれる段階です。当てはまりません。"
+      "0": "<ruby>正解<rt>せいかい</rt></ruby>。<ruby>先行期<rt>せんこうき</rt></ruby>は、<ruby>食べ物<rt>たべもの</rt></ruby>を<ruby>認識<rt>にんしき</rt></ruby>し、<ruby>食<rt>た</rt></ruby>べようと<ruby>判断<rt>はんだん</rt></ruby>する<ruby>段階<rt>だんかい</rt></ruby>です。<ruby>献立<rt>こんだて</rt></ruby>や<ruby>食材<rt>しょくざい</rt></ruby>の<ruby>説明<rt>せつめい</rt></ruby>を<ruby>受<rt>う</rt></ruby>けて<ruby>食<rt>た</rt></ruby>べ<ruby>始<rt>はじ</rt></ruby>めたことから、この<ruby>段階<rt>だんかい</rt></ruby>への<ruby>支援<rt>しえん</rt></ruby>だったと<ruby>考<rt>かんが</rt></ruby>えられます。",
+      "1": "<ruby>準備<rt>じゅんび</rt></ruby><ruby>期<rt>き</rt></ruby>は、<ruby>食べ物<rt>たべもの</rt></ruby>を<ruby>口<rt>くち</rt></ruby>に<ruby>取り込<rt>とりこ</rt></ruby>み、<ruby>咀嚼<rt>そしゃく</rt></ruby>して<ruby>食塊<rt>しょくかい</rt></ruby>をつくる<ruby>段階<rt>だんかい</rt></ruby>です。Aさんは<ruby>食<rt>た</rt></ruby>べ<ruby>始<rt>はじ</rt></ruby>める<ruby>前<rt>まえ</rt></ruby>の<ruby>段階<rt>だんかい</rt></ruby>でつまずいていました。",
+      "2": "<ruby>口腔<rt>こうこう</rt></ruby><ruby>期<rt>き</rt></ruby>は、<ruby>食塊<rt>しょくかい</rt></ruby>を<ruby>口<rt>くち</rt></ruby>から<ruby>咽頭<rt>いんとう</rt></ruby>へ<ruby>送り込<rt>おくりこ</rt></ruby>む<ruby>段階<rt>だんかい</rt></ruby>です。<ruby>食事<rt>しょくじ</rt></ruby>を<ruby>開始<rt>かいし</rt></ruby>する<ruby>前<rt>まえ</rt></ruby>の<ruby>支援<rt>しえん</rt></ruby>には<ruby>当<rt>あ</rt></ruby>てはまりません。",
+      "3": "<ruby>咽頭<rt>いんとう</rt></ruby><ruby>期<rt>き</rt></ruby>は、<ruby>嚥下<rt>えんげ</rt></ruby><ruby>反射<rt>はんしゃ</rt></ruby>によって<ruby>食塊<rt>しょくかい</rt></ruby>が<ruby>咽頭<rt>いんとう</rt></ruby>を<ruby>通過<rt>つうか</rt></ruby>する<ruby>段階<rt>だんかい</rt></ruby>です。<ruby>当<rt>あ</rt></ruby>てはまりません。",
+      "4": "<ruby>食道<rt>しょくどう</rt></ruby><ruby>期<rt>き</rt></ruby>は、<ruby>食塊<rt>しょくかい</rt></ruby>が<ruby>食道<rt>しょくどう</rt></ruby>の<ruby>蠕動<rt>ぜんどう</rt></ruby><ruby>運動<rt>うんどう</rt></ruby>で<ruby>胃<rt>い</rt></ruby>へ<ruby>運<rt>はこ</rt></ruby>ばれる<ruby>段階<rt>だんかい</rt></ruby>です。<ruby>当<rt>あ</rt></ruby>てはまりません。"
     }
   },
   {
@@ -154,11 +154,11 @@ examSets["38pm"] = [
     ],
     "answer": 2,
     "explanations": {
-      "0": "盲腸は大腸の始まりの部分で、上行結腸より前に便が通過します。",
-      "1": "上行結腸は横行結腸の前に便が通過する部位です。",
-      "2": "正解。大腸では、盲腸→上行結腸→横行結腸→下行結腸→S状結腸→直腸の順に便が進みます。横行結腸の次は下行結腸です。",
-      "3": "S状結腸は下行結腸の次に便が通過する部位です。",
-      "4": "直腸は大腸の最後の部分で、S状結腸の次に便が通過します。"
+      "0": "<ruby>盲腸<rt>もうちょう</rt></ruby>は<ruby>大腸<rt>だいちょう</rt></ruby>の<ruby>始<rt>はじ</rt></ruby>まりの<ruby>部分<rt>ぶぶん</rt></ruby>で、<ruby>上行<rt>じょうぎょう</rt></ruby><ruby>結腸<rt>けっちょう</rt></ruby>より<ruby>前<rt>まえ</rt></ruby>に<ruby>便<rt>びん</rt></ruby>が<ruby>通過<rt>つうか</rt></ruby>します。",
+      "1": "<ruby>上行<rt>じょうぎょう</rt></ruby><ruby>結腸<rt>けっちょう</rt></ruby>は<ruby>横行<rt>おうこう</rt></ruby><ruby>結腸<rt>けっちょう</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>に<ruby>便<rt>びん</rt></ruby>が<ruby>通過<rt>つうか</rt></ruby>する<ruby>部位<rt>ぶい</rt></ruby>です。",
+      "2": "<ruby>正解<rt>せいかい</rt></ruby>。<ruby>大腸<rt>だいちょう</rt></ruby>では、<ruby>盲腸<rt>もうちょう</rt></ruby>→<ruby>上行<rt>じょうぎょう</rt></ruby><ruby>結腸<rt>けっちょう</rt></ruby>→<ruby>横行<rt>おうこう</rt></ruby><ruby>結腸<rt>けっちょう</rt></ruby>→<ruby>下行<rt>げぎょう</rt></ruby><ruby>結腸<rt>けっちょう</rt></ruby>→S<ruby>状<rt>じょう</rt></ruby><ruby>結腸<rt>けっちょう</rt></ruby>→<ruby>直腸<rt>ちょくちょう</rt></ruby>の<ruby>順<rt>じゅん</rt></ruby>に<ruby>便<rt>びん</rt></ruby>が<ruby>進<rt>すす</rt></ruby>みます。<ruby>横行<rt>おうこう</rt></ruby><ruby>結腸<rt>けっちょう</rt></ruby>の<ruby>次<rt>つぎ</rt></ruby>は<ruby>下行<rt>げぎょう</rt></ruby><ruby>結腸<rt>けっちょう</rt></ruby>です。",
+      "3": "S<ruby>状<rt>じょう</rt></ruby><ruby>結腸<rt>けっちょう</rt></ruby>は<ruby>下行<rt>げぎょう</rt></ruby><ruby>結腸<rt>けっちょう</rt></ruby>の<ruby>次<rt>つぎ</rt></ruby>に<ruby>便<rt>びん</rt></ruby>が<ruby>通過<rt>つうか</rt></ruby>する<ruby>部位<rt>ぶい</rt></ruby>です。",
+      "4": "<ruby>直腸<rt>ちょくちょう</rt></ruby>は<ruby>大腸<rt>だいちょう</rt></ruby>の<ruby>最後<rt>さいご</rt></ruby>の<ruby>部分<rt>ぶぶん</rt></ruby>で、S<ruby>状<rt>じょう</rt></ruby><ruby>結腸<rt>けっちょう</rt></ruby>の<ruby>次<rt>つぎ</rt></ruby>に<ruby>便<rt>びん</rt></ruby>が<ruby>通過<rt>つうか</rt></ruby>します。"
     }
   },
   {
@@ -172,11 +172,11 @@ examSets["38pm"] = [
     ],
     "answer": 4,
     "explanations": {
-      "0": "水分摂取は一般的な便秘への対応ですが、Aさんは急な便秘に細い便や血便を伴っており、器質的な疾患が疑われるため、生活上の対応より受診が優先されます。",
-      "1": "食物繊維の摂取も一般的な便秘対策ですが、血便や細い便がある場合は、大腸がんなどの疾患をまず確認する必要があります。",
-      "2": "運動の促進は機能性の便秘への対応です。急に始まった便秘と血便からは疾患の存在が疑われ、受診が最も適切です。",
-      "3": "腹部のマッサージも便秘への一般的な対応ですが、腸の狭窄などが疑われる状態では、原因の確認が先です。",
-      "4": "正解。半年前からの急な便秘、細くなった便、血液の付着は、大腸がんなど器質的疾患のサインです。医療機関の受診を促すことが最も適切です。"
+      "0": "<ruby>水分<rt>すいぶん</rt></ruby><ruby>摂取<rt>せっしゅ</rt></ruby>は<ruby>一般的<rt>いっぱんてき</rt></ruby>な<ruby>便秘<rt>べんぴ</rt></ruby>への<ruby>対応<rt>たいおう</rt></ruby>ですが、Aさんは<ruby>急<rt>きゅう</rt></ruby>な<ruby>便秘<rt>べんぴ</rt></ruby>に<ruby>細<rt>ほそ</rt></ruby>い<ruby>便<rt>びん</rt></ruby>や<ruby>血便<rt>けつべん</rt></ruby>を<ruby>伴<rt>ともな</rt></ruby>っており、<ruby>器質<rt>きしつ</rt></ruby><ruby>的<rt>てき</rt></ruby>な<ruby>疾患<rt>しっかん</rt></ruby>が<ruby>疑<rt>うたが</rt></ruby>われるため、<ruby>生活<rt>せいかつ</rt></ruby><ruby>上<rt>じょう</rt></ruby>の<ruby>対応<rt>たいおう</rt></ruby>より<ruby>受診<rt>じゅしん</rt></ruby>が<ruby>優先<rt>ゆうせん</rt></ruby>されます。",
+      "1": "<ruby>食物<rt>しょくもつ</rt></ruby><ruby>繊維<rt>せんい</rt></ruby>の<ruby>摂取<rt>せっしゅ</rt></ruby>も<ruby>一般的<rt>いっぱんてき</rt></ruby>な<ruby>便秘<rt>べんぴ</rt></ruby><ruby>対策<rt>たいさく</rt></ruby>ですが、<ruby>血便<rt>けつべん</rt></ruby>や<ruby>細<rt>ほそ</rt></ruby>い<ruby>便<rt>びん</rt></ruby>がある<ruby>場合<rt>ばあい</rt></ruby>は、<ruby>大腸<rt>だいちょう</rt></ruby>がんなどの<ruby>疾患<rt>しっかん</rt></ruby>をまず<ruby>確認<rt>かくにん</rt></ruby>する<ruby>必要<rt>ひつよう</rt></ruby>があります。",
+      "2": "<ruby>運動<rt>うんどう</rt></ruby>の<ruby>促進<rt>そくしん</rt></ruby>は<ruby>機能性<rt>きのうせい</rt></ruby>の<ruby>便秘<rt>べんぴ</rt></ruby>への<ruby>対応<rt>たいおう</rt></ruby>です。<ruby>急<rt>きゅう</rt></ruby>に<ruby>始<rt>はじ</rt></ruby>まった<ruby>便秘<rt>べんぴ</rt></ruby>と<ruby>血便<rt>けつべん</rt></ruby>からは<ruby>疾患<rt>しっかん</rt></ruby>の<ruby>存在<rt>そんざい</rt></ruby>が<ruby>疑<rt>うたが</rt></ruby>われ、<ruby>受診<rt>じゅしん</rt></ruby>が<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>です。",
+      "3": "<ruby>腹部<rt>ふくぶ</rt></ruby>のマッサージも<ruby>便秘<rt>べんぴ</rt></ruby>への<ruby>一般的<rt>いっぱんてき</rt></ruby>な<ruby>対応<rt>たいおう</rt></ruby>ですが、<ruby>腸<rt>ちょう</rt></ruby>の<ruby>狭窄<rt>きょうさく</rt></ruby>などが<ruby>疑<rt>うたが</rt></ruby>われる<ruby>状態<rt>じょうたい</rt></ruby>では、<ruby>原因<rt>げんいん</rt></ruby>の<ruby>確認<rt>かくにん</rt></ruby>が<ruby>先<rt>さき</rt></ruby>です。",
+      "4": "<ruby>正解<rt>せいかい</rt></ruby>。<ruby>半年<rt>はんとし</rt></ruby><ruby>前<rt>まえ</rt></ruby>からの<ruby>急<rt>きゅう</rt></ruby>な<ruby>便秘<rt>べんぴ</rt></ruby>、<ruby>細<rt>ほそ</rt></ruby>くなった<ruby>便<rt>びん</rt></ruby>、<ruby>血液<rt>けつえき</rt></ruby>の<ruby>付着<rt>ふちゃく</rt></ruby>は、<ruby>大腸<rt>だいちょう</rt></ruby>がんなど<ruby>器質<rt>きしつ</rt></ruby><ruby>的<rt>てき</rt></ruby><ruby>疾患<rt>しっかん</rt></ruby>のサインです。<ruby>医療機関<rt>いりょうきかん</rt></ruby>の<ruby>受診<rt>じゅしん</rt></ruby>を<ruby>促<rt>うなが</rt></ruby>すことが<ruby>最<rt>もっと</rt></ruby>も<ruby>適切<rt>てきせつ</rt></ruby>です。"
     }
   },
   {
@@ -190,11 +190,11 @@ examSets["38pm"] = [
     ],
     "answer": 3,
     "explanations": {
-      "0": "約12時間は乳幼児期にみられる長さで、65歳の人の睡眠時間としては長すぎます。",
-      "1": "約10時間も65歳の人には長すぎます。高齢者では長く床にいることがかえって眠りを浅くします。",
-      "2": "約8時間は若い成人の目安とされる長さで、65歳の人の妥当な睡眠時間としてはやや長めです。",
-      "3": "正解。加齢とともに必要な睡眠時間は短くなり、65歳の人では約6時間が妥当とされています。",
-      "4": "約4時間では短すぎて、日中の眠気や心身の機能低下を招きます。"
+      "0": "<ruby>約<rt>やく</rt></ruby>12<ruby>時間<rt>じかん</rt></ruby>は<ruby>乳幼児<rt>にゅうようじ</rt></ruby><ruby>期<rt>き</rt></ruby>にみられる<ruby>長<rt>なが</rt></ruby>さで、65<ruby>歳<rt>さい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>の<ruby>睡眠時間<rt>すいみんじかん</rt></ruby>としては<ruby>長<rt>なが</rt></ruby>すぎます。",
+      "1": "<ruby>約<rt>やく</rt></ruby>10<ruby>時間<rt>じかん</rt></ruby>も65<ruby>歳<rt>さい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>には<ruby>長<rt>なが</rt></ruby>すぎます。<ruby>高齢者<rt>こうれいしゃ</rt></ruby>では<ruby>長<rt>なが</rt></ruby>く<ruby>床<rt>ゆか</rt></ruby>にいることがかえって<ruby>眠<rt>ねむ</rt></ruby>りを<ruby>浅<rt>あさ</rt></ruby>くします。",
+      "2": "<ruby>約<rt>やく</rt></ruby>8<ruby>時間<rt>じかん</rt></ruby>は<ruby>若<rt>わか</rt></ruby>い<ruby>成人<rt>せいじん</rt></ruby>の<ruby>目安<rt>めやす</rt></ruby>とされる<ruby>長<rt>なが</rt></ruby>さで、65<ruby>歳<rt>さい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>の<ruby>妥当<rt>だとう</rt></ruby>な<ruby>睡眠時間<rt>すいみんじかん</rt></ruby>としてはやや<ruby>長<rt>なが</rt></ruby>めです。",
+      "3": "<ruby>正解<rt>せいかい</rt></ruby>。<ruby>加齢<rt>かれい</rt></ruby>とともに<ruby>必要<rt>ひつよう</rt></ruby>な<ruby>睡眠時間<rt>すいみんじかん</rt></ruby>は<ruby>短<rt>みじか</rt></ruby>くなり、65<ruby>歳<rt>さい</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>では<ruby>約<rt>やく</rt></ruby>6<ruby>時間<rt>じかん</rt></ruby>が<ruby>妥当<rt>だとう</rt></ruby>とされています。",
+      "4": "<ruby>約<rt>やく</rt></ruby>4<ruby>時間<rt>じかん</rt></ruby>では<ruby>短<rt>みじか</rt></ruby>すぎて、<ruby>日中<rt>にっちゅう</rt></ruby>の<ruby>眠気<rt>ねむけ</rt></ruby>や<ruby>心身<rt>しんしん</rt></ruby>の<ruby>機能<rt>きのう</rt></ruby><ruby>低下<rt>ていか</rt></ruby>を<ruby>招<rt>まね</rt></ruby>きます。"
     }
   },
   {
@@ -208,11 +208,11 @@ examSets["38pm"] = [
     ],
     "answer": 3,
     "explanations": {
-      "0": "第1段階は「否認」です。死を受け入れられず、認めようとしない段階です。",
-      "1": "第2段階は「怒り」です。「なぜ自分が」という怒りを向ける段階です。",
-      "2": "第3段階は「取引」です。神仏などとの取引をして延命を願う段階です。",
-      "3": "正解。キューブラー・ロスの死の受容過程は、否認→怒り→取引→抑うつ→受容の順に進み、抑うつは第4段階です。",
-      "4": "第5段階は「受容」です。死を静かに受け入れる最終段階です。"
+      "0": "<ruby>第<rt>だい</rt></ruby>1<ruby>段階<rt>だんかい</rt></ruby>は「<ruby>否認<rt>ひにん</rt></ruby>」です。<ruby>死<rt>し</rt></ruby>を<ruby>受け入<rt>うけい</rt></ruby>れられず、<ruby>認<rt>みと</rt></ruby>めようとしない<ruby>段階<rt>だんかい</rt></ruby>です。",
+      "1": "<ruby>第<rt>だい</rt></ruby>2<ruby>段階<rt>だんかい</rt></ruby>は「<ruby>怒<rt>いか</rt></ruby>り」です。「なぜ<ruby>自分<rt>じぶん</rt></ruby>が」という<ruby>怒<rt>いか</rt></ruby>りを<ruby>向<rt>む</rt></ruby>ける<ruby>段階<rt>だんかい</rt></ruby>です。",
+      "2": "<ruby>第<rt>だい</rt></ruby>3<ruby>段階<rt>だんかい</rt></ruby>は「<ruby>取引<rt>とりひき</rt></ruby>」です。<ruby>神仏<rt>しんぶつ</rt></ruby>などとの<ruby>取引<rt>とりひき</rt></ruby>をして<ruby>延命<rt>えんめい</rt></ruby>を<ruby>願<rt>ねが</rt></ruby>う<ruby>段階<rt>だんかい</rt></ruby>です。",
+      "3": "<ruby>正解<rt>せいかい</rt></ruby>。キューブラー・ロスの<ruby>死<rt>し</rt></ruby>の<ruby>受容<rt>じゅよう</rt></ruby><ruby>過程<rt>かてい</rt></ruby>は、<ruby>否認<rt>ひにん</rt></ruby>→<ruby>怒<rt>いか</rt></ruby>り→<ruby>取引<rt>とりひき</rt></ruby>→<ruby>抑<rt>よく</rt></ruby>うつ→<ruby>受容<rt>じゅよう</rt></ruby>の<ruby>順<rt>じゅん</rt></ruby>に<ruby>進<rt>すす</rt></ruby>み、<ruby>抑<rt>よく</rt></ruby>うつは<ruby>第<rt>だい</rt></ruby>4<ruby>段階<rt>だんかい</rt></ruby>です。",
+      "4": "<ruby>第<rt>だい</rt></ruby>5<ruby>段階<rt>だんかい</rt></ruby>は「<ruby>受容<rt>じゅよう</rt></ruby>」です。<ruby>死<rt>し</rt></ruby>を<ruby>静<rt>しず</rt></ruby>かに<ruby>受け入<rt>うけい</rt></ruby>れる<ruby>最終<rt>さいしゅう</rt></ruby><ruby>段階<rt>だんかい</rt></ruby>です。"
     }
   },
   {
@@ -226,11 +226,11 @@ examSets["38pm"] = [
     ],
     "answer": 1,
     "explanations": {
-      "0": "良心・道徳心・価値尺度を発達させるのは、児童期（学童期）の発達課題です。",
-      "1": "正解。成人としての市民的・社会的責任を達成することは、ハヴィガーストの示す中年期の発達課題の1つです。",
-      "2": "満足できる住宅を確保することは、若年成人期に家庭生活を始める時期の課題とされ、中年期の課題ではありません。",
-      "3": "男性あるいは女性の社会的役割を身につけるのは、青年期の発達課題です。",
-      "4": "気心の合う社交集団を見つけるのは、青年期の発達課題です。"
+      "0": "<ruby>良心<rt>りょうしん</rt></ruby>・<ruby>道徳心<rt>どうとくしん</rt></ruby>・<ruby>価値<rt>かち</rt></ruby><ruby>尺度<rt>しゃくど</rt></ruby>を<ruby>発達<rt>はったつ</rt></ruby>させるのは、<ruby>児童期<rt>じどうき</rt></ruby>（<ruby>学童<rt>がくどう</rt></ruby><ruby>期<rt>き</rt></ruby>）の<ruby>発達<rt>はったつ</rt></ruby><ruby>課題<rt>かだい</rt></ruby>です。",
+      "1": "<ruby>正解<rt>せいかい</rt></ruby>。<ruby>成人<rt>せいじん</rt></ruby>としての<ruby>市民的<rt>しみんてき</rt></ruby>・<ruby>社会的責任<rt>しゃかいてきせきにん</rt></ruby>を<ruby>達成<rt>たっせい</rt></ruby>することは、ハヴィガーストの<ruby>示<rt>しめ</rt></ruby>す<ruby>中年期<rt>ちゅうねんき</rt></ruby>の<ruby>発達<rt>はったつ</rt></ruby><ruby>課題<rt>かだい</rt></ruby>の1つです。",
+      "2": "<ruby>満足<rt>まんぞく</rt></ruby>できる<ruby>住宅<rt>じゅうたく</rt></ruby>を<ruby>確保<rt>かくほ</rt></ruby>することは、<ruby>若年<rt>じゃくねん</rt></ruby><ruby>成人<rt>せいじん</rt></ruby><ruby>期<rt>き</rt></ruby>に<ruby>家庭<rt>かてい</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>める<ruby>時期<rt>じき</rt></ruby>の<ruby>課題<rt>かだい</rt></ruby>とされ、<ruby>中年期<rt>ちゅうねんき</rt></ruby>の<ruby>課題<rt>かだい</rt></ruby>ではありません。",
+      "3": "<ruby>男性<rt>だんせい</rt></ruby>あるいは<ruby>女性<rt>じょせい</rt></ruby>の<ruby>社会的<rt>しゃかいてき</rt></ruby><ruby>役割<rt>やくわり</rt></ruby>を<ruby>身<rt>み</rt></ruby>につけるのは、<ruby>青年期<rt>せいねんき</rt></ruby>の<ruby>発達<rt>はったつ</rt></ruby><ruby>課題<rt>かだい</rt></ruby>です。",
+      "4": "<ruby>気心<rt>きごころ</rt></ruby>の<ruby>合<rt>あ</rt></ruby>う<ruby>社交<rt>しゃこう</rt></ruby><ruby>集団<rt>しゅうだん</rt></ruby>を<ruby>見<rt>み</rt></ruby>つけるのは、<ruby>青年期<rt>せいねんき</rt></ruby>の<ruby>発達<rt>はったつ</rt></ruby><ruby>課題<rt>かだい</rt></ruby>です。"
     }
   },
   {
@@ -244,11 +244,11 @@ examSets["38pm"] = [
     ],
     "answer": 1,
     "explanations": {
-      "0": "文字のつづりがうまく書けない、類似の文字を間違えるのは、学習障害（書字障害）の特徴です。",
-      "1": "正解。同じ動作や行動を繰り返す常同行動・反復行動は、自閉症スペクトラム障害の特徴の1つです。",
-      "2": "注意の持続が難しいのは、注意欠如・多動性障害（ADHD）の特徴です。",
-      "3": "順番を待てずに割り込むような衝動性の高さは、注意欠如・多動性障害（ADHD）の特徴です。",
-      "4": "数の大小の比較が難しいのは、学習障害（算数障害）の特徴です。"
+      "0": "<ruby>文字<rt>もじ</rt></ruby>のつづりがうまく<ruby>書<rt>か</rt></ruby>けない、<ruby>類似<rt>るいじ</rt></ruby>の<ruby>文字<rt>もじ</rt></ruby>を<ruby>間違<rt>まちが</rt></ruby>えるのは、<ruby>学習<rt>がくしゅう</rt></ruby><ruby>障害<rt>しょうがい</rt></ruby>（<ruby>書字<rt>しょじ</rt></ruby><ruby>障害<rt>しょうがい</rt></ruby>）の<ruby>特徴<rt>とくちょう</rt></ruby>です。",
+      "1": "<ruby>正解<rt>せいかい</rt></ruby>。<ruby>同<rt>おな</rt></ruby>じ<ruby>動作<rt>どうさ</rt></ruby>や<ruby>行動<rt>こうどう</rt></ruby>を<ruby>繰り返<rt>くりかえ</rt></ruby>す<ruby>常同<rt>じょうどう</rt></ruby><ruby>行動<rt>こうどう</rt></ruby>・<ruby>反復<rt>はんぷく</rt></ruby><ruby>行動<rt>こうどう</rt></ruby>は、<ruby>自閉症<rt>じへいしょう</rt></ruby>スペクトラム<ruby>障害<rt>しょうがい</rt></ruby>の<ruby>特徴<rt>とくちょう</rt></ruby>の1つです。",
+      "2": "<ruby>注意<rt>ちゅうい</rt></ruby>の<ruby>持続<rt>じぞく</rt></ruby>が<ruby>難<rt>むずか</rt></ruby>しいのは、<ruby>注意<rt>ちゅうい</rt></ruby><ruby>欠如<rt>けつじょ</rt></ruby>・<ruby>多動<rt>たどう</rt></ruby><ruby>性<rt>せい</rt></ruby><ruby>障害<rt>しょうがい</rt></ruby>（ADHD）の<ruby>特徴<rt>とくちょう</rt></ruby>です。",
+      "3": "<ruby>順番<rt>じゅんばん</rt></ruby>を<ruby>待<rt>ま</rt></ruby>てずに<ruby>割り込<rt>わりこ</rt></ruby>むような<ruby>衝動性<rt>しょうどうせい</rt></ruby>の<ruby>高<rt>たか</rt></ruby>さは、<ruby>注意<rt>ちゅうい</rt></ruby><ruby>欠如<rt>けつじょ</rt></ruby>・<ruby>多動<rt>たどう</rt></ruby><ruby>性<rt>せい</rt></ruby><ruby>障害<rt>しょうがい</rt></ruby>（ADHD）の<ruby>特徴<rt>とくちょう</rt></ruby>です。",
+      "4": "<ruby>数<rt>すう</rt></ruby>の<ruby>大小<rt>だいしょう</rt></ruby>の<ruby>比較<rt>ひかく</rt></ruby>が<ruby>難<rt>むずか</rt></ruby>しいのは、<ruby>学習<rt>がくしゅう</rt></ruby><ruby>障害<rt>しょうがい</rt></ruby>（<ruby>算数<rt>さんすう</rt></ruby><ruby>障害<rt>しょうがい</rt></ruby>）の<ruby>特徴<rt>とくちょう</rt></ruby>です。"
     }
   },
   {
@@ -262,11 +262,11 @@ examSets["38pm"] = [
     ],
     "answer": 4,
     "explanations": {
-      "0": "エイジングは加齢そのものを指す言葉で、健康と要介護の中間の状態を示す用語ではありません。",
-      "1": "サルコペニアは、加齢による筋肉量・筋力の低下を指します。フレイルを構成する要素の1つですが、中間の状態そのものを示す用語ではありません。",
-      "2": "ロコモティブシンドロームは、骨や関節、筋肉など運動器の障害によって移動機能が低下した状態を指します。",
-      "3": "ホメオスタシスは、体の内部環境を一定に保つ働き（恒常性）を指します。",
-      "4": "正解。<ruby>フレイル<rt>ふれいる</rt></ruby>は、健康な状態と介護が必要な状態の中間にあたる、加齢により心身が衰えた状態を指します。適切な支援により改善が可能な段階です。"
+      "0": "エイジングは<ruby>加齢<rt>かれい</rt></ruby>そのものを<ruby>指<rt>さ</rt></ruby>す<ruby>言葉<rt>ことば</rt></ruby>で、<ruby>健康<rt>けんこう</rt></ruby>と<ruby>要介護<rt>ようかいご</rt></ruby>の<ruby>中間<rt>ちゅうかん</rt></ruby>の<ruby>状態<rt>じょうたい</rt></ruby>を<ruby>示<rt>しめ</rt></ruby>す<ruby>用語<rt>ようご</rt></ruby>ではありません。",
+      "1": "サルコペニアは、<ruby>加齢<rt>かれい</rt></ruby>による<ruby>筋肉量<rt>きんにくりょう</rt></ruby>・<ruby>筋力<rt>きんりょく</rt></ruby>の<ruby>低下<rt>ていか</rt></ruby>を<ruby>指<rt>さ</rt></ruby>します。フレイルを<ruby>構成<rt>こうせい</rt></ruby>する<ruby>要素<rt>ようそ</rt></ruby>の1つですが、<ruby>中間<rt>ちゅうかん</rt></ruby>の<ruby>状態<rt>じょうたい</rt></ruby>そのものを<ruby>示<rt>しめ</rt></ruby>す<ruby>用語<rt>ようご</rt></ruby>ではありません。",
+      "2": "ロコモティブシンドロームは、<ruby>骨<rt>ほね</rt></ruby>や<ruby>関節<rt>かんせつ</rt></ruby>、<ruby>筋肉<rt>きんにく</rt></ruby>など<ruby>運動器<rt>うんどうき</rt></ruby>の<ruby>障害<rt>しょうがい</rt></ruby>によって<ruby>移動<rt>いどう</rt></ruby><ruby>機能<rt>きのう</rt></ruby>が<ruby>低下<rt>ていか</rt></ruby>した<ruby>状態<rt>じょうたい</rt></ruby>を<ruby>指<rt>さ</rt></ruby>します。",
+      "3": "ホメオスタシスは、<ruby>体<rt>からだ</rt></ruby>の<ruby>内部<rt>ないぶ</rt></ruby><ruby>環境<rt>かんきょう</rt></ruby>を<ruby>一定<rt>いってい</rt></ruby>に<ruby>保<rt>たも</rt></ruby>つ<ruby>働<rt>はたら</rt></ruby>き（<ruby>恒常性<rt>こうじょうせい</rt></ruby>）を<ruby>指<rt>さ</rt></ruby>します。",
+      "4": "<ruby>正解<rt>せいかい</rt></ruby>。<ruby>フレイル<rt>ふれいる</rt></ruby>は、<ruby>健康<rt>けんこう</rt></ruby>な<ruby>状態<rt>じょうたい</rt></ruby>と<ruby>介護<rt>かいご</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>な<ruby>状態<rt>じょうたい</rt></ruby>の<ruby>中間<rt>ちゅうかん</rt></ruby>にあたる、<ruby>加齢<rt>かれい</rt></ruby>により<ruby>心身<rt>しんしん</rt></ruby>が<ruby>衰<rt>おとろ</rt></ruby>えた<ruby>状態<rt>じょうたい</rt></ruby>を<ruby>指<rt>さ</rt></ruby>します。<ruby>適切<rt>てきせつ</rt></ruby>な<ruby>支援<rt>しえん</rt></ruby>により<ruby>改善<rt>かいぜん</rt></ruby>が<ruby>可能<rt>かのう</rt></ruby>な<ruby>段階<rt>だんかい</rt></ruby>です。"
     }
   },
   {
@@ -280,11 +280,11 @@ examSets["38pm"] = [
     ],
     "answer": 2,
     "explanations": {
-      "0": "高齢になっても性への関心や欲求は保たれることが多く、なくなるわけではありません。",
-      "1": "男性も加齢とともに男性ホルモン（テストステロン）の分泌は緩やかに減少します。維持されるわけではありません。",
-      "2": "正解。女性は閉経に伴うエストロゲンの減少で腟が乾燥・萎縮しやすくなり、性交痛を感じやすくなります。",
-      "3": "セクシュアリティは生殖機能だけでなく、愛情表現や親密さを含む広い概念であり、生殖機能の喪失と同時に失われるものではありません。",
-      "4": "性的欲求には性差がみられ、一般に男性のほうが高齢になっても関心が保たれやすいとされています。"
+      "0": "<ruby>高齢<rt>こうれい</rt></ruby>になっても<ruby>性<rt>せい</rt></ruby>への<ruby>関心<rt>かんしん</rt></ruby>や<ruby>欲求<rt>よっきゅう</rt></ruby>は<ruby>保<rt>たも</rt></ruby>たれることが<ruby>多<rt>おお</rt></ruby>く、なくなるわけではありません。",
+      "1": "<ruby>男性<rt>だんせい</rt></ruby>も<ruby>加齢<rt>かれい</rt></ruby>とともに<ruby>男性<rt>だんせい</rt></ruby>ホルモン（テストステロン）の<ruby>分泌<rt>ぶんぴつ</rt></ruby>は<ruby>緩<rt>ゆる</rt></ruby>やかに<ruby>減少<rt>げんしょう</rt></ruby>します。<ruby>維持<rt>いじ</rt></ruby>されるわけではありません。",
+      "2": "<ruby>正解<rt>せいかい</rt></ruby>。<ruby>女性<rt>じょせい</rt></ruby>は<ruby>閉経<rt>へいけい</rt></ruby>に<ruby>伴<rt>ともな</rt></ruby>うエストロゲンの<ruby>減少<rt>げんしょう</rt></ruby>で<ruby>腟<rt>ちつ</rt></ruby>が<ruby>乾燥<rt>かんそう</rt></ruby>・<ruby>萎縮<rt>いしゅく</rt></ruby>しやすくなり、<ruby>性交<rt>せいこう</rt></ruby><ruby>痛<rt>つう</rt></ruby>を<ruby>感<rt>かん</rt></ruby>じやすくなります。",
+      "3": "セクシュアリティは<ruby>生殖<rt>せいしょく</rt></ruby><ruby>機能<rt>きのう</rt></ruby>だけでなく、<ruby>愛情<rt>あいじょう</rt></ruby><ruby>表現<rt>ひょうげん</rt></ruby>や<ruby>親密<rt>しんみつ</rt></ruby>さを<ruby>含<rt>ふく</rt></ruby>む<ruby>広<rt>ひろ</rt></ruby>い<ruby>概念<rt>がいねん</rt></ruby>であり、<ruby>生殖<rt>せいしょく</rt></ruby><ruby>機能<rt>きのう</rt></ruby>の<ruby>喪失<rt>そうしつ</rt></ruby>と<ruby>同時<rt>どうじ</rt></ruby>に<ruby>失<rt>うしな</rt></ruby>われるものではありません。",
+      "4": "<ruby>性的<rt>せいてき</rt></ruby><ruby>欲求<rt>よっきゅう</rt></ruby>には<ruby>性差<rt>せいさ</rt></ruby>がみられ、<ruby>一般<rt>いっぱん</rt></ruby>に<ruby>男性<rt>だんせい</rt></ruby>のほうが<ruby>高齢<rt>こうれい</rt></ruby>になっても<ruby>関心<rt>かんしん</rt></ruby>が<ruby>保<rt>たも</rt></ruby>たれやすいとされています。"
     }
   },
   {
@@ -298,11 +298,11 @@ examSets["38pm"] = [
     ],
     "answer": 1,
     "explanations": {
-      "0": "生理的欲求は食事や睡眠など生命維持のための欲求です。Aさんは食事や睡眠を工夫して生活できており、この段階は満たされています。",
-      "1": "正解。同年代の同僚と深く話せる関係がほしいという気持ちは、集団に属し、仲間や愛情を求める<ruby>所属・愛情欲求<rt>しょぞく・あいじょうよっきゅう</rt></ruby>に当てはまります。",
-      "2": "安全欲求は、生活の安定や危険の回避を求める欲求です。Aさんの日常生活や勤務状況に問題はなく、当てはまりません。",
-      "3": "承認欲求は他者から認められたいという欲求です。Aさんは「上司に認めてほしい気持ちはない」と思っており、当てはまりません。",
-      "4": "自己実現欲求は、自分の能力や可能性を発揮したいという欲求です。Aさんの気持ちは仲間との関係への欲求であり、当てはまりません。"
+      "0": "<ruby>生理的<rt>せいりてき</rt></ruby><ruby>欲求<rt>よっきゅう</rt></ruby>は<ruby>食事<rt>しょくじ</rt></ruby>や<ruby>睡眠<rt>すいみん</rt></ruby>など<ruby>生命<rt>せいめい</rt></ruby><ruby>維持<rt>いじ</rt></ruby>のための<ruby>欲求<rt>よっきゅう</rt></ruby>です。Aさんは<ruby>食事<rt>しょくじ</rt></ruby>や<ruby>睡眠<rt>すいみん</rt></ruby>を<ruby>工夫<rt>くふう</rt></ruby>して<ruby>生活<rt>せいかつ</rt></ruby>できており、この<ruby>段階<rt>だんかい</rt></ruby>は<ruby>満<rt>み</rt></ruby>たされています。",
+      "1": "<ruby>正解<rt>せいかい</rt></ruby>。<ruby>同年代<rt>どうねんだい</rt></ruby>の<ruby>同僚<rt>どうりょう</rt></ruby>と<ruby>深<rt>ふか</rt></ruby>く<ruby>話<rt>はな</rt></ruby>せる<ruby>関係<rt>かんけい</rt></ruby>がほしいという<ruby>気持<rt>きも</rt></ruby>ちは、<ruby>集団<rt>しゅうだん</rt></ruby>に<ruby>属<rt>ぞく</rt></ruby>し、<ruby>仲間<rt>なかま</rt></ruby>や<ruby>愛情<rt>あいじょう</rt></ruby>を<ruby>求<rt>もと</rt></ruby>める<ruby>所属・愛情欲求<rt>しょぞく・あいじょうよっきゅう</rt></ruby>に<ruby>当<rt>あ</rt></ruby>てはまります。",
+      "2": "<ruby>安全<rt>あんぜん</rt></ruby><ruby>欲求<rt>よっきゅう</rt></ruby>は、<ruby>生活<rt>せいかつ</rt></ruby>の<ruby>安定<rt>あんてい</rt></ruby>や<ruby>危険<rt>きけん</rt></ruby>の<ruby>回避<rt>かいひ</rt></ruby>を<ruby>求<rt>もと</rt></ruby>める<ruby>欲求<rt>よっきゅう</rt></ruby>です。Aさんの<ruby>日常生活<rt>にちじょうせいかつ</rt></ruby>や<ruby>勤務状況<rt>きんむじょうきょう</rt></ruby>に<ruby>問題<rt>もんだい</rt></ruby>はなく、<ruby>当<rt>あ</rt></ruby>てはまりません。",
+      "3": "<ruby>承認<rt>しょうにん</rt></ruby><ruby>欲求<rt>よっきゅう</rt></ruby>は<ruby>他者<rt>たしゃ</rt></ruby>から<ruby>認<rt>みと</rt></ruby>められたいという<ruby>欲求<rt>よっきゅう</rt></ruby>です。Aさんは「<ruby>上司<rt>じょうし</rt></ruby>に<ruby>認<rt>みと</rt></ruby>めてほしい<ruby>気持<rt>きも</rt></ruby>ちはない」と<ruby>思<rt>おも</rt></ruby>っており、<ruby>当<rt>あ</rt></ruby>てはまりません。",
+      "4": "<ruby>自己<rt>じこ</rt></ruby><ruby>実現<rt>じつげん</rt></ruby><ruby>欲求<rt>よっきゅう</rt></ruby>は、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>能力<rt>のうりょく</rt></ruby>や<ruby>可能性<rt>かのうせい</rt></ruby>を<ruby>発揮<rt>はっき</rt></ruby>したいという<ruby>欲求<rt>よっきゅう</rt></ruby>です。Aさんの<ruby>気持<rt>きも</rt></ruby>ちは<ruby>仲間<rt>なかま</rt></ruby>との<ruby>関係<rt>かんけい</rt></ruby>への<ruby>欲求<rt>よっきゅう</rt></ruby>であり、<ruby>当<rt>あ</rt></ruby>てはまりません。"
     }
   },
   {
@@ -316,11 +316,11 @@ examSets["38pm"] = [
     ],
     "answer": 0,
     "explanations": {
-      "0": "正解。<ruby>予備力<rt>よびりょく</rt></ruby>は、安静時の状態を超えて働くことができる余力のことです。加齢で予備力が低下すると、階段を上るなどの負荷に心肺機能が追いつかず、息切れしやすくなります。",
-      "1": "適応力は、環境の変化に合わせて対応する力です。運動時の息切れに直接関係する恒常性の機能としては、予備力が適切です。",
-      "2": "免疫力は、病原体などから体を守る力で、階段を上るときの息切れとは関係しません。",
-      "3": "抵抗力は、病気やストレスに耐える力で、運動負荷に対する余力を示すものではありません。",
-      "4": "回復力は、病気や乱れた状態から元に戻る力です。息切れのしやすさは予備力の低下で説明されます。"
+      "0": "<ruby>正解<rt>せいかい</rt></ruby>。<ruby>予備力<rt>よびりょく</rt></ruby>は、<ruby>安静<rt>あんせい</rt></ruby><ruby>時<rt>じ</rt></ruby>の<ruby>状態<rt>じょうたい</rt></ruby>を<ruby>超<rt>こ</rt></ruby>えて<ruby>働<rt>はたら</rt></ruby>くことができる<ruby>余力<rt>よりょく</rt></ruby>のことです。<ruby>加齢<rt>かれい</rt></ruby>で<ruby>予備<rt>よび</rt></ruby><ruby>力<rt>りょく</rt></ruby>が<ruby>低下<rt>ていか</rt></ruby>すると、<ruby>階段<rt>かいだん</rt></ruby>を<ruby>上<rt>のぼ</rt></ruby>るなどの<ruby>負荷<rt>ふか</rt></ruby>に<ruby>心肺<rt>しんぱい</rt></ruby><ruby>機能<rt>きのう</rt></ruby>が<ruby>追<rt>お</rt></ruby>いつかず、<ruby>息切<rt>いきぎ</rt></ruby>れしやすくなります。",
+      "1": "<ruby>適応力<rt>てきおうりょく</rt></ruby>は、<ruby>環境<rt>かんきょう</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わせて<ruby>対応<rt>たいおう</rt></ruby>する<ruby>力<rt>ちから</rt></ruby>です。<ruby>運動<rt>うんどう</rt></ruby><ruby>時<rt>じ</rt></ruby>の<ruby>息切<rt>いきぎ</rt></ruby>れに<ruby>直接<rt>ちょくせつ</rt></ruby><ruby>関係<rt>かんけい</rt></ruby>する<ruby>恒常性<rt>こうじょうせい</rt></ruby>の<ruby>機能<rt>きのう</rt></ruby>としては、<ruby>予備<rt>よび</rt></ruby><ruby>力<rt>りょく</rt></ruby>が<ruby>適切<rt>てきせつ</rt></ruby>です。",
+      "2": "<ruby>免疫力<rt>めんえきりょく</rt></ruby>は、<ruby>病原体<rt>びょうげんたい</rt></ruby>などから<ruby>体<rt>からだ</rt></ruby>を<ruby>守<rt>まも</rt></ruby>る<ruby>力<rt>ちから</rt></ruby>で、<ruby>階段<rt>かいだん</rt></ruby>を<ruby>上<rt>のぼ</rt></ruby>るときの<ruby>息切<rt>いきぎ</rt></ruby>れとは<ruby>関係<rt>かんけい</rt></ruby>しません。",
+      "3": "<ruby>抵抗力<rt>ていこうりょく</rt></ruby>は、<ruby>病気<rt>びょうき</rt></ruby>やストレスに<ruby>耐<rt>た</rt></ruby>える<ruby>力<rt>ちから</rt></ruby>で、<ruby>運動<rt>うんどう</rt></ruby><ruby>負荷<rt>ふか</rt></ruby>に<ruby>対<rt>たい</rt></ruby>する<ruby>余力<rt>よりょく</rt></ruby>を<ruby>示<rt>しめ</rt></ruby>すものではありません。",
+      "4": "<ruby>回復<rt>かいふく</rt></ruby><ruby>力<rt>りょく</rt></ruby>は、<ruby>病気<rt>びょうき</rt></ruby>や<ruby>乱<rt>みだ</rt></ruby>れた<ruby>状態<rt>じょうたい</rt></ruby>から<ruby>元<rt>もと</rt></ruby>に<ruby>戻<rt>もど</rt></ruby>る<ruby>力<rt>ちから</rt></ruby>です。<ruby>息切<rt>いきぎ</rt></ruby>れのしやすさは<ruby>予備<rt>よび</rt></ruby><ruby>力<rt>りょく</rt></ruby>の<ruby>低下<rt>ていか</rt></ruby>で<ruby>説明<rt>せつめい</rt></ruby>されます。"
     }
   },
   {
@@ -334,11 +334,11 @@ examSets["38pm"] = [
     ],
     "answer": 3,
     "explanations": {
-      "0": "高齢者の症状は典型的でない（非典型的）ことが多く、はっきりした症状が出にくいのが特徴です。",
-      "1": "疾患があると生活が活発になるのではなく、活動量や生活機能が低下しやすくなります。",
-      "2": "高齢者は痛みに対して鈍感になる傾向があり、重い疾患があっても痛みの訴えが弱いことがあります。",
-      "3": "正解。高齢者は複数の疾患を併せ持ちやすく、それらが互いに影響し合うため、全体をみた対応が必要です。",
-      "4": "高齢者では慢性的な疾患は少なくなく、むしろ多くみられます。"
+      "0": "<ruby>高齢者<rt>こうれいしゃ</rt></ruby>の<ruby>症状<rt>しょうじょう</rt></ruby>は<ruby>典型的<rt>てんけいてき</rt></ruby>でない（<ruby>非<rt>ひ</rt></ruby><ruby>典型的<rt>てんけいてき</rt></ruby>）ことが<ruby>多<rt>おお</rt></ruby>く、はっきりした<ruby>症状<rt>しょうじょう</rt></ruby>が<ruby>出<rt>で</rt></ruby>にくいのが<ruby>特徴<rt>とくちょう</rt></ruby>です。",
+      "1": "<ruby>疾患<rt>しっかん</rt></ruby>があると<ruby>生活<rt>せいかつ</rt></ruby>が<ruby>活発<rt>かっぱつ</rt></ruby>になるのではなく、<ruby>活動量<rt>かつどうりょう</rt></ruby>や<ruby>生活<rt>せいかつ</rt></ruby><ruby>機能<rt>きのう</rt></ruby>が<ruby>低下<rt>ていか</rt></ruby>しやすくなります。",
+      "2": "<ruby>高齢者<rt>こうれいしゃ</rt></ruby>は<ruby>痛<rt>いた</rt></ruby>みに<ruby>対<rt>たい</rt></ruby>して<ruby>鈍感<rt>どんかん</rt></ruby>になる<ruby>傾向<rt>けいこう</rt></ruby>があり、<ruby>重<rt>おも</rt></ruby>い<ruby>疾患<rt>しっかん</rt></ruby>があっても<ruby>痛<rt>いた</rt></ruby>みの<ruby>訴<rt>うった</rt></ruby>えが<ruby>弱<rt>よわ</rt></ruby>いことがあります。",
+      "3": "<ruby>正解<rt>せいかい</rt></ruby>。<ruby>高齢者<rt>こうれいしゃ</rt></ruby>は<ruby>複数<rt>ふくすう</rt></ruby>の<ruby>疾患<rt>しっかん</rt></ruby>を<ruby>併せ持<rt>あわせも</rt></ruby>ちやすく、それらが<ruby>互<rt>たが</rt></ruby>いに<ruby>影響<rt>えいきょう</rt></ruby>し<ruby>合<rt>あ</rt></ruby>うため、<ruby>全体<rt>ぜんたい</rt></ruby>をみた<ruby>対応<rt>たいおう</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です。",
+      "4": "<ruby>高齢者<rt>こうれいしゃ</rt></ruby>では<ruby>慢性的<rt>まんせいてき</rt></ruby>な<ruby>疾患<rt>しっかん</rt></ruby>は<ruby>少<rt>すく</rt></ruby>なくなく、むしろ<ruby>多<rt>おお</rt></ruby>くみられます。"
     }
   },
   {
@@ -352,11 +352,11 @@ examSets["38pm"] = [
     ],
     "answer": 3,
     "explanations": {
-      "0": "角化型疥癬は免疫が低下した人に生じる重症の疥癬で、厚いかさぶた状の病変が特徴です。乾燥とかゆみだけのAさんの状態とは異なります。",
-      "1": "帯状疱疹は、神経に沿って片側に、痛みを伴う水疱が帯状に現れる疾患です。Aさんには水疱などの皮膚の異常がみられていません。",
-      "2": "褥瘡は、同じ部位が圧迫され続けることで生じる皮膚の潰瘍です。足や背中の乾燥とかゆみとは異なります。",
-      "3": "正解。加齢による皮脂や汗の分泌の低下に、冬の乾燥や電気毛布による温めすぎが加わり、皮膚が乾燥してかゆみが生じる<ruby>老人性皮膚掻痒症<rt>ろうじんせいひふそうようしょう</rt></ruby>が考えられます。",
-      "4": "閉塞性動脈硬化症は、足の血流が悪くなり、歩行時の足の痛みや冷感がみられる疾患です。足や背中の乾燥・かゆみとは異なります。"
+      "0": "<ruby>角化<rt>かくか</rt></ruby><ruby>型<rt>がた</rt></ruby><ruby>疥癬<rt>かいせん</rt></ruby>は<ruby>免疫<rt>めんえき</rt></ruby>が<ruby>低下<rt>ていか</rt></ruby>した<ruby>人<rt>ひと</rt></ruby>に<ruby>生<rt>しょう</rt></ruby>じる<ruby>重症<rt>じゅうしょう</rt></ruby>の<ruby>疥癬<rt>かいせん</rt></ruby>で、<ruby>厚<rt>あつ</rt></ruby>いかさぶた<ruby>状<rt>じょう</rt></ruby>の<ruby>病変<rt>びょうへん</rt></ruby>が<ruby>特徴<rt>とくちょう</rt></ruby>です。<ruby>乾燥<rt>かんそう</rt></ruby>とかゆみだけのAさんの<ruby>状態<rt>じょうたい</rt></ruby>とは<ruby>異<rt>こと</rt></ruby>なります。",
+      "1": "<ruby>帯状<rt>たいじょう</rt></ruby><ruby>疱疹<rt>ほうしん</rt></ruby>は、<ruby>神経<rt>しんけい</rt></ruby>に<ruby>沿<rt>そ</rt></ruby>って<ruby>片側<rt>かたがわ</rt></ruby>に、<ruby>痛<rt>いた</rt></ruby>みを<ruby>伴<rt>ともな</rt></ruby>う<ruby>水疱<rt>すいほう</rt></ruby>が<ruby>帯<rt>おび</rt></ruby><ruby>状<rt>じょう</rt></ruby>に<ruby>現<rt>あらわ</rt></ruby>れる<ruby>疾患<rt>しっかん</rt></ruby>です。Aさんには<ruby>水疱<rt>すいほう</rt></ruby>などの<ruby>皮膚<rt>ひふ</rt></ruby>の<ruby>異常<rt>いじょう</rt></ruby>がみられていません。",
+      "2": "<ruby>褥瘡<rt>じょくそう</rt></ruby>は、<ruby>同<rt>おな</rt></ruby>じ<ruby>部位<rt>ぶい</rt></ruby>が<ruby>圧迫<rt>あっぱく</rt></ruby>され<ruby>続<rt>つづ</rt></ruby>けることで<ruby>生<rt>しょう</rt></ruby>じる<ruby>皮膚<rt>ひふ</rt></ruby>の<ruby>潰瘍<rt>かいよう</rt></ruby>です。<ruby>足<rt>あし</rt></ruby>や<ruby>背中<rt>せなか</rt></ruby>の<ruby>乾燥<rt>かんそう</rt></ruby>とかゆみとは<ruby>異<rt>こと</rt></ruby>なります。",
+      "3": "<ruby>正解<rt>せいかい</rt></ruby>。<ruby>加齢<rt>かれい</rt></ruby>による<ruby>皮脂<rt>ひし</rt></ruby>や<ruby>汗<rt>あせ</rt></ruby>の<ruby>分泌<rt>ぶんぴつ</rt></ruby>の<ruby>低下<rt>ていか</rt></ruby>に、<ruby>冬<rt>ふゆ</rt></ruby>の<ruby>乾燥<rt>かんそう</rt></ruby>や<ruby>電気<rt>でんき</rt></ruby><ruby>毛布<rt>もうふ</rt></ruby>による<ruby>温<rt>あたた</rt></ruby>めすぎが<ruby>加<rt>くわ</rt></ruby>わり、<ruby>皮膚<rt>ひふ</rt></ruby>が<ruby>乾燥<rt>かんそう</rt></ruby>してかゆみが<ruby>生<rt>しょう</rt></ruby>じる<ruby>老人性皮膚掻痒症<rt>ろうじんせいひふそうようしょう</rt></ruby>が<ruby>考<rt>かんが</rt></ruby>えられます。",
+      "4": "<ruby>閉塞<rt>へいそく</rt></ruby><ruby>性<rt>せい</rt></ruby><ruby>動脈<rt>どうみゃく</rt></ruby><ruby>硬化<rt>こうか</rt></ruby><ruby>症<rt>しょう</rt></ruby>は、<ruby>足<rt>あし</rt></ruby>の<ruby>血流<rt>けつりゅう</rt></ruby>が<ruby>悪<rt>わる</rt></ruby>くなり、<ruby>歩行<rt>ほこう</rt></ruby><ruby>時<rt>じ</rt></ruby>の<ruby>足<rt>あし</rt></ruby>の<ruby>痛<rt>いた</rt></ruby>みや<ruby>冷感<rt>れいかん</rt></ruby>がみられる<ruby>疾患<rt>しっかん</rt></ruby>です。<ruby>足<rt>あし</rt></ruby>や<ruby>背中<rt>せなか</rt></ruby>の<ruby>乾燥<rt>かんそう</rt></ruby>・かゆみとは<ruby>異<rt>こと</rt></ruby>なります。"
     }
   },
   {
@@ -370,11 +370,11 @@ examSets["38pm"] = [
     ],
     "answer": 4,
     "explanations": {
-      "0": "自分でしまい忘れた物が見つからず、誰かが盗んだと思い込むのは、物盗られ妄想です。嫉妬妄想は、配偶者などの浮気を疑う妄想です。",
-      "1": "カプグラ症候群は、身近な人がそっくりな偽物に入れ替わったと思い込むものです。孫に会わせてもらえていないという主張は当てはまりません。",
-      "2": "妻と話している男性を浮気相手だと思い込むのは、嫉妬妄想です。幻の同居人は、家に見知らぬ人が住みついていると思い込むものです。",
-      "3": "身近な人が偽物に入れ替わったと主張するのは、カプグラ症候群です。被害妄想は、自分が害を受けていると思い込むものを指します。",
-      "4": "正解。身体的な疾患がないにもかかわらず、自分は病気だと思い込むのは、<ruby>心気妄想<rt>しんきもうそう</rt></ruby>です。"
+      "0": "<ruby>自分<rt>じぶん</rt></ruby>でしまい<ruby>忘<rt>わす</rt></ruby>れた<ruby>物<rt>もの</rt></ruby>が<ruby>見<rt>み</rt></ruby>つからず、<ruby>誰<rt>だれ</rt></ruby>かが<ruby>盗<rt>ぬす</rt></ruby>んだと<ruby>思い込<rt>おもいこ</rt></ruby>むのは、<ruby>物<rt>もの</rt></ruby><ruby>盗<rt>と</rt></ruby>られ<ruby>妄想<rt>もうそう</rt></ruby>です。<ruby>嫉妬<rt>しっと</rt></ruby><ruby>妄想<rt>もうそう</rt></ruby>は、<ruby>配偶者<rt>はいぐうしゃ</rt></ruby>などの<ruby>浮気<rt>うわき</rt></ruby>を<ruby>疑<rt>うたが</rt></ruby>う<ruby>妄想<rt>もうそう</rt></ruby>です。",
+      "1": "カプグラ<ruby>症候群<rt>しょうこうぐん</rt></ruby>は、<ruby>身近<rt>みじか</rt></ruby>な<ruby>人<rt>ひと</rt></ruby>がそっくりな<ruby>偽物<rt>にせもの</rt></ruby>に<ruby>入れ替<rt>いれか</rt></ruby>わったと<ruby>思い込<rt>おもいこ</rt></ruby>むものです。<ruby>孫<rt>まご</rt></ruby>に<ruby>会<rt>あ</rt></ruby>わせてもらえていないという<ruby>主張<rt>しゅちょう</rt></ruby>は<ruby>当<rt>あ</rt></ruby>てはまりません。",
+      "2": "<ruby>妻<rt>つま</rt></ruby>と<ruby>話<rt>はな</rt></ruby>している<ruby>男性<rt>だんせい</rt></ruby>を<ruby>浮気<rt>うわき</rt></ruby><ruby>相手<rt>あいて</rt></ruby>だと<ruby>思い込<rt>おもいこ</rt></ruby>むのは、<ruby>嫉妬<rt>しっと</rt></ruby><ruby>妄想<rt>もうそう</rt></ruby>です。<ruby>幻<rt>まぼろし</rt></ruby>の<ruby>同居人<rt>どうきょにん</rt></ruby>は、<ruby>家<rt>いえ</rt></ruby>に<ruby>見知<rt>みし</rt></ruby>らぬ<ruby>人<rt>ひと</rt></ruby>が<ruby>住<rt>す</rt></ruby>みついていると<ruby>思い込<rt>おもいこ</rt></ruby>むものです。",
+      "3": "<ruby>身近<rt>みじか</rt></ruby>な<ruby>人<rt>ひと</rt></ruby>が<ruby>偽物<rt>にせもの</rt></ruby>に<ruby>入れ替<rt>いれか</rt></ruby>わったと<ruby>主張<rt>しゅちょう</rt></ruby>するのは、カプグラ<ruby>症候群<rt>しょうこうぐん</rt></ruby>です。<ruby>被害<rt>ひがい</rt></ruby><ruby>妄想<rt>もうそう</rt></ruby>は、<ruby>自分<rt>じぶん</rt></ruby>が<ruby>害<rt>がい</rt></ruby>を<ruby>受<rt>う</rt></ruby>けていると<ruby>思い込<rt>おもいこ</rt></ruby>むものを<ruby>指<rt>さ</rt></ruby>します。",
+      "4": "<ruby>正解<rt>せいかい</rt></ruby>。<ruby>身体的<rt>しんたいてき</rt></ruby>な<ruby>疾患<rt>しっかん</rt></ruby>がないにもかかわらず、<ruby>自分<rt>じぶん</rt></ruby>は<ruby>病気<rt>びょうき</rt></ruby>だと<ruby>思い込<rt>おもいこ</rt></ruby>むのは、<ruby>心気妄想<rt>しんきもうそう</rt></ruby>です。"
     }
   },
   {
@@ -388,11 +388,11 @@ examSets["38pm"] = [
     ],
     "answer": 0,
     "explanations": {
-      "0": "正解。<ruby>本人ミーティング<rt>ほんにんみーてぃんぐ</rt></ruby>は、認知症の当事者同士が集まり、自分の思いを語り合い、社会に向けて発信も行う取り組みです。",
-      "1": "認知症初期集中支援チームは、認知症の人や家族を訪問し、初期の支援を行うチームです。要介護認定は市町村の介護認定審査会が行います。",
-      "2": "若年性認知症支援コーディネーターは、相談対応や関係機関との調整を行う役割であり、診断は医師が行います。",
-      "3": "認知症疾患医療センターは、鑑別診断や医療相談を行う機関です。地域ケア会議を開催するのは地域包括支援センターです。",
-      "4": "認知症カフェは、認知症の人や家族、地域住民が気軽に集い交流する場です。介護指導者を養成する場ではありません。"
+      "0": "<ruby>正解<rt>せいかい</rt></ruby>。<ruby>本人ミーティング<rt>ほんにんみーてぃんぐ</rt></ruby>は、<ruby>認知症<rt>にんちしょう</rt></ruby>の<ruby>当事者<rt>とうじしゃ</rt></ruby><ruby>同士<rt>どうし</rt></ruby>が<ruby>集<rt>あつ</rt></ruby>まり、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>思<rt>おも</rt></ruby>いを<ruby>語り合<rt>かたりあ</rt></ruby>い、<ruby>社会<rt>しゃかい</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて<ruby>発信<rt>はっしん</rt></ruby>も<ruby>行<rt>おこな</rt></ruby>う<ruby>取り組<rt>とりく</rt></ruby>みです。",
+      "1": "<ruby>認知症<rt>にんちしょう</rt></ruby><ruby>初期<rt>しょき</rt></ruby><ruby>集中<rt>しゅうちゅう</rt></ruby><ruby>支援<rt>しえん</rt></ruby>チームは、<ruby>認知症<rt>にんちしょう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>や<ruby>家族<rt>かぞく</rt></ruby>を<ruby>訪問<rt>ほうもん</rt></ruby>し、<ruby>初期<rt>しょき</rt></ruby>の<ruby>支援<rt>しえん</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>うチームです。<ruby>要介護認定<rt>ようかいごにんてい</rt></ruby>は<ruby>市町村<rt>しちょうそん</rt></ruby>の<ruby>介護<rt>かいご</rt></ruby><ruby>認定<rt>にんてい</rt></ruby><ruby>審査会<rt>しんさかい</rt></ruby>が<ruby>行<rt>おこな</rt></ruby>います。",
+      "2": "<ruby>若年性<rt>じゃくねんせい</rt></ruby><ruby>認知症<rt>にんちしょう</rt></ruby><ruby>支援<rt>しえん</rt></ruby>コーディネーターは、<ruby>相談<rt>そうだん</rt></ruby><ruby>対応<rt>たいおう</rt></ruby>や<ruby>関係<rt>かんけい</rt></ruby><ruby>機関<rt>きかん</rt></ruby>との<ruby>調整<rt>ちょうせい</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う<ruby>役割<rt>やくわり</rt></ruby>であり、<ruby>診断<rt>しんだん</rt></ruby>は<ruby>医師<rt>いし</rt></ruby>が<ruby>行<rt>おこな</rt></ruby>います。",
+      "3": "<ruby>認知症<rt>にんちしょう</rt></ruby><ruby>疾患<rt>しっかん</rt></ruby><ruby>医療センタ<rt>いりょうせんた</rt></ruby>ーは、<ruby>鑑別<rt>かんべつ</rt></ruby><ruby>診断<rt>しんだん</rt></ruby>や<ruby>医療<rt>いりょう</rt></ruby><ruby>相談<rt>そうだん</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う<ruby>機関<rt>きかん</rt></ruby>です。<ruby>地域<rt>ちいき</rt></ruby>ケア<ruby>会議<rt>かいぎ</rt></ruby>を<ruby>開催<rt>かいさい</rt></ruby>するのは<ruby>地域<rt>ちいき</rt></ruby><ruby>包括<rt>ほうかつ</rt></ruby><ruby>支援<rt>しえん</rt></ruby>センターです。",
+      "4": "<ruby>認知症<rt>にんちしょう</rt></ruby>カフェは、<ruby>認知症<rt>にんちしょう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>や<ruby>家族<rt>かぞく</rt></ruby>、<ruby>地域<rt>ちいき</rt></ruby><ruby>住民<rt>じゅうみん</rt></ruby>が<ruby>気軽<rt>きがる</rt></ruby>に<ruby>集<rt>つど</rt></ruby>い<ruby>交流<rt>こうりゅう</rt></ruby>する<ruby>場<rt>ば</rt></ruby>です。<ruby>介護<rt>かいご</rt></ruby><ruby>指導者<rt>しどうしゃ</rt></ruby>を<ruby>養成<rt>ようせい</rt></ruby>する<ruby>場<rt>ば</rt></ruby>ではありません。"
     }
   },
   {
@@ -406,11 +406,11 @@ examSets["38pm"] = [
     ],
     "answer": 2,
     "explanations": {
-      "0": "10分前に会ったことを覚えていないのは近時記憶障害であり、認知症の中核症状です。行動・心理症状（BPSD）には該当しません。",
-      "1": "病院にいるのに自宅にいると思うのは、場所に関する<ruby>見当識障害<rt>けんとうしきしょうがい</rt></ruby>であり、中核症状です。BPSDではありません。",
-      "2": "正解。出口を探して歩き回る<ruby>徘徊<rt>はいかい</rt></ruby>は、認知症の行動・心理症状（BPSD）の代表的な症状です。",
-      "3": "服薬管理ができないのは、遂行機能や判断力の低下による中核症状であり、BPSDには分類されません。",
-      "4": "入浴を促されても湯につかるだけで出てくるのは、入浴の意味や必要性が理解できないなど中核症状に伴う行動であり、BPSDの典型例とはされません。"
+      "0": "10<ruby>分<rt>ふん</rt></ruby><ruby>前<rt>まえ</rt></ruby>に<ruby>会<rt>あ</rt></ruby>ったことを<ruby>覚<rt>おぼ</rt></ruby>えていないのは<ruby>近時<rt>きんじ</rt></ruby><ruby>記憶<rt>きおく</rt></ruby><ruby>障害<rt>しょうがい</rt></ruby>であり、<ruby>認知症<rt>にんちしょう</rt></ruby>の<ruby>中核<rt>ちゅうかく</rt></ruby><ruby>症状<rt>しょうじょう</rt></ruby>です。<ruby>行動<rt>こうどう</rt></ruby>・<ruby>心理<rt>しんり</rt></ruby><ruby>症状<rt>しょうじょう</rt></ruby>（BPSD）には<ruby>該当<rt>がいとう</rt></ruby>しません。",
+      "1": "<ruby>病院<rt>びょういん</rt></ruby>にいるのに<ruby>自宅<rt>じたく</rt></ruby>にいると<ruby>思<rt>おも</rt></ruby>うのは、<ruby>場所<rt>ばしょ</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>見当識障害<rt>けんとうしきしょうがい</rt></ruby>であり、<ruby>中核<rt>ちゅうかく</rt></ruby><ruby>症状<rt>しょうじょう</rt></ruby>です。BPSDではありません。",
+      "2": "<ruby>正解<rt>せいかい</rt></ruby>。<ruby>出口<rt>でぐち</rt></ruby>を<ruby>探<rt>さが</rt></ruby>して<ruby>歩き回<rt>あるきまわ</rt></ruby>る<ruby>徘徊<rt>はいかい</rt></ruby>は、<ruby>認知症<rt>にんちしょう</rt></ruby>の<ruby>行動<rt>こうどう</rt></ruby>・<ruby>心理<rt>しんり</rt></ruby><ruby>症状<rt>しょうじょう</rt></ruby>（BPSD）の<ruby>代表的<rt>だいひょうてき</rt></ruby>な<ruby>症状<rt>しょうじょう</rt></ruby>です。",
+      "3": "<ruby>服薬<rt>ふくやく</rt></ruby><ruby>管理<rt>かんり</rt></ruby>ができないのは、<ruby>遂行<rt>すいこう</rt></ruby><ruby>機能<rt>きのう</rt></ruby>や<ruby>判断力<rt>はんだんりょく</rt></ruby>の<ruby>低下<rt>ていか</rt></ruby>による<ruby>中核<rt>ちゅうかく</rt></ruby><ruby>症状<rt>しょうじょう</rt></ruby>であり、BPSDには<ruby>分類<rt>ぶんるい</rt></ruby>されません。",
+      "4": "<ruby>入浴<rt>にゅうよく</rt></ruby>を<ruby>促<rt>うなが</rt></ruby>されても<ruby>湯<rt>ゆ</rt></ruby>につかるだけで<ruby>出<rt>で</rt></ruby>てくるのは、<ruby>入浴<rt>にゅうよく</rt></ruby>の<ruby>意味<rt>いみ</rt></ruby>や<ruby>必要性<rt>ひつようせい</rt></ruby>が<ruby>理解<rt>りかい</rt></ruby>できないなど<ruby>中核<rt>ちゅうかく</rt></ruby><ruby>症状<rt>しょうじょう</rt></ruby>に<ruby>伴<rt>ともな</rt></ruby>う<ruby>行動<rt>こうどう</rt></ruby>であり、BPSDの<ruby>典型例<rt>てんけいれい</rt></ruby>とはされません。"
     }
   },
   {
@@ -424,11 +424,11 @@ examSets["38pm"] = [
     ],
     "answer": 4,
     "explanations": {
-      "0": "アルツハイマー型認知症では、新しい記憶（近時記憶）から障害され、古い記憶は比較的長く保たれます。順序が逆です。",
-      "1": "認知機能が変動するのはレビー小体型認知症の特徴です。アルツハイマー型では緩やかに進行します。",
-      "2": "ADLの障害は重度期だけのものではありません。初期には買い物や金銭管理などのIADLが低下し、進行とともにADLも障害されます。",
-      "3": "<ruby>見当識障害<rt>けんとうしきしょうがい</rt></ruby>は初期から認められ、まず時間の見当識から障害されます。中期以降というのは誤りです。",
-      "4": "正解。アルツハイマー型認知症では、初期から新しいことを覚えられない<ruby>記憶障害<rt>きおくしょうがい</rt></ruby>（近時記憶障害）が認められます。"
+      "0": "アルツハイマー<ruby>型<rt>がた</rt></ruby><ruby>認知症<rt>にんちしょう</rt></ruby>では、<ruby>新<rt>あたら</rt></ruby>しい<ruby>記憶<rt>きおく</rt></ruby>（<ruby>近時<rt>きんじ</rt></ruby><ruby>記憶<rt>きおく</rt></ruby>）から<ruby>障害<rt>しょうがい</rt></ruby>され、<ruby>古<rt>ふる</rt></ruby>い<ruby>記憶<rt>きおく</rt></ruby>は<ruby>比較的<rt>ひかくてき</rt></ruby><ruby>長<rt>なが</rt></ruby>く<ruby>保<rt>たも</rt></ruby>たれます。<ruby>順序<rt>じゅんじょ</rt></ruby>が<ruby>逆<rt>ぎゃく</rt></ruby>です。",
+      "1": "<ruby>認知<rt>にんち</rt></ruby><ruby>機能<rt>きのう</rt></ruby>が<ruby>変動<rt>へんどう</rt></ruby>するのはレビー<ruby>小<rt>しょう</rt></ruby><ruby>体型<rt>たいけい</rt></ruby><ruby>認知症<rt>にんちしょう</rt></ruby>の<ruby>特徴<rt>とくちょう</rt></ruby>です。アルツハイマー<ruby>型<rt>がた</rt></ruby>では<ruby>緩<rt>ゆる</rt></ruby>やかに<ruby>進行<rt>しんこう</rt></ruby>します。",
+      "2": "ADLの<ruby>障害<rt>しょうがい</rt></ruby>は<ruby>重度<rt>じゅうど</rt></ruby><ruby>期<rt>き</rt></ruby>だけのものではありません。<ruby>初期<rt>しょき</rt></ruby>には<ruby>買い物<rt>かいもの</rt></ruby>や<ruby>金銭<rt>きんせん</rt></ruby><ruby>管理<rt>かんり</rt></ruby>などのIADLが<ruby>低下<rt>ていか</rt></ruby>し、<ruby>進行<rt>しんこう</rt></ruby>とともにADLも<ruby>障害<rt>しょうがい</rt></ruby>されます。",
+      "3": "<ruby>見当識障害<rt>けんとうしきしょうがい</rt></ruby>は<ruby>初期<rt>しょき</rt></ruby>から<ruby>認<rt>みと</rt></ruby>められ、まず<ruby>時間<rt>じかん</rt></ruby>の<ruby>見当識<rt>けんとうしき</rt></ruby>から<ruby>障害<rt>しょうがい</rt></ruby>されます。<ruby>中期<rt>ちゅうき</rt></ruby><ruby>以降<rt>いこう</rt></ruby>というのは<ruby>誤<rt>あやま</rt></ruby>りです。",
+      "4": "<ruby>正解<rt>せいかい</rt></ruby>。アルツハイマー<ruby>型<rt>がた</rt></ruby><ruby>認知症<rt>にんちしょう</rt></ruby>では、<ruby>初期<rt>しょき</rt></ruby>から<ruby>新<rt>あたら</rt></ruby>しいことを<ruby>覚<rt>おぼ</rt></ruby>えられない<ruby>記憶障害<rt>きおくしょうがい</rt></ruby>（<ruby>近時<rt>きんじ</rt></ruby><ruby>記憶<rt>きおく</rt></ruby><ruby>障害<rt>しょうがい</rt></ruby>）が<ruby>認<rt>みと</rt></ruby>められます。"
     }
   },
   {
@@ -442,11 +442,11 @@ examSets["38pm"] = [
     ],
     "answer": 1,
     "explanations": {
-      "0": "レビー小体型認知症にみられるのは<ruby>レム睡眠行動障害<rt>れむすいみんこうどうしょうがい</rt></ruby>です。「ノンレム睡眠行動障害」というのは誤りです。",
-      "1": "正解。レビー小体型認知症では<ruby>自律神経症状<rt>じりつしんけいしょうじょう</rt></ruby>がみられやすく、起立性低血圧もその一つです。",
-      "2": "レビー小体型認知症で特徴的なのは幻聴ではなく、生々しい<ruby>幻視<rt>げんし</rt></ruby>です。",
-      "3": "側頭葉の萎縮による<ruby>意味性失語<rt>いみせいしつご</rt></ruby>は、前頭側頭型認知症（意味性認知症）の特徴です。",
-      "4": "<ruby>嚥下機能<rt>えんげきのう</rt></ruby>が促進されて食欲が増すことはありません。進行すると嚥下機能はむしろ低下します。"
+      "0": "レビー<ruby>小<rt>しょう</rt></ruby><ruby>体型<rt>たいけい</rt></ruby><ruby>認知症<rt>にんちしょう</rt></ruby>にみられるのは<ruby>レム睡眠行動障害<rt>れむすいみんこうどうしょうがい</rt></ruby>です。「ノンレム<ruby>睡眠<rt>すいみん</rt></ruby><ruby>行動<rt>こうどう</rt></ruby><ruby>障害<rt>しょうがい</rt></ruby>」というのは<ruby>誤<rt>あやま</rt></ruby>りです。",
+      "1": "<ruby>正解<rt>せいかい</rt></ruby>。レビー<ruby>小<rt>しょう</rt></ruby><ruby>体型<rt>たいけい</rt></ruby><ruby>認知症<rt>にんちしょう</rt></ruby>では<ruby>自律神経症状<rt>じりつしんけいしょうじょう</rt></ruby>がみられやすく、<ruby>起立<rt>きりつ</rt></ruby><ruby>性<rt>せい</rt></ruby><ruby>低血圧<rt>ていけつあつ</rt></ruby>もその<ruby>一<rt>ひと</rt></ruby>つです。",
+      "2": "レビー<ruby>小<rt>しょう</rt></ruby><ruby>体型<rt>たいけい</rt></ruby><ruby>認知症<rt>にんちしょう</rt></ruby>で<ruby>特徴的<rt>とくちょうてき</rt></ruby>なのは<ruby>幻聴<rt>げんちょう</rt></ruby>ではなく、<ruby>生々<rt>なまなま</rt></ruby>しい<ruby>幻視<rt>げんし</rt></ruby>です。",
+      "3": "<ruby>側頭葉<rt>そくとうよう</rt></ruby>の<ruby>萎縮<rt>いしゅく</rt></ruby>による<ruby>意味性失語<rt>いみせいしつご</rt></ruby>は、<ruby>前頭<rt>ぜんとう</rt></ruby><ruby>側頭<rt>そくとう</rt></ruby><ruby>型<rt>がた</rt></ruby><ruby>認知症<rt>にんちしょう</rt></ruby>（<ruby>意味<rt>いみ</rt></ruby><ruby>性<rt>せい</rt></ruby><ruby>認知症<rt>にんちしょう</rt></ruby>）の<ruby>特徴<rt>とくちょう</rt></ruby>です。",
+      "4": "<ruby>嚥下機能<rt>えんげきのう</rt></ruby>が<ruby>促進<rt>そくしん</rt></ruby>されて<ruby>食欲<rt>しょくよく</rt></ruby>が<ruby>増<rt>ま</rt></ruby>すことはありません。<ruby>進行<rt>しんこう</rt></ruby>すると<ruby>嚥下<rt>えんげ</rt></ruby><ruby>機能<rt>きのう</rt></ruby>はむしろ<ruby>低下<rt>ていか</rt></ruby>します。"
     }
   },
   {
@@ -460,11 +460,11 @@ examSets["38pm"] = [
     ],
     "answer": 3,
     "explanations": {
-      "0": "性格は心理的（個人的）要因に含まれます。身体的要因ではありません。",
-      "1": "居住環境は環境的要因に含まれます。身体的要因ではありません。",
-      "2": "人的環境は環境的要因に含まれます。身体的要因ではありません。",
-      "3": "正解。IADL（手段的日常生活動作）は、買い物や金銭管理など身体の機能や能力に関わる項目のため、身体的要因に含まれます。",
-      "4": "社会とのつながりは環境的要因（社会的環境）に含まれます。身体的要因ではありません。"
+      "0": "<ruby>性格<rt>せいかく</rt></ruby>は<ruby>心理的<rt>しんりてき</rt></ruby>（<ruby>個人的<rt>こじんてき</rt></ruby>）<ruby>要因<rt>よういん</rt></ruby>に<ruby>含<rt>ふく</rt></ruby>まれます。<ruby>身体的<rt>しんたいてき</rt></ruby><ruby>要因<rt>よういん</rt></ruby>ではありません。",
+      "1": "<ruby>居住<rt>きょじゅう</rt></ruby><ruby>環境<rt>かんきょう</rt></ruby>は<ruby>環境<rt>かんきょう</rt></ruby><ruby>的<rt>てき</rt></ruby><ruby>要因<rt>よういん</rt></ruby>に<ruby>含<rt>ふく</rt></ruby>まれます。<ruby>身体的<rt>しんたいてき</rt></ruby><ruby>要因<rt>よういん</rt></ruby>ではありません。",
+      "2": "<ruby>人的<rt>じんてき</rt></ruby><ruby>環境<rt>かんきょう</rt></ruby>は<ruby>環境<rt>かんきょう</rt></ruby><ruby>的<rt>てき</rt></ruby><ruby>要因<rt>よういん</rt></ruby>に<ruby>含<rt>ふく</rt></ruby>まれます。<ruby>身体的<rt>しんたいてき</rt></ruby><ruby>要因<rt>よういん</rt></ruby>ではありません。",
+      "3": "<ruby>正解<rt>せいかい</rt></ruby>。IADL（<ruby>手段<rt>しゅだん</rt></ruby><ruby>的<rt>てき</rt></ruby><ruby>日常生活<rt>にちじょうせいかつ</rt></ruby><ruby>動作<rt>どうさ</rt></ruby>）は、<ruby>買い物<rt>かいもの</rt></ruby>や<ruby>金銭<rt>きんせん</rt></ruby><ruby>管理<rt>かんり</rt></ruby>など<ruby>身体<rt>しんたい</rt></ruby>の<ruby>機能<rt>きのう</rt></ruby>や<ruby>能力<rt>のうりょく</rt></ruby>に<ruby>関<rt>かか</rt></ruby>わる<ruby>項目<rt>こうもく</rt></ruby>のため、<ruby>身体的<rt>しんたいてき</rt></ruby><ruby>要因<rt>よういん</rt></ruby>に<ruby>含<rt>ふく</rt></ruby>まれます。",
+      "4": "<ruby>社会<rt>しゃかい</rt></ruby>とのつながりは<ruby>環境<rt>かんきょう</rt></ruby><ruby>的<rt>てき</rt></ruby><ruby>要因<rt>よういん</rt></ruby>（<ruby>社会的<rt>しゃかいてき</rt></ruby><ruby>環境<rt>かんきょう</rt></ruby>）に<ruby>含<rt>ふく</rt></ruby>まれます。<ruby>身体的<rt>しんたいてき</rt></ruby><ruby>要因<rt>よういん</rt></ruby>ではありません。"
     }
   },
   {
@@ -478,11 +478,11 @@ examSets["38pm"] = [
     ],
     "answer": 0,
     "explanations": {
-      "0": "正解。手すりに色をつけて目立たせると、視覚的に認識しやすくなり、安全な移動を助けます。",
-      "1": "ピクトグラムは絵文字による視覚的な情報提示の方法であり、聴覚に影響を与えるものではありません。",
-      "2": "BGMの音量を大きくすると、必要な音を選んで聞き取ることがかえって難しくなります。音量を抑える配慮が必要です。",
-      "3": "光の刺激を強くすると落ち着かなくなることがあります。穏やかに過ごすためには、まぶしすぎない適切な明るさが大切です。",
-      "4": "細かい模様の壁紙は視覚的な刺激が強く、模様を物と見誤るなど混乱のもとになります。落ち着いた単色系が適切です。"
+      "0": "<ruby>正解<rt>せいかい</rt></ruby>。<ruby>手<rt>て</rt></ruby>すりに<ruby>色<rt>いろ</rt></ruby>をつけて<ruby>目立<rt>めだ</rt></ruby>たせると、<ruby>視覚的<rt>しかくてき</rt></ruby>に<ruby>認識<rt>にんしき</rt></ruby>しやすくなり、<ruby>安全<rt>あんぜん</rt></ruby>な<ruby>移動<rt>いどう</rt></ruby>を<ruby>助<rt>たす</rt></ruby>けます。",
+      "1": "ピクトグラムは<ruby>絵文字<rt>えもじ</rt></ruby>による<ruby>視覚的<rt>しかくてき</rt></ruby>な<ruby>情報<rt>じょうほう</rt></ruby><ruby>提示<rt>ていじ</rt></ruby>の<ruby>方法<rt>ほうほう</rt></ruby>であり、<ruby>聴覚<rt>ちょうかく</rt></ruby>に<ruby>影響<rt>えいきょう</rt></ruby>を<ruby>与<rt>あた</rt></ruby>えるものではありません。",
+      "2": "BGMの<ruby>音量<rt>おんりょう</rt></ruby>を<ruby>大<rt>おお</rt></ruby>きくすると、<ruby>必要<rt>ひつよう</rt></ruby>な<ruby>音<rt>おと</rt></ruby>を<ruby>選<rt>えら</rt></ruby>んで<ruby>聞き取<rt>ききと</rt></ruby>ることがかえって<ruby>難<rt>むずか</rt></ruby>しくなります。<ruby>音量<rt>おんりょう</rt></ruby>を<ruby>抑<rt>おさ</rt></ruby>える<ruby>配慮<rt>はいりょ</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です。",
+      "3": "<ruby>光<rt>ひかり</rt></ruby>の<ruby>刺激<rt>しげき</rt></ruby>を<ruby>強<rt>つよ</rt></ruby>くすると<ruby>落ち着<rt>おちつ</rt></ruby>かなくなることがあります。<ruby>穏<rt>おだ</rt></ruby>やかに<ruby>過<rt>す</rt></ruby>ごすためには、まぶしすぎない<ruby>適切<rt>てきせつ</rt></ruby>な<ruby>明<rt>あか</rt></ruby>るさが<ruby>大切<rt>たいせつ</rt></ruby>です。",
+      "4": "<ruby>細<rt>こま</rt></ruby>かい<ruby>模様<rt>もよう</rt></ruby>の<ruby>壁紙<rt>かべがみ</rt></ruby>は<ruby>視覚的<rt>しかくてき</rt></ruby>な<ruby>刺激<rt>しげき</rt></ruby>が<ruby>強<rt>つよ</rt></ruby>く、<ruby>模様<rt>もよう</rt></ruby>を<ruby>物<rt>もの</rt></ruby>と<ruby>見誤<rt>みあやま</rt></ruby>るなど<ruby>混乱<rt>こんらん</rt></ruby>のもとになります。<ruby>落ち着<rt>おちつ</rt></ruby>いた<ruby>単色<rt>たんしょく</rt></ruby><ruby>系<rt>けい</rt></ruby>が<ruby>適切<rt>てきせつ</rt></ruby>です。"
     }
   },
   {
@@ -496,11 +496,11 @@ examSets["38pm"] = [
     ],
     "answer": 3,
     "explanations": {
-      "0": "食べたことを忘れて食事をほしがるのは、<ruby>記憶障害<rt>きおくしょうがい</rt></ruby>の症状です。",
-      "1": "包丁の使い方を忘れてうまく使えないのは、<ruby>失行<rt>しっこう</rt></ruby>（観念失行）の症状です。",
-      "2": "配膳された食事の左側を残すのは、<ruby>半側空間無視<rt>はんそくくうかんむし</rt></ruby>の症状です。",
-      "3": "正解。調理の手順を順序だてて行えないのは、計画を立てて実行する力が低下する<ruby>遂行機能障害<rt>すいこうきのうしょうがい</rt></ruby>の症状です。",
-      "4": "皿の模様をおかずと間違えてすくおうとするのは、<ruby>視覚失認<rt>しかくしつにん</rt></ruby>の症状です。"
+      "0": "<ruby>食<rt>た</rt></ruby>べたことを<ruby>忘<rt>わす</rt></ruby>れて<ruby>食事<rt>しょくじ</rt></ruby>をほしがるのは、<ruby>記憶障害<rt>きおくしょうがい</rt></ruby>の<ruby>症状<rt>しょうじょう</rt></ruby>です。",
+      "1": "<ruby>包丁<rt>ほうちょう</rt></ruby>の<ruby>使い方<rt>つかいかた</rt></ruby>を<ruby>忘<rt>わす</rt></ruby>れてうまく<ruby>使<rt>つか</rt></ruby>えないのは、<ruby>失行<rt>しっこう</rt></ruby>（<ruby>観念<rt>かんねん</rt></ruby><ruby>失行<rt>しっこう</rt></ruby>）の<ruby>症状<rt>しょうじょう</rt></ruby>です。",
+      "2": "<ruby>配膳<rt>はいぜん</rt></ruby>された<ruby>食事<rt>しょくじ</rt></ruby>の<ruby>左側<rt>ひだりがわ</rt></ruby>を<ruby>残<rt>のこ</rt></ruby>すのは、<ruby>半側空間無視<rt>はんそくくうかんむし</rt></ruby>の<ruby>症状<rt>しょうじょう</rt></ruby>です。",
+      "3": "<ruby>正解<rt>せいかい</rt></ruby>。<ruby>調理<rt>ちょうり</rt></ruby>の<ruby>手順<rt>てじゅん</rt></ruby>を<ruby>順序<rt>じゅんじょ</rt></ruby>だてて<ruby>行<rt>おこな</rt></ruby>えないのは、<ruby>計画<rt>けいかく</rt></ruby>を<ruby>立<rt>た</rt></ruby>てて<ruby>実行<rt>じっこう</rt></ruby>する<ruby>力<rt>ちから</rt></ruby>が<ruby>低下<rt>ていか</rt></ruby>する<ruby>遂行機能障害<rt>すいこうきのうしょうがい</rt></ruby>の<ruby>症状<rt>しょうじょう</rt></ruby>です。",
+      "4": "<ruby>皿<rt>さら</rt></ruby>の<ruby>模様<rt>もよう</rt></ruby>をおかずと<ruby>間違<rt>まちが</rt></ruby>えてすくおうとするのは、<ruby>視覚失認<rt>しかくしつにん</rt></ruby>の<ruby>症状<rt>しょうじょう</rt></ruby>です。"
     }
   },
   {
@@ -514,11 +514,11 @@ examSets["38pm"] = [
     ],
     "answer": 2,
     "explanations": {
-      "0": "タッチケアは、手で優しく触れることで安心感を与える技法です。この場面では行われていません。",
-      "1": "絵を描いたのは季節や日付を伝えるための手がかりであり、創作活動の心理的効果を目的とするアートセラピーではありません。",
-      "2": "正解。日付を繰り返し伝えたり、ホワイトボードに日付や季節の絵を描いて示したりするのは、現実の見当識を促す<ruby>リアリティ・オリエンテーション<rt>りありてぃ・おりえんてーしょん</rt></ruby>です。",
-      "3": "ライフレビューは、自分の人生を振り返って語ることを支援する技法です。この場面には当てはまりません。",
-      "4": "グリーフケアは、死別などで悲嘆にくれる人への支援です。この場面には当てはまりません。"
+      "0": "タッチケアは、<ruby>手<rt>て</rt></ruby>で<ruby>優<rt>やさ</rt></ruby>しく<ruby>触<rt>ふ</rt></ruby>れることで<ruby>安心感<rt>あんしんかん</rt></ruby>を<ruby>与<rt>あた</rt></ruby>える<ruby>技法<rt>ぎほう</rt></ruby>です。この<ruby>場面<rt>ばめん</rt></ruby>では<ruby>行<rt>おこな</rt></ruby>われていません。",
+      "1": "<ruby>絵<rt>え</rt></ruby>を<ruby>描<rt>えが</rt></ruby>いたのは<ruby>季節<rt>きせつ</rt></ruby>や<ruby>日付<rt>ひづけ</rt></ruby>を<ruby>伝<rt>つた</rt></ruby>えるための<ruby>手<rt>て</rt></ruby>がかりであり、<ruby>創作<rt>そうさく</rt></ruby><ruby>活動<rt>かつどう</rt></ruby>の<ruby>心理的<rt>しんりてき</rt></ruby><ruby>効果<rt>こうか</rt></ruby>を<ruby>目的<rt>もくてき</rt></ruby>とするアートセラピーではありません。",
+      "2": "<ruby>正解<rt>せいかい</rt></ruby>。<ruby>日付<rt>ひづけ</rt></ruby>を<ruby>繰り返<rt>くりかえ</rt></ruby>し<ruby>伝<rt>つた</rt></ruby>えたり、ホワイトボードに<ruby>日付<rt>ひづけ</rt></ruby>や<ruby>季節<rt>きせつ</rt></ruby>の<ruby>絵<rt>え</rt></ruby>を<ruby>描<rt>えが</rt></ruby>いて<ruby>示<rt>しめ</rt></ruby>したりするのは、<ruby>現実<rt>げんじつ</rt></ruby>の<ruby>見当識<rt>けんとうしき</rt></ruby>を<ruby>促<rt>うなが</rt></ruby>す<ruby>リアリティ・オリエンテーション<rt>りありてぃ・おりえんてーしょん</rt></ruby>です。",
+      "3": "ライフレビューは、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>人生<rt>じんせい</rt></ruby>を<ruby>振り返<rt>ふりかえ</rt></ruby>って<ruby>語<rt>かた</rt></ruby>ることを<ruby>支援<rt>しえん</rt></ruby>する<ruby>技法<rt>ぎほう</rt></ruby>です。この<ruby>場面<rt>ばめん</rt></ruby>には<ruby>当<rt>あ</rt></ruby>てはまりません。",
+      "4": "グリーフケアは、<ruby>死別<rt>しべつ</rt></ruby>などで<ruby>悲嘆<rt>ひたん</rt></ruby>にくれる<ruby>人<rt>ひと</rt></ruby>への<ruby>支援<rt>しえん</rt></ruby>です。この<ruby>場面<rt>ばめん</rt></ruby>には<ruby>当<rt>あ</rt></ruby>てはまりません。"
     }
   },
   {
@@ -532,11 +532,11 @@ examSets["38pm"] = [
     ],
     "answer": 2,
     "explanations": {
-      "0": "ショック期は、診断を受けた直後に呆然としたり、現実を受け止められなかったりする段階です。診断から4年が経過した現在の状態には当てはまりません。",
-      "1": "否認期は、認知症であることを認めようとしない段階です。長男は認知症と向き合いながら悩んでおり、否認ではありません。",
-      "2": "正解。怒りをぶつけてしまった後で落ち込んだり、自分を強く責めたりと感情が混乱しているのは、<ruby>混乱期<rt>こんらんき</rt></ruby>の特徴です。",
-      "3": "解決への努力期は、介護の方法を学んだりサービスの利用を工夫したりと、問題解決に向けて動き出す段階です。長男はまだ至っていません。",
-      "4": "受容期は、認知症の家族の状態を受け入れ、落ち着いて向き合えるようになる段階です。長男はまだ至っていません。"
+      "0": "ショック<ruby>期<rt>き</rt></ruby>は、<ruby>診断<rt>しんだん</rt></ruby>を<ruby>受<rt>う</rt></ruby>けた<ruby>直後<rt>ちょくご</rt></ruby>に<ruby>呆然<rt>ぼうぜん</rt></ruby>としたり、<ruby>現実<rt>げんじつ</rt></ruby>を<ruby>受け止<rt>うけと</rt></ruby>められなかったりする<ruby>段階<rt>だんかい</rt></ruby>です。<ruby>診断<rt>しんだん</rt></ruby>から4<ruby>年<rt>ねん</rt></ruby>が<ruby>経過<rt>けいか</rt></ruby>した<ruby>現在<rt>げんざい</rt></ruby>の<ruby>状態<rt>じょうたい</rt></ruby>には<ruby>当<rt>あ</rt></ruby>てはまりません。",
+      "1": "<ruby>否認<rt>ひにん</rt></ruby><ruby>期<rt>き</rt></ruby>は、<ruby>認知症<rt>にんちしょう</rt></ruby>であることを<ruby>認<rt>みと</rt></ruby>めようとしない<ruby>段階<rt>だんかい</rt></ruby>です。<ruby>長男<rt>ちょうなん</rt></ruby>は<ruby>認知症<rt>にんちしょう</rt></ruby>と<ruby>向き合<rt>むきあ</rt></ruby>いながら<ruby>悩<rt>なや</rt></ruby>んでおり、<ruby>否認<rt>ひにん</rt></ruby>ではありません。",
+      "2": "<ruby>正解<rt>せいかい</rt></ruby>。<ruby>怒<rt>いか</rt></ruby>りをぶつけてしまった<ruby>後<rt>あと</rt></ruby>で<ruby>落ち込<rt>おちこ</rt></ruby>んだり、<ruby>自分<rt>じぶん</rt></ruby>を<ruby>強<rt>つよ</rt></ruby>く<ruby>責<rt>せ</rt></ruby>めたりと<ruby>感情<rt>かんじょう</rt></ruby>が<ruby>混乱<rt>こんらん</rt></ruby>しているのは、<ruby>混乱期<rt>こんらんき</rt></ruby>の<ruby>特徴<rt>とくちょう</rt></ruby>です。",
+      "3": "<ruby>解決<rt>かいけつ</rt></ruby>への<ruby>努力<rt>どりょく</rt></ruby><ruby>期<rt>き</rt></ruby>は、<ruby>介護<rt>かいご</rt></ruby>の<ruby>方法<rt>ほうほう</rt></ruby>を<ruby>学<rt>まな</rt></ruby>んだりサービスの<ruby>利用<rt>りよう</rt></ruby>を<ruby>工夫<rt>くふう</rt></ruby>したりと、<ruby>問題解決<rt>もんだいかいけつ</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて<ruby>動<rt>うご</rt></ruby>き<ruby>出<rt>だ</rt></ruby>す<ruby>段階<rt>だんかい</rt></ruby>です。<ruby>長男<rt>ちょうなん</rt></ruby>はまだ<ruby>至<rt>いた</rt></ruby>っていません。",
+      "4": "<ruby>受容<rt>じゅよう</rt></ruby><ruby>期<rt>き</rt></ruby>は、<ruby>認知症<rt>にんちしょう</rt></ruby>の<ruby>家族<rt>かぞく</rt></ruby>の<ruby>状態<rt>じょうたい</rt></ruby>を<ruby>受け入<rt>うけい</rt></ruby>れ、<ruby>落ち着<rt>おちつ</rt></ruby>いて<ruby>向き合<rt>むきあ</rt></ruby>えるようになる<ruby>段階<rt>だんかい</rt></ruby>です。<ruby>長男<rt>ちょうなん</rt></ruby>はまだ<ruby>至<rt>いた</rt></ruby>っていません。"
     }
   },
   {
@@ -550,11 +550,11 @@ examSets["38pm"] = [
     ],
     "answer": 4,
     "explanations": {
-      "0": "障害のある人を社会に「統合」するのはインテグレーションの考え方です。インクルージョンは、社会の側がすべての人を最初から受け入れる考え方です。",
-      "1": "権利侵害から守ることは大切ですが、それだけではソーシャルインクルージョンの説明として不十分です。",
-      "2": "意思決定支援は重要な要素の一つですが、ソーシャルインクルージョンそのものの説明ではありません。",
-      "3": "最善の利益は、意思決定支援などの場面で用いられる考え方であり、ソーシャルインクルージョンの説明ではありません。",
-      "4": "正解。ソーシャルインクルージョンは、障害のある人もない人も、排除されることなく社会に<ruby>包摂<rt>ほうせつ</rt></ruby>されるという考え方です。"
+      "0": "<ruby>障害<rt>しょうがい</rt></ruby>のある<ruby>人<rt>ひと</rt></ruby>を<ruby>社会<rt>しゃかい</rt></ruby>に「<ruby>統合<rt>とうごう</rt></ruby>」するのはインテグレーションの<ruby>考え方<rt>かんがえかた</rt></ruby>です。インクルージョンは、<ruby>社会<rt>しゃかい</rt></ruby>の<ruby>側<rt>がわ</rt></ruby>がすべての<ruby>人<rt>ひと</rt></ruby>を<ruby>最初<rt>さいしょ</rt></ruby>から<ruby>受け入<rt>うけい</rt></ruby>れる<ruby>考え方<rt>かんがえかた</rt></ruby>です。",
+      "1": "<ruby>権利<rt>けんり</rt></ruby><ruby>侵害<rt>しんがい</rt></ruby>から<ruby>守<rt>まも</rt></ruby>ることは<ruby>大切<rt>たいせつ</rt></ruby>ですが、それだけではソーシャルインクルージョンの<ruby>説明<rt>せつめい</rt></ruby>として<ruby>不十分<rt>ふじゅうぶん</rt></ruby>です。",
+      "2": "<ruby>意思決定<rt>いしけってい</rt></ruby><ruby>支援<rt>しえん</rt></ruby>は<ruby>重要<rt>じゅうよう</rt></ruby>な<ruby>要素<rt>ようそ</rt></ruby>の<ruby>一<rt>ひと</rt></ruby>つですが、ソーシャルインクルージョンそのものの<ruby>説明<rt>せつめい</rt></ruby>ではありません。",
+      "3": "<ruby>最善<rt>さいぜん</rt></ruby>の<ruby>利益<rt>りえき</rt></ruby>は、<ruby>意思決定<rt>いしけってい</rt></ruby><ruby>支援<rt>しえん</rt></ruby>などの<ruby>場面<rt>ばめん</rt></ruby>で<ruby>用<rt>もち</rt></ruby>いられる<ruby>考え方<rt>かんがえかた</rt></ruby>であり、ソーシャルインクルージョンの<ruby>説明<rt>せつめい</rt></ruby>ではありません。",
+      "4": "<ruby>正解<rt>せいかい</rt></ruby>。ソーシャルインクルージョンは、<ruby>障害<rt>しょうがい</rt></ruby>のある<ruby>人<rt>ひと</rt></ruby>もない<ruby>人<rt>ひと</rt></ruby>も、<ruby>排除<rt>はいじょ</rt></ruby>されることなく<ruby>社会<rt>しゃかい</rt></ruby>に<ruby>包摂<rt>ほうせつ</rt></ruby>されるという<ruby>考え方<rt>かんがえかた</rt></ruby>です。"
     }
   },
   {
@@ -568,11 +568,11 @@ examSets["38pm"] = [
     ],
     "answer": 0,
     "explanations": {
-      "0": "正解。知的障害は、発達期（おおむね18歳まで）に知的機能と適応行動の障害があらわれるものです。",
-      "1": "知的障害の原因には、染色体異常など明らかな場合もありますが、原因が特定できないことも多くあります。",
-      "2": "支援を受けながら一般就労をしている人は多くいます。一般就労が不可能というのは誤りです。",
-      "3": "<ruby>療育手帳<rt>りょういくてちょう</rt></ruby>の等級は、知能検査や適応行動の評価に基づく判定で決まります。障害支援区分は障害福祉サービスの支給決定のための区分であり、手帳の等級とは別のものです。",
-      "4": "知的障害には、運動発達の遅れを伴うことがあります。伴わないとは言えません。"
+      "0": "<ruby>正解<rt>せいかい</rt></ruby>。<ruby>知的障害<rt>ちてきしょうがい</rt></ruby>は、<ruby>発達<rt>はったつ</rt></ruby><ruby>期<rt>き</rt></ruby>（おおむね18<ruby>歳<rt>さい</rt></ruby>まで）に<ruby>知的<rt>ちてき</rt></ruby><ruby>機能<rt>きのう</rt></ruby>と<ruby>適応<rt>てきおう</rt></ruby><ruby>行動<rt>こうどう</rt></ruby>の<ruby>障害<rt>しょうがい</rt></ruby>があらわれるものです。",
+      "1": "<ruby>知的障害<rt>ちてきしょうがい</rt></ruby>の<ruby>原因<rt>げんいん</rt></ruby>には、<ruby>染色体<rt>せんしょくたい</rt></ruby><ruby>異常<rt>いじょう</rt></ruby>など<ruby>明<rt>あき</rt></ruby>らかな<ruby>場合<rt>ばあい</rt></ruby>もありますが、<ruby>原因<rt>げんいん</rt></ruby>が<ruby>特定<rt>とくてい</rt></ruby>できないことも<ruby>多<rt>おお</rt></ruby>くあります。",
+      "2": "<ruby>支援<rt>しえん</rt></ruby>を<ruby>受<rt>う</rt></ruby>けながら<ruby>一般<rt>いっぱん</rt></ruby><ruby>就労<rt>しゅうろう</rt></ruby>をしている<ruby>人<rt>ひと</rt></ruby>は<ruby>多<rt>おお</rt></ruby>くいます。<ruby>一般<rt>いっぱん</rt></ruby><ruby>就労<rt>しゅうろう</rt></ruby>が<ruby>不可能<rt>ふかのう</rt></ruby>というのは<ruby>誤<rt>あやま</rt></ruby>りです。",
+      "3": "<ruby>療育手帳<rt>りょういくてちょう</rt></ruby>の<ruby>等級<rt>とうきゅう</rt></ruby>は、<ruby>知能<rt>ちのう</rt></ruby><ruby>検査<rt>けんさ</rt></ruby>や<ruby>適応<rt>てきおう</rt></ruby><ruby>行動<rt>こうどう</rt></ruby>の<ruby>評価<rt>ひょうか</rt></ruby>に<ruby>基<rt>もと</rt></ruby>づく<ruby>判定<rt>はんてい</rt></ruby>で<ruby>決<rt>き</rt></ruby>まります。<ruby>障害<rt>しょうがい</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>区分<rt>くぶん</rt></ruby>は<ruby>障害<rt>しょうがい</rt></ruby><ruby>福祉<rt>ふくし</rt></ruby>サービスの<ruby>支給<rt>しきゅう</rt></ruby><ruby>決定<rt>けってい</rt></ruby>のための<ruby>区分<rt>くぶん</rt></ruby>であり、<ruby>手帳<rt>てちょう</rt></ruby>の<ruby>等級<rt>とうきゅう</rt></ruby>とは<ruby>別<rt>べつ</rt></ruby>のものです。",
+      "4": "<ruby>知的障害<rt>ちてきしょうがい</rt></ruby>には、<ruby>運動<rt>うんどう</rt></ruby><ruby>発達<rt>はったつ</rt></ruby>の<ruby>遅<rt>おく</rt></ruby>れを<ruby>伴<rt>ともな</rt></ruby>うことがあります。<ruby>伴<rt>ともな</rt></ruby>わないとは<ruby>言<rt>い</rt></ruby>えません。"
     }
   },
   {
@@ -586,11 +586,11 @@ examSets["38pm"] = [
     ],
     "answer": 0,
     "explanations": {
-      "0": "正解。<ruby>脳血管障害<rt>のうけっかんしょうがい</rt></ruby>（脳卒中）では、脳の損傷部位によって片麻痺や言語障害（失語）などの後遺症が残ることがあります。",
-      "1": "糖尿病の合併症は、末梢神経障害や網膜症、腎症などであり、片麻痺や言語障害は典型的な後遺症ではありません。",
-      "2": "脊髄損傷では損傷部位より下の麻痺（対麻痺・四肢麻痺）が生じますが、脳の障害ではないため、片麻痺や言語障害は生じません。",
-      "3": "慢性閉塞性肺疾患は呼吸器の疾患であり、片麻痺や言語障害は伴いません。",
-      "4": "クローン病は消化管の炎症性疾患であり、片麻痺や言語障害は伴いません。"
+      "0": "<ruby>正解<rt>せいかい</rt></ruby>。<ruby>脳血管障害<rt>のうけっかんしょうがい</rt></ruby>（<ruby>脳卒中<rt>のうそっちゅう</rt></ruby>）では、<ruby>脳<rt>のう</rt></ruby>の<ruby>損傷<rt>そんしょう</rt></ruby><ruby>部位<rt>ぶい</rt></ruby>によって<ruby>片<rt>へん</rt></ruby><ruby>麻痺<rt>まひ</rt></ruby>や<ruby>言語障害<rt>げんごしょうがい</rt></ruby>（<ruby>失語<rt>しつご</rt></ruby>）などの<ruby>後遺症<rt>こういしょう</rt></ruby>が<ruby>残<rt>のこ</rt></ruby>ることがあります。",
+      "1": "<ruby>糖尿病<rt>とうにょうびょう</rt></ruby>の<ruby>合併症<rt>がっぺいしょう</rt></ruby>は、<ruby>末梢<rt>まっしょう</rt></ruby><ruby>神経<rt>しんけい</rt></ruby><ruby>障害<rt>しょうがい</rt></ruby>や<ruby>網膜症<rt>もうまくしょう</rt></ruby>、<ruby>腎症<rt>じんしょう</rt></ruby>などであり、<ruby>片<rt>へん</rt></ruby><ruby>麻痺<rt>まひ</rt></ruby>や<ruby>言語障害<rt>げんごしょうがい</rt></ruby>は<ruby>典型的<rt>てんけいてき</rt></ruby>な<ruby>後遺症<rt>こういしょう</rt></ruby>ではありません。",
+      "2": "<ruby>脊髄<rt>せきずい</rt></ruby><ruby>損傷<rt>そんしょう</rt></ruby>では<ruby>損傷<rt>そんしょう</rt></ruby><ruby>部位<rt>ぶい</rt></ruby>より<ruby>下<rt>した</rt></ruby>の<ruby>麻痺<rt>まひ</rt></ruby>（<ruby>対<rt>たい</rt></ruby><ruby>麻痺<rt>まひ</rt></ruby>・<ruby>四肢麻痺<rt>ししまひ</rt></ruby>）が<ruby>生<rt>しょう</rt></ruby>じますが、<ruby>脳<rt>のう</rt></ruby>の<ruby>障害<rt>しょうがい</rt></ruby>ではないため、<ruby>片<rt>へん</rt></ruby><ruby>麻痺<rt>まひ</rt></ruby>や<ruby>言語障害<rt>げんごしょうがい</rt></ruby>は<ruby>生<rt>しょう</rt></ruby>じません。",
+      "3": "<ruby>慢性<rt>まんせい</rt></ruby><ruby>閉塞<rt>へいそく</rt></ruby><ruby>性<rt>せい</rt></ruby><ruby>肺<rt>はい</rt></ruby><ruby>疾患<rt>しっかん</rt></ruby>は<ruby>呼吸器<rt>こきゅうき</rt></ruby>の<ruby>疾患<rt>しっかん</rt></ruby>であり、<ruby>片<rt>へん</rt></ruby><ruby>麻痺<rt>まひ</rt></ruby>や<ruby>言語障害<rt>げんごしょうがい</rt></ruby>は<ruby>伴<rt>ともな</rt></ruby>いません。",
+      "4": "クローン<ruby>病<rt>びょう</rt></ruby>は<ruby>消化管<rt>しょうかかん</rt></ruby>の<ruby>炎症<rt>えんしょう</rt></ruby><ruby>性<rt>せい</rt></ruby><ruby>疾患<rt>しっかん</rt></ruby>であり、<ruby>片<rt>へん</rt></ruby><ruby>麻痺<rt>まひ</rt></ruby>や<ruby>言語障害<rt>げんごしょうがい</rt></ruby>は<ruby>伴<rt>ともな</rt></ruby>いません。"
     }
   },
   {
@@ -604,11 +604,11 @@ examSets["38pm"] = [
     ],
     "answer": 1,
     "explanations": {
-      "0": "国際障害者年（1981年）のテーマは「完全参加と平等」であり、障害者を弱者として保護する捉え方からの転換が進みました。逆の変化です。",
-      "1": "正解。国際障害者年を契機に、障害者も地域で普通の生活を送ることを目指す<ruby>ノーマライゼーション<rt>のーまらいぜーしょん</rt></ruby>の理念が、日本にも徐々に浸透しました。",
-      "2": "身体障害者福祉法が制定されたのは1949年であり、1981年の国際障害者年より前のことです。",
-      "3": "障害種別ごとの福祉法によるサービスは、国際障害者年以前から存在しており、この時期に始まった変化ではありません。",
-      "4": "自立支援医療は、2005年の障害者自立支援法で創設された制度です。国際障害者年を契機とする変化ではありません。"
+      "0": "<ruby>国際<rt>こくさい</rt></ruby><ruby>障害者<rt>しょうがいしゃ</rt></ruby><ruby>年<rt>ねん</rt></ruby>（1981<ruby>年<rt>ねん</rt></ruby>）のテーマは「<ruby>完全<rt>かんぜん</rt></ruby><ruby>参加<rt>さんか</rt></ruby>と<ruby>平等<rt>びょうどう</rt></ruby>」であり、<ruby>障害者<rt>しょうがいしゃ</rt></ruby>を<ruby>弱者<rt>じゃくしゃ</rt></ruby>として<ruby>保護<rt>ほご</rt></ruby>する<ruby>捉<rt>とら</rt></ruby>え<ruby>方<rt>かた</rt></ruby>からの<ruby>転換<rt>てんかん</rt></ruby>が<ruby>進<rt>すす</rt></ruby>みました。<ruby>逆<rt>ぎゃく</rt></ruby>の<ruby>変化<rt>へんか</rt></ruby>です。",
+      "1": "<ruby>正解<rt>せいかい</rt></ruby>。<ruby>国際<rt>こくさい</rt></ruby><ruby>障害者<rt>しょうがいしゃ</rt></ruby><ruby>年<rt>ねん</rt></ruby>を<ruby>契機<rt>けいき</rt></ruby>に、<ruby>障害者<rt>しょうがいしゃ</rt></ruby>も<ruby>地域<rt>ちいき</rt></ruby>で<ruby>普通<rt>ふつう</rt></ruby>の<ruby>生活<rt>せいかつ</rt></ruby>を<ruby>送<rt>おく</rt></ruby>ることを<ruby>目指<rt>めざ</rt></ruby>す<ruby>ノーマライゼーション<rt>のーまらいぜーしょん</rt></ruby>の<ruby>理念<rt>りねん</rt></ruby>が、<ruby>日本<rt>にっぽん</rt></ruby>にも<ruby>徐々<rt>じょじょ</rt></ruby>に<ruby>浸透<rt>しんとう</rt></ruby>しました。",
+      "2": "<ruby>身体障害者福祉法<rt>しんたいしょうがいしゃふくしほう</rt></ruby>が<ruby>制定<rt>せいてい</rt></ruby>されたのは1949<ruby>年<rt>ねん</rt></ruby>であり、1981<ruby>年<rt>ねん</rt></ruby>の<ruby>国際<rt>こくさい</rt></ruby><ruby>障害者<rt>しょうがいしゃ</rt></ruby><ruby>年<rt>ねん</rt></ruby>より<ruby>前<rt>まえ</rt></ruby>のことです。",
+      "3": "<ruby>障害<rt>しょうがい</rt></ruby><ruby>種別<rt>しゅべつ</rt></ruby>ごとの<ruby>福祉法<rt>ふくしほう</rt></ruby>によるサービスは、<ruby>国際<rt>こくさい</rt></ruby><ruby>障害者<rt>しょうがいしゃ</rt></ruby><ruby>年<rt>ねん</rt></ruby><ruby>以前<rt>いぜん</rt></ruby>から<ruby>存在<rt>そんざい</rt></ruby>しており、この<ruby>時期<rt>じき</rt></ruby>に<ruby>始<rt>はじ</rt></ruby>まった<ruby>変化<rt>へんか</rt></ruby>ではありません。",
+      "4": "<ruby>自立<rt>じりつ</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>医療<rt>いりょう</rt></ruby>は、2005<ruby>年<rt>ねん</rt></ruby>の<ruby>障害者<rt>しょうがいしゃ</rt></ruby><ruby>自立<rt>じりつ</rt></ruby><ruby>支援法<rt>しえんほう</rt></ruby>で<ruby>創設<rt>そうせつ</rt></ruby>された<ruby>制度<rt>せいど</rt></ruby>です。<ruby>国際<rt>こくさい</rt></ruby><ruby>障害者<rt>しょうがいしゃ</rt></ruby><ruby>年<rt>ねん</rt></ruby>を<ruby>契機<rt>けいき</rt></ruby>とする<ruby>変化<rt>へんか</rt></ruby>ではありません。"
     }
   },
   {
@@ -622,11 +622,11 @@ examSets["38pm"] = [
     ],
     "answer": 2,
     "explanations": {
-      "0": "ALSでは感覚は保たれるのが特徴で、<ruby>感覚障害<rt>かんかくしょうがい</rt></ruby>は原則としてみられません。",
-      "1": "ALSでは膀胱・直腸の障害は原則としてみられず、失禁は特徴的な症状ではありません。",
-      "2": "正解。ALSでは<ruby>球麻痺<rt>きゅうまひ</rt></ruby>により舌や咽頭の筋肉が障害され、<ruby>嚥下障害<rt>えんげしょうがい</rt></ruby>がよくみられます。",
-      "3": "ALSでは眼球運動は末期まで保たれるのが特徴で、視力障害はみられません。",
-      "4": "便秘は活動量の低下などに伴って起こることはありますが、ALSの特徴的な症状ではありません。"
+      "0": "ALSでは<ruby>感覚<rt>かんかく</rt></ruby>は<ruby>保<rt>たも</rt></ruby>たれるのが<ruby>特徴<rt>とくちょう</rt></ruby>で、<ruby>感覚障害<rt>かんかくしょうがい</rt></ruby>は<ruby>原則<rt>げんそく</rt></ruby>としてみられません。",
+      "1": "ALSでは<ruby>膀胱<rt>ぼうこう</rt></ruby>・<ruby>直腸<rt>ちょくちょう</rt></ruby>の<ruby>障害<rt>しょうがい</rt></ruby>は<ruby>原則<rt>げんそく</rt></ruby>としてみられず、<ruby>失禁<rt>しっきん</rt></ruby>は<ruby>特徴的<rt>とくちょうてき</rt></ruby>な<ruby>症状<rt>しょうじょう</rt></ruby>ではありません。",
+      "2": "<ruby>正解<rt>せいかい</rt></ruby>。ALSでは<ruby>球麻痺<rt>きゅうまひ</rt></ruby>により<ruby>舌<rt>した</rt></ruby>や<ruby>咽頭<rt>いんとう</rt></ruby>の<ruby>筋肉<rt>きんにく</rt></ruby>が<ruby>障害<rt>しょうがい</rt></ruby>され、<ruby>嚥下障害<rt>えんげしょうがい</rt></ruby>がよくみられます。",
+      "3": "ALSでは<ruby>眼球<rt>がんきゅう</rt></ruby><ruby>運動<rt>うんどう</rt></ruby>は<ruby>末期<rt>まっき</rt></ruby>まで<ruby>保<rt>たも</rt></ruby>たれるのが<ruby>特徴<rt>とくちょう</rt></ruby>で、<ruby>視力<rt>しりょく</rt></ruby><ruby>障害<rt>しょうがい</rt></ruby>はみられません。",
+      "4": "<ruby>便秘<rt>べんぴ</rt></ruby>は<ruby>活動量<rt>かつどうりょう</rt></ruby>の<ruby>低下<rt>ていか</rt></ruby>などに<ruby>伴<rt>ともな</rt></ruby>って<ruby>起<rt>お</rt></ruby>こることはありますが、ALSの<ruby>特徴的<rt>とくちょうてき</rt></ruby>な<ruby>症状<rt>しょうじょう</rt></ruby>ではありません。"
     }
   },
   {
@@ -640,11 +640,11 @@ examSets["38pm"] = [
     ],
     "answer": 2,
     "explanations": {
-      "0": "地域定着支援は、地域で一人暮らしを送る人が安定して生活を続けられるよう、緊急時の連絡体制などを確保する支援です。入院中から退院に向けて住居を探す支援ではありません。",
-      "1": "自立生活援助は、病院や施設から退院して一人暮らしを始めた後の人を定期的に訪問し、生活上の相談に応じる支援です。退院前の住居探しには地域移行支援を利用します。",
-      "2": "正解。<ruby>地域移行支援<rt>ちいきいこうしえん</rt></ruby>は、入院中の人が退院して地域で暮らせるよう、住居の確保など移行に必要な支援を行うものです。",
-      "3": "生活介護は、常時介護を必要とする障害のある人が、昼間に施設で介護や創作活動を受けるサービスです。退院や住居探しの支援ではありません。",
-      "4": "同行援護は、視覚障害のある人の外出を支援するサービスです。Aさんの退院支援には当てはまりません。"
+      "0": "<ruby>地域<rt>ちいき</rt></ruby><ruby>定着<rt>ていちゃく</rt></ruby><ruby>支援<rt>しえん</rt></ruby>は、<ruby>地域<rt>ちいき</rt></ruby>で<ruby>一人暮<rt>ひとりぐ</rt></ruby>らしを<ruby>送<rt>おく</rt></ruby>る<ruby>人<rt>ひと</rt></ruby>が<ruby>安定<rt>あんてい</rt></ruby>して<ruby>生活<rt>せいかつ</rt></ruby>を<ruby>続<rt>つづ</rt></ruby>けられるよう、<ruby>緊急時<rt>きんきゅうじ</rt></ruby>の<ruby>連絡<rt>れんらく</rt></ruby><ruby>体制<rt>たいせい</rt></ruby>などを<ruby>確保<rt>かくほ</rt></ruby>する<ruby>支援<rt>しえん</rt></ruby>です。<ruby>入院中<rt>にゅういんちゅう</rt></ruby>から<ruby>退院<rt>たいいん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて<ruby>住居<rt>じゅうきょ</rt></ruby>を<ruby>探<rt>さが</rt></ruby>す<ruby>支援<rt>しえん</rt></ruby>ではありません。",
+      "1": "<ruby>自立<rt>じりつ</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby><ruby>援助<rt>えんじょ</rt></ruby>は、<ruby>病院<rt>びょういん</rt></ruby>や<ruby>施設<rt>しせつ</rt></ruby>から<ruby>退院<rt>たいいん</rt></ruby>して<ruby>一人暮<rt>ひとりぐ</rt></ruby>らしを<ruby>始<rt>はじ</rt></ruby>めた<ruby>後<rt>あと</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>を<ruby>定期的<rt>ていきてき</rt></ruby>に<ruby>訪問<rt>ほうもん</rt></ruby>し、<ruby>生活<rt>せいかつ</rt></ruby><ruby>上<rt>じょう</rt></ruby>の<ruby>相談<rt>そうだん</rt></ruby>に<ruby>応<rt>おう</rt></ruby>じる<ruby>支援<rt>しえん</rt></ruby>です。<ruby>退院前<rt>たいいんまえ</rt></ruby>の<ruby>住居<rt>じゅうきょ</rt></ruby><ruby>探<rt>さが</rt></ruby>しには<ruby>地域<rt>ちいき</rt></ruby><ruby>移行<rt>いこう</rt></ruby><ruby>支援<rt>しえん</rt></ruby>を<ruby>利用<rt>りよう</rt></ruby>します。",
+      "2": "<ruby>正解<rt>せいかい</rt></ruby>。<ruby>地域移行支援<rt>ちいきいこうしえん</rt></ruby>は、<ruby>入院中<rt>にゅういんちゅう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>退院<rt>たいいん</rt></ruby>して<ruby>地域<rt>ちいき</rt></ruby>で<ruby>暮<rt>く</rt></ruby>らせるよう、<ruby>住居<rt>じゅうきょ</rt></ruby>の<ruby>確保<rt>かくほ</rt></ruby>など<ruby>移行<rt>いこう</rt></ruby>に<ruby>必要<rt>ひつよう</rt></ruby>な<ruby>支援<rt>しえん</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>うものです。",
+      "3": "<ruby>生活<rt>せいかつ</rt></ruby><ruby>介護<rt>かいご</rt></ruby>は、<ruby>常時<rt>じょうじ</rt></ruby><ruby>介護<rt>かいご</rt></ruby>を<ruby>必要<rt>ひつよう</rt></ruby>とする<ruby>障害<rt>しょうがい</rt></ruby>のある<ruby>人<rt>ひと</rt></ruby>が、<ruby>昼間<rt>ひるま</rt></ruby>に<ruby>施設<rt>しせつ</rt></ruby>で<ruby>介護<rt>かいご</rt></ruby>や<ruby>創作<rt>そうさく</rt></ruby><ruby>活動<rt>かつどう</rt></ruby>を<ruby>受<rt>う</rt></ruby>けるサービスです。<ruby>退院<rt>たいいん</rt></ruby>や<ruby>住居<rt>じゅうきょ</rt></ruby><ruby>探<rt>さが</rt></ruby>しの<ruby>支援<rt>しえん</rt></ruby>ではありません。",
+      "4": "<ruby>同行<rt>どうこう</rt></ruby><ruby>援護<rt>えんご</rt></ruby>は、<ruby>視覚障害<rt>しかくしょうがい</rt></ruby>のある<ruby>人<rt>ひと</rt></ruby>の<ruby>外出<rt>がいしゅつ</rt></ruby>を<ruby>支援<rt>しえん</rt></ruby>するサービスです。Aさんの<ruby>退院<rt>たいいん</rt></ruby><ruby>支援<rt>しえん</rt></ruby>には<ruby>当<rt>あ</rt></ruby>てはまりません。"
     }
   },
   {
@@ -658,11 +658,11 @@ examSets["38pm"] = [
     ],
     "answer": 3,
     "explanations": {
-      "0": "同じ質問を繰り返す人には、その都度穏やかに答えたり、メモを活用したりする配慮が必要です。一度だけ答えるのでは支援になりません。",
-      "1": "ミスのたびに強く注意すると、自信を失わせたり感情を不安定にしたりします。ミスが起きにくい環境の工夫や穏やかな声かけが必要です。",
-      "2": "<ruby>遂行機能障害<rt>すいこうきのうしょうがい</rt></ruby>がある人には、作業の手順を具体的に示したり指示したりする支援が必要です。自分の判断でやるよう促すのは逆効果です。",
-      "3": "正解。<ruby>社会的行動障害<rt>しゃかいてきこうどうしょうがい</rt></ruby>で感情が高ぶったときは、場面や話題を変えることで刺激を減らし、気持ちが落ち着くのを助けます。",
-      "4": "病識が低下している人にできないことを繰り返し指摘すると、混乱や反発を招きます。直接指摘する対応は適切ではありません。"
+      "0": "<ruby>同<rt>おな</rt></ruby>じ<ruby>質問<rt>しつもん</rt></ruby>を<ruby>繰り返<rt>くりかえ</rt></ruby>す<ruby>人<rt>ひと</rt></ruby>には、その<ruby>都度<rt>つど</rt></ruby><ruby>穏<rt>おだ</rt></ruby>やかに<ruby>答<rt>こた</rt></ruby>えたり、メモを<ruby>活用<rt>かつよう</rt></ruby>したりする<ruby>配慮<rt>はいりょ</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です。<ruby>一度<rt>いちど</rt></ruby>だけ<ruby>答<rt>こた</rt></ruby>えるのでは<ruby>支援<rt>しえん</rt></ruby>になりません。",
+      "1": "ミスのたびに<ruby>強<rt>つよ</rt></ruby>く<ruby>注意<rt>ちゅうい</rt></ruby>すると、<ruby>自信<rt>じしん</rt></ruby>を<ruby>失<rt>うしな</rt></ruby>わせたり<ruby>感情<rt>かんじょう</rt></ruby>を<ruby>不安定<rt>ふあんてい</rt></ruby>にしたりします。ミスが<ruby>起<rt>お</rt></ruby>きにくい<ruby>環境<rt>かんきょう</rt></ruby>の<ruby>工夫<rt>くふう</rt></ruby>や<ruby>穏<rt>おだ</rt></ruby>やかな<ruby>声<rt>こえ</rt></ruby>かけが<ruby>必要<rt>ひつよう</rt></ruby>です。",
+      "2": "<ruby>遂行機能障害<rt>すいこうきのうしょうがい</rt></ruby>がある<ruby>人<rt>ひと</rt></ruby>には、<ruby>作業<rt>さぎょう</rt></ruby>の<ruby>手順<rt>てじゅん</rt></ruby>を<ruby>具体的<rt>ぐたいてき</rt></ruby>に<ruby>示<rt>しめ</rt></ruby>したり<ruby>指示<rt>しじ</rt></ruby>したりする<ruby>支援<rt>しえん</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です。<ruby>自分<rt>じぶん</rt></ruby>の<ruby>判断<rt>はんだん</rt></ruby>でやるよう<ruby>促<rt>うなが</rt></ruby>すのは<ruby>逆効果<rt>ぎゃくこうか</rt></ruby>です。",
+      "3": "<ruby>正解<rt>せいかい</rt></ruby>。<ruby>社会的行動障害<rt>しゃかいてきこうどうしょうがい</rt></ruby>で<ruby>感情<rt>かんじょう</rt></ruby>が<ruby>高<rt>たか</rt></ruby>ぶったときは、<ruby>場面<rt>ばめん</rt></ruby>や<ruby>話題<rt>わだい</rt></ruby>を<ruby>変<rt>か</rt></ruby>えることで<ruby>刺激<rt>しげき</rt></ruby>を<ruby>減<rt>へ</rt></ruby>らし、<ruby>気持<rt>きも</rt></ruby>ちが<ruby>落ち着<rt>おちつ</rt></ruby>くのを<ruby>助<rt>たす</rt></ruby>けます。",
+      "4": "<ruby>病識<rt>びょうしき</rt></ruby>が<ruby>低下<rt>ていか</rt></ruby>している<ruby>人<rt>ひと</rt></ruby>にできないことを<ruby>繰り返<rt>くりかえ</rt></ruby>し<ruby>指摘<rt>してき</rt></ruby>すると、<ruby>混乱<rt>こんらん</rt></ruby>や<ruby>反発<rt>はんぱつ</rt></ruby>を<ruby>招<rt>まね</rt></ruby>きます。<ruby>直接<rt>ちょくせつ</rt></ruby><ruby>指摘<rt>してき</rt></ruby>する<ruby>対応<rt>たいおう</rt></ruby>は<ruby>適切<rt>てきせつ</rt></ruby>ではありません。"
     }
   },
   {
@@ -676,11 +676,11 @@ examSets["38pm"] = [
     ],
     "answer": 1,
     "explanations": {
-      "0": "特殊寝台は<ruby>日常生活用具<rt>にちじょうせいかつようぐ</rt></ruby>であり、補装具ではありません。",
-      "1": "正解。電動車椅子は、「障害者総合支援法」に規定する<ruby>補装具<rt>ほそうぐ</rt></ruby>の一つです。",
-      "2": "点字器は日常生活用具であり、補装具ではありません。",
-      "3": "電気式たん吸引器は日常生活用具であり、補装具ではありません。",
-      "4": "ストーマ装具は日常生活用具であり、補装具ではありません。"
+      "0": "<ruby>特殊<rt>とくしゅ</rt></ruby><ruby>寝台<rt>しんだい</rt></ruby>は<ruby>日常生活用具<rt>にちじょうせいかつようぐ</rt></ruby>であり、<ruby>補装<rt>ほそう</rt></ruby><ruby>具<rt>ぐ</rt></ruby>ではありません。",
+      "1": "<ruby>正解<rt>せいかい</rt></ruby>。<ruby>電動車<rt>でんどうしゃ</rt></ruby><ruby>椅子<rt>いす</rt></ruby>は、「<ruby>障害者<rt>しょうがいしゃ</rt></ruby><ruby>総合<rt>そうごう</rt></ruby><ruby>支援法<rt>しえんほう</rt></ruby>」に<ruby>規定<rt>きてい</rt></ruby>する<ruby>補装具<rt>ほそうぐ</rt></ruby>の<ruby>一<rt>ひと</rt></ruby>つです。",
+      "2": "<ruby>点字<rt>てんじ</rt></ruby><ruby>器<rt>き</rt></ruby>は<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活用<rt>せいかつよう</rt></ruby><ruby>具<rt>ぐ</rt></ruby>であり、<ruby>補装<rt>ほそう</rt></ruby><ruby>具<rt>ぐ</rt></ruby>ではありません。",
+      "3": "<ruby>電気<rt>でんき</rt></ruby><ruby>式<rt>しき</rt></ruby>たん<ruby>吸引<rt>きゅういん</rt></ruby><ruby>器<rt>き</rt></ruby>は<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活用<rt>せいかつよう</rt></ruby><ruby>具<rt>ぐ</rt></ruby>であり、<ruby>補装<rt>ほそう</rt></ruby><ruby>具<rt>ぐ</rt></ruby>ではありません。",
+      "4": "ストーマ<ruby>装具<rt>そうぐ</rt></ruby>は<ruby>日常<rt>にちじょう</rt></ruby><ruby>生活用<rt>せいかつよう</rt></ruby><ruby>具<rt>ぐ</rt></ruby>であり、<ruby>補装<rt>ほそう</rt></ruby><ruby>具<rt>ぐ</rt></ruby>ではありません。"
     }
   },
   {
@@ -694,11 +694,11 @@ examSets["38pm"] = [
     ],
     "answer": 4,
     "explanations": {
-      "0": "サービス等利用計画を作成するのは<ruby>相談支援専門員<rt>そうだんしえんせんもんいん</rt></ruby>です。介護支援専門員（ケアマネジャー）は、介護保険の居宅サービス計画を作成します。",
-      "1": "個別支援計画を作成するのは、サービス提供事業所のサービス管理責任者です。相談支援専門員ではありません。",
-      "2": "障害支援区分を決定するのは市町村（市町村審査会）です。基幹相談支援センターではありません。",
-      "3": "要介護度を決定するのは市町村の介護認定審査会です。地域包括支援センターではありません。",
-      "4": "正解。<ruby>地域生活支援事業<rt>ちいきせいかつしえんじぎょう</rt></ruby>は、市町村や都道府県が地域の実情に応じて行う事業です。"
+      "0": "サービス<ruby>等<rt>とう</rt></ruby><ruby>利用<rt>りよう</rt></ruby><ruby>計画<rt>けいかく</rt></ruby>を<ruby>作成<rt>さくせい</rt></ruby>するのは<ruby>相談支援専門員<rt>そうだんしえんせんもんいん</rt></ruby>です。<ruby>介護<rt>かいご</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>専門員<rt>せんもんいん</rt></ruby>（ケアマネジャー）は、<ruby>介護保険<rt>かいごほけん</rt></ruby>の<ruby>居宅<rt>きょたく</rt></ruby>サービス<ruby>計画<rt>けいかく</rt></ruby>を<ruby>作成<rt>さくせい</rt></ruby>します。",
+      "1": "<ruby>個別<rt>こべつ</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>計画<rt>けいかく</rt></ruby>を<ruby>作成<rt>さくせい</rt></ruby>するのは、サービス<ruby>提供<rt>ていきょう</rt></ruby><ruby>事業所<rt>じぎょうしょ</rt></ruby>の<ruby>サービス管理責任者<rt>さーびすかんりせきにんしゃ</rt></ruby>です。<ruby>相談<rt>そうだん</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>専門員<rt>せんもんいん</rt></ruby>ではありません。",
+      "2": "<ruby>障害<rt>しょうがい</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>区分<rt>くぶん</rt></ruby>を<ruby>決定<rt>けってい</rt></ruby>するのは<ruby>市町村<rt>しちょうそん</rt></ruby>（<ruby>市町村<rt>しちょうそん</rt></ruby><ruby>審査会<rt>しんさかい</rt></ruby>）です。<ruby>基幹<rt>きかん</rt></ruby><ruby>相談<rt>そうだん</rt></ruby><ruby>支援<rt>しえん</rt></ruby>センターではありません。",
+      "3": "<ruby>要介護<rt>ようかいご</rt></ruby><ruby>度<rt>ど</rt></ruby>を<ruby>決定<rt>けってい</rt></ruby>するのは<ruby>市町村<rt>しちょうそん</rt></ruby>の<ruby>介護<rt>かいご</rt></ruby><ruby>認定<rt>にんてい</rt></ruby><ruby>審査会<rt>しんさかい</rt></ruby>です。<ruby>地域<rt>ちいき</rt></ruby><ruby>包括<rt>ほうかつ</rt></ruby><ruby>支援<rt>しえん</rt></ruby>センターではありません。",
+      "4": "<ruby>正解<rt>せいかい</rt></ruby>。<ruby>地域生活支援事業<rt>ちいきせいかつしえんじぎょう</rt></ruby>は、<ruby>市町村<rt>しちょうそん</rt></ruby>や<ruby>都道府県<rt>とどうふけん</rt></ruby>が<ruby>地域<rt>ちいき</rt></ruby>の<ruby>実情<rt>じつじょう</rt></ruby>に<ruby>応<rt>おう</rt></ruby>じて<ruby>行<rt>おこな</rt></ruby>う<ruby>事業<rt>じぎょう</rt></ruby>です。"
     }
   },
   {
@@ -712,11 +712,11 @@ examSets["38pm"] = [
     ],
     "answer": 3,
     "explanations": {
-      "0": "看護師は、自助具の作成を専門とする職種ではありません。",
-      "1": "義肢装具士が扱うのは義肢やコルセットなどの装具です。食事用の自助具の作成は担当ではありません。",
-      "2": "理学療法士は、歩行など基本的な動作能力の回復を専門とします。スプーンの自助具の作成は主な担当ではありません。",
-      "3": "正解。<ruby>作業療法士<rt>さぎょうりょうほうし</rt></ruby>は、食事や更衣などの日常生活動作を助ける自助具の作成・選定や、その使い方の訓練を専門とします。",
-      "4": "言語聴覚士は、話すことや聞くこと、飲み込むことの障害への支援を専門とします。"
+      "0": "<ruby>看護師<rt>かんごし</rt></ruby>は、<ruby>自助<rt>じじょ</rt></ruby><ruby>具<rt>ぐ</rt></ruby>の<ruby>作成<rt>さくせい</rt></ruby>を<ruby>専門<rt>せんもん</rt></ruby>とする<ruby>職種<rt>しょくしゅ</rt></ruby>ではありません。",
+      "1": "<ruby>義肢<rt>ぎし</rt></ruby><ruby>装具<rt>そうぐ</rt></ruby><ruby>士<rt>し</rt></ruby>が<ruby>扱<rt>あつか</rt></ruby>うのは<ruby>義肢<rt>ぎし</rt></ruby>やコルセットなどの<ruby>装具<rt>そうぐ</rt></ruby>です。<ruby>食事<rt>しょくじ</rt></ruby><ruby>用<rt>よう</rt></ruby>の<ruby>自助<rt>じじょ</rt></ruby><ruby>具<rt>ぐ</rt></ruby>の<ruby>作成<rt>さくせい</rt></ruby>は<ruby>担当<rt>たんとう</rt></ruby>ではありません。",
+      "2": "<ruby>理学療法士<rt>りがくりょうほうし</rt></ruby>は、<ruby>歩行<rt>ほこう</rt></ruby>など<ruby>基本的<rt>きほんてき</rt></ruby>な<ruby>動作<rt>どうさ</rt></ruby><ruby>能力<rt>のうりょく</rt></ruby>の<ruby>回復<rt>かいふく</rt></ruby>を<ruby>専門<rt>せんもん</rt></ruby>とします。スプーンの<ruby>自助<rt>じじょ</rt></ruby><ruby>具<rt>ぐ</rt></ruby>の<ruby>作成<rt>さくせい</rt></ruby>は<ruby>主<rt>おも</rt></ruby>な<ruby>担当<rt>たんとう</rt></ruby>ではありません。",
+      "3": "<ruby>正解<rt>せいかい</rt></ruby>。<ruby>作業療法士<rt>さぎょうりょうほうし</rt></ruby>は、<ruby>食事<rt>しょくじ</rt></ruby>や<ruby>更衣<rt>ころもがえ</rt></ruby>などの<ruby>日常生活<rt>にちじょうせいかつ</rt></ruby><ruby>動作<rt>どうさ</rt></ruby>を<ruby>助<rt>たす</rt></ruby>ける<ruby>自助<rt>じじょ</rt></ruby><ruby>具<rt>ぐ</rt></ruby>の<ruby>作成<rt>さくせい</rt></ruby>・<ruby>選定<rt>せんてい</rt></ruby>や、その<ruby>使い方<rt>つかいかた</rt></ruby>の<ruby>訓練<rt>くんれん</rt></ruby>を<ruby>専門<rt>せんもん</rt></ruby>とします。",
+      "4": "<ruby>言語聴覚士<rt>げんごちょうかくし</rt></ruby>は、<ruby>話<rt>はな</rt></ruby>すことや<ruby>聞<rt>き</rt></ruby>くこと、<ruby>飲み込<rt>のみこ</rt></ruby>むことの<ruby>障害<rt>しょうがい</rt></ruby>への<ruby>支援<rt>しえん</rt></ruby>を<ruby>専門<rt>せんもん</rt></ruby>とします。"
     }
   },
   {
@@ -730,11 +730,11 @@ examSets["38pm"] = [
     ],
     "answer": 0,
     "explanations": {
-      "0": "正解。非接触型体温計は、室温などの環境温度や汗の影響を受けやすいため、測定する環境に注意が必要です。",
-      "1": "脈拍は、自分の脈が指に伝わらないよう、<ruby>拇指<rt>ぼし</rt></ruby>（親指）ではなく示指・中指・薬指の3本で橈骨動脈に触れて測定します。",
-      "2": "呼吸は、意識すると回数や深さが変わってしまうため、測ることを伝えないで観察します。伝えてから行うのは誤りです。",
-      "3": "マンシェットは、指が1〜2本入る程度の余裕をもって巻きます。隙間のないようにきつく巻くのは誤りです。",
-      "4": "意識レベルを確認するときは、まず呼びかけを行い、反応がなければ肩を軽く叩くなどして確かめます。身体を揺さぶることから始めるのは不適切です。"
+      "0": "<ruby>正解<rt>せいかい</rt></ruby>。<ruby>非接触<rt>ひせっしょく</rt></ruby><ruby>型<rt>がた</rt></ruby><ruby>体温計<rt>たいおんけい</rt></ruby>は、<ruby>室温<rt>しつおん</rt></ruby>などの<ruby>環境<rt>かんきょう</rt></ruby><ruby>温度<rt>おんど</rt></ruby>や<ruby>汗<rt>あせ</rt></ruby>の<ruby>影響<rt>えいきょう</rt></ruby>を<ruby>受<rt>う</rt></ruby>けやすいため、<ruby>測定<rt>そくてい</rt></ruby>する<ruby>環境<rt>かんきょう</rt></ruby>に<ruby>注意<rt>ちゅうい</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です。",
+      "1": "<ruby>脈拍<rt>みゃくはく</rt></ruby>は、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>脈<rt>みゃく</rt></ruby>が<ruby>指<rt>ゆび</rt></ruby>に<ruby>伝<rt>つた</rt></ruby>わらないよう、<ruby>拇指<rt>ぼし</rt></ruby>（<ruby>親指<rt>おやゆび</rt></ruby>）ではなく<ruby>示指<rt>しし</rt></ruby>・<ruby>中指<rt>なかゆび</rt></ruby>・<ruby>薬指<rt>くすりゆび</rt></ruby>の3<ruby>本<rt>ぽん</rt></ruby>で<ruby>橈骨<rt>とうこつ</rt></ruby><ruby>動脈<rt>どうみゃく</rt></ruby>に<ruby>触<rt>ふ</rt></ruby>れて<ruby>測定<rt>そくてい</rt></ruby>します。",
+      "2": "<ruby>呼吸<rt>こきゅう</rt></ruby>は、<ruby>意識<rt>いしき</rt></ruby>すると<ruby>回数<rt>かいすう</rt></ruby>や<ruby>深<rt>ふか</rt></ruby>さが<ruby>変<rt>か</rt></ruby>わってしまうため、<ruby>測<rt>はか</rt></ruby>ることを<ruby>伝<rt>つた</rt></ruby>えないで<ruby>観察<rt>かんさつ</rt></ruby>します。<ruby>伝<rt>つた</rt></ruby>えてから<ruby>行<rt>おこな</rt></ruby>うのは<ruby>誤<rt>あやま</rt></ruby>りです。",
+      "3": "マンシェットは、<ruby>指<rt>ゆび</rt></ruby>が1〜2<ruby>本<rt>ぽん</rt></ruby><ruby>入<rt>はい</rt></ruby>る<ruby>程度<rt>ていど</rt></ruby>の<ruby>余裕<rt>よゆう</rt></ruby>をもって<ruby>巻<rt>ま</rt></ruby>きます。<ruby>隙間<rt>すきま</rt></ruby>のないようにきつく<ruby>巻<rt>ま</rt></ruby>くのは<ruby>誤<rt>あやま</rt></ruby>りです。",
+      "4": "<ruby>意識<rt>いしき</rt></ruby>レベルを<ruby>確認<rt>かくにん</rt></ruby>するときは、まず<ruby>呼<rt>よ</rt></ruby>びかけを<ruby>行<rt>おこな</rt></ruby>い、<ruby>反応<rt>はんのう</rt></ruby>がなければ<ruby>肩<rt>かた</rt></ruby>を<ruby>軽<rt>かる</rt></ruby>く<ruby>叩<rt>たた</rt></ruby>くなどして<ruby>確<rt>たし</rt></ruby>かめます。<ruby>身体<rt>しんたい</rt></ruby>を<ruby>揺<rt>ゆ</rt></ruby>さぶることから<ruby>始<rt>はじ</rt></ruby>めるのは<ruby>不適切<rt>ふてきせつ</rt></ruby>です。"
     }
   },
   {
@@ -748,11 +748,11 @@ examSets["38pm"] = [
     ],
     "answer": 4,
     "explanations": {
-      "0": "気管カニューレは、気管切開口から気管に挿入されるものです。咽頭に挿入されるのではありません。",
-      "1": "気管カニューレは、閉塞の防止や感染予防のため、定期的な交換が必要です。",
-      "2": "カフは、カニューレの先端側（下端）についていて、気管の中で膨らみ、誤嚥や空気の漏れを防ぎます。上端ではありません。",
-      "3": "カフに入れるのは滅菌蒸留水ではなく、空気です。",
-      "4": "正解。サイドチューブを使うと、カフの上部にたまった唾液や分泌物を吸引することができます。"
+      "0": "<ruby>気管<rt>きかん</rt></ruby>カニューレは、<ruby>気管<rt>きかん</rt></ruby><ruby>切開<rt>せっかい</rt></ruby><ruby>口<rt>くち</rt></ruby>から<ruby>気管<rt>きかん</rt></ruby>に<ruby>挿入<rt>そうにゅう</rt></ruby>されるものです。<ruby>咽頭<rt>いんとう</rt></ruby>に<ruby>挿入<rt>そうにゅう</rt></ruby>されるのではありません。",
+      "1": "<ruby>気管<rt>きかん</rt></ruby>カニューレは、<ruby>閉塞<rt>へいそく</rt></ruby>の<ruby>防止<rt>ぼうし</rt></ruby>や<ruby>感染<rt>かんせん</rt></ruby><ruby>予防<rt>よぼう</rt></ruby>のため、<ruby>定期的<rt>ていきてき</rt></ruby>な<ruby>交換<rt>こうかん</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>です。",
+      "2": "カフは、カニューレの<ruby>先端<rt>せんたん</rt></ruby><ruby>側<rt>がわ</rt></ruby>（<ruby>下端<rt>かたん</rt></ruby>）についていて、<ruby>気管<rt>きかん</rt></ruby>の<ruby>中<rt>なか</rt></ruby>で<ruby>膨<rt>ふく</rt></ruby>らみ、<ruby>誤嚥<rt>ごえん</rt></ruby>や<ruby>空気<rt>くうき</rt></ruby>の<ruby>漏<rt>も</rt></ruby>れを<ruby>防<rt>ふせ</rt></ruby>ぎます。<ruby>上端<rt>じょうたん</rt></ruby>ではありません。",
+      "3": "カフに<ruby>入<rt>い</rt></ruby>れるのは<ruby>滅菌<rt>めっきん</rt></ruby><ruby>蒸留水<rt>じょうりゅうすい</rt></ruby>ではなく、<ruby>空気<rt>くうき</rt></ruby>です。",
+      "4": "<ruby>正解<rt>せいかい</rt></ruby>。サイドチューブを<ruby>使<rt>つか</rt></ruby>うと、カフの<ruby>上部<rt>じょうぶ</rt></ruby>にたまった<ruby>唾液<rt>だえき</rt></ruby>や<ruby>分泌物<rt>ぶんぴつぶつ</rt></ruby>を<ruby>吸引<rt>きゅういん</rt></ruby>することができます。"
     }
   },
   {
@@ -766,11 +766,11 @@ examSets["38pm"] = [
     ],
     "answer": 2,
     "explanations": {
-      "0": "湿度30％では痰が乾燥して粘り気が強くなり、かえって排出しにくくなります。適度な加湿が望ましいです。",
-      "1": "水分摂取は痰を柔らかくして排出を促すため、医師の制限がない限り、控えるのではなく促すことが大切です。",
-      "2": "正解。右肺に痰がたまりやすい場合、左側を下にした側臥位にすると右肺が上になり、重力で痰が移動しやすくなります（体位ドレナージ）。",
-      "3": "吸引チューブの太さの変更は、介護福祉職が判断して行うことではありません。また、痰の排出を促す対応としても適切ではありません。",
-      "4": "ベッド上で安静を続けると、痰が肺にたまりやすくなります。座位をとるなど体位を変えることが排出を促します。"
+      "0": "<ruby>湿度<rt>しつど</rt></ruby>30％では<ruby>痰<rt>たん</rt></ruby>が<ruby>乾燥<rt>かんそう</rt></ruby>して<ruby>粘り気<rt>ねばりけ</rt></ruby>が<ruby>強<rt>つよ</rt></ruby>くなり、かえって<ruby>排出<rt>はいしゅつ</rt></ruby>しにくくなります。<ruby>適度<rt>てきど</rt></ruby>な<ruby>加湿<rt>かしつ</rt></ruby>が<ruby>望<rt>のぞ</rt></ruby>ましいです。",
+      "1": "<ruby>水分<rt>すいぶん</rt></ruby><ruby>摂取<rt>せっしゅ</rt></ruby>は<ruby>痰<rt>たん</rt></ruby>を<ruby>柔<rt>やわ</rt></ruby>らかくして<ruby>排出<rt>はいしゅつ</rt></ruby>を<ruby>促<rt>うなが</rt></ruby>すため、<ruby>医師<rt>いし</rt></ruby>の<ruby>制限<rt>せいげん</rt></ruby>がない<ruby>限<rt>かぎ</rt></ruby>り、<ruby>控<rt>ひか</rt></ruby>えるのではなく<ruby>促<rt>うなが</rt></ruby>すことが<ruby>大切<rt>たいせつ</rt></ruby>です。",
+      "2": "<ruby>正解<rt>せいかい</rt></ruby>。<ruby>右肺<rt>みぎはい</rt></ruby>に<ruby>痰<rt>たん</rt></ruby>がたまりやすい<ruby>場合<rt>ばあい</rt></ruby>、<ruby>左側<rt>ひだりがわ</rt></ruby>を<ruby>下<rt>した</rt></ruby>にした<ruby>側臥<rt>そくが</rt></ruby><ruby>位<rt>い</rt></ruby>にすると<ruby>右肺<rt>みぎはい</rt></ruby>が<ruby>上<rt>うえ</rt></ruby>になり、<ruby>重力<rt>じゅうりょく</rt></ruby>で<ruby>痰<rt>たん</rt></ruby>が<ruby>移動<rt>いどう</rt></ruby>しやすくなります（<ruby>体位<rt>たいい</rt></ruby>ドレナージ）。",
+      "3": "<ruby>吸引<rt>きゅういん</rt></ruby>チューブの<ruby>太<rt>ふと</rt></ruby>さの<ruby>変更<rt>へんこう</rt></ruby>は、<ruby>介護福祉<rt>かいごふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>が<ruby>判断<rt>はんだん</rt></ruby>して<ruby>行<rt>おこな</rt></ruby>うことではありません。また、<ruby>痰<rt>たん</rt></ruby>の<ruby>排出<rt>はいしゅつ</rt></ruby>を<ruby>促<rt>うなが</rt></ruby>す<ruby>対応<rt>たいおう</rt></ruby>としても<ruby>適切<rt>てきせつ</rt></ruby>ではありません。",
+      "4": "ベッド<ruby>上<rt>じょう</rt></ruby>で<ruby>安静<rt>あんせい</rt></ruby>を<ruby>続<rt>つづ</rt></ruby>けると、<ruby>痰<rt>たん</rt></ruby>が<ruby>肺<rt>はい</rt></ruby>にたまりやすくなります。<ruby>座位<rt>ざい</rt></ruby>をとるなど<ruby>体位<rt>たいい</rt></ruby>を<ruby>変<rt>か</rt></ruby>えることが<ruby>排出<rt>はいしゅつ</rt></ruby>を<ruby>促<rt>うなが</rt></ruby>します。"
     }
   },
   {
@@ -784,11 +784,11 @@ examSets["38pm"] = [
     ],
     "answer": 1,
     "explanations": {
-      "0": "胃は、食道とつながる噴門から始まり、十二指腸へ続く幽門で終わります。順序が逆です。",
-      "1": "正解。胃の左上部を<ruby>胃底部<rt>いていぶ</rt></ruby>といい、食べ物を一時的にためておく部分です。",
-      "2": "小弯は胃の右側（内側）の短い縁です。左下に大きく張り出す縁は大弯といいます。",
-      "3": "生理的狭窄部が3つあるのは食道です。胃の特徴ではありません。",
-      "4": "胃に続く小腸の最初の部分は十二指腸です。空腸はその次に続きます。"
+      "0": "<ruby>胃<rt>い</rt></ruby>は、<ruby>食道<rt>しょくどう</rt></ruby>とつながる<ruby>噴門<rt>ふんもん</rt></ruby>から<ruby>始<rt>はじ</rt></ruby>まり、<ruby>十二指腸<rt>じゅうにしちょう</rt></ruby>へ<ruby>続<rt>つづ</rt></ruby>く<ruby>幽門<rt>ゆうもん</rt></ruby>で<ruby>終<rt>お</rt></ruby>わります。<ruby>順序<rt>じゅんじょ</rt></ruby>が<ruby>逆<rt>ぎゃく</rt></ruby>です。",
+      "1": "<ruby>正解<rt>せいかい</rt></ruby>。<ruby>胃<rt>い</rt></ruby>の<ruby>左<rt>ひだり</rt></ruby><ruby>上部<rt>じょうぶ</rt></ruby>を<ruby>胃底部<rt>いていぶ</rt></ruby>といい、<ruby>食べ物<rt>たべもの</rt></ruby>を<ruby>一時的<rt>いちじてき</rt></ruby>にためておく<ruby>部分<rt>ぶぶん</rt></ruby>です。",
+      "2": "<ruby>小弯<rt>しょうわん</rt></ruby>は<ruby>胃<rt>い</rt></ruby>の<ruby>右側<rt>みぎがわ</rt></ruby>（<ruby>内側<rt>うちがわ</rt></ruby>）の<ruby>短<rt>みじか</rt></ruby>い<ruby>縁<rt>えん</rt></ruby>です。<ruby>左下<rt>ひだりした</rt></ruby>に<ruby>大<rt>おお</rt></ruby>きく<ruby>張り出<rt>はりだ</rt></ruby>す<ruby>縁<rt>えん</rt></ruby>は<ruby>大<rt>だい</rt></ruby><ruby>弯<rt>弯</rt></ruby>といいます。",
+      "3": "<ruby>生理的<rt>せいりてき</rt></ruby><ruby>狭窄<rt>きょうさく</rt></ruby><ruby>部<rt>ぶ</rt></ruby>が3つあるのは<ruby>食道<rt>しょくどう</rt></ruby>です。<ruby>胃<rt>い</rt></ruby>の<ruby>特徴<rt>とくちょう</rt></ruby>ではありません。",
+      "4": "<ruby>胃<rt>い</rt></ruby>に<ruby>続<rt>つづ</rt></ruby>く<ruby>小腸<rt>しょうちょう</rt></ruby>の<ruby>最初<rt>さいしょ</rt></ruby>の<ruby>部分<rt>ぶぶん</rt></ruby>は<ruby>十二指腸<rt>じゅうにしちょう</rt></ruby>です。<ruby>空腸<rt>くうちょう</rt></ruby>はその<ruby>次<rt>つぎ</rt></ruby>に<ruby>続<rt>つづ</rt></ruby>きます。"
     }
   },
   {
@@ -802,11 +802,11 @@ examSets["38pm"] = [
     ],
     "answer": 3,
     "explanations": {
-      "0": "発赤は感染などの異常のサインなので、まず医師や看護師に報告します。軟膏の塗布は介護福祉士が自己判断で行うケアではありません。",
-      "1": "チューブを回転させて<ruby>癒着<rt>ゆちゃく</rt></ruby>や埋没を防ぐのは、主にバルーン型チューブでのケアです。ボタン型では皮膚の清潔保持が基本になります。",
-      "2": "歩行などの活動を避ける必要はありません。通常の生活動作で抜けることは少なく、活動を制限する根拠にはなりません。",
-      "3": "正解。胃ろう周囲の皮膚は、石けんとぬるま湯で洗浄して清潔と乾燥を保つことが、皮膚トラブルを防ぐ基本的なケアです。",
-      "4": "栄養剤の注入前に胃ろう部を消毒する必要は通常ありません。必要なのは日常の観察と清潔保持です。"
+      "0": "<ruby>発赤<rt>はっせき</rt></ruby>は<ruby>感染<rt>かんせん</rt></ruby>などの<ruby>異常<rt>いじょう</rt></ruby>のサインなので、まず<ruby>医師<rt>いし</rt></ruby>や<ruby>看護師<rt>かんごし</rt></ruby>に<ruby>報告<rt>ほうこく</rt></ruby>します。<ruby>軟膏<rt>なんこう</rt></ruby>の<ruby>塗布<rt>とふ</rt></ruby>は<ruby>介護福祉士<rt>かいごふくしし</rt></ruby>が<ruby>自己判断<rt>じこはんだん</rt></ruby>で<ruby>行<rt>おこな</rt></ruby>うケアではありません。",
+      "1": "チューブを<ruby>回転<rt>かいてん</rt></ruby>させて<ruby>癒着<rt>ゆちゃく</rt></ruby>や<ruby>埋没<rt>まいぼつ</rt></ruby>を<ruby>防<rt>ふせ</rt></ruby>ぐのは、<ruby>主<rt>おも</rt></ruby>にバルーン<ruby>型<rt>がた</rt></ruby>チューブでのケアです。ボタン<ruby>型<rt>がた</rt></ruby>では<ruby>皮膚<rt>ひふ</rt></ruby>の<ruby>清潔<rt>せいけつ</rt></ruby><ruby>保持<rt>ほじ</rt></ruby>が<ruby>基本<rt>きほん</rt></ruby>になります。",
+      "2": "<ruby>歩行<rt>ほこう</rt></ruby>などの<ruby>活動<rt>かつどう</rt></ruby>を<ruby>避<rt>さ</rt></ruby>ける<ruby>必要<rt>ひつよう</rt></ruby>はありません。<ruby>通常<rt>つうじょう</rt></ruby>の<ruby>生活<rt>せいかつ</rt></ruby><ruby>動作<rt>どうさ</rt></ruby>で<ruby>抜<rt>ぬ</rt></ruby>けることは<ruby>少<rt>すく</rt></ruby>なく、<ruby>活動<rt>かつどう</rt></ruby>を<ruby>制限<rt>せいげん</rt></ruby>する<ruby>根拠<rt>こんきょ</rt></ruby>にはなりません。",
+      "3": "<ruby>正解<rt>せいかい</rt></ruby>。<ruby>胃<rt>い</rt></ruby>ろう<ruby>周囲<rt>しゅうい</rt></ruby>の<ruby>皮膚<rt>ひふ</rt></ruby>は、<ruby>石<rt>せっ</rt></ruby>けんと<ruby>ぬるま湯<rt>ぬるまゆ</rt></ruby>で<ruby>洗浄<rt>せんじょう</rt></ruby>して<ruby>清潔<rt>せいけつ</rt></ruby>と<ruby>乾燥<rt>かんそう</rt></ruby>を<ruby>保<rt>たも</rt></ruby>つことが、<ruby>皮膚<rt>ひふ</rt></ruby>トラブルを<ruby>防<rt>ふせ</rt></ruby>ぐ<ruby>基本的<rt>きほんてき</rt></ruby>なケアです。",
+      "4": "<ruby>栄養剤<rt>えいようざい</rt></ruby>の<ruby>注入<rt>ちゅうにゅう</rt></ruby><ruby>前<rt>まえ</rt></ruby>に<ruby>胃<rt>い</rt></ruby>ろう<ruby>部<rt>ぶ</rt></ruby>を<ruby>消毒<rt>しょうどく</rt></ruby>する<ruby>必要<rt>ひつよう</rt></ruby>は<ruby>通常<rt>つうじょう</rt></ruby>ありません。<ruby>必要<rt>ひつよう</rt></ruby>なのは<ruby>日常<rt>にちじょう</rt></ruby>の<ruby>観察<rt>かんさつ</rt></ruby>と<ruby>清潔<rt>せいけつ</rt></ruby><ruby>保持<rt>ほじ</rt></ruby>です。"
     }
   },
   {
@@ -820,11 +820,11 @@ examSets["38pm"] = [
     ],
     "answer": 1,
     "explanations": {
-      "0": "介護福祉職が望む支援の実現では、利用者本位の支援になりません。",
-      "1": "正解。介護過程における生活課題への対応は、利用者自身が望む暮らしを実現することを目指して行います。",
-      "2": "他職種との連携は支援の手段であり、それ自体が目的ではありません。",
-      "3": "家族が望む経済状況の実現は、利用者本人の生活課題への対応とはいえません。",
-      "4": "施設の運営の実現は、個々の利用者の生活課題に対応する介護過程の目的ではありません。"
+      "0": "<ruby>介護福祉<rt>かいごふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>が<ruby>望<rt>のぞ</rt></ruby>む<ruby>支援<rt>しえん</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>では、<ruby>利用者<rt>りようしゃ</rt></ruby><ruby>本位<rt>ほんい</rt></ruby>の<ruby>支援<rt>しえん</rt></ruby>になりません。",
+      "1": "<ruby>正解<rt>せいかい</rt></ruby>。<ruby>介護<rt>かいご</rt></ruby><ruby>過程<rt>かてい</rt></ruby>における<ruby>生活<rt>せいかつ</rt></ruby><ruby>課題<rt>かだい</rt></ruby>への<ruby>対応<rt>たいおう</rt></ruby>は、<ruby>利用者<rt>りようしゃ</rt></ruby><ruby>自身<rt>じしん</rt></ruby>が<ruby>望<rt>のぞ</rt></ruby>む<ruby>暮<rt>く</rt></ruby>らしを<ruby>実現<rt>じつげん</rt></ruby>することを<ruby>目指<rt>めざ</rt></ruby>して<ruby>行<rt>おこな</rt></ruby>います。",
+      "2": "<ruby>他<rt>た</rt></ruby><ruby>職種<rt>しょくしゅ</rt></ruby>との<ruby>連携<rt>れんけい</rt></ruby>は<ruby>支援<rt>しえん</rt></ruby>の<ruby>手段<rt>しゅだん</rt></ruby>であり、それ<ruby>自体<rt>じたい</rt></ruby>が<ruby>目的<rt>もくてき</rt></ruby>ではありません。",
+      "3": "<ruby>家族<rt>かぞく</rt></ruby>が<ruby>望<rt>のぞ</rt></ruby>む<ruby>経済<rt>けいざい</rt></ruby><ruby>状況<rt>じょうきょう</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>は、<ruby>利用者<rt>りようしゃ</rt></ruby><ruby>本人<rt>ほんにん</rt></ruby>の<ruby>生活<rt>せいかつ</rt></ruby><ruby>課題<rt>かだい</rt></ruby>への<ruby>対応<rt>たいおう</rt></ruby>とはいえません。",
+      "4": "<ruby>施設<rt>しせつ</rt></ruby>の<ruby>運営<rt>うんえい</rt></ruby>の<ruby>実現<rt>じつげん</rt></ruby>は、<ruby>個々<rt>ここ</rt></ruby>の<ruby>利用者<rt>りようしゃ</rt></ruby>の<ruby>生活<rt>せいかつ</rt></ruby><ruby>課題<rt>かだい</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>する<ruby>介護<rt>かいご</rt></ruby><ruby>過程<rt>かてい</rt></ruby>の<ruby>目的<rt>もくてき</rt></ruby>ではありません。"
     }
   },
   {
@@ -838,11 +838,11 @@ examSets["38pm"] = [
     ],
     "answer": 3,
     "explanations": {
-      "0": "短期目標の主体は介護福祉職ではなく、利用者です。",
-      "1": "1年後の状態は、短期目標ではなく長期目標で扱う期間のものです。",
-      "2": "目標は家族ではなく利用者を主体にして表現します。",
-      "3": "正解。短期目標は、アセスメントに基づいて明らかになった利用者の具体的な生活課題から検討して設定します。",
-      "4": "記載するのは介護福祉職の満足度ではなく、利用者の目標達成時の状態です。"
+      "0": "<ruby>短期<rt>たんき</rt></ruby><ruby>目標<rt>もくひょう</rt></ruby>の<ruby>主体<rt>しゅたい</rt></ruby>は<ruby>介護福祉<rt>かいごふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>ではなく、<ruby>利用者<rt>りようしゃ</rt></ruby>です。",
+      "1": "1<ruby>年<rt>ねん</rt></ruby><ruby>後<rt>ご</rt></ruby>の<ruby>状態<rt>じょうたい</rt></ruby>は、<ruby>短期<rt>たんき</rt></ruby><ruby>目標<rt>もくひょう</rt></ruby>ではなく<ruby>長期<rt>ちょうき</rt></ruby><ruby>目標<rt>もくひょう</rt></ruby>で<ruby>扱<rt>あつか</rt></ruby>う<ruby>期間<rt>きかん</rt></ruby>のものです。",
+      "2": "<ruby>目標<rt>もくひょう</rt></ruby>は<ruby>家族<rt>かぞく</rt></ruby>ではなく<ruby>利用者<rt>りようしゃ</rt></ruby>を<ruby>主体<rt>しゅたい</rt></ruby>にして<ruby>表現<rt>ひょうげん</rt></ruby>します。",
+      "3": "<ruby>正解<rt>せいかい</rt></ruby>。<ruby>短期<rt>たんき</rt></ruby><ruby>目標<rt>もくひょう</rt></ruby>は、アセスメントに<ruby>基<rt>もと</rt></ruby>づいて<ruby>明<rt>あき</rt></ruby>らかになった<ruby>利用者<rt>りようしゃ</rt></ruby>の<ruby>具体的<rt>ぐたいてき</rt></ruby>な<ruby>生活<rt>せいかつ</rt></ruby><ruby>課題<rt>かだい</rt></ruby>から<ruby>検討<rt>けんとう</rt></ruby>して<ruby>設定<rt>せってい</rt></ruby>します。",
+      "4": "<ruby>記載<rt>きさい</rt></ruby>するのは<ruby>介護福祉<rt>かいごふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>の<ruby>満足度<rt>まんぞくど</rt></ruby>ではなく、<ruby>利用者<rt>りようしゃ</rt></ruby>の<ruby>目標達成<rt>もくひょうたっせい</rt></ruby><ruby>時<rt>じ</rt></ruby>の<ruby>状態<rt>じょうたい</rt></ruby>です。"
     }
   },
   {
@@ -856,11 +856,11 @@ examSets["38pm"] = [
     ],
     "answer": 4,
     "explanations": {
-      "0": "実践の状況は評価日にまとめるのではなく、実践の都度記録し、評価や見直しに活かします。",
-      "1": "実践は計画に沿って行うもので、介護福祉職が満足できるかどうかが継続の基準ではありません。",
-      "2": "実践経験を積むことは目的ではありません。目的は利用者の生活課題の解決です。",
-      "3": "介護計画は他職種が立案したものをそのまま実践するのではなく、アセスメントに基づき介護福祉職を含むチームで立案し、実践します。",
-      "4": "正解。介護計画を実施するときは、利用者に支援内容を説明して同意を得ることが欠かせません。"
+      "0": "<ruby>実践<rt>じっせん</rt></ruby>の<ruby>状況<rt>じょうきょう</rt></ruby>は<ruby>評価日<rt>ひょうかび</rt></ruby>にまとめるのではなく、<ruby>実践<rt>じっせん</rt></ruby>の<ruby>都度<rt>つど</rt></ruby><ruby>記録<rt>きろく</rt></ruby>し、<ruby>評価<rt>ひょうか</rt></ruby>や<ruby>見直<rt>みなお</rt></ruby>しに<ruby>活<rt>い</rt></ruby>かします。",
+      "1": "<ruby>実践<rt>じっせん</rt></ruby>は<ruby>計画<rt>けいかく</rt></ruby>に<ruby>沿<rt>そ</rt></ruby>って<ruby>行<rt>おこな</rt></ruby>うもので、<ruby>介護福祉<rt>かいごふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>が<ruby>満足<rt>まんぞく</rt></ruby>できるかどうかが<ruby>継続<rt>けいぞく</rt></ruby>の<ruby>基準<rt>きじゅん</rt></ruby>ではありません。",
+      "2": "<ruby>実践<rt>じっせん</rt></ruby><ruby>経験<rt>けいけん</rt></ruby>を<ruby>積<rt>つ</rt></ruby>むことは<ruby>目的<rt>もくてき</rt></ruby>ではありません。<ruby>目的<rt>もくてき</rt></ruby>は<ruby>利用者<rt>りようしゃ</rt></ruby>の<ruby>生活<rt>せいかつ</rt></ruby><ruby>課題<rt>かだい</rt></ruby>の<ruby>解決<rt>かいけつ</rt></ruby>です。",
+      "3": "<ruby>介護<rt>かいご</rt></ruby><ruby>計画<rt>けいかく</rt></ruby>は<ruby>他<rt>た</rt></ruby><ruby>職種<rt>しょくしゅ</rt></ruby>が<ruby>立案<rt>りつあん</rt></ruby>したものをそのまま<ruby>実践<rt>じっせん</rt></ruby>するのではなく、アセスメントに<ruby>基<rt>もと</rt></ruby>づき<ruby>介護福祉<rt>かいごふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>を<ruby>含<rt>ふく</rt></ruby>むチームで<ruby>立案<rt>りつあん</rt></ruby>し、<ruby>実践<rt>じっせん</rt></ruby>します。",
+      "4": "<ruby>正解<rt>せいかい</rt></ruby>。<ruby>介護<rt>かいご</rt></ruby><ruby>計画<rt>けいかく</rt></ruby>を<ruby>実施<rt>じっし</rt></ruby>するときは、<ruby>利用者<rt>りようしゃ</rt></ruby>に<ruby>支援<rt>しえん</rt></ruby><ruby>内容<rt>ないよう</rt></ruby>を<ruby>説明<rt>せつめい</rt></ruby>して<ruby>同意<rt>どうい</rt></ruby>を<ruby>得<rt>え</rt></ruby>ることが<ruby>欠<rt>か</rt></ruby>かせません。"
     }
   },
   {
@@ -874,11 +874,11 @@ examSets["38pm"] = [
     ],
     "answer": 0,
     "explanations": {
-      "0": "正解。サービス管理責任者は個別支援計画の作成と実施を担っており、サービス担当者会議ではその取り組みや実施状況を報告します。",
-      "1": "障害支援区分の判定は、市町村の障害支援区分認定審査会が行います。",
-      "2": "支給が必要かどうかの決定（支給決定）は、市町村が行います。",
-      "3": "サービス等利用計画の説明は、それを作成した相談支援専門員の役割です。",
-      "4": "個別支援計画を作成するのはサービス管理責任者自身であり、相談支援専門員へ作成を指示する関係ではありません。"
+      "0": "<ruby>正解<rt>せいかい</rt></ruby>。<ruby>サービス管理責任者<rt>さーびすかんりせきにんしゃ</rt></ruby>は<ruby>個別<rt>こべつ</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>計画<rt>けいかく</rt></ruby>の<ruby>作成<rt>さくせい</rt></ruby>と<ruby>実施<rt>じっし</rt></ruby>を<ruby>担<rt>にな</rt></ruby>っており、サービス<ruby>担当者<rt>たんとうしゃ</rt></ruby><ruby>会議<rt>かいぎ</rt></ruby>ではその<ruby>取り組<rt>とりく</rt></ruby>みや<ruby>実施<rt>じっし</rt></ruby><ruby>状況<rt>じょうきょう</rt></ruby>を<ruby>報告<rt>ほうこく</rt></ruby>します。",
+      "1": "<ruby>障害<rt>しょうがい</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>区分<rt>くぶん</rt></ruby>の<ruby>判定<rt>はんてい</rt></ruby>は、<ruby>市町村<rt>しちょうそん</rt></ruby>の<ruby>障害<rt>しょうがい</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>区分<rt>くぶん</rt></ruby><ruby>認定<rt>にんてい</rt></ruby><ruby>審査会<rt>しんさかい</rt></ruby>が<ruby>行<rt>おこな</rt></ruby>います。",
+      "2": "<ruby>支給<rt>しきゅう</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>かどうかの<ruby>決定<rt>けってい</rt></ruby>（<ruby>支給<rt>しきゅう</rt></ruby><ruby>決定<rt>けってい</rt></ruby>）は、<ruby>市町村<rt>しちょうそん</rt></ruby>が<ruby>行<rt>おこな</rt></ruby>います。",
+      "3": "サービス<ruby>等<rt>とう</rt></ruby><ruby>利用<rt>りよう</rt></ruby><ruby>計画<rt>けいかく</rt></ruby>の<ruby>説明<rt>せつめい</rt></ruby>は、それを<ruby>作成<rt>さくせい</rt></ruby>した<ruby>相談<rt>そうだん</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>専門員<rt>せんもんいん</rt></ruby>の<ruby>役割<rt>やくわり</rt></ruby>です。",
+      "4": "<ruby>個別<rt>こべつ</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>計画<rt>けいかく</rt></ruby>を<ruby>作成<rt>さくせい</rt></ruby>するのは<ruby>サービス管理責任者<rt>さーびすかんりせきにんしゃ</rt></ruby><ruby>自身<rt>じしん</rt></ruby>であり、<ruby>相談<rt>そうだん</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>専門員<rt>せんもんいん</rt></ruby>へ<ruby>作成<rt>さくせい</rt></ruby>を<ruby>指示<rt>しじ</rt></ruby>する<ruby>関係<rt>かんけい</rt></ruby>ではありません。"
     }
   },
   {
@@ -892,11 +892,11 @@ examSets["38pm"] = [
     ],
     "answer": 1,
     "explanations": {
-      "0": "同居は娘の提案であり、Aさんは明確に断っています。本人のニーズではありません。",
-      "1": "正解。Aさんは「これからもこの家からデイサービスに通いたい」と強く希望しており、自宅での生活を続けることがニーズです。",
-      "2": "デイサービスを拒否したのは利用者Bさんの言動への不快感が理由であり、休むこと自体がAさんのニーズではありません。",
-      "3": "弁当の空の容器が残されていたことは生活の乱れを示す情報ですが、メニューの変更がニーズとして挙げられているわけではありません。",
-      "4": "ごみ出しは近所の人が自主的に片付けていることで、Aさんが任せたいと希望したニーズではありません。"
+      "0": "<ruby>同居<rt>どうきょ</rt></ruby>は<ruby>娘<rt>むすめ</rt></ruby>の<ruby>提案<rt>ていあん</rt></ruby>であり、Aさんは<ruby>明確<rt>めいかく</rt></ruby>に<ruby>断<rt>ことわ</rt></ruby>っています。<ruby>本人<rt>ほんにん</rt></ruby>のニーズではありません。",
+      "1": "<ruby>正解<rt>せいかい</rt></ruby>。Aさんは「これからもこの<ruby>家<rt>いえ</rt></ruby>からデイサービスに<ruby>通<rt>かよ</rt></ruby>いたい」と<ruby>強<rt>つよ</rt></ruby>く<ruby>希望<rt>きぼう</rt></ruby>しており、<ruby>自宅<rt>じたく</rt></ruby>での<ruby>生活<rt>せいかつ</rt></ruby>を<ruby>続<rt>つづ</rt></ruby>けることがニーズです。",
+      "2": "デイサービスを<ruby>拒否<rt>きょひ</rt></ruby>したのは<ruby>利用者<rt>りようしゃ</rt></ruby>Bさんの<ruby>言動<rt>げんどう</rt></ruby>への<ruby>不快感<rt>ふかいかん</rt></ruby>が<ruby>理由<rt>りゆう</rt></ruby>であり、<ruby>休<rt>やす</rt></ruby>むこと<ruby>自体<rt>じたい</rt></ruby>がAさんのニーズではありません。",
+      "3": "<ruby>弁当<rt>べんとう</rt></ruby>の<ruby>空<rt>そら</rt></ruby>の<ruby>容器<rt>ようき</rt></ruby>が<ruby>残<rt>のこ</rt></ruby>されていたことは<ruby>生活<rt>せいかつ</rt></ruby>の<ruby>乱<rt>みだ</rt></ruby>れを<ruby>示<rt>しめ</rt></ruby>す<ruby>情報<rt>じょうほう</rt></ruby>ですが、メニューの<ruby>変更<rt>へんこう</rt></ruby>がニーズとして<ruby>挙<rt>あ</rt></ruby>げられているわけではありません。",
+      "4": "<ruby>ごみ出<rt>ごみだ</rt></ruby>しは<ruby>近所<rt>きんじょ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>が<ruby>自主的<rt>じしゅてき</rt></ruby>に<ruby>片付<rt>かたづ</rt></ruby>けていることで、Aさんが<ruby>任<rt>まか</rt></ruby>せたいと<ruby>希望<rt>きぼう</rt></ruby>したニーズではありません。"
     }
   },
   {
@@ -910,11 +910,11 @@ examSets["38pm"] = [
     ],
     "answer": 1,
     "explanations": {
-      "0": "利用しない日の過ごし方も大切な情報ですが、利用拒否の直接の原因はデイサービス内での出来事なので、最優先ではありません。",
-      "1": "正解。拒否の理由がクイズの時間の利用者同士の関わりにあります。再アセスメントでは通所介護での様子を重視して把握します。",
-      "2": "娘の意見は参考になりますが、再アセスメントの中心はあくまでAさん本人の状況です。",
-      "3": "迎えを担当した介護福祉職の印象だけでは主観的で不十分です。",
-      "4": "ほかのサービスの利用意向よりも、まず現在のサービスでの状況把握が優先されます。"
+      "0": "<ruby>利用<rt>りよう</rt></ruby>しない<ruby>日<rt>ひ</rt></ruby>の<ruby>過<rt>す</rt></ruby>ごし<ruby>方<rt>かた</rt></ruby>も<ruby>大切<rt>たいせつ</rt></ruby>な<ruby>情報<rt>じょうほう</rt></ruby>ですが、<ruby>利用<rt>りよう</rt></ruby><ruby>拒否<rt>きょひ</rt></ruby>の<ruby>直接<rt>ちょくせつ</rt></ruby>の<ruby>原因<rt>げんいん</rt></ruby>はデイサービス<ruby>内<rt>ない</rt></ruby>での<ruby>出来事<rt>できごと</rt></ruby>なので、<ruby>最優先<rt>さいゆうせん</rt></ruby>ではありません。",
+      "1": "<ruby>正解<rt>せいかい</rt></ruby>。<ruby>拒否<rt>きょひ</rt></ruby>の<ruby>理由<rt>りゆう</rt></ruby>がクイズの<ruby>時間<rt>じかん</rt></ruby>の<ruby>利用者<rt>りようしゃ</rt></ruby><ruby>同士<rt>どうし</rt></ruby>の<ruby>関<rt>かか</rt></ruby>わりにあります。<ruby>再<rt>さい</rt></ruby>アセスメントでは<ruby>通所<rt>つうしょ</rt></ruby><ruby>介護<rt>かいご</rt></ruby>での<ruby>様子<rt>ようす</rt></ruby>を<ruby>重視<rt>じゅうし</rt></ruby>して<ruby>把握<rt>はあく</rt></ruby>します。",
+      "2": "<ruby>娘<rt>むすめ</rt></ruby>の<ruby>意見<rt>いけん</rt></ruby>は<ruby>参考<rt>さんこう</rt></ruby>になりますが、<ruby>再<rt>さい</rt></ruby>アセスメントの<ruby>中心<rt>ちゅうしん</rt></ruby>はあくまでAさん<ruby>本人<rt>ほんにん</rt></ruby>の<ruby>状況<rt>じょうきょう</rt></ruby>です。",
+      "3": "<ruby>迎<rt>むか</rt></ruby>えを<ruby>担当<rt>たんとう</rt></ruby>した<ruby>介護福祉<rt>かいごふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>の<ruby>印象<rt>いんしょう</rt></ruby>だけでは<ruby>主観的<rt>しゅかんてき</rt></ruby>で<ruby>不十分<rt>ふじゅうぶん</rt></ruby>です。",
+      "4": "ほかのサービスの<ruby>利用<rt>りよう</rt></ruby><ruby>意向<rt>いこう</rt></ruby>よりも、まず<ruby>現在<rt>げんざい</rt></ruby>のサービスでの<ruby>状況<rt>じょうきょう</rt></ruby><ruby>把握<rt>はあく</rt></ruby>が<ruby>優先<rt>ゆうせん</rt></ruby>されます。"
     }
   },
   {
@@ -928,11 +928,11 @@ examSets["38pm"] = [
     ],
     "answer": 2,
     "explanations": {
-      "0": "姉の家族構成は、Aさんの現在の状態を理解することに直接関係しません。",
-      "1": "友人が部屋に行った時間は、Aさんの心理状態を理解するうえで本質的な情報ではありません。",
-      "2": "正解。日中活動を休む背景には、友人に笑われたことで自信をなくしたことがあります。その理由を理解することが支援の出発点です。",
-      "3": "生活支援員の心情は、Aさんの状態を理解するための情報ではありません。",
-      "4": "友人と遊ぶようになった経緯ではなく、自信をなくした心理的な変化を理解することが重要です。"
+      "0": "<ruby>姉<rt>あね</rt></ruby>の<ruby>家族構成<rt>かぞくこうせい</rt></ruby>は、Aさんの<ruby>現在<rt>げんざい</rt></ruby>の<ruby>状態<rt>じょうたい</rt></ruby>を<ruby>理解<rt>りかい</rt></ruby>することに<ruby>直接<rt>ちょくせつ</rt></ruby><ruby>関係<rt>かんけい</rt></ruby>しません。",
+      "1": "<ruby>友人<rt>ゆうじん</rt></ruby>が<ruby>部屋<rt>へや</rt></ruby>に<ruby>行<rt>い</rt></ruby>った<ruby>時間<rt>じかん</rt></ruby>は、Aさんの<ruby>心理状態<rt>しんりじょうたい</rt></ruby>を<ruby>理解<rt>りかい</rt></ruby>するうえで<ruby>本質的<rt>ほんしつてき</rt></ruby>な<ruby>情報<rt>じょうほう</rt></ruby>ではありません。",
+      "2": "<ruby>正解<rt>せいかい</rt></ruby>。<ruby>日中<rt>にっちゅう</rt></ruby><ruby>活動<rt>かつどう</rt></ruby>を<ruby>休<rt>やす</rt></ruby>む<ruby>背景<rt>はいけい</rt></ruby>には、<ruby>友人<rt>ゆうじん</rt></ruby>に<ruby>笑<rt>わら</rt></ruby>われたことで<ruby>自信<rt>じしん</rt></ruby>をなくしたことがあります。その<ruby>理由<rt>りゆう</rt></ruby>を<ruby>理解<rt>りかい</rt></ruby>することが<ruby>支援<rt>しえん</rt></ruby>の<ruby>出発点<rt>しゅっぱつてん</rt></ruby>です。",
+      "3": "<ruby>生活<rt>せいかつ</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>員<rt>いん</rt></ruby>の<ruby>心情<rt>しんじょう</rt></ruby>は、Aさんの<ruby>状態<rt>じょうたい</rt></ruby>を<ruby>理解<rt>りかい</rt></ruby>するための<ruby>情報<rt>じょうほう</rt></ruby>ではありません。",
+      "4": "<ruby>友人<rt>ゆうじん</rt></ruby>と<ruby>遊<rt>あそ</rt></ruby>ぶようになった<ruby>経緯<rt>けいい</rt></ruby>ではなく、<ruby>自信<rt>じしん</rt></ruby>をなくした<ruby>心理的<rt>しんりてき</rt></ruby>な<ruby>変化<rt>へんか</rt></ruby>を<ruby>理解<rt>りかい</rt></ruby>することが<ruby>重要<rt>じゅうよう</rt></ruby>です。"
     }
   },
   {
@@ -946,11 +946,11 @@ examSets["38pm"] = [
     ],
     "answer": 4,
     "explanations": {
-      "0": "趣味を変更することは、本人の楽しみを奪うことになり、目標の見直しとして適切ではありません。",
-      "1": "散らかった現在の状態を維持することは、改善を目指す目標にはなりません。",
-      "2": "衣服を隅に寄せるだけでは整理整頓にならず、一時しのぎの対応です。",
-      "3": "日中活動の事業所を変更しても、原因である自室の散らかりや自信の喪失は解決しません。",
-      "4": "正解。散らかった自室を整理整頓することは、具体的で達成可能、評価しやすい短期目標として適切です。"
+      "0": "<ruby>趣味<rt>しゅみ</rt></ruby>を<ruby>変更<rt>へんこう</rt></ruby>することは、<ruby>本人<rt>ほんにん</rt></ruby>の<ruby>楽<rt>たの</rt></ruby>しみを<ruby>奪<rt>うば</rt></ruby>うことになり、<ruby>目標<rt>もくひょう</rt></ruby>の<ruby>見直<rt>みなお</rt></ruby>しとして<ruby>適切<rt>てきせつ</rt></ruby>ではありません。",
+      "1": "<ruby>散<rt>ち</rt></ruby>らかった<ruby>現在<rt>げんざい</rt></ruby>の<ruby>状態<rt>じょうたい</rt></ruby>を<ruby>維持<rt>いじ</rt></ruby>することは、<ruby>改善<rt>かいぜん</rt></ruby>を<ruby>目指<rt>めざ</rt></ruby>す<ruby>目標<rt>もくひょう</rt></ruby>にはなりません。",
+      "2": "<ruby>衣服<rt>いふく</rt></ruby>を<ruby>隅<rt>すみ</rt></ruby>に<ruby>寄<rt>よ</rt></ruby>せるだけでは<ruby>整理<rt>せいり</rt></ruby><ruby>整頓<rt>せいとん</rt></ruby>にならず、<ruby>一時<rt>いちじ</rt></ruby>しのぎの<ruby>対応<rt>たいおう</rt></ruby>です。",
+      "3": "<ruby>日中<rt>にっちゅう</rt></ruby><ruby>活動<rt>かつどう</rt></ruby>の<ruby>事業所<rt>じぎょうしょ</rt></ruby>を<ruby>変更<rt>へんこう</rt></ruby>しても、<ruby>原因<rt>げんいん</rt></ruby>である<ruby>自室<rt>じしつ</rt></ruby>の<ruby>散<rt>ち</rt></ruby>らかりや<ruby>自信<rt>じしん</rt></ruby>の<ruby>喪失<rt>そうしつ</rt></ruby>は<ruby>解決<rt>かいけつ</rt></ruby>しません。",
+      "4": "<ruby>正解<rt>せいかい</rt></ruby>。<ruby>散<rt>ち</rt></ruby>らかった<ruby>自室<rt>じしつ</rt></ruby>を<ruby>整理<rt>せいり</rt></ruby><ruby>整頓<rt>せいとん</rt></ruby>することは、<ruby>具体的<rt>ぐたいてき</rt></ruby>で<ruby>達成<rt>たっせい</rt></ruby><ruby>可能<rt>かのう</rt></ruby>、<ruby>評価<rt>ひょうか</rt></ruby>しやすい<ruby>短期<rt>たんき</rt></ruby><ruby>目標<rt>もくひょう</rt></ruby>として<ruby>適切<rt>てきせつ</rt></ruby>です。"
     }
   },
   {
@@ -964,11 +964,11 @@ examSets["38pm"] = [
     ],
     "answer": 1,
     "explanations": {
-      "0": "メラトニンは睡眠のリズムを整えるホルモンで、手足の震えの原因ではありません。",
-      "1": "正解。手足の震えや小刻みな歩行などのパーキンソン症状は、脳内のドーパミンが不足することによって生じます。",
-      "2": "アドレナリンは副腎髄質から分泌されるホルモンで、震えの直接の原因ではありません。",
-      "3": "コルチゾールは副腎皮質から分泌されるストレスに関わるホルモンです。",
-      "4": "グルカゴンは膵臓から分泌され、血糖を上げる働きをするホルモンです。"
+      "0": "メラトニンは<ruby>睡眠<rt>すいみん</rt></ruby>のリズムを<ruby>整<rt>ととの</rt></ruby>えるホルモンで、<ruby>手足<rt>てあし</rt></ruby>の<ruby>震<rt>ふる</rt></ruby>えの<ruby>原因<rt>げんいん</rt></ruby>ではありません。",
+      "1": "<ruby>正解<rt>せいかい</rt></ruby>。<ruby>手足<rt>てあし</rt></ruby>の<ruby>震<rt>ふる</rt></ruby>えや<ruby>小刻<rt>こきざ</rt></ruby>みな<ruby>歩行<rt>ほこう</rt></ruby>などのパーキンソン<ruby>症状<rt>しょうじょう</rt></ruby>は、<ruby>脳内<rt>のうない</rt></ruby>のドーパミンが<ruby>不足<rt>ふそく</rt></ruby>することによって<ruby>生<rt>しょう</rt></ruby>じます。",
+      "2": "アドレナリンは<ruby>副腎<rt>ふくじん</rt></ruby><ruby>髄質<rt>ずいしつ</rt></ruby>から<ruby>分泌<rt>ぶんぴつ</rt></ruby>されるホルモンで、<ruby>震<rt>ふる</rt></ruby>えの<ruby>直接<rt>ちょくせつ</rt></ruby>の<ruby>原因<rt>げんいん</rt></ruby>ではありません。",
+      "3": "コルチゾールは<ruby>副腎<rt>ふくじん</rt></ruby><ruby>皮質<rt>ひしつ</rt></ruby>から<ruby>分泌<rt>ぶんぴつ</rt></ruby>されるストレスに<ruby>関<rt>かか</rt></ruby>わるホルモンです。",
+      "4": "グルカゴンは<ruby>膵臓<rt>すいぞう</rt></ruby>から<ruby>分泌<rt>ぶんぴつ</rt></ruby>され、<ruby>血糖<rt>けっとう</rt></ruby>を<ruby>上<rt>あ</rt></ruby>げる<ruby>働<rt>はたら</rt></ruby>きをするホルモンです。"
     }
   },
   {
@@ -982,11 +982,11 @@ examSets["38pm"] = [
     ],
     "answer": 0,
     "explanations": {
-      "0": "正解。Aさんはカーテンの花柄が動いて見える幻視があります。模様のない無地のカーテンに変更すると、視覚的な刺激が減り、幻視が起こりにくくなります。",
-      "1": "レビー小体型認知症は症状の変動が大きいため、毎日決まった時間に同じ運動を強いるのではなく、その日の状態に合わせることが大切です。",
-      "2": "外出の機会を減らすと生活の質が下がり、歩く力の維持という方針にも反します。転倒を防ぐために活動自体を奪うのは適切ではありません。",
-      "3": "夜間に部屋を明るくしすぎると睡眠が妨げられます。また直接照明はまぶしく不快なため適しません。",
-      "4": "手足の震えやこわばりがある人にはボタン止めは着脱しにくい衣服です。マジックテープなど扱いやすいものが適しています。"
+      "0": "<ruby>正解<rt>せいかい</rt></ruby>。Aさんはカーテンの<ruby>花柄<rt>はながら</rt></ruby>が<ruby>動<rt>うご</rt></ruby>いて<ruby>見<rt>み</rt></ruby>える<ruby>幻視<rt>げんし</rt></ruby>があります。<ruby>模様<rt>もよう</rt></ruby>のない<ruby>無地<rt>むじ</rt></ruby>のカーテンに<ruby>変更<rt>へんこう</rt></ruby>すると、<ruby>視覚的<rt>しかくてき</rt></ruby>な<ruby>刺激<rt>しげき</rt></ruby>が<ruby>減<rt>へ</rt></ruby>り、<ruby>幻視<rt>げんし</rt></ruby>が<ruby>起<rt>お</rt></ruby>こりにくくなります。",
+      "1": "レビー<ruby>小<rt>しょう</rt></ruby><ruby>体型<rt>たいけい</rt></ruby><ruby>認知症<rt>にんちしょう</rt></ruby>は<ruby>症状<rt>しょうじょう</rt></ruby>の<ruby>変動<rt>へんどう</rt></ruby>が<ruby>大<rt>おお</rt></ruby>きいため、<ruby>毎日<rt>まいにち</rt></ruby><ruby>決<rt>き</rt></ruby>まった<ruby>時間<rt>じかん</rt></ruby>に<ruby>同<rt>おな</rt></ruby>じ<ruby>運動<rt>うんどう</rt></ruby>を<ruby>強<rt>し</rt></ruby>いるのではなく、その<ruby>日<rt>ひ</rt></ruby>の<ruby>状態<rt>じょうたい</rt></ruby>に<ruby>合<rt>あ</rt></ruby>わせることが<ruby>大切<rt>たいせつ</rt></ruby>です。",
+      "2": "<ruby>外出<rt>がいしゅつ</rt></ruby>の<ruby>機会<rt>きかい</rt></ruby>を<ruby>減<rt>へ</rt></ruby>らすと<ruby>生活<rt>せいかつ</rt></ruby>の<ruby>質<rt>しつ</rt></ruby>が<ruby>下<rt>さ</rt></ruby>がり、<ruby>歩<rt>ある</rt></ruby>く<ruby>力<rt>ちから</rt></ruby>の<ruby>維持<rt>いじ</rt></ruby>という<ruby>方針<rt>ほうしん</rt></ruby>にも<ruby>反<rt>はん</rt></ruby>します。<ruby>転倒<rt>てんとう</rt></ruby>を<ruby>防<rt>ふせ</rt></ruby>ぐために<ruby>活動<rt>かつどう</rt></ruby><ruby>自体<rt>じたい</rt></ruby>を<ruby>奪<rt>うば</rt></ruby>うのは<ruby>適切<rt>てきせつ</rt></ruby>ではありません。",
+      "3": "<ruby>夜間<rt>やかん</rt></ruby>に<ruby>部屋<rt>へや</rt></ruby>を<ruby>明<rt>あか</rt></ruby>るくしすぎると<ruby>睡眠<rt>すいみん</rt></ruby>が<ruby>妨<rt>さまた</rt></ruby>げられます。また<ruby>直接<rt>ちょくせつ</rt></ruby><ruby>照明<rt>しょうめい</rt></ruby>はまぶしく<ruby>不快<rt>ふかい</rt></ruby>なため<ruby>適<rt>てき</rt></ruby>しません。",
+      "4": "<ruby>手足<rt>てあし</rt></ruby>の<ruby>震<rt>ふる</rt></ruby>えやこわばりがある<ruby>人<rt>ひと</rt></ruby>にはボタン<ruby>止<rt>と</rt></ruby>めは<ruby>着脱<rt>ちゃくだつ</rt></ruby>しにくい<ruby>衣服<rt>いふく</rt></ruby>です。マジックテープなど<ruby>扱<rt>あつか</rt></ruby>いやすいものが<ruby>適<rt>てき</rt></ruby>しています。"
     }
   },
   {
@@ -1000,11 +1000,11 @@ examSets["38pm"] = [
     ],
     "answer": 3,
     "explanations": {
-      "0": "認知症対応型共同生活介護は入居して生活するサービスであり、「自宅で生活しながら利用したい」というAさんの希望に合いません。",
-      "1": "日常生活自立支援事業は金銭管理などの支援であり、ほかの人との交流や泊まりへの希望には応えられません。",
-      "2": "訪問介護だけでは、息子の出張時の泊まりや、ほかの人と交流したいという希望に十分応えられません。",
-      "3": "正解。介護予防小規模多機能型居宅介護は、「通い」「訪問」「泊まり」を組み合わせられるため、自宅で生活しながら交流もでき、息子の出張時の泊まりにも対応できます。",
-      "4": "通所型サービスだけでは、泊まりや訪問による支援の希望に応えられません。"
+      "0": "<ruby>認知症<rt>にんちしょう</rt></ruby><ruby>対応<rt>たいおう</rt></ruby><ruby>型<rt>がた</rt></ruby><ruby>共同<rt>きょうどう</rt></ruby><ruby>生活<rt>せいかつ</rt></ruby><ruby>介護<rt>かいご</rt></ruby>は<ruby>入居<rt>にゅうきょ</rt></ruby>して<ruby>生活<rt>せいかつ</rt></ruby>するサービスであり、「<ruby>自宅<rt>じたく</rt></ruby>で<ruby>生活<rt>せいかつ</rt></ruby>しながら<ruby>利用<rt>りよう</rt></ruby>したい」というAさんの<ruby>希望<rt>きぼう</rt></ruby>に<ruby>合<rt>あ</rt></ruby>いません。",
+      "1": "<ruby>日常生活<rt>にちじょうせいかつ</rt></ruby><ruby>自立<rt>じりつ</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>事業<rt>じぎょう</rt></ruby>は<ruby>金銭<rt>きんせん</rt></ruby><ruby>管理<rt>かんり</rt></ruby>などの<ruby>支援<rt>しえん</rt></ruby>であり、ほかの<ruby>人<rt>ひと</rt></ruby>との<ruby>交流<rt>こうりゅう</rt></ruby>や<ruby>泊<rt>と</rt></ruby>まりへの<ruby>希望<rt>きぼう</rt></ruby>には<ruby>応<rt>こた</rt></ruby>えられません。",
+      "2": "<ruby>訪問<rt>ほうもん</rt></ruby><ruby>介護<rt>かいご</rt></ruby>だけでは、<ruby>息子<rt>むすこ</rt></ruby>の<ruby>出張時<rt>しゅっちょうじ</rt></ruby>の<ruby>泊<rt>と</rt></ruby>まりや、ほかの<ruby>人<rt>ひと</rt></ruby>と<ruby>交流<rt>こうりゅう</rt></ruby>したいという<ruby>希望<rt>きぼう</rt></ruby>に<ruby>十分<rt>じゅうぶん</rt></ruby><ruby>応<rt>こた</rt></ruby>えられません。",
+      "3": "<ruby>正解<rt>せいかい</rt></ruby>。<ruby>介護<rt>かいご</rt></ruby><ruby>予防<rt>よぼう</rt></ruby><ruby>小規模<rt>しょうきぼ</rt></ruby><ruby>多機能<rt>たきのう</rt></ruby><ruby>型<rt>がた</rt></ruby><ruby>居宅<rt>きょたく</rt></ruby><ruby>介護<rt>かいご</rt></ruby>は、「<ruby>通<rt>かよ</rt></ruby>い」「<ruby>訪問<rt>ほうもん</rt></ruby>」「<ruby>泊<rt>と</rt></ruby>まり」を<ruby>組み合<rt>くみあ</rt></ruby>わせられるため、<ruby>自宅<rt>じたく</rt></ruby>で<ruby>生活<rt>せいかつ</rt></ruby>しながら<ruby>交流<rt>こうりゅう</rt></ruby>もでき、<ruby>息子<rt>むすこ</rt></ruby>の<ruby>出張時<rt>しゅっちょうじ</rt></ruby>の<ruby>泊<rt>と</rt></ruby>まりにも<ruby>対応<rt>たいおう</rt></ruby>できます。",
+      "4": "<ruby>通所<rt>つうしょ</rt></ruby><ruby>型<rt>がた</rt></ruby>サービスだけでは、<ruby>泊<rt>と</rt></ruby>まりや<ruby>訪問<rt>ほうもん</rt></ruby>による<ruby>支援<rt>しえん</rt></ruby>の<ruby>希望<rt>きぼう</rt></ruby>に<ruby>応<rt>こた</rt></ruby>えられません。"
     }
   },
   {
@@ -1018,11 +1018,11 @@ examSets["38pm"] = [
     ],
     "answer": 0,
     "explanations": {
-      "0": "正解。将来、判断能力が低下して財産管理ができなくなる不安には、判断能力に応じて財産管理などを支援する成年後見制度の利用が適切です。",
-      "1": "生活保護制度は生活に困窮する人を支援する制度であり、駐車場収入のあるAさんの財産管理の不安への対応ではありません。",
-      "2": "老齢年金制度は年金の受給に関する制度で、財産管理を支援するものではありません。",
-      "3": "継続雇用制度は高齢者の就労を続けるための制度で、財産管理とは関係がありません。",
-      "4": "後期高齢者医療制度は医療保険の制度で、財産管理の不安への対応ではありません。"
+      "0": "<ruby>正解<rt>せいかい</rt></ruby>。<ruby>将来<rt>しょうらい</rt></ruby>、<ruby>判断<rt>はんだん</rt></ruby><ruby>能力<rt>のうりょく</rt></ruby>が<ruby>低下<rt>ていか</rt></ruby>して<ruby>財産<rt>ざいさん</rt></ruby><ruby>管理<rt>かんり</rt></ruby>ができなくなる<ruby>不安<rt>ふあん</rt></ruby>には、<ruby>判断<rt>はんだん</rt></ruby><ruby>能力<rt>のうりょく</rt></ruby>に<ruby>応<rt>おう</rt></ruby>じて<ruby>財産<rt>ざいさん</rt></ruby><ruby>管理<rt>かんり</rt></ruby>などを<ruby>支援<rt>しえん</rt></ruby>する<ruby>成年後見制度<rt>せいねんこうけんせいど</rt></ruby>の<ruby>利用<rt>りよう</rt></ruby>が<ruby>適切<rt>てきせつ</rt></ruby>です。",
+      "1": "<ruby>生活保護<rt>せいかつほご</rt></ruby><ruby>制度<rt>せいど</rt></ruby>は<ruby>生活<rt>せいかつ</rt></ruby>に<ruby>困窮<rt>こんきゅう</rt></ruby>する<ruby>人<rt>ひと</rt></ruby>を<ruby>支援<rt>しえん</rt></ruby>する<ruby>制度<rt>せいど</rt></ruby>であり、<ruby>駐車場<rt>ちゅうしゃじょう</rt></ruby><ruby>収入<rt>しゅうにゅう</rt></ruby>のあるAさんの<ruby>財産<rt>ざいさん</rt></ruby><ruby>管理<rt>かんり</rt></ruby>の<ruby>不安<rt>ふあん</rt></ruby>への<ruby>対応<rt>たいおう</rt></ruby>ではありません。",
+      "2": "<ruby>老齢<rt>ろうれい</rt></ruby><ruby>年金制度<rt>ねんきんせいど</rt></ruby>は<ruby>年金<rt>ねんきん</rt></ruby>の<ruby>受給<rt>じゅきゅう</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>制度<rt>せいど</rt></ruby>で、<ruby>財産<rt>ざいさん</rt></ruby><ruby>管理<rt>かんり</rt></ruby>を<ruby>支援<rt>しえん</rt></ruby>するものではありません。",
+      "3": "<ruby>継続雇用制度<rt>けいぞくこようせいど</rt></ruby>は<ruby>高齢者<rt>こうれいしゃ</rt></ruby>の<ruby>就労<rt>しゅうろう</rt></ruby>を<ruby>続<rt>つづ</rt></ruby>けるための<ruby>制度<rt>せいど</rt></ruby>で、<ruby>財産<rt>ざいさん</rt></ruby><ruby>管理<rt>かんり</rt></ruby>とは<ruby>関係<rt>かんけい</rt></ruby>がありません。",
+      "4": "<ruby>後期高齢者医療制度<rt>こうきこうれいしゃいりょうせいど</rt></ruby>は<ruby>医療保険<rt>いりょうほけん</rt></ruby>の<ruby>制度<rt>せいど</rt></ruby>で、<ruby>財産<rt>ざいさん</rt></ruby><ruby>管理<rt>かんり</rt></ruby>の<ruby>不安<rt>ふあん</rt></ruby>への<ruby>対応<rt>たいおう</rt></ruby>ではありません。"
     }
   },
   {
@@ -1036,11 +1036,11 @@ examSets["38pm"] = [
     ],
     "answer": 2,
     "explanations": {
-      "0": "日常生活が自立しているのは、ランク「自立」の状態です。",
-      "1": "見守りがあれば自立できるのは、ランクII（IIa・IIb）の状態の説明です。",
-      "2": "正解。ランクIIIaは、日中を中心に、日常生活に支障を来すような症状・行動や意思疎通の困難さが見られ、介護を必要とする状態です。",
-      "3": "意思疎通の困難さが頻繁に見られ、常に介護を必要とするのは、ランクIVの状態の説明です。",
-      "4": "専門医療の導入が必要な状態は、ランクMに該当します。"
+      "0": "<ruby>日常生活<rt>にちじょうせいかつ</rt></ruby>が<ruby>自立<rt>じりつ</rt></ruby>しているのは、ランク「<ruby>自立<rt>じりつ</rt></ruby>」の<ruby>状態<rt>じょうたい</rt></ruby>です。",
+      "1": "<ruby>見<rt>み</rt></ruby><ruby>守<rt>まも</rt></ruby>りがあれば<ruby>自立<rt>じりつ</rt></ruby>できるのは、ランクII（IIa・IIb）の<ruby>状態<rt>じょうたい</rt></ruby>の<ruby>説明<rt>せつめい</rt></ruby>です。",
+      "2": "<ruby>正解<rt>せいかい</rt></ruby>。ランクIIIaは、<ruby>日中<rt>にっちゅう</rt></ruby>を<ruby>中心<rt>ちゅうしん</rt></ruby>に、<ruby>日常生活<rt>にちじょうせいかつ</rt></ruby>に<ruby>支障<rt>ししょう</rt></ruby>を<ruby>来<rt>きた</rt></ruby>すような<ruby>症状<rt>しょうじょう</rt></ruby>・<ruby>行動<rt>こうどう</rt></ruby>や<ruby>意思<rt>いし</rt></ruby><ruby>疎通<rt>そつう</rt></ruby>の<ruby>困難<rt>こんなん</rt></ruby>さが<ruby>見<rt>み</rt></ruby>られ、<ruby>介護<rt>かいご</rt></ruby>を<ruby>必要<rt>ひつよう</rt></ruby>とする<ruby>状態<rt>じょうたい</rt></ruby>です。",
+      "3": "<ruby>意思<rt>いし</rt></ruby><ruby>疎通<rt>そつう</rt></ruby>の<ruby>困難<rt>こんなん</rt></ruby>さが<ruby>頻繁<rt>ひんぱん</rt></ruby>に<ruby>見<rt>み</rt></ruby>られ、<ruby>常<rt>つね</rt></ruby>に<ruby>介護<rt>かいご</rt></ruby>を<ruby>必要<rt>ひつよう</rt></ruby>とするのは、ランクIVの<ruby>状態<rt>じょうたい</rt></ruby>の<ruby>説明<rt>せつめい</rt></ruby>です。",
+      "4": "<ruby>専門<rt>せんもん</rt></ruby><ruby>医療<rt>いりょう</rt></ruby>の<ruby>導入<rt>どうにゅう</rt></ruby>が<ruby>必要<rt>ひつよう</rt></ruby>な<ruby>状態<rt>じょうたい</rt></ruby>は、ランクMに<ruby>該当<rt>がいとう</rt></ruby>します。"
     }
   },
   {
@@ -1054,11 +1054,11 @@ examSets["38pm"] = [
     ],
     "answer": 2,
     "explanations": {
-      "0": "認知症の人の共通点に着目してマニュアル化するのは、一人ひとりの個性を見るパーソン・センタード・ケアとは逆の発想です。",
-      "1": "認知症を治療することは、介護計画の見直しの方向性ではありません。",
-      "2": "正解。パーソン・センタード・ケアは、認知症の人を中心に置き、その人らしさを支えることを目指す考え方です。",
-      "3": "認知症の人を特別な存在として保護することは、本人の力を奪うことにつながり、理念に反します。",
-      "4": "行動・心理症状（BPSD）をなくすことを目的にするのではなく、その背景を理解し、その人らしく過ごせるように支援します。"
+      "0": "<ruby>認知症<rt>にんちしょう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>の<ruby>共通点<rt>きょうつうてん</rt></ruby>に<ruby>着目<rt>ちゃくもく</rt></ruby>して<ruby>マニュアル化<rt>まにゅあるか</rt></ruby>するのは、<ruby>一人<rt>ひとり</rt></ruby>ひとりの<ruby>個性<rt>こせい</rt></ruby>を<ruby>見<rt>み</rt></ruby>るパーソン・センタード・ケアとは<ruby>逆<rt>ぎゃく</rt></ruby>の<ruby>発想<rt>はっそう</rt></ruby>です。",
+      "1": "<ruby>認知症<rt>にんちしょう</rt></ruby>を<ruby>治療<rt>ちりょう</rt></ruby>することは、<ruby>介護<rt>かいご</rt></ruby><ruby>計画<rt>けいかく</rt></ruby>の<ruby>見直<rt>みなお</rt></ruby>しの<ruby>方向性<rt>ほうこうせい</rt></ruby>ではありません。",
+      "2": "<ruby>正解<rt>せいかい</rt></ruby>。パーソン・センタード・ケアは、<ruby>認知症<rt>にんちしょう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>を<ruby>中心<rt>ちゅうしん</rt></ruby>に<ruby>置<rt>お</rt></ruby>き、その<ruby>人<rt>ひと</rt></ruby>らしさを<ruby>支<rt>ささ</rt></ruby>えることを<ruby>目指<rt>めざ</rt></ruby>す<ruby>考え方<rt>かんがえかた</rt></ruby>です。",
+      "3": "<ruby>認知症<rt>にんちしょう</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>を<ruby>特別<rt>とくべつ</rt></ruby>な<ruby>存在<rt>そんざい</rt></ruby>として<ruby>保護<rt>ほご</rt></ruby>することは、<ruby>本人<rt>ほんにん</rt></ruby>の<ruby>力<rt>ちから</rt></ruby>を<ruby>奪<rt>うば</rt></ruby>うことにつながり、<ruby>理念<rt>りねん</rt></ruby>に<ruby>反<rt>はん</rt></ruby>します。",
+      "4": "<ruby>行動<rt>こうどう</rt></ruby>・<ruby>心理<rt>しんり</rt></ruby><ruby>症状<rt>しょうじょう</rt></ruby>（BPSD）をなくすことを<ruby>目的<rt>もくてき</rt></ruby>にするのではなく、その<ruby>背景<rt>はいけい</rt></ruby>を<ruby>理解<rt>りかい</rt></ruby>し、その<ruby>人<rt>ひと</rt></ruby>らしく<ruby>過<rt>す</rt></ruby>ごせるように<ruby>支援<rt>しえん</rt></ruby>します。"
     }
   },
   {
@@ -1072,11 +1072,11 @@ examSets["38pm"] = [
     ],
     "answer": 4,
     "explanations": {
-      "0": "水様から粥状は、回腸ストーマ（イレオストミー）に近い便の性状です。",
-      "1": "流動状から液状は、上行結腸ストーマの便の性状です。",
-      "2": "半流動から粥状は、横行結腸ストーマの便の性状です。",
-      "3": "泥状から軟便は、下行結腸ストーマに近い便の性状です。",
-      "4": "正解。S状結腸のストーマでは、便が大腸を通過する間に水分の吸収が進むため、便の性状は軟便から固形状になります。"
+      "0": "<ruby>水様<rt>すいよう</rt></ruby>から<ruby>粥<rt>じょう</rt></ruby><ruby>状<rt>じょう</rt></ruby>は、<ruby>回腸<rt>かいちょう</rt></ruby>ストーマ（イレオストミー）に<ruby>近<rt>ちか</rt></ruby>い<ruby>便<rt>びん</rt></ruby>の<ruby>性状<rt>せいじょう</rt></ruby>です。",
+      "1": "<ruby>流動<rt>りゅうどう</rt></ruby><ruby>状<rt>じょう</rt></ruby>から<ruby>液状<rt>えきじょう</rt></ruby>は、<ruby>上行<rt>じょうぎょう</rt></ruby><ruby>結腸<rt>けっちょう</rt></ruby>ストーマの<ruby>便<rt>びん</rt></ruby>の<ruby>性状<rt>せいじょう</rt></ruby>です。",
+      "2": "<ruby>半<rt>はん</rt></ruby><ruby>流動<rt>りゅうどう</rt></ruby>から<ruby>粥<rt>じょう</rt></ruby><ruby>状<rt>じょう</rt></ruby>は、<ruby>横行<rt>おうこう</rt></ruby><ruby>結腸<rt>けっちょう</rt></ruby>ストーマの<ruby>便<rt>びん</rt></ruby>の<ruby>性状<rt>せいじょう</rt></ruby>です。",
+      "3": "<ruby>泥状<rt>でいじょう</rt></ruby>から<ruby>軟便<rt>なんべん</rt></ruby>は、<ruby>下行<rt>げぎょう</rt></ruby><ruby>結腸<rt>けっちょう</rt></ruby>ストーマに<ruby>近<rt>ちか</rt></ruby>い<ruby>便<rt>びん</rt></ruby>の<ruby>性状<rt>せいじょう</rt></ruby>です。",
+      "4": "<ruby>正解<rt>せいかい</rt></ruby>。S<ruby>状<rt>じょう</rt></ruby><ruby>結腸<rt>けっちょう</rt></ruby>のストーマでは、<ruby>便<rt>びん</rt></ruby>が<ruby>大腸<rt>だいちょう</rt></ruby>を<ruby>通過<rt>つうか</rt></ruby>する<ruby>間<rt>あいだ</rt></ruby>に<ruby>水分<rt>すいぶん</rt></ruby>の<ruby>吸収<rt>きゅうしゅう</rt></ruby>が<ruby>進<rt>すす</rt></ruby>むため、<ruby>便<rt>びん</rt></ruby>の<ruby>性状<rt>せいじょう</rt></ruby>は<ruby>軟便<rt>なんべん</rt></ruby>から<ruby>固形<rt>こけい</rt></ruby><ruby>状<rt>じょう</rt></ruby>になります。"
     }
   },
   {
@@ -1090,11 +1090,11 @@ examSets["38pm"] = [
     ],
     "answer": 2,
     "explanations": {
-      "0": "チーズは便のにおいを強くする食品です。",
-      "1": "たまねぎは便のにおいを強くする食品です。",
-      "2": "正解。ヨーグルトに含まれる乳酸菌は腸内環境を整え、便のにおいを抑える働きがあります。",
-      "3": "にらは便のにおいを強くする食品です。",
-      "4": "アスパラガスは便のにおいを強くする食品です。"
+      "0": "チーズは<ruby>便<rt>びん</rt></ruby>のにおいを<ruby>強<rt>つよ</rt></ruby>くする<ruby>食品<rt>しょくひん</rt></ruby>です。",
+      "1": "たまねぎは<ruby>便<rt>びん</rt></ruby>のにおいを<ruby>強<rt>つよ</rt></ruby>くする<ruby>食品<rt>しょくひん</rt></ruby>です。",
+      "2": "<ruby>正解<rt>せいかい</rt></ruby>。ヨーグルトに<ruby>含<rt>ふく</rt></ruby>まれる<ruby>乳酸菌<rt>にゅうさんきん</rt></ruby>は<ruby>腸内<rt>ちょうない</rt></ruby><ruby>環境<rt>かんきょう</rt></ruby>を<ruby>整<rt>ととの</rt></ruby>え、<ruby>便<rt>びん</rt></ruby>のにおいを<ruby>抑<rt>おさ</rt></ruby>える<ruby>働<rt>はたら</rt></ruby>きがあります。",
+      "3": "にらは<ruby>便<rt>びん</rt></ruby>のにおいを<ruby>強<rt>つよ</rt></ruby>くする<ruby>食品<rt>しょくひん</rt></ruby>です。",
+      "4": "アスパラガスは<ruby>便<rt>びん</rt></ruby>のにおいを<ruby>強<rt>つよ</rt></ruby>くする<ruby>食品<rt>しょくひん</rt></ruby>です。"
     }
   },
   {
@@ -1108,11 +1108,11 @@ examSets["38pm"] = [
     ],
     "answer": 0,
     "explanations": {
-      "0": "正解。障害者総合支援法に基づく協議会（自立支援協議会）は、地域の関係機関が集まり、個別避難計画の作成の遅れのような地域課題を検討する場です。",
-      "1": "運営適正化委員会は、福祉サービスへの苦情の解決や適正な運営の確保のための機関です。",
-      "2": "介護保険審査会は、要介護認定の審査判定を行う機関であり、障害者の地域課題を検討する場ではありません。",
-      "3": "障害者政策委員会は、国の障害者基本計画などに関する機関で、地域の課題を検討する場ではありません。",
-      "4": "地方更生保護委員会は、犯罪をした人などの更生保護に関する機関で、この課題とは関係がありません。"
+      "0": "<ruby>正解<rt>せいかい</rt></ruby>。<ruby>障害者<rt>しょうがいしゃ</rt></ruby><ruby>総合<rt>そうごう</rt></ruby><ruby>支援法<rt>しえんほう</rt></ruby>に<ruby>基<rt>もと</rt></ruby>づく<ruby>協議会<rt>きょうぎかい</rt></ruby>（<ruby>自立<rt>じりつ</rt></ruby><ruby>支援<rt>しえん</rt></ruby><ruby>協議会<rt>きょうぎかい</rt></ruby>）は、<ruby>地域<rt>ちいき</rt></ruby>の<ruby>関係<rt>かんけい</rt></ruby><ruby>機関<rt>きかん</rt></ruby>が<ruby>集<rt>あつ</rt></ruby>まり、<ruby>個別<rt>こべつ</rt></ruby><ruby>避難<rt>ひなん</rt></ruby><ruby>計画<rt>けいかく</rt></ruby>の<ruby>作成<rt>さくせい</rt></ruby>の<ruby>遅<rt>おく</rt></ruby>れのような<ruby>地域<rt>ちいき</rt></ruby><ruby>課題<rt>かだい</rt></ruby>を<ruby>検討<rt>けんとう</rt></ruby>する<ruby>場<rt>ば</rt></ruby>です。",
+      "1": "<ruby>運営<rt>うんえい</rt></ruby><ruby>適正化<rt>てきせいか</rt></ruby><ruby>委員会<rt>いいんかい</rt></ruby>は、<ruby>福祉<rt>ふくし</rt></ruby>サービスへの<ruby>苦情<rt>くじょう</rt></ruby>の<ruby>解決<rt>かいけつ</rt></ruby>や<ruby>適正<rt>てきせい</rt></ruby>な<ruby>運営<rt>うんえい</rt></ruby>の<ruby>確保<rt>かくほ</rt></ruby>のための<ruby>機関<rt>きかん</rt></ruby>です。",
+      "2": "<ruby>介護保険<rt>かいごほけん</rt></ruby><ruby>審査会<rt>しんさかい</rt></ruby>は、<ruby>要介護認定<rt>ようかいごにんてい</rt></ruby>の<ruby>審査<rt>しんさ</rt></ruby><ruby>判定<rt>はんてい</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う<ruby>機関<rt>きかん</rt></ruby>であり、<ruby>障害者<rt>しょうがいしゃ</rt></ruby>の<ruby>地域<rt>ちいき</rt></ruby><ruby>課題<rt>かだい</rt></ruby>を<ruby>検討<rt>けんとう</rt></ruby>する<ruby>場<rt>ば</rt></ruby>ではありません。",
+      "3": "<ruby>障害者<rt>しょうがいしゃ</rt></ruby><ruby>政策<rt>せいさく</rt></ruby><ruby>委員会<rt>いいんかい</rt></ruby>は、<ruby>国<rt>くに</rt></ruby>の<ruby>障害者<rt>しょうがいしゃ</rt></ruby><ruby>基本計画<rt>きほんけいかく</rt></ruby>などに<ruby>関<rt>かん</rt></ruby>する<ruby>機関<rt>きかん</rt></ruby>で、<ruby>地域<rt>ちいき</rt></ruby>の<ruby>課題<rt>かだい</rt></ruby>を<ruby>検討<rt>けんとう</rt></ruby>する<ruby>場<rt>ば</rt></ruby>ではありません。",
+      "4": "<ruby>地方<rt>ちほう</rt></ruby><ruby>更生<rt>こうせい</rt></ruby><ruby>保護<rt>ほご</rt></ruby><ruby>委員会<rt>いいんかい</rt></ruby>は、<ruby>犯罪<rt>はんざい</rt></ruby>をした<ruby>人<rt>ひと</rt></ruby>などの<ruby>更生<rt>こうせい</rt></ruby><ruby>保護<rt>ほご</rt></ruby>に<ruby>関<rt>かん</rt></ruby>する<ruby>機関<rt>きかん</rt></ruby>で、この<ruby>課題<rt>かだい</rt></ruby>とは<ruby>関係<rt>かんけい</rt></ruby>がありません。"
     }
   },
   {
@@ -1126,11 +1126,11 @@ examSets["38pm"] = [
     ],
     "answer": 1,
     "explanations": {
-      "0": "コンサルテーションは、専門家が助言を与える手法です。問いかけで本人の気づきを引き出した関わりとは異なります。",
-      "1": "正解。C介護主任は問いかけを通して、B介護福祉職自身が自分の言動を振り返り、問題点に気づくよう促しました。これはコーチングの手法です。",
-      "2": "フォロワーシップは、リーダーを支えるメンバーの姿勢や役割を指す概念です。",
-      "3": "ティーチングは知識や方法を教える手法です。B介護福祉職は教えられたのではなく、自分で気づきました。",
-      "4": "メンバーシップは、集団の一員としての役割や態度を指す概念です。"
+      "0": "コンサルテーションは、<ruby>専門家<rt>せんもんか</rt></ruby>が<ruby>助言<rt>じょげん</rt></ruby>を<ruby>与<rt>あた</rt></ruby>える<ruby>手法<rt>しゅほう</rt></ruby>です。<ruby>問<rt>と</rt></ruby>いかけで<ruby>本人<rt>ほんにん</rt></ruby>の<ruby>気<rt>き</rt></ruby>づきを<ruby>引き出<rt>ひきだ</rt></ruby>した<ruby>関<rt>かか</rt></ruby>わりとは<ruby>異<rt>こと</rt></ruby>なります。",
+      "1": "<ruby>正解<rt>せいかい</rt></ruby>。C<ruby>介護<rt>かいご</rt></ruby><ruby>主任<rt>しゅにん</rt></ruby>は<ruby>問<rt>と</rt></ruby>いかけを<ruby>通<rt>とお</rt></ruby>して、B<ruby>介護福祉<rt>かいごふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby><ruby>自身<rt>じしん</rt></ruby>が<ruby>自分<rt>じぶん</rt></ruby>の<ruby>言動<rt>げんどう</rt></ruby>を<ruby>振り返<rt>ふりかえ</rt></ruby>り、<ruby>問題点<rt>もんだいてん</rt></ruby>に<ruby>気<rt>き</rt></ruby>づくよう<ruby>促<rt>うなが</rt></ruby>しました。これはコーチングの<ruby>手法<rt>しゅほう</rt></ruby>です。",
+      "2": "フォロワーシップは、リーダーを<ruby>支<rt>ささ</rt></ruby>えるメンバーの<ruby>姿勢<rt>しせい</rt></ruby>や<ruby>役割<rt>やくわり</rt></ruby>を<ruby>指<rt>さ</rt></ruby>す<ruby>概念<rt>がいねん</rt></ruby>です。",
+      "3": "ティーチングは<ruby>知識<rt>ちしき</rt></ruby>や<ruby>方法<rt>ほうほう</rt></ruby>を<ruby>教<rt>おし</rt></ruby>える<ruby>手法<rt>しゅほう</rt></ruby>です。B<ruby>介護福祉<rt>かいごふくし</rt></ruby><ruby>職<rt>しょく</rt></ruby>は<ruby>教<rt>おし</rt></ruby>えられたのではなく、<ruby>自分<rt>じぶん</rt></ruby>で<ruby>気<rt>き</rt></ruby>づきました。",
+      "4": "メンバーシップは、<ruby>集団<rt>しゅうだん</rt></ruby>の<ruby>一員<rt>いちいん</rt></ruby>としての<ruby>役割<rt>やくわり</rt></ruby>や<ruby>態度<rt>たいど</rt></ruby>を<ruby>指<rt>さ</rt></ruby>す<ruby>概念<rt>がいねん</rt></ruby>です。"
     }
   },
   {
@@ -1144,11 +1144,11 @@ examSets["38pm"] = [
     ],
     "answer": 4,
     "explanations": {
-      "0": "背中とバックサポートの間に置くと、身体が前に押し出されて深く座る姿勢が崩れてしまいます。",
-      "1": "麻痺のない左側の大腿部の下に置くと、骨盤の高さが左右でずれて、かえって傾きを助長します。",
-      "2": "両下腿とレッグサポートの間に置いても、上半身の右への傾きの改善にはつながりません。",
-      "3": "両大腿の間に置くクッションは股関節の内転を防ぐ目的などで使われ、上半身の傾きへの対応ではありません。",
-      "4": "正解。麻痺側である右上肢と右のアームサポートの間にクッションを置いて支えると、上半身の右への傾きを防ぎ、<ruby>良肢位<rt>りょうしい</rt></ruby>を保ちやすくなります。"
+      "0": "<ruby>背中<rt>せなか</rt></ruby>とバックサポートの<ruby>間<rt>あいだ</rt></ruby>に<ruby>置<rt>お</rt></ruby>くと、<ruby>身体<rt>しんたい</rt></ruby>が<ruby>前<rt>まえ</rt></ruby>に<ruby>押し出<rt>おしだ</rt></ruby>されて<ruby>深<rt>ふか</rt></ruby>く<ruby>座<rt>すわ</rt></ruby>る<ruby>姿勢<rt>しせい</rt></ruby>が<ruby>崩<rt>くず</rt></ruby>れてしまいます。",
+      "1": "<ruby>麻痺<rt>まひ</rt></ruby>のない<ruby>左側<rt>ひだりがわ</rt></ruby>の<ruby>大腿<rt>だいたい</rt></ruby><ruby>部<rt>ぶ</rt></ruby>の<ruby>下<rt>した</rt></ruby>に<ruby>置<rt>お</rt></ruby>くと、<ruby>骨盤<rt>こつばん</rt></ruby>の<ruby>高<rt>たか</rt></ruby>さが<ruby>左右<rt>さゆう</rt></ruby>でずれて、かえって<ruby>傾<rt>かたむ</rt></ruby>きを<ruby>助長<rt>じょちょう</rt></ruby>します。",
+      "2": "<ruby>両<rt>りょう</rt></ruby><ruby>下腿<rt>かたい</rt></ruby>とレッグサポートの<ruby>間<rt>あいだ</rt></ruby>に<ruby>置<rt>お</rt></ruby>いても、<ruby>上半身<rt>じょうはんしん</rt></ruby>の<ruby>右<rt>みぎ</rt></ruby>への<ruby>傾<rt>かたむ</rt></ruby>きの<ruby>改善<rt>かいぜん</rt></ruby>にはつながりません。",
+      "3": "<ruby>両<rt>りょう</rt></ruby><ruby>大腿<rt>だいたい</rt></ruby>の<ruby>間<rt>あいだ</rt></ruby>に<ruby>置<rt>お</rt></ruby>くクッションは<ruby>股関節<rt>こかんせつ</rt></ruby>の<ruby>内転<rt>ないてん</rt></ruby>を<ruby>防<rt>ふせ</rt></ruby>ぐ<ruby>目的<rt>もくてき</rt></ruby>などで<ruby>使<rt>つか</rt></ruby>われ、<ruby>上半身<rt>じょうはんしん</rt></ruby>の<ruby>傾<rt>かたむ</rt></ruby>きへの<ruby>対応<rt>たいおう</rt></ruby>ではありません。",
+      "4": "<ruby>正解<rt>せいかい</rt></ruby>。<ruby>麻痺<rt>まひ</rt></ruby><ruby>側<rt>がわ</rt></ruby>である<ruby>右上<rt>みぎうえ</rt></ruby><ruby>肢<rt>し</rt></ruby>と<ruby>右<rt>みぎ</rt></ruby>のアームサポートの<ruby>間<rt>あいだ</rt></ruby>にクッションを<ruby>置<rt>お</rt></ruby>いて<ruby>支<rt>ささ</rt></ruby>えると、<ruby>上半身<rt>じょうはんしん</rt></ruby>の<ruby>右<rt>みぎ</rt></ruby>への<ruby>傾<rt>かたむ</rt></ruby>きを<ruby>防<rt>ふせ</rt></ruby>ぎ、<ruby>良肢位<rt>りょうしい</rt></ruby>を<ruby>保<rt>たも</rt></ruby>ちやすくなります。"
     }
   },
   {
@@ -1162,11 +1162,11 @@ examSets["38pm"] = [
     ],
     "answer": 2,
     "explanations": {
-      "0": "福祉事務所は生活保護などの相談・申請を行う行政の窓口で、家族同士の情報交換や勉強の場ではありません。",
-      "1": "公共職業安定所（ハローワーク）は職業紹介を行う機関で、妻の希望する情報交換や勉強とは異なります。",
-      "2": "正解。家族会は、障害のある人の家族同士が集まり、情報交換や勉強、支え合いを行う場であり、妻の希望に合っています。",
-      "3": "地域包括支援センターは高齢者の総合相談の機関であり、障害のある人の家族が学ぶ場ではありません。",
-      "4": "地域障害者職業センターは、障害のある本人への職業リハビリテーションを行う機関であり、妻の希望には合いません。"
+      "0": "<ruby>福祉事務所<rt>ふくしじむしょ</rt></ruby>は<ruby>生活保護<rt>せいかつほご</rt></ruby>などの<ruby>相談<rt>そうだん</rt></ruby>・<ruby>申請<rt>しんせい</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う<ruby>行政<rt>ぎょうせい</rt></ruby>の<ruby>窓口<rt>まどぐち</rt></ruby>で、<ruby>家族<rt>かぞく</rt></ruby><ruby>同士<rt>どうし</rt></ruby>の<ruby>情報<rt>じょうほう</rt></ruby><ruby>交換<rt>こうかん</rt></ruby>や<ruby>勉強<rt>べんきょう</rt></ruby>の<ruby>場<rt>ば</rt></ruby>ではありません。",
+      "1": "<ruby>公共職業安定所<rt>こうきょうしょくぎょうあんていしょ</rt></ruby>（ハローワーク）は<ruby>職業<rt>しょくぎょう</rt></ruby><ruby>紹介<rt>しょうかい</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>う<ruby>機関<rt>きかん</rt></ruby>で、<ruby>妻<rt>つま</rt></ruby>の<ruby>希望<rt>きぼう</rt></ruby>する<ruby>情報<rt>じょうほう</rt></ruby><ruby>交換<rt>こうかん</rt></ruby>や<ruby>勉強<rt>べんきょう</rt></ruby>とは<ruby>異<rt>こと</rt></ruby>なります。",
+      "2": "<ruby>正解<rt>せいかい</rt></ruby>。<ruby>家族<rt>かぞく</rt></ruby><ruby>会<rt>かい</rt></ruby>は、<ruby>障害<rt>しょうがい</rt></ruby>のある<ruby>人<rt>ひと</rt></ruby>の<ruby>家族<rt>かぞく</rt></ruby><ruby>同士<rt>どうし</rt></ruby>が<ruby>集<rt>あつ</rt></ruby>まり、<ruby>情報<rt>じょうほう</rt></ruby><ruby>交換<rt>こうかん</rt></ruby>や<ruby>勉強<rt>べんきょう</rt></ruby>、<ruby>支え合<rt>ささえあ</rt></ruby>いを<ruby>行<rt>おこな</rt></ruby>う<ruby>場<rt>ば</rt></ruby>であり、<ruby>妻<rt>つま</rt></ruby>の<ruby>希望<rt>きぼう</rt></ruby>に<ruby>合<rt>あ</rt></ruby>っています。",
+      "3": "<ruby>地域<rt>ちいき</rt></ruby><ruby>包括<rt>ほうかつ</rt></ruby><ruby>支援<rt>しえん</rt></ruby>センターは<ruby>高齢者<rt>こうれいしゃ</rt></ruby>の<ruby>総合<rt>そうごう</rt></ruby><ruby>相談<rt>そうだん</rt></ruby>の<ruby>機関<rt>きかん</rt></ruby>であり、<ruby>障害<rt>しょうがい</rt></ruby>のある<ruby>人<rt>ひと</rt></ruby>の<ruby>家族<rt>かぞく</rt></ruby>が<ruby>学<rt>まな</rt></ruby>ぶ<ruby>場<rt>ば</rt></ruby>ではありません。",
+      "4": "<ruby>地域<rt>ちいき</rt></ruby><ruby>障害者<rt>しょうがいしゃ</rt></ruby><ruby>職業<rt>しょくぎょう</rt></ruby>センターは、<ruby>障害<rt>しょうがい</rt></ruby>のある<ruby>本人<rt>ほんにん</rt></ruby>への<ruby>職業<rt>しょくぎょう</rt></ruby>リハビリテーションを<ruby>行<rt>おこな</rt></ruby>う<ruby>機関<rt>きかん</rt></ruby>であり、<ruby>妻<rt>つま</rt></ruby>の<ruby>希望<rt>きぼう</rt></ruby>には<ruby>合<rt>あ</rt></ruby>いません。"
     }
   }
 ];
