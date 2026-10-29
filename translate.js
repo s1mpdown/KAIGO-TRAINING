@@ -141,6 +141,11 @@ function trEntry() {
           if (!trCurrentRef) trCurrentRef = trResolveRef();
           if (!trCurrentRef) return;
 
+          /* renderFeedback は正解時に2回呼ばれるため、既存の訳UIを消してから1つだけ追加する */
+          document.querySelectorAll(".tr-exp-wrap").forEach(function (el) {
+            el.remove();
+          });
+
           var wrap = document.createElement("div");
           wrap.className = "tr-exp-wrap";
           var b = document.createElement("button");
