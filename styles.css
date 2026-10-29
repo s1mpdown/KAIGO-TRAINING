@@ -579,6 +579,13 @@ h1 {
   box-shadow: 0 14px 30px rgba(46, 196, 182, 0.45), inset 0 1px 0 rgba(255, 255, 255, 0.4);
 }
 
+/* Hide the big static "125問クイズ" header on the selection screens;
+   it still shows during a quiz, where it displays the current exam/mode. */
+body:has(#exam-selection:not(.hidden)) #quiz-title,
+body:has(#domain-selection:not(.hidden)) #quiz-title {
+  display: none;
+}
+
 @media (max-width: 560px) {
   #exam-buttons,
   #drill-buttons,
