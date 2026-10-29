@@ -141,7 +141,10 @@ function simBuildPaper(picks) {
     if (!Array.isArray(pk.p) || pk.p.length !== q.choices.length) {
       pk.p = simPermutation(q.choices.length);
     }
-    return simApplyPermutation(q, pk.p);
+    var copy = simApplyPermutation(q, pk.p);
+    copy._examId = pk.e;
+    copy._questionNumber = pk.n;
+    return copy;
   });
   return { paper: paper, picks: usePicks };
 }
