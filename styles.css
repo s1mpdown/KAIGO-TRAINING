@@ -109,6 +109,11 @@ h1 {
   font-family: monospace;
 }
 
+#sim-countdown {
+  color: #ffb03a;
+  font-weight: 700;
+}
+
 @keyframes rise {
   from {
     opacity: 0;

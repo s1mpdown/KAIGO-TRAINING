@@ -1026,6 +1026,7 @@ if (backToResultsButton) {
 }
 
 if (typeof registerSubjectDrills === "function") registerSubjectDrills();
+if (typeof registerSimulation === "function") registerSimulation();
 initializeExamButtons();
 domainMappings = buildDomainMappings(); // Initialize domain mappings after categoryMap is loaded
 
