@@ -8,7 +8,7 @@ function registerSubjectDrills() {
   if (typeof DOMAINS === "undefined" || typeof categoryToDomainMap === "undefined") return;
   if (typeof examLabels === "undefined") return;
 
-  var sourceExams = ["36", "37", "38"];
+  var sourceExams = ["36", "37", "38", "35", "34"];
   Object.keys(DOMAINS).forEach(function (code) {
     if (code === "all") return;
     var drillId = "drill-" + code;
@@ -31,7 +31,7 @@ function registerSubjectDrills() {
     examSets[drillId] = pooled;
     categoryMap[drillId] = pooledMap;
     examLabels[drillId] =
-      "科目別ドリル " + DOMAINS[code].name + "（第36〜38回・" + pooled.length + "問）";
+      "科目別ドリル " + DOMAINS[code].name + "（第34〜38回・" + pooled.length + "問）";
   });
 }
 
