@@ -246,6 +246,22 @@
     showQuestion();
   }
 
+  // Called by script.js (showSelection) when a JLPT session ends via
+  // "back to menu": return to that level's screen instead of the care home.
+  window.jlptReturnToLevel = function (setId) {
+    var m = /^jlpt-(n\d)-/i.exec(setId || "");
+    var level = m ? m[1].toUpperCase() : "N5";
+    if (!LEVEL_SECTIONS[level]) level = "N5";
+    levelTitle.textContent = level;
+    hide(picker);
+    hide(jlptHome);
+    hide(careHome);
+    hide(domainSelection);
+    show(jlptLevel);
+    renderLevel(level);
+    savePath("jlpt");
+  };
+
   // Initial state: the picker is the front door (the splash covers this swap).
   hide(careHome);
   hide(jlptHome);

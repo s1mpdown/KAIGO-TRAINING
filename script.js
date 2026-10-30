@@ -577,6 +577,7 @@ function restoreState(state) {
 }
 
 function showSelection() {
+  var endingExamId = selectedExamId;
   selectedExamId = null;
   questions = [];
   totalQuestions = 0;
@@ -602,7 +603,12 @@ function showSelection() {
   }
 
   quizTitle.innerHTML = "125<ruby>問<rt>もん</rt></ruby>クイズ";
-  examSelection.classList.remove("hidden");
+  // JLPT sessions return to their level screen, not the care home.
+  if (endingExamId && endingExamId.startsWith("jlpt-") && typeof window.jlptReturnToLevel === "function") {
+    window.jlptReturnToLevel(endingExamId);
+  } else {
+    examSelection.classList.remove("hidden");
+  }
   document.getElementById("quiz-card").classList.add("hidden");
   resultScreen.classList.add("hidden");
   menuNav.classList.add("hidden");
