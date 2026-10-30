@@ -427,7 +427,7 @@ function selectDomain(domainKey) {
   
   const questionLabel = examLabels[selectedExamId] || selectedExamId;
   const domainName = domainKey === "all" ? "すべての問題" : (DOMAINS[domainKey]?.name || domainKey);
-  quizTitle.innerHTML = `${questionLabel} - ${domainName} (${totalQuestions}<ruby>問<rt>もん</rt></ruby>)`;
+  quizTitle.innerHTML = selectedExamId.startsWith("drill-") ? questionLabel : `${questionLabel} - ${domainName} (${totalQuestions}<ruby>問<rt>もん</rt></ruby>)`;
   
   domainSelection.classList.add("hidden");
   document.getElementById("quiz-card").classList.remove("hidden");
