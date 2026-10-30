@@ -42,6 +42,11 @@
       { setId: "jlpt-n5-bunpo-dokkai", count: 32 },
       null,
     ],
+    N4: [
+      { setId: "jlpt-n4-goi", count: 35 },
+      { setId: "jlpt-n4-bunpo-dokkai", count: 35 },
+      null,
+    ],
   };
   var loadedLevels = {};
   var loadingLevels = {};
