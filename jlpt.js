@@ -53,6 +53,7 @@
       null,
     ],
     N2: [{ setId: "jlpt-n2-gengo-dokkai", count: 75 }, null],
+    N1: [{ setId: "jlpt-n1-gengo-dokkai", count: 70 }, null],
   };
   var loadedLevels = {};
   var loadingLevels = {};
