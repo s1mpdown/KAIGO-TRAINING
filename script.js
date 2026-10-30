@@ -242,7 +242,7 @@ function initializeExamButtons() {
 
   // Add regular exam buttons
   Object.keys(examSets).reverse().forEach((examId) => {
-    if (examId.startsWith("drill-")) return;
+    if (examId.startsWith("drill-") || examId.startsWith("jlpt-")) return;
     const button = document.createElement("button");
     button.className = "primary-button";
     button.innerHTML = `${examLabels[examId] || examId} を<ruby>始<rt>はじ</rt></ruby>める`;
@@ -262,7 +262,7 @@ function getRandomQuestions(count = 10) {
   
   // Go through all exams and add their questions with exam ID metadata
   Object.keys(examSets).forEach((examId) => {
-    if (examId.startsWith("drill-")) return;
+    if (examId.startsWith("drill-") || examId.startsWith("jlpt-")) return;
     const examQuestions = examSets[examId] || [];
     examQuestions.forEach((q, index) => {
       allQuestions.push({
