@@ -648,3 +648,247 @@ body:has(#domain-selection:not(.hidden)) #quiz-title {
     padding: 20px;
   }
 }
+
+/* --- Path picker + JLPT wing (additive; care wing styles untouched) --- */
+body:has(#path-picker:not(.hidden)) #quiz-title,
+body:has(#jlpt-home:not(.hidden)) #quiz-title,
+body:has(#jlpt-level:not(.hidden)) #quiz-title {
+  display: none;
+}
+
+.path-title {
+  margin: 0 0 6px;
+  text-align: center;
+  font-size: 1.45rem;
+}
+
+.path-sub {
+  margin: 0 0 20px;
+  text-align: center;
+  color: #a8bcd6;
+  font-size: 0.92rem;
+}
+
+.path-h {
+  margin: 0 0 10px;
+  text-align: center;
+  font-size: 1.35rem;
+}
+
+.path-note {
+  margin: 12px 0 0;
+  text-align: center;
+  color: #a8bcd6;
+  font-size: 0.88rem;
+}
+
+#jlpt-home .path-note:first-of-type {
+  margin: 0 0 16px;
+}
+
+.path-back {
+  display: block;
+  margin: 0 auto 12px;
+  padding: 4px 8px;
+  background: none;
+  border: none;
+  color: #7fd8cd;
+  font-family: inherit;
+  font-size: 0.9rem;
+  cursor: pointer;
+}
+
+.path-back:hover {
+  text-decoration: underline;
+}
+
+#exam-selection .path-back {
+  margin: 0 auto 14px;
+}
+
+.path-card {
+  position: relative;
+  display: block;
+  width: 100%;
+  margin: 0 0 14px;
+  padding: 18px;
+  border-radius: 18px;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.055), rgba(255, 255, 255, 0.02));
+  color: var(--text);
+  font-family: inherit;
+  text-align: center;
+  cursor: pointer;
+  transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+}
+
+.path-card-care {
+  border: 1px solid rgba(255, 159, 28, 0.65);
+  box-shadow: 0 0 18px rgba(255, 138, 0, 0.22), inset 0 1px 0 rgba(255, 255, 255, 0.06);
+}
+
+.path-card-jlpt {
+  border: 1px solid rgba(46, 196, 182, 0.6);
+  box-shadow: 0 0 18px rgba(46, 196, 182, 0.2), inset 0 1px 0 rgba(255, 255, 255, 0.06);
+}
+
+.path-card:hover {
+  transform: translateY(-2px);
+}
+
+.path-card-care:hover {
+  box-shadow: 0 12px 26px rgba(255, 138, 0, 0.32), inset 0 1px 0 rgba(255, 255, 255, 0.08);
+}
+
+.path-card-jlpt:hover {
+  box-shadow: 0 12px 26px rgba(46, 196, 182, 0.3), inset 0 1px 0 rgba(255, 255, 255, 0.08);
+}
+
+.path-card.last-used::after {
+  content: "前回";
+  position: absolute;
+  top: 10px;
+  right: 12px;
+  font-size: 0.7rem;
+  font-weight: 700;
+  color: #7fd8cd;
+  border: 1px solid rgba(46, 196, 182, 0.55);
+  border-radius: 999px;
+  padding: 2px 8px;
+}
+
+.path-card-main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 14px;
+}
+
+.path-badge {
+  flex: 0 0 auto;
+  width: 54px;
+  height: 54px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 800;
+  font-size: 1.55rem;
+  color: #fff;
+}
+
+.path-badge-care {
+  background: linear-gradient(160deg, #1d3469, #101f45);
+  border: 3px solid #ff8a2a;
+}
+
+.path-badge-jlpt {
+  background: linear-gradient(160deg, #0f766e, #134e4a);
+  border: 3px solid #2dd4bf;
+  font-size: 1.3rem;
+}
+
+.path-card-text {
+  text-align: left;
+}
+
+.path-card-name {
+  display: block;
+  font-size: 1.25rem;
+  font-weight: 800;
+  line-height: 1.3;
+}
+
+.path-card-cap {
+  display: block;
+  margin-top: 3px;
+  font-size: 0.8rem;
+  color: #aebadd;
+}
+
+.path-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  justify-content: center;
+  margin-top: 14px;
+}
+
+.path-chip {
+  font-size: 0.72rem;
+  padding: 4px 9px;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.09);
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  color: #dbe4ff;
+}
+
+.path-chip-soon {
+  color: #8fd8ce;
+  border-color: rgba(46, 196, 182, 0.4);
+}
+
+/* Three-zone rows: fixed left spacer / dead-center label / fixed right count */
+.path-row {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  min-height: 50px;
+  margin: 0 0 10px;
+  padding: 10px 14px;
+  border-radius: 14px;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.055), rgba(255, 255, 255, 0.02));
+  border: 1px solid rgba(255, 255, 255, 0.13);
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.06), 0 6px 16px rgba(0, 0, 0, 0.22);
+  color: var(--text);
+  font-family: inherit;
+  font-size: 1rem;
+  font-weight: 700;
+  cursor: pointer;
+  transition: transform 0.2s ease, border-color 0.2s ease, background 0.2s ease;
+}
+
+.path-row:hover {
+  transform: translateY(-1px);
+  border-color: rgba(46, 196, 182, 0.55);
+}
+
+.path-row-side {
+  flex: 0 0 92px;
+}
+
+.path-row-count {
+  text-align: right;
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: #a8bcd6;
+}
+
+.path-row-label {
+  flex: 1;
+  text-align: center;
+}
+
+.path-row.is-soon {
+  opacity: 0.55;
+  cursor: default;
+}
+
+.path-row.is-soon:hover {
+  transform: none;
+  border-color: rgba(255, 255, 255, 0.13);
+}
+
+.path-row-sim {
+  background: linear-gradient(160deg, #3ae0cd 0%, #1fa396 100%);
+  border: none;
+  color: #07332e;
+  box-shadow: 0 10px 24px rgba(46, 196, 182, 0.35), inset 0 1px 0 rgba(255, 255, 255, 0.35);
+}
+
+.path-row-sim .path-row-count {
+  color: rgba(7, 51, 46, 0.75);
+}
+
+.path-row-sim.is-soon:hover {
+  border-color: transparent;
+}

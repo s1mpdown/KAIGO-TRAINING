@@ -234,7 +234,67 @@
     </header>
 
     <main>
+      <section class="card" id="path-picker">
+        <h2 class="path-title">今日はどっちを<ruby>勉強<rt>べんきょう</rt></ruby>する？</h2>
+        <p class="path-sub"><ruby>学習<rt>がくしゅう</rt></ruby>パスを<ruby>選<rt>えら</rt></ruby>んでください</p>
+        <button class="path-card path-card-care" id="path-care" type="button">
+          <span class="path-card-main">
+            <span class="path-badge path-badge-care">介</span>
+            <span class="path-card-text">
+              <span class="path-card-name"><ruby>介護福祉士<rt>かいごふくしし</rt></ruby></span>
+              <span class="path-card-cap"><ruby>国家試験対策<rt>こっかしけんたいさく</rt></ruby> — <ruby>第<rt>だい</rt></ruby>34<ruby>回<rt>かい</rt></ruby>〜<ruby>第<rt>だい</rt></ruby>38<ruby>回<rt>かい</rt></ruby></span>
+            </span>
+          </span>
+          <span class="path-chips">
+            <span class="path-chip">690<ruby>問<rt>もん</rt></ruby></span>
+            <span class="path-chip"><ruby>科目別<rt>かもくべつ</rt></ruby>ドリル</span>
+            <span class="path-chip"><ruby>本番<rt>ほんばん</rt></ruby>シミュレーション</span>
+            <span class="path-chip">インドネシア<ruby>語訳<rt>ごやく</rt></ruby></span>
+          </span>
+        </button>
+        <button class="path-card path-card-jlpt" id="path-jlpt" type="button">
+          <span class="path-card-main">
+            <span class="path-badge path-badge-jlpt">あ</span>
+            <span class="path-card-text">
+              <span class="path-card-name"><ruby>日本語能力試験<rt>にほんごのうりょくしけん</rt></ruby></span>
+              <span class="path-card-cap">JLPT — Japanese-Language Proficiency Test</span>
+            </span>
+          </span>
+          <span class="path-chips">
+            <span class="path-chip">N5</span>
+            <span class="path-chip">N4</span>
+            <span class="path-chip">N3</span>
+            <span class="path-chip">N2</span>
+            <span class="path-chip">N1</span>
+            <span class="path-chip path-chip-soon"><ruby>聴解<rt>ちょうかい</rt></ruby>は<ruby>準備中<rt>じゅんびちゅう</rt></ruby></span>
+          </span>
+        </button>
+      </section>
+
+      <section class="card hidden" id="jlpt-home">
+        <button class="path-back" id="jlpt-back-to-picker" type="button">← パスを<ruby>変<rt>か</rt></ruby>える</button>
+        <h2 class="path-h"><ruby>日本語能力試験<rt>にほんごのうりょくしけん</rt></ruby></h2>
+        <p class="path-note">レベルを<ruby>選<rt>えら</rt></ruby>んでください</p>
+        <div class="jlpt-levels">
+          <button class="path-row" data-level="N5" type="button"><span class="path-row-side"></span><span class="path-row-label">N5</span><span class="path-row-side path-row-count"><ruby>約<rt>やく</rt></ruby>70<ruby>問<rt>もん</rt></ruby></span></button>
+          <button class="path-row" data-level="N4" type="button"><span class="path-row-side"></span><span class="path-row-label">N4</span><span class="path-row-side path-row-count">69<ruby>問<rt>もん</rt></ruby></span></button>
+          <button class="path-row" data-level="N3" type="button"><span class="path-row-side"></span><span class="path-row-label">N3</span><span class="path-row-side path-row-count"><ruby>約<rt>やく</rt></ruby>75<ruby>問<rt>もん</rt></ruby></span></button>
+          <button class="path-row" data-level="N2" type="button"><span class="path-row-side"></span><span class="path-row-label">N2</span><span class="path-row-side path-row-count"><ruby>約<rt>やく</rt></ruby>75〜80<ruby>問<rt>もん</rt></ruby></span></button>
+          <button class="path-row" data-level="N1" type="button"><span class="path-row-side"></span><span class="path-row-label">N1</span><span class="path-row-side path-row-count"><ruby>約<rt>やく</rt></ruby>80〜85<ruby>問<rt>もん</rt></ruby></span></button>
+        </div>
+        <p class="path-note"><ruby>問題<rt>もんだい</rt></ruby>は<ruby>順次追加<rt>じゅんじついか</rt></ruby>されます。<ruby>聴解<rt>ちょうかい</rt></ruby>は<ruby>準備中<rt>じゅんびちゅう</rt></ruby>です。</p>
+      </section>
+
+      <section class="card hidden" id="jlpt-level">
+        <button class="path-back" id="jlpt-back-to-levels" type="button">← レベルを<ruby>変<rt>か</rt></ruby>える</button>
+        <h2 class="path-h" id="jlpt-level-title">N5</h2>
+        <div class="jlpt-sections" id="jlpt-section-rows"></div>
+        <button class="path-row path-row-sim is-soon" id="jlpt-sim-row" type="button" disabled><span class="path-row-side"></span><span class="path-row-label"><ruby>本番<rt>ほんばん</rt></ruby>シミュレーション</span><span class="path-row-side path-row-count"><ruby>準備中<rt>じゅんびちゅう</rt></ruby></span></button>
+        <p class="path-note">このレベルの<ruby>問題<rt>もんだい</rt></ruby>は<ruby>準備中<rt>じゅんびちゅう</rt></ruby>です。</p>
+      </section>
+
       <section class="card" id="exam-selection">
+        <button id="change-path-button" class="path-back" type="button">← パスを<ruby>変<rt>か</rt></ruby>える</button>
         <div class="exam-header">
           <h2><ruby>試験<rt>しけん</rt></ruby>を<ruby>選択<rt>せんたく</rt></ruby>してください</h2>
           <button id="resume-button" class="primary-button hidden"></button>
@@ -326,6 +386,7 @@
   <script src="sim.js"></script>
   <script src="translate.js"></script>
 <script src="script.js"></script>
+  <script src="jlpt.js"></script>
   <script>
     (function () {
       var tabs = [
