@@ -32,6 +32,20 @@
     N1: [GENGO_DOKKAI, CHOUKAI],
   };
 
+  // Content sets per level, aligned by index with LEVEL_SECTIONS (PR-B).
+  // Only levels with a shipped bank appear here. The setIds are registered
+  // in examSets by jlpt-<level>.js, lazy-loaded on first open of the level.
+  // null = no content for that section yet （聴解 stays 準備中）.
+  var LEVEL_SETS = {
+    N5: [
+      { setId: "jlpt-n5-goi", count: 35 },
+      { setId: "jlpt-n5-bunpo-dokkai", count: 32 },
+      null,
+    ],
+  };
+  var loadedLevels = {};
+  var loadingLevels = {};
+
   function show(el) {
     if (el) el.classList.remove("hidden");
   }
@@ -70,28 +84,166 @@
     savePath("jlpt");
   }
 
-  function openLevel(level) {
+  function bankReady(level) {
+    var sets = LEVEL_SETS[level];
+    if (!sets || typeof examSets === "undefined") return false;
+    return sets.every(function (s) {
+      return !s || (examSets[s.setId] && examSets[s.setId].length);
+    });
+  }
+
+  function renderLevel(level) {
     var sections = LEVEL_SECTIONS[level];
-    if (!sections || !sectionRows || !levelTitle) return;
-    levelTitle.textContent = level;
+    var sets = LEVEL_SETS[level] || [];
+    var ready = bankReady(level);
     sectionRows.innerHTML = "";
-    sections.forEach(function (labelHtml) {
+    sections.forEach(function (labelHtml, i) {
       var btn = document.createElement("button");
       btn.type = "button";
-      btn.className = "path-row is-soon";
-      btn.disabled = true;
-      btn.innerHTML =
-        '<span class="path-row-side"></span>' +
-        '<span class="path-row-label">' +
-        labelHtml +
-        "</span>" +
-        '<span class="path-row-side path-row-count">' +
-        JUNBICHU +
-        "</span>";
+      var set = sets[i];
+      if (ready && set) {
+        btn.className = "path-row";
+        btn.innerHTML =
+          '<span class="path-row-side"></span>' +
+          '<span class="path-row-label">' +
+          labelHtml +
+          "</span>" +
+          '<span class="path-row-side path-row-count">' +
+          set.count +
+          "<ruby>問<rt>もん</rt></ruby></span>";
+        btn.addEventListener("click", function () {
+          startJlpt(set.setId);
+        });
+      } else {
+        btn.className = "path-row is-soon";
+        btn.disabled = true;
+        btn.innerHTML =
+          '<span class="path-row-side"></span>' +
+          '<span class="path-row-label">' +
+          labelHtml +
+          "</span>" +
+          '<span class="path-row-side path-row-count">' +
+          JUNBICHU +
+          "</span>";
+      }
       sectionRows.appendChild(btn);
     });
+  }
+
+  function loadLevelData(level, done) {
+    if (loadedLevels[level]) {
+      done();
+      return;
+    }
+    if (loadingLevels[level]) {
+      loadingLevels[level].push(done);
+      return;
+    }
+    loadingLevels[level] = [done];
+    var s = document.createElement("script");
+    s.src = "jlpt-" + level.toLowerCase() + ".js";
+    s.onload = function () {
+      loadedLevels[level] = true;
+      var cbs = loadingLevels[level] || [];
+      delete loadingLevels[level];
+      cbs.forEach(function (cb) {
+        cb();
+      });
+    };
+    s.onerror = function () {
+      // Data failed to load: rows stay 準備中， nothing breaks.
+      delete loadingLevels[level];
+    };
+    document.head.appendChild(s);
+  }
+
+  function openLevel(level) {
+    if (!LEVEL_SECTIONS[level] || !sectionRows || !levelTitle) return;
+    levelTitle.textContent = level;
     hide(jlptHome);
     show(jlptLevel);
+    renderLevel(level);
+    if (LEVEL_SETS[level] && !bankReady(level)) {
+      loadLevelData(level, function () {
+        renderLevel(level);
+      });
+    }
+  }
+
+  function shuffleCopy(arr) {
+    var a = arr.slice();
+    for (var i = a.length - 1; i > 0; i--) {
+      var j = Math.floor(Math.random() * (i + 1));
+      var t = a[i];
+      a[i] = a[j];
+      a[j] = t;
+    }
+    return a;
+  }
+
+  // Start a JLPT section run on the shared quiz engine. Every run shuffles
+  // BOTH the question order and each question's choice order (answer and
+  // per-choice explanations are remapped to follow their choice).
+  function startJlpt(setId) {
+    if (typeof examSets === "undefined") return;
+    var bank = examSets[setId];
+    if (!bank || !bank.length) return;
+
+    var session = shuffleCopy(bank).map(function (q) {
+      var order = shuffleCopy(
+        q.choices.map(function (_, i) {
+          return i;
+        })
+      );
+      var explanations = {};
+      order.forEach(function (oldIdx, newIdx) {
+        if (q.explanations && q.explanations[String(oldIdx)] !== undefined) {
+          explanations[String(newIdx)] = q.explanations[String(oldIdx)];
+        }
+      });
+      return {
+        question: q.question,
+        choices: order.map(function (i) {
+          return q.choices[i];
+        }),
+        answer: order.indexOf(q.answer),
+        explanations: explanations,
+      };
+    });
+    // Assign the session back so a mid-quiz resume replays the same order.
+    examSets[setId] = session;
+
+    clearIncompleteQuiz();
+    selectedExamId = setId;
+    selectedDomain = "all";
+    questions = session;
+    totalQuestions = session.length;
+    userAnswers = new Array(totalQuestions).fill(null);
+    currentIndex = 0;
+    score = 0;
+    attemptCount = 0;
+    isReviewingFromResults = false;
+    questionIndicesByDomain = [];
+
+    startTimer();
+    quizTitle.innerHTML =
+      (examLabels[setId] || setId) +
+      " (" +
+      totalQuestions +
+      "<ruby>問<rt>もん</rt></ruby>)";
+
+    hide(picker);
+    hide(jlptHome);
+    hide(jlptLevel);
+    hide(careHome);
+    hide(domainSelection);
+    document.getElementById("quiz-card").classList.remove("hidden");
+    resultScreen.classList.add("hidden");
+    menuNav.classList.remove("hidden");
+
+    saveState();
+    updateHistory(true);
+    showQuestion();
   }
 
   // Initial state: the picker is the front door (the splash covers this swap).
